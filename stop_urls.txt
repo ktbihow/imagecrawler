@@ -179,14 +179,16 @@
     "https://uscraftedtees.com/product/official-houston-oilers-football-helmet-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/care-bears-share-peace-shirt/",
-    "https://capitoneshirt.com/product/caleigh-king-royal-unlv-rebels-shirt/",
-    "https://capitoneshirt.com/product/caleigh-king-caricature-unlv-lady-rebels-shirt/",
-    "https://capitoneshirt.com/product/back-to-the-future-gb-packers-power-of-jordan-love-shirt/",
-    "https://capitoneshirt.com/product/biker-ride-wild-do-it-with-passion-or-not-at-all-shirt/",
-    "https://capitoneshirt.com/product/all-gas-no-fucking-brake-cheesehead-gb-packers-shirt/",
-    "https://capitoneshirt.com/product/aaron-nagler-is-never-right-star-wars-style-shirt/",
-    "https://capitoneshirt.com/product/abby-karich-ak-zero-long-beach-state-volleyball-shirt/"
+    "https://capitoneshirt.com/product/tyler-robinson-they-got-him-charlie-kirk-murderer-is-now-in-custody-shirt/",
+    "https://capitoneshirt.com/product/tyler-robinson-charlie-kirks-assassination-shirt/",
+    "https://capitoneshirt.com/product/ty-cooper-horns-up-mississippi-state-shirt/",
+    "https://capitoneshirt.com/product/trech-kekahuna-graphic-wisconsin-badgers-shirt/",
+    "https://capitoneshirt.com/product/tj-lee-big-t-bc-lions-shirt/",
+    "https://capitoneshirt.com/product/thomas-family-christmas-2025-santa-hat-shirt/",
+    "https://capitoneshirt.com/product/they-got-him-murder-of-charlie-kirk-tyler-robinson-shirt/",
+    "https://capitoneshirt.com/product/the-purge-election-year-annual-halloween-shirt/",
+    "https://capitoneshirt.com/product/the-greatest-snowman-christmas-shirt/",
+    "https://capitoneshirt.com/product/team-europe-bethpage-ryder-cup-2025-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/your-mother-was-a-hamster-and-your-father-smelt-of-elderberries-shirt/",
