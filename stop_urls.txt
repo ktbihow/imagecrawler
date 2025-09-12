@@ -87,16 +87,16 @@
     "https://teeextra.com/product/official-atlanta-hawks-basketball-dt-skeleton-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/we-are-all-turning-point-charlie-kirk-shirt/",
-    "https://teespix.com/product/stitch-halloween-some-people-make-me-wonder-into-one-head-shirt/",
-    "https://teespix.com/product/pooh-with-friend-chillin-with-my-turkeys-shirt/",
-    "https://teespix.com/product/peanuts-no-you-hang-up-shirt/",
-    "https://teespix.com/product/official-facts-dont-care-about-your-feelings-charlie-kirk-shirt/",
-    "https://teespix.com/product/official-charlie-kirk-threat-freedom-trade-security-shirt/",
-    "https://teespix.com/product/official-charlie-kirk-voice-of-a-generation-patriotic-shirt/",
-    "https://teespix.com/product/official-charlie-kirk-they-shot-the-words-not-the-man-shirt/",
-    "https://teespix.com/product/official-a-true-patriot-charlie-kirk-shirt/",
-    "https://teespix.com/product/no-risk-full-push-shirt/"
+    "https://teespix.com/product/kyle-schwarber-joins-club-50-hr-shirt/",
+    "https://teespix.com/product/kyle-schwarber-50-home-runs-poster-shirt/",
+    "https://teespix.com/product/kyle-schwarber-50-hr-schwarbombs-t-shirt/",
+    "https://teespix.com/product/texas-tech-the-jc-suns-up-guns-up-shirt/",
+    "https://teespix.com/product/los-angeles-rams-nike-2025-rivalries-logo-shirt/",
+    "https://teespix.com/product/los-angeles-rams-2025-rivalries-rams-house-t-shirt/",
+    "https://teespix.com/product/seattle-seahawks-nike-2025-rivalries-logo-t-shirt/",
+    "https://teespix.com/product/san-francisco-49ers-nike-2025-rivalries-forty-niners-shirt/",
+    "https://teespix.com/product/san-francisco-49ers-nike-niners-2025-rivalries-shirt/",
+    "https://teespix.com/product/san-francisco-49ers-nike-2025-rivalries-logo-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/live-like-charlie-kirk-1993-2025-blessed-are-those-who-are-persecuted-because-of-righteousness-2-sided-shirt/",
