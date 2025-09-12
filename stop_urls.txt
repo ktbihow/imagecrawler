@@ -165,10 +165,16 @@
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/official-clearwater-state-cardinal-champions-84-85-86-87-t-shirts/",
-    "https://uscraftedtees.com/product/official-che-noir-the-lotus-child-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-cassidy-paris-bittersweet-t-shirts/",
-    "https://uscraftedtees.com/product/official-certified-ai-free-2025-t-shirts/"
+    "https://uscraftedtees.com/product/official-marietta-the-town-faded-when-the-smooth-quit-moving-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-kali-uchis-sincerely-tour-date-back-t-shirts/",
+    "https://uscraftedtees.com/product/official-jd-clark-lone-star-lonely-t-shirts/",
+    "https://uscraftedtees.com/product/official-idaho-vandals-2025-fightin-taters-t-shirts/",
+    "https://uscraftedtees.com/product/official-heart-avery-lynch-sweetheart-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-greatest-defense-ever-chicago-bears-number-of-members-t-shirts/",
+    "https://uscraftedtees.com/product/official-florida-illuminati-graphic-t-shirts/",
+    "https://uscraftedtees.com/product/official-eliza-the-delusionals-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-charlie-kirk-this-is-our-turning-point-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-cboystv-z06-tech-spec-life-wide-open-2025-t-shirts/"
   ],
   "capitoneshirt.com": [
     "https://capitoneshirt.com/product/when-free-speech-is-silenced-with-bullets-history-is-repeating-itself-shirt/",
@@ -183,23 +189,28 @@
     "https://capitoneshirt.com/product/right-wing-influencer-charlie-kirk-has-died-following-a-campus-shooting-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/charlie-kirk-make-america-great-again-usa-flag-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/winged-wheel-podcast-celebrating-10-years-of-talking-detroit-hockey-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/charlie-kirk-fight-the-good-fight-finish-the-race-keep-the-faith-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/paige-bueckers-why-slow-down-5-for-rookie-of-the-year-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/black-out-pediatric-cancer-2025-two-sided-t-shirt/"
+    "https://clickoneshirt.com/product/charlie-kirk-if-i-die-i-want-to-be-remembered-for-courage-and-my-faith-shirt/",
+    "https://clickoneshirt.com/product/charlie-kirk-1993-2025-the-faithful-servant-memorial-shirt/",
+    "https://clickoneshirt.com/product/charlie-kirk-77-a-legacy-that-lives-shirt/",
+    "https://clickoneshirt.com/product/charlie-bravo-vintage-logo-graphic-shirt/",
+    "https://clickoneshirt.com/product/certified-ai-free-shirt/",
+    "https://clickoneshirt.com/product/cedar-point-halloweekends-shirt/",
+    "https://clickoneshirt.com/product/cat-i-guess-ill-just-die-dungeon-and-dragon-dice-shirt/",
+    "https://clickoneshirt.com/product/brother-rice-and-st-pats-first-responders-night-shirt/",
+    "https://clickoneshirt.com/product/brook-one-piece-anime-character-instrumentalist-collage-shirt/",
+    "https://clickoneshirt.com/product/boston-celtics-yes-im-old-but-i-saw-celtics-greatness-legendary-basketball-player-signature-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/asuka-langley-soryu-health-eva-02-t-shirts/",
-    "https://teleteeshirt.com/product/asuka-langley-soryu-health-big-jueves-you-will-love-each-other-t-shirts/",
-    "https://teleteeshirt.com/product/anthony-rizzo-chicago-cubs-thank-you-for-the-memories-2012-2021-signature-t-shirts/",
-    "https://teleteeshirt.com/product/asspizza-730-polo-bear-fresh-t-shirts/",
-    "https://teleteeshirt.com/product/anthony-rizzo-ryne-sandberg-forever-signatures-t-shirts/",
-    "https://teleteeshirt.com/product/andys-man-club-2025-winning-competition-t-shirts/",
-    "https://teleteeshirt.com/product/the-sopranos-tony-soprano-t-shirts/",
-    "https://teleteeshirt.com/product/the-maccabees-all-points-east-t-shirts/",
-    "https://teleteeshirt.com/product/the-maccabees-2025-tour-t-shirts/",
-    "https://teleteeshirt.com/product/tame-impala-deadbeat-loser-t-shirts/"
+    "https://teleteeshirt.com/product/toad-the-wet-sprocket-california-wasted-t-shirts/",
+    "https://teleteeshirt.com/product/while-she-sleeps-stand-tall-know-your-worth-t-shirts/",
+    "https://teleteeshirt.com/product/while-she-sleeps-the-north-stands-for-nothing-this-is-the-six-brainwashed-you-are-we-so-what-sleeps-society-self-hell-discog-t-shirts/",
+    "https://teleteeshirt.com/product/when-we-were-young-festival-overseer-t-shirts/",
+    "https://teleteeshirt.com/product/this-is-what-an-awesome-patriot-american-flag-eagle-t-shirts/",
+    "https://teleteeshirt.com/product/utah-valley-wolverines-strong-stand-with-charlie-kirk-t-shirts/",
+    "https://teleteeshirt.com/product/thievery-corporation-at-roseland-theater-in-portland-or-on-sept-11-2025-t-shirts/",
+    "https://teleteeshirt.com/product/the-red-clay-strays-tour-2025-andover-ks-on-september-11-t-shirts/",
+    "https://teleteeshirt.com/product/the-purge-election-year-annual-tradition-t-shirts/",
+    "https://teleteeshirt.com/product/the-purge-election-year-for-the-people-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/underdog-im-the-master-of-my-own-destiny-your-opinion-not-needed-shirt/",
