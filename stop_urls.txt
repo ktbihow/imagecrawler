@@ -48,16 +48,16 @@
     "https://teeworksusa.com/product/everybody-in-that-birthday-book-is-breathing-a-huge-sigh-of-relief-right-about-now-shirt/"
   ],
   "meredpremium.com": [
-    "https://meredpremium.com/product/official-washington-commanders-running-hail-t-shirt/",
-    "https://meredpremium.com/product/official-violence-bad-boobs-good-shirt/",
-    "https://meredpremium.com/product/official-utah-valley-strong-stand-with-charlie-kirk-shirt/",
-    "https://meredpremium.com/product/official-the-war-on-drugs-graveyard-halloween-shirt/",
-    "https://meredpremium.com/product/official-the-bills-mafia-buffalo-41-40-baltimore-final-score-shirt/",
-    "https://meredpremium.com/product/official-texas-tech-the-jc-suns-up-guns-up-shirt/",
-    "https://meredpremium.com/product/official-skowronek-in-pittsburgh-we-play-all-three-phases-shirt/",
-    "https://meredpremium.com/product/official-seattle-seahawks-nike-2025-rivalries-logo-t-shirt/",
-    "https://meredpremium.com/product/official-say-her-name-iryna-zarutska-women-are-immortal-shirt/",
-    "https://meredpremium.com/product/official-san-francisco-49ers-rivalries-faithful-to-the-bay-shirt/"
+    "https://meredpremium.com/product/viral-pray-for-charlie-kirk-turning-point-shirt/",
+    "https://meredpremium.com/product/viral-turning-point-forever-charlie-kirk-1993-2025-shirt/",
+    "https://meredpremium.com/product/viral-charlie-kirk-freedom-under-fire-shirt/",
+    "https://meredpremium.com/product/viral-we-are-all-turning-point-charlie-kirk-shirt/",
+    "https://meredpremium.com/product/viral-turning-point-usa-live-action-charlie-kirk-shirt/",
+    "https://meredpremium.com/product/viral-this-is-out-turning-point-rip-charlie-kirk-1993-2025-shirt/",
+    "https://meredpremium.com/product/viral-pray-for-the-kirk-family-and-charlie-kirk-t-shirt/",
+    "https://meredpremium.com/product/viral-charlie-kirk-turning-point-t-shirt/",
+    "https://meredpremium.com/product/viral-charlie-kirk-turning-point-they-took-his-breath-words-live-on-shirt/",
+    "https://meredpremium.com/product/viral-charlie-kirk-this-is-the-turning-point-usa-shirt/"
   ],
   "berrylittles.com": [
     "https://berrylittles.com/product/official-the-man-in-the-red-bandana-welles-crowther-5-17-77-9-11-2001-poster-t-shirt/",
@@ -144,16 +144,16 @@
     "https://fanaticity.com/product/blink-182-fall-tour-2025-darien-center-ny-poster-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/venice-malibu-oxnard-ventura-t-shirt/",
-    "https://legendusashirt.com/product/turning-point-forever-1993-2025-charlie-kirk-t-shirt/",
-    "https://legendusashirt.com/product/rest-in-peace-charlie-kirk-rip-1993-2025-t-shirt-2/",
-    "https://legendusashirt.com/product/thievery-corporation-sept-11-2025-portland-or-concert-poster-t-shirt/",
-    "https://legendusashirt.com/product/punk-with-a-camera-protect-ya-neck-t-shirt/",
-    "https://legendusashirt.com/product/punk-with-a-camera-debate-this-t-shirt/",
-    "https://legendusashirt.com/product/poorly-drawn-ghost-t-shirt/",
-    "https://legendusashirt.com/product/nine-inch-nails-sept-10-2025-tampa-fl-concert-poster-t-shirt/",
-    "https://legendusashirt.com/product/my-city-my-team-philadelphia-phillies-and-eagles-city-of-brotherly-love-t-shirt/",
-    "https://legendusashirt.com/product/minnesota-golden-gophers-on-saturdays-vs-minnesota-vikings-on-sundays-logo-t-shirt/"
+    "https://legendusashirt.com/product/when-we-were-young-festival-2025-overseer-lineup-t-shirt/",
+    "https://legendusashirt.com/product/this-is-our-turning-point-charlie-kirk-t-shirt/",
+    "https://legendusashirt.com/product/they-might-be-giants-dino-t-shirt/",
+    "https://legendusashirt.com/product/the-crux-deluxe-t-shirt/",
+    "https://legendusashirt.com/product/soapbox-uk-eu-tour-dates-2025-t-shirt/",
+    "https://legendusashirt.com/product/slowwves-i-perfect-evasion-asia/",
+    "https://legendusashirt.com/product/rocket-r-is-for-rocket-tour-2025-t-shirt/",
+    "https://legendusashirt.com/product/punk-in-the-park-october-4-5-2025-berth-46-in-san-pedro-ca-t-shirt/",
+    "https://legendusashirt.com/product/paak-house-october-11-2025-csu-channel-islands-ventura-county-ca-t-shirt/",
+    "https://legendusashirt.com/product/naked-raygun-x-dark-matter-coffee-free-shit-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/puro-pinche-party-shirt/",
