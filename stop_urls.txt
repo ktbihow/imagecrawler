@@ -24,14 +24,16 @@
     "https://orionshirt.com/product/official-florida-gators-vs-georgia-bulldogs-florida-georgia-jacksonville-fl-november-1-2025-mascots-college-football-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/paige-bueckers-dallas-wings-roty-why-slow-down-signature-shirt/",
-    "https://techteesusa.com/product/henry-selicks-a-nightmare-in-other-world-shirt/",
-    "https://techteesusa.com/product/deer-creek-music-center-shirt/",
-    "https://techteesusa.com/product/elon-musk-america-party-2028-shirt/",
-    "https://techteesusa.com/product/the-peanuts-houston-sports-teams-crossing-forever-not-just-when-we-win-shirt/",
-    "https://techteesusa.com/product/youre-killin-me-smalls-cincinnati-reds-x-the-sandlot-shirt/",
-    "https://techteesusa.com/product/over-and-out-shirt/",
-    "https://techteesusa.com/product/joni-mitchell-jonis-joint-shirt/"
+    "https://techteesusa.com/product/wolf-skull-logo-shirt/",
+    "https://techteesusa.com/product/were-going-to-cosplay-this-planet-to-death-galaxy-shirt/",
+    "https://techteesusa.com/product/washington-commanders-vs-green-bay-packers-thursday-night-football-starting-off-with-an-epic-matchup-shirt/",
+    "https://techteesusa.com/product/wandering-woodrows-shirt/",
+    "https://techteesusa.com/product/tsunami-preparedness-city-of-santa-cruz-shirt/",
+    "https://techteesusa.com/product/true-bookwyrms-know-all-reading-is-reading-shirt/",
+    "https://techteesusa.com/product/rock-is-for-arse-lickers-shirt/",
+    "https://techteesusa.com/product/the-next-round-logo-shirt/",
+    "https://techteesusa.com/product/keep-your-fork-theres-pie-shirt/",
+    "https://techteesusa.com/product/raccoon-certified-treasure-hunter-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/resist-the-left-shirt/",
@@ -110,16 +112,16 @@
     "https://nowbestshirt.com/product/weve-been-priced-out-protest-the-libertys-skyrocketing-ticket-prices-2-sided-shirt/"
   ],
   "serenashirt.com": [
-    "https://serenashirt.com/product/peace-to-the-world-shirt/",
-    "https://serenashirt.com/product/everybody-in-that-birthday-book-is-breathing-a-huge-sigh-of-relief-right-now-shirt/",
-    "https://serenashirt.com/product/venice-malibu-oxnard-ventura-shirt/",
-    "https://serenashirt.com/product/hubris-cannon-a-shot-your-straight-edge-friends-can-get-behind-shirt/",
-    "https://serenashirt.com/product/i-am-charlie-kirk-shirt/",
-    "https://serenashirt.com/product/marietta-the-town-faded-when-the-smothe-quit-moving-shirt/",
-    "https://serenashirt.com/product/pray-for-your-president-trump-shirt/",
-    "https://serenashirt.com/product/charlie-kirk-1993-2025-shirt/",
-    "https://serenashirt.com/product/charlie-kirk-all-death-can-do-to-the-believer-is-deliver-him-to-jesus-shirt/",
-    "https://serenashirt.com/product/charlie-kirk-a-true-patriot-1993-2025-shirt/"
+    "https://serenashirt.com/product/payday-delivery-charge-shirt/",
+    "https://serenashirt.com/product/never-in-history-were-the-people-against-diversity-equity-and-inclusion-the-good-guys-shirt/",
+    "https://serenashirt.com/product/chicken-are-eggs-cheaper-yet-shirt/",
+    "https://serenashirt.com/product/rukia-name-frame-shirt/",
+    "https://serenashirt.com/product/autumn-ghost-rib-cage-shirt/",
+    "https://serenashirt.com/product/arrows-in-action-i-can-feel-it-in-her-bite-shirt/",
+    "https://serenashirt.com/product/kim-dracula-spiked-spider-shirt/",
+    "https://serenashirt.com/product/demon-slayer-kimetsu-no-yaiba-muichiro-name-shirt/",
+    "https://serenashirt.com/product/demon-slayer-kimetsu-no-yaiba-rengoku-foil-shirt/",
+    "https://serenashirt.com/product/the-nightmare-before-christmas-tonal-group-poster-shirt/"
   ],
   "fanaticity.com": [
     "https://fanaticity.com/product/yin-yin-usa-and-canada-tour-2025-poster-shirt/",
@@ -134,16 +136,16 @@
     "https://fanaticity.com/product/theo-lawrence-and-will-worden-in-austin-tx-on-sep-13-2025-poster-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/kansas-city-chiefs-yes-i-am-old-but-i-saw-liv-champions-chiefs-signatures-thank-you-for-the-memories-t-shirt/",
-    "https://legendusashirt.com/product/lahgo-secretly-i-love-it-t-shirt/",
-    "https://legendusashirt.com/product/kansas-city-chiefs-sugar-skull-in-october-we-wear-pink-and-watch-halloween-2025-t-shirt/",
-    "https://legendusashirt.com/product/kansas-city-chiefs-all-time-greats-60th-1960-2025-4x-sb-champions-signatures-t-shirt/",
-    "https://legendusashirt.com/product/julia-hart-spooky-hart-kids-t-shirt/",
-    "https://legendusashirt.com/product/innings-festival-tempe-arizona-2026-at-tempe-beach-park-and-arts-park-full-lineup-on-february-20-22-2026-t-shirt/",
-    "https://legendusashirt.com/product/in-memory-of-bryan-braman-1987-2025-forever-an-eagle-forever-a-super-bowl-champions-thank-you-signature-t-shirt/",
-    "https://legendusashirt.com/product/you-dont-know-a-die-hard-fan-until-you-meet-a-buffalo-bills-fan-mascot-t-shirt/",
-    "https://legendusashirt.com/product/yes-i-am-old-but-i-saw-philadelphia-phillies-world-series-champions-1980-2008-signatures-t-shirt/",
-    "https://legendusashirt.com/product/yes-i-am-old-but-i-saw-lemieux-greene-harris-bradshaw-and-clemente-pittsburgh-now-and-forever-signatures-t-shirt/"
+    "https://legendusashirt.com/product/venice-malibu-oxnard-ventura-t-shirt/",
+    "https://legendusashirt.com/product/turning-point-forever-1993-2025-charlie-kirk-t-shirt/",
+    "https://legendusashirt.com/product/rest-in-peace-charlie-kirk-rip-1993-2025-t-shirt-2/",
+    "https://legendusashirt.com/product/thievery-corporation-sept-11-2025-portland-or-concert-poster-t-shirt/",
+    "https://legendusashirt.com/product/punk-with-a-camera-protect-ya-neck-t-shirt/",
+    "https://legendusashirt.com/product/punk-with-a-camera-debate-this-t-shirt/",
+    "https://legendusashirt.com/product/poorly-drawn-ghost-t-shirt/",
+    "https://legendusashirt.com/product/nine-inch-nails-sept-10-2025-tampa-fl-concert-poster-t-shirt/",
+    "https://legendusashirt.com/product/my-city-my-team-philadelphia-phillies-and-eagles-city-of-brotherly-love-t-shirt/",
+    "https://legendusashirt.com/product/minnesota-golden-gophers-on-saturdays-vs-minnesota-vikings-on-sundays-logo-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/puro-pinche-party-shirt/",
@@ -185,16 +187,11 @@
     "https://capitoneshirt.com/product/right-wing-influencer-charlie-kirk-has-died-following-a-campus-shooting-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/washington-commanders-vs-green-bay-packers-gameday-2025-comic-shirt/",
-    "https://clickoneshirt.com/product/voices-not-violence-charlie-kirk-1993-2025-statue-of-liberty-shirt/",
-    "https://clickoneshirt.com/product/the-idea-lives-on-rip-charlie-kirk-shirt/",
-    "https://clickoneshirt.com/product/the-american-comeback-tour-usa-2025-charlie-kirk-shirt/",
-    "https://clickoneshirt.com/product/stop-gun-violence-peace-for-our-children-shirt/",
-    "https://clickoneshirt.com/product/statue-of-liberty-silence-is-compliance-sarcastic-shirt/",
-    "https://clickoneshirt.com/product/statue-of-liberty-charlie-kirk-freedom-great-american-patriot-shirt/",
-    "https://clickoneshirt.com/product/stand-strong-in-horror-of-charlie-kirk-1993-2025-memorial-shirt/",
-    "https://clickoneshirt.com/product/stand-against-violance-stand-with-charlie-kirk-shirt/",
-    "https://clickoneshirt.com/product/rip-charlie-kirk-a-true-patriot-1993-2025-thank-you-signature-memorial-shirt/"
+    "https://clickoneshirt.com/product/charlie-kirk-make-america-great-again-usa-flag-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/winged-wheel-podcast-celebrating-10-years-of-talking-detroit-hockey-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/charlie-kirk-fight-the-good-fight-finish-the-race-keep-the-faith-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/paige-bueckers-why-slow-down-5-for-rookie-of-the-year-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/black-out-pediatric-cancer-2025-two-sided-t-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/bring-back-the-i-formation-t-shirts/",
@@ -207,16 +204,16 @@
     "https://teleteeshirt.com/product/coach-al-planete-uphoria-new-york-yankees-t-shirts-6/"
   ],
   "teeslocal.com": [
-    "https://teeslocal.com/product/witch-tarot-cards-the-witches-road-surrounded-by-death-tower-high-priestess-occult-shirt/",
-    "https://teeslocal.com/product/trick-or-treat-horror-face-happy-halloween-shirt/",
-    "https://teeslocal.com/product/tom-petty-and-the-heartbreakers-into-the-great-wide-open-shirt/",
-    "https://teeslocal.com/product/the-white-stripes-candy-shirt/",
-    "https://teeslocal.com/product/the-monster-mash-choose-your-player-dracula-frankenstein-imhotep-insert-fear-to-continue-shirt/",
-    "https://teeslocal.com/product/thats-showbiz-for-you-heart-your-energy-is-a-luxury-item-its-infectiously-joyful-wild-dramatic-shirt/",
-    "https://teeslocal.com/product/syd-barrett-pink-floyd-band-stripey-black-orange-vintage-shirt/",
-    "https://teeslocal.com/product/thats-showbiz-for-you-dancing-girl-sitting-on-sphere-shirt/",
-    "https://teeslocal.com/product/showgirl-its-beautiful-its-frightening-and-thats-showbiz-for-you-shirt/",
-    "https://teeslocal.com/product/ride-or-die-where-the-hollow-sleeps-legends-wake-halloween-shirt/"
+    "https://teeslocal.com/product/underdog-im-the-master-of-my-own-destiny-your-opinion-not-needed-shirt/",
+    "https://teeslocal.com/product/the-magical-cat-witch-riding-broom-halloween-shirt/",
+    "https://teeslocal.com/product/stand-with-charlie-kirk-floral-shirt/",
+    "https://teeslocal.com/product/squirrel-im-sorry-i-didnt-answer-my-phone-when-you-called-t-shirt/",
+    "https://teeslocal.com/product/skeleton-hiphop-i-cant-be-the-only-one-who-turns-down-the-music-to-see-if-shirt/",
+    "https://teeslocal.com/product/scratch-cat-im-at-the-age-where-the-next-day-my-body-whispers-to-me-dont-do-that-again-shirt/",
+    "https://teeslocal.com/product/rooster-wink-i-dont-understand-stupid-people-maybe-i-should-take-one-apart-to-see-how-it-works-shirt/",
+    "https://teeslocal.com/product/rip-charlie-kirk-his-legacy-stays-with-us-shirt/",
+    "https://teeslocal.com/product/rip-charlie-kirk-a-true-patriot-amrican-flag-retro-shirt/",
+    "https://teeslocal.com/product/pray-for-charlie-kirk-no-voice-no-freedom-make-america-great-again-shirt/"
   ],
   "melonashirt.com": [
     "https://melonashirt.com/product/official-western-kentucky-university-hilltoppers-womens-volleyball-2025-26-shirts/",
@@ -243,28 +240,28 @@
     "https://dalatshirt.com/product/decoding-palm-culture-palm-angels-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/utah-university-brand-history-logo-shirt/",
-    "https://lovingsquad.com/product/turning-point-forever-1993-2025-charlie-kirk-shirt/",
-    "https://lovingsquad.com/product/the-ralph-farewell-season-where-else-would-you-rather-be-buffalo-bills-shirt/",
-    "https://lovingsquad.com/product/the-philadelphia-eagles-spit-out-their-first-win-of-the-season-defeat-dallas-cowboys-shirt/",
-    "https://lovingsquad.com/product/tennessee-thank-you-lee-shirt/",
-    "https://lovingsquad.com/product/support-queer-owned-businesses-palantir-rainbow-flag-shirt/",
-    "https://lovingsquad.com/product/son-heung-min-player-trio-graphic-shirt/",
-    "https://lovingsquad.com/product/situationship-survivor-black-shirt/",
-    "https://lovingsquad.com/product/salvador-perez-we-stan-this-man-shirt/",
-    "https://lovingsquad.com/product/pugsley-i-can-fix-him-slurp-shirt/"
+    "https://lovingsquad.com/product/you-cant-silence-us-all-i-am-charlie-shirt/",
+    "https://lovingsquad.com/product/world-dot-day-kids-colorful-polka-shirt/",
+    "https://lovingsquad.com/product/wok-is-dead-retro-shirt/",
+    "https://lovingsquad.com/product/parlay-smacked-retro-shirt/",
+    "https://lovingsquad.com/product/i-am-charlie-inspirational-tribute-shirt/",
+    "https://lovingsquad.com/product/life-is-like-a-wiener-dog-somehow-both-long-and-short-shirt/",
+    "https://lovingsquad.com/product/halloween-ghost-holding-black-cat-vintage-shirt/",
+    "https://lovingsquad.com/product/almost-friday-game-ball-shirt/",
+    "https://lovingsquad.com/product/baby-yoda-i-suffer-from-c-h-s-cant-hear-shit-i-will-huh-the-crap-out-of-you-shirt/",
+    "https://lovingsquad.com/product/charlie-freedom-freedom-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/when-we-stop-talking-is-when-violence-starts-happening-love-charlie-kirk-shirt/",
-    "https://designatshop.com/product/warrior-girls-powerpuff-style-trio-with-swords-cute-big-eyes-battle-shirt/",
-    "https://designatshop.com/product/stand-with-charlie-kirk-america-freedom-flag-shirt/",
-    "https://designatshop.com/product/sad-baby-yoda-if-you-dont-hear-from-me-its-because-i-dont-hear-from-you-it-works-both-ways-shirt/",
-    "https://designatshop.com/product/rip-charlie-kirk-memorial-patriot-voice-of-truth-symbol-of-love-shirt/",
-    "https://designatshop.com/product/rip-charlie-kirk-american-true-patriot-angel-shirt/",
-    "https://designatshop.com/product/puro-pinche-party-softstyle-t-shirt/",
-    "https://designatshop.com/product/remember-charlie-kirk-faith-over-fear-all-death-can-do-to-the-believer-is-deliver-him-to-jesus-shirt/",
-    "https://designatshop.com/product/pray-for-charlie-kirk-freedom-is-not-free-it-must-be-fought-for-and-defended-shirt/",
-    "https://designatshop.com/product/patriotic-charlie-kirk-great-american-patriot-flag-shirt/"
+    "https://designatshop.com/product/vote-sauron-make-middle-earth-great-again-retro-shirt/",
+    "https://designatshop.com/product/white-cat-music-logo-funny-shirt/",
+    "https://designatshop.com/product/tpusa-turning-point-usa-flag-est-2012-shirt/",
+    "https://designatshop.com/product/rocky-balboa-legendary-boxing-icon-letters-motivational-movie-shirt/",
+    "https://designatshop.com/product/skull-mommy-life-is-like-looking-for-your-phone-shirt/",
+    "https://designatshop.com/product/my-chemical-romance-tour-black-parade-publicly-executed-at-the-mcr-show-shirt/",
+    "https://designatshop.com/product/rest-in-peace-pray-for-charlie-kirk-great-american-patriot-shirt/",
+    "https://designatshop.com/product/marietta-the-town-faded-when-the-smothe-quit-moving-shirt/",
+    "https://designatshop.com/product/its-a-tea-shirt-love-me-a-silly-funny-shirt/",
+    "https://designatshop.com/product/isaac-night-but-daddy-i-love-him-horror-character-slurp-shirt/"
   ],
   "arjomany.com": [
     "https://arjomany.com/product/tommycash-world-tour-t-shirt/"
@@ -306,7 +303,16 @@
     "https://newshirtstore.com/product/when-i-get-rich-from-kaspa-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/freedom-charlie-kirk-patriotic-shirt/"
+    "https://eteeclothing.com/product/snoopy-my-broom-broke-so-i-became-a-flying-ace-shirt/",
+    "https://eteeclothing.com/product/scared-shitless-skeleton-ghost-toilet-shirt/",
+    "https://eteeclothing.com/product/rip-charlie-kirk-1993-2025-i-want-to-be-remembered-for-my-courage-for-my-faith-shirt/",
+    "https://eteeclothing.com/product/rip-charlie-kirk-1993-2025-a-true-patriot-vintage-shirt/",
+    "https://eteeclothing.com/product/rhyne-howard-atlanta-dream-womens-basketball-signature-shirt/",
+    "https://eteeclothing.com/product/rest-in-peace-charlie-kirk-thank-you-for-the-memories-shirt/",
+    "https://eteeclothing.com/product/rest-in-peace-charlie-kirk-never-give-up-never-surrender-shirt/",
+    "https://eteeclothing.com/product/punish-her-retro-comic-parody-shirt/",
+    "https://eteeclothing.com/product/pug-dog-please-do-not-disturb-i-am-disturbed-enough-already-shirt/",
+    "https://eteeclothing.com/product/pennywise-floats-old-fashioned-root-beer-usa-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/official-rection-10-piglet-shirt/",
