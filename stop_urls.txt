@@ -255,15 +255,16 @@
     "https://lovingsquad.com/product/pugsley-i-can-fix-him-slurp-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/aja-mvp-aja-wilson-las-vegas-aces-league-leader-shirt/",
-    "https://designatshop.com/product/charlie-kirk-in-loving-memory-memorial-graphic-shirt/",
-    "https://designatshop.com/product/charlie-kirk-forever-in-our-hearts-laurel-wreath-eagle-american-flag-shirt/",
-    "https://designatshop.com/product/baby-yoda-talking-behind-my-back-simply-means-youre-smart-enough-to-be-afraid-to-say-it-to-my-face-shirt/",
-    "https://designatshop.com/product/charlie-kirk-freedom-is-not-free-it-must-be-fought-for-and-defended-shirt/",
-    "https://designatshop.com/product/charlie-kirk-freedom-great-american-patriot-rip-shirt/",
-    "https://designatshop.com/product/bernese-mountain-dog-i-cant-argue-my-with-my-sister-shes-older-than-me-and-old-people-dont-listen-shirt/",
-    "https://designatshop.com/product/2025-we-stand-with-charlie-kirk-american-flag-shirt/",
-    "https://designatshop.com/product/a-true-patriot-charlie-kirk-1993-2025-eras-tour-rest-in-peace-shirt/"
+    "https://designatshop.com/product/baby-yoda-im-old-enough-to-know-better-but-young-enough-to-do-it-anyway-shirt/",
+    "https://designatshop.com/product/baby-yoda-its-officially-wear-a-sweater-in-the-morning-and-regret-it-in-the-afternoon-weather-shirt/",
+    "https://designatshop.com/product/baby-yoda-cup-cofee-i-finally-got-eight-hours-of-sleep-it-took-me-three-days-but-whatever-shirt/",
+    "https://designatshop.com/product/american-flag-pray-for-charlie-kirk-shirt/",
+    "https://designatshop.com/product/baby-yoda-holding-remote-getting-older-is-just-one-body-part-after-another-saying-ha-ha-shirt/",
+    "https://designatshop.com/product/america-will-never-be-the-same-charlie-kirk-rip-shirt/",
+    "https://designatshop.com/product/baby-uoda-magnifying-glass-welcome-to-old-age-you-now-take-pictures-of-instructions-so-you-can-enlarge-shirt/",
+    "https://designatshop.com/product/american-flag-cross-christian-pray-for-charlie-kirk-shirt/",
+    "https://designatshop.com/product/a-true-patriot-charlie-kirk-make-america-great-again-shirt/",
+    "https://designatshop.com/product/a-true-patriot-charlie-kirk-the-greatness-of-our-nation-lies-in-the-power-and-potential-shirt/"
   ],
   "arjomany.com": [
     "https://arjomany.com/product/tommycash-world-tour-t-shirt/"
