@@ -1,42 +1,52 @@
 @echo off
-setlocal
+setlocal enabledelayedexpansion
 
-:: Set the number of loops and delay in seconds
-set "MAX_LOOPS=10"
-set "DELAY_SECONDS=1800"
+title Image Crawler
+cd /d "%~dp0"
+set "PYTHONIOENCODING=utf-8"
 
-:: Set the path to the Python executable and your script
-set "PYTHON_EXE=C:\Python39\python.exe"
-set "SCRIPT_PATH=D:\imagecrawler\main.py"
+REM =================================================================
+REM                  CẤU HÌNH CRAWLER
+REM =================================================================
+set "MAX_LOOPS=200"
+set "DELAY_SECONDS=10"
+set "MAX_LOGS=5"
 
-:: Get the current date and time to create a unique log file name
-for /f "tokens=2-4 delims=/ " %%a in ('date /t') do (set mydate=%%c-%%a-%%b)
-for /f "tokens=1-2 delims=:" %%a in ('time /t') do (set mytime=%%a-%%b)
-set "LOG_FILE=%mydate%_%mytime%.log"
+REM =================================================================
+REM                  VÒNG LẶP CHÍNH
+REM =================================================================
+for /l %%i in (1,1,%MAX_LOOPS%) do (
+    REM Xoay vòng log
+    if exist console_run_%MAX_LOGS%.log del console_run_%MAX_LOGS%.log
+    for /l %%j in (%MAX_LOGS%,-1,2) do (
+        if exist console_run_%%j-1.log ren console_run_%%j-1.log console_run_%%j.log
+    )
+    set "CUR_LOG=console_run_1.log"
 
-echo Starting automated image crawler at %date% %time% >> %LOG_FILE%
-echo --- >> %LOG_FILE%
+    REM Header
+    echo [!time!] Starting cycle %%i of %MAX_LOOPS% | powershell -Command "param($f); tee -FilePath $f -Append" -f "!CUR_LOG!"
+    echo ================================================================= | powershell -Command "param($f); tee -FilePath $f -Append" -f "!CUR_LOG!"
 
-:: Loop to run the script
-for /l %%i in (1, 1, %MAX_LOOPS%) do (
-    echo. >> %LOG_FILE%
-    echo Loop %%i of %MAX_LOOPS% started at %date% %time% >> %LOG_FILE%
-    echo Running script... >> %LOG_FILE%
-    
-    :: Run the Python script and redirect its output to the log file
-    "%PYTHON_EXE%" "%SCRIPT_PATH%" >> %LOG_FILE% 2>&1
-    
-    echo Loop %%i finished. >> %LOG_FILE%
+    REM Chạy Python, log y hệt console
+    python crawler\imagecrawler.py 2>&1 | powershell -Command "param($f); tee -FilePath $f -Append" -f "!CUR_LOG!"
 
-    :: Pause for the specified delay, unless it's the last loop
+    REM Footer
+    echo. | powershell -Command "param($f); tee -FilePath $f -Append" -f "!CUR_LOG!"
+    echo ----------------------------------------------------------------- | powershell -Command "param($f); tee -FilePath $f -Append" -f "!CUR_LOG!"
+    echo Crawl cycle finished. Output saved to !CUR_LOG! | powershell -Command "param($f); tee -FilePath $f -Append" -f "!CUR_LOG!"
+
     if %%i lss %MAX_LOOPS% (
-        echo Waiting %DELAY_SECONDS% seconds for the next run... >> %LOG_FILE%
-        timeout /t %DELAY_SECONDS% /nobreak
+        echo Next run will be in %DELAY_SECONDS% seconds. | powershell -Command "param($f); tee -FilePath $f -Append" -f "!CUR_LOG!"
+        echo ----------------------------------------------------------------- | powershell -Command "param($f); tee -FilePath $f -Append" -f "!CUR_LOG!"
+    ) else (
+        echo All cycles completed. Exiting. | powershell -Command "param($f); tee -FilePath $f -Append" -f "!CUR_LOG!"
+    )
+
+    if %%i lss %MAX_LOOPS% (
+        echo. 
+        echo Waiting for %DELAY_SECONDS% seconds, press CTRL+C to quit ...
+        ping -n %DELAY_SECONDS% localhost >nul
     )
 )
-
-echo. >> %LOG_FILE%
-echo All loops completed. Exiting. >> %LOG_FILE%
-echo.
 
 endlocal

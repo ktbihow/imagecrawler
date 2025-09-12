@@ -135,6 +135,7 @@
     {
         "url": "https://lovingsquad.com/",
         "replacements": {"-Shirt.jpg": ["-T-shirt.jpg", "-Ladies.jpg"]},
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.lovingsquad.com", "prefix_length": 9 },
         "source_type": "api"
     },
     {
