@@ -1,15 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/charlie-hero-kirk-shirt/",
-    "https://geekteesus.com/product/buffalo-bills-my-cat-is-also-in-the-meowfia-shirt/",
-    "https://geekteesus.com/product/america-will-never-be-the-same-charlie-kirk-signature-shirt/",
-    "https://geekteesus.com/product/america-will-never-be-the-same-charlie-kirk-shirt/",
-    "https://geekteesus.com/product/all-elite-wrestling-timeless-toni-storm-and-mina-shirakawa-intemporelle-vintage-poster-shirt/",
-    "https://geekteesus.com/product/alabama-vs-clemson-2016-college-football-playoff-national-championship-vintage-shirt/",
-    "https://geekteesus.com/product/air-israel-shirt/",
-    "https://geekteesus.com/product/2019-college-football-playoff-national-championship-clemson-vs-alabama-vintage-shirt/",
-    "https://geekteesus.com/product/a-day-to-remember-raccoon-riding-alligator-sunglasses-funny-animal-illustration-shirt/",
-    "https://geekteesus.com/product/2025-new-york-mets-fdny-9-11-logo-shirt/"
+    "https://geekteesus.com/product/my-broom-broke-so-now-i-drive-a-camaro-irocz-halloween-witch-shirt/",
+    "https://geekteesus.com/product/michigan-wolverines-firefighter-usa-flag-shirt/",
+    "https://geekteesus.com/product/justice-for-charlie-kirk-1993-2025-political-justice-shirt/",
+    "https://geekteesus.com/product/isaac-night-i-love-my-boyfriend-slurp-shirt/",
+    "https://geekteesus.com/product/john-mara-clown-new-york-giants-shirt/",
+    "https://geekteesus.com/product/isaac-night-girl-dinner-slurp-shirt/",
+    "https://geekteesus.com/product/how-bout-those-kansas-city-chiefs-shirt/",
+    "https://geekteesus.com/product/gwi-ma-crew-spooky-creatures-graffiti-font-shirt/",
+    "https://geekteesus.com/product/georgia-tech-gt-college-logo-shirt/",
+    "https://geekteesus.com/product/fukc-go-bills-shirt/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-springfield-cardinals-2025-first-second-half-north-division-championship-texas-league-fan-gear-t-shirt/",
@@ -251,16 +251,16 @@
     "https://dalatshirt.com/product/bigfoot-forest-folk-run-club-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/la-boo-boo-labubu-characters-in-halloween-shirt/",
-    "https://lovingsquad.com/product/justice-for-charlie-kirk-memorial-shirt/",
-    "https://lovingsquad.com/product/just-a-girl-who-loves-halloween-and-pittsburgh-steelers-x-peanuts-characters-shirt/",
-    "https://lovingsquad.com/product/just-a-girl-who-loves-halloween-and-penn-state-nittany-lions-x-peanuts-characters-shirt/",
-    "https://lovingsquad.com/product/its-a-tea-original-shirt/",
-    "https://lovingsquad.com/product/its-2-17-am-do-you-know-where-your-children-are-written-by-zach-cregger-and-new-line-cinema-shirt/",
-    "https://lovingsquad.com/product/in-loving-memory-of-charlie-kirk-sept-10th-2025-shirt/",
-    "https://lovingsquad.com/product/im-too-expensive-shirt/",
-    "https://lovingsquad.com/product/if-you-hear-any-noise-its-just-josh-and-the-bills-boppin-shirt/",
-    "https://lovingsquad.com/product/idaho-vandal-athletics-50th-anniversary-of-the-kibbie-dome-sweet-dome-shirt/"
+    "https://lovingsquad.com/product/boston-ma-joe-russos-almost-dead-events-sep-11-2025-shirt/",
+    "https://lovingsquad.com/product/billy-strings-sep-11-2025-schaefer-center-for-the-performing-arts-in-boone-nc-poster-shirt/",
+    "https://lovingsquad.com/product/billy-strings-and-bryan-sutton-with-royal-masat-schaefer-center-for-the-performing-arts-in-boone-nc-sep-11-12-2025-poster-shirt/",
+    "https://lovingsquad.com/product/alabama-shakes-tour-jacobs-pavilion-cleveland-sept-8-2025-poster-shirt/",
+    "https://lovingsquad.com/product/2025-bravado-30-jahre-abenteuerland-poster-shirt/",
+    "https://lovingsquad.com/product/air-israel-new-shirt/",
+    "https://lovingsquad.com/product/2025-gold-rush-the-montana-state-bobcats-football-shirt/",
+    "https://lovingsquad.com/product/cleveland-browns-for-the-brand-shirt/",
+    "https://lovingsquad.com/product/chill-hill-club-pop-pop-shirt/",
+    "https://lovingsquad.com/product/charlies-legacy-lives-on-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/vote-sauron-make-middle-earth-great-again-retro-shirt/",
