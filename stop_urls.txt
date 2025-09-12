@@ -36,16 +36,16 @@
     "https://techteesusa.com/product/elon-musk-american-party-logo-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/the-idea-lives-on-r-i-p-charlie-kirk-shirt/",
-    "https://teeworksusa.com/product/the-charlie-kirk-show-shirt/",
-    "https://teeworksusa.com/product/thats-showbiz-baby-debut-solo-album-shirt/",
-    "https://teeworksusa.com/product/pretty-woman-ugly-hooker-shirt/",
-    "https://teeworksusa.com/product/a-true-patriot-charlie-kirk-1933-2025-american-flag-shirt/",
-    "https://teeworksusa.com/product/an-ethical-society-would-value-lives-more-than-guns-shirt/",
-    "https://teeworksusa.com/product/booster-gold-fan-blub-shirt/",
-    "https://teeworksusa.com/product/better-woke-than-stroke-donald-trump-shirt/",
-    "https://teeworksusa.com/product/cane-ville-miami-hurricanes-mascot-shirt/",
-    "https://teeworksusa.com/product/buffalo-bills-knit-yab-buffalo-buffalo-mascot-wearing-sunglasses-hat-shirt/"
+    "https://teeworksusa.com/product/what-the-duck-shirt/",
+    "https://teeworksusa.com/product/walt-joestar-jr-shirt/",
+    "https://teeworksusa.com/product/violence-has-no-place-in-american-politics-drinking-shirt/",
+    "https://teeworksusa.com/product/the-sopranos-dr-melfi-do-you-feel-depressed-shirt/",
+    "https://teeworksusa.com/product/the-california-raisins-live-from-chilis-90s-bootleg-shirt/",
+    "https://teeworksusa.com/product/talk-to-fascist-in-a-language-they-understand-shirt/",
+    "https://teeworksusa.com/product/sustainability-is-hot-shirt/",
+    "https://teeworksusa.com/product/pug-if-a-child-can-work-a-tablet-phone-or-game-shirt/",
+    "https://teeworksusa.com/product/pray-for-charlie-kirk-and-his-family-shirt/",
+    "https://teeworksusa.com/product/mog-ees-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-washington-commanders-running-hail-t-shirt/",
