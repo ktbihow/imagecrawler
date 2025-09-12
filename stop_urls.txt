@@ -179,16 +179,14 @@
     "https://uscraftedtees.com/product/official-houston-oilers-football-helmet-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/when-free-speech-is-silenced-with-bullets-history-is-repeating-itself-shirt/",
-    "https://capitoneshirt.com/product/we-are-all-charlie-kirk-now-the-devil-will-not-win-this-war-shirt/",
-    "https://capitoneshirt.com/product/we-are-all-charlie-kirk-now-shirt/",
-    "https://capitoneshirt.com/product/trump-in-america-we-take-blows-but-we-never-buckle-shirt/",
-    "https://capitoneshirt.com/product/time-enough-the-killing-of-charlie-kirk-and-the-epidemic-of-american-shirt/",
-    "https://capitoneshirt.com/product/the-yetee-mog-ees-buc-ees-shirt/",
-    "https://capitoneshirt.com/product/the-onion-dont-tread-on-me-shirt/",
-    "https://capitoneshirt.com/product/rot-in-piss-charlie-kirk-shirt/",
-    "https://capitoneshirt.com/product/tailgatin-up-at-borderland-festival-2025-bills-shirt/",
-    "https://capitoneshirt.com/product/right-wing-influencer-charlie-kirk-has-died-following-a-campus-shooting-shirt/"
+    "https://capitoneshirt.com/product/care-bears-share-peace-shirt/",
+    "https://capitoneshirt.com/product/caleigh-king-royal-unlv-rebels-shirt/",
+    "https://capitoneshirt.com/product/caleigh-king-caricature-unlv-lady-rebels-shirt/",
+    "https://capitoneshirt.com/product/back-to-the-future-gb-packers-power-of-jordan-love-shirt/",
+    "https://capitoneshirt.com/product/biker-ride-wild-do-it-with-passion-or-not-at-all-shirt/",
+    "https://capitoneshirt.com/product/all-gas-no-fucking-brake-cheesehead-gb-packers-shirt/",
+    "https://capitoneshirt.com/product/aaron-nagler-is-never-right-star-wars-style-shirt/",
+    "https://capitoneshirt.com/product/abby-karich-ak-zero-long-beach-state-volleyball-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/your-mother-was-a-hamster-and-your-father-smelt-of-elderberries-shirt/",
