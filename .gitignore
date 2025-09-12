@@ -1,0 +1,16 @@
+# Môi trường Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*build/
+*dist/
+*venv/
+*env/
+
+# File biến môi trường
+.env
+
+# File log có thể thay đổi liên tục
+# Bỏ dòng này nếu bạn MUỐN commit file log lên repo
+# imagecrawler.log
