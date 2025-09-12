@@ -24,16 +24,16 @@
     "https://orionshirt.com/product/official-florida-gators-vs-georgia-bulldogs-florida-georgia-jacksonville-fl-november-1-2025-mascots-college-football-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/wolf-skull-logo-shirt/",
-    "https://techteesusa.com/product/were-going-to-cosplay-this-planet-to-death-galaxy-shirt/",
-    "https://techteesusa.com/product/washington-commanders-vs-green-bay-packers-thursday-night-football-starting-off-with-an-epic-matchup-shirt/",
-    "https://techteesusa.com/product/wandering-woodrows-shirt/",
-    "https://techteesusa.com/product/tsunami-preparedness-city-of-santa-cruz-shirt/",
-    "https://techteesusa.com/product/true-bookwyrms-know-all-reading-is-reading-shirt/",
-    "https://techteesusa.com/product/rock-is-for-arse-lickers-shirt/",
-    "https://techteesusa.com/product/the-next-round-logo-shirt/",
-    "https://techteesusa.com/product/keep-your-fork-theres-pie-shirt/",
-    "https://techteesusa.com/product/raccoon-certified-treasure-hunter-shirt/"
+    "https://techteesusa.com/product/magic-is-just-science-that-i-made-up-t-shirt/",
+    "https://techteesusa.com/product/jewish-american-princess-for-a-free-palestine-t-shirt/",
+    "https://techteesusa.com/product/destroy-ai-t-shirt/",
+    "https://techteesusa.com/product/charlie-kirk-land-of-the-free-home-of-the-brave-shirt/",
+    "https://techteesusa.com/product/squid-game-gonggi-player-shirt/",
+    "https://techteesusa.com/product/running-art-shirt/",
+    "https://techteesusa.com/product/go-to-hell-shirt/",
+    "https://techteesusa.com/product/joni-mitchell-and-yorkshire-terrier-shirt/",
+    "https://techteesusa.com/product/d-r-e-a-m-dice-rule-everything-around-me-shirt/",
+    "https://techteesusa.com/product/elon-musk-american-party-logo-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/resist-the-left-shirt/",
@@ -82,14 +82,16 @@
     "https://dreameshirt.com/product/official-arizona-state-sun-devils-vs-tcu-horned-frogs-football-tempe-az-september-26-2025-helmets-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/in-october-we-wear-pink-and-watch-washington-commanders-2-sided-shirt/",
-    "https://teeextra.com/product/in-october-we-wear-pink-and-watch-tennessee-titans-2-sided-shirt/",
-    "https://teeextra.com/product/in-october-we-wear-pink-and-watch-tampa-bay-buccaneers-2-sided-shirt/",
-    "https://teeextra.com/product/in-october-we-wear-pink-and-watch-seattle-seahawks-2-sided-shirt/",
-    "https://teeextra.com/product/in-october-we-wear-pink-and-watch-san-francisco-49ers-2-sided-shirt/",
-    "https://teeextra.com/product/in-october-we-wear-pink-and-watch-pittsburgh-steelers-2-sided-shirt/",
-    "https://teeextra.com/product/in-october-we-wear-pink-and-watch-philadelphia-eagles-2-sided-shirt/",
-    "https://teeextra.com/product/in-october-we-wear-pink-and-watch-new-york-jets-2-sided-shirt/"
+    "https://teeextra.com/product/official-vanderbilt-commodore-mascot-in-my-veins-jesus-in-my-heart-2025-shirt/",
+    "https://teeextra.com/product/official-utah-valley-strong-stand-with-charlie-kirk-heart-signature-2025-shirt/",
+    "https://teeextra.com/product/official-uconn-huskies-mascot-in-my-veins-jesus-in-my-heart-2025-shirt/",
+    "https://teeextra.com/product/official-tupac-shakur-55-years-1971-2026-the-man-the-myth-the-legend-signature-shirt/",
+    "https://teeextra.com/product/official-toronto-blue-jays-2025-breast-cancer-awareness-month-shirt/",
+    "https://teeextra.com/product/official-the-peanuts-x-washington-commanders-just-a-woman-who-loves-fall-and-commanders-2025-shirt/",
+    "https://teeextra.com/product/official-the-peanuts-x-san-francisco-49ers-just-a-woman-who-loves-fall-and-49ers-2025-shirt/",
+    "https://teeextra.com/product/official-the-peanuts-x-pittsburgh-steelers-just-a-woman-who-loves-fall-and-steelers-2025-shirt/",
+    "https://teeextra.com/product/official-the-peanuts-x-illinois-fighting-illini-just-a-woman-who-loves-fall-and-illinois-2025-shirt/",
+    "https://teeextra.com/product/official-the-peanuts-x-houston-texans-just-a-woman-who-loves-fall-and-texans-2025-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/we-are-all-turning-point-charlie-kirk-shirt/",
@@ -303,16 +305,16 @@
     "https://newshirtstore.com/product/when-i-get-rich-from-kaspa-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/snoopy-my-broom-broke-so-i-became-a-flying-ace-shirt/",
-    "https://eteeclothing.com/product/scared-shitless-skeleton-ghost-toilet-shirt/",
-    "https://eteeclothing.com/product/rip-charlie-kirk-1993-2025-i-want-to-be-remembered-for-my-courage-for-my-faith-shirt/",
-    "https://eteeclothing.com/product/rip-charlie-kirk-1993-2025-a-true-patriot-vintage-shirt/",
-    "https://eteeclothing.com/product/rhyne-howard-atlanta-dream-womens-basketball-signature-shirt/",
-    "https://eteeclothing.com/product/rest-in-peace-charlie-kirk-thank-you-for-the-memories-shirt/",
-    "https://eteeclothing.com/product/rest-in-peace-charlie-kirk-never-give-up-never-surrender-shirt/",
-    "https://eteeclothing.com/product/punish-her-retro-comic-parody-shirt/",
-    "https://eteeclothing.com/product/pug-dog-please-do-not-disturb-i-am-disturbed-enough-already-shirt/",
-    "https://eteeclothing.com/product/pennywise-floats-old-fashioned-root-beer-usa-shirt/"
+    "https://eteeclothing.com/product/when-you-play-pittsburgh-you-play-the-whole-city-skyline-shirt/",
+    "https://eteeclothing.com/product/what-the-duck-animal-shirt/",
+    "https://eteeclothing.com/product/true-patriot-rest-in-power-charlie-kirk-shirt/",
+    "https://eteeclothing.com/product/true-patriot-charlie-kirk-rest-in-peace-american-flag-shirt/",
+    "https://eteeclothing.com/product/stand-with-charlie-kirk-us-flag-shirt/",
+    "https://eteeclothing.com/product/spooky-nat-pumpkin-halloween-shirt/",
+    "https://eteeclothing.com/product/stand-strong-in-honor-of-charlie-kirk-shirt/",
+    "https://eteeclothing.com/product/rest-in-peace-charlie-kirk-usa-map-flag-shirt/",
+    "https://eteeclothing.com/product/rest-in-peace-charlie-kirk-is-my-hero-shirt/",
+    "https://eteeclothing.com/product/penguin-social-distancing-i-live-in-antarctica-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/official-rection-10-piglet-shirt/",
