@@ -36,16 +36,7 @@
     "https://techteesusa.com/product/elon-musk-american-party-logo-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/wslam-natalie-nakase-blow-the-whistle-shirt-2/",
-    "https://teeworksusa.com/product/wslam-hayes-and-thornton-playaz-club-shirt-2/",
-    "https://teeworksusa.com/product/we-are-all-charlie-kirk-shirt/",
-    "https://teeworksusa.com/product/violence-has-no-place-in-american-politics-shirt/",
-    "https://teeworksusa.com/product/vanderbilt-in-my-veins-jesus-in-my-heart-mascot-shirt/",
-    "https://teeworksusa.com/product/vana-tour-shirt/",
-    "https://teeworksusa.com/product/vana-tarot-card-shirt/",
-    "https://teeworksusa.com/product/utah-utes-vs-wyoming-cowboys-red-dead-redemption-parody-shirt/",
-    "https://teeworksusa.com/product/uconn-in-my-veins-jesus-in-my-heart-mascot-shirt/",
-    "https://teeworksusa.com/product/the-packers-won-yesterday-shirt/"
+    "https://teeworksusa.com/product/south-florida-bulls-football-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-washington-commanders-running-hail-t-shirt/",
