@@ -100,6 +100,40 @@ def git_push_changes():
     except Exception as e:
         print(f"❌ Đã xảy ra lỗi không xác định khi push: {e}")
 
+def trigger_workflow_dispatch():
+    """
+    Kích hoạt một sự kiện repository_dispatch trên một repo khác
+    nếu có PAT được cung cấp.
+    """
+    pat = os.getenv('KTBHUB_PAT')
+    if not pat:
+        print("Cảnh báo: Biến môi trường KTBHUB_PAT không được thiết lập. Bỏ qua việc kích hoạt workflow.")
+        return
+
+    owner = "ktbhub"
+    repo_name = "ktb-image"
+    event_type = "new_image_available"
+    
+    api_url = f"https://api.github.com/repos/{owner}/{repo_name}/dispatches"
+    
+    headers = {
+        "Accept": "application/vnd.github.v3+json",
+        "Authorization": f"Bearer {pat}",
+    }
+    
+    data = {"event_type": event_type}
+
+    print(f"🚀 Kích hoạt workflow '{event_type}' trên repo {owner}/{repo_name}...")
+    
+    try:
+        response = requests.post(api_url, headers=headers, json=data, timeout=15)
+        # Mã 204 No Content là thành công cho API này
+        if response.status_code == 204:
+            print("✅ Đã gửi yêu cầu kích hoạt workflow thành công.")
+        else:
+            print(f"❌ Lỗi khi kích hoạt workflow: {response.status_code} - {response.text}")
+    except requests.exceptions.RequestException as e:
+        print(f"❌ Lỗi kết nối đến GitHub API: {e}")
 
 # ----------------------------------------------------------------------------------------------------------------------
 # Core Functions (MODIFIED paths)
@@ -127,7 +161,6 @@ def save_stop_urls(stop_urls):
     with open(STOP_URLS_FILE, 'w', encoding='utf-8') as f:
         json.dump(stop_urls, f, indent=2)
 
-# ... (Các hàm check_url_exists, apply_replacements, apply_fallback_logic giữ nguyên) ...
 def check_url_exists(url):
     """Kiểm tra xem một URL có tồn tại không bằng cách gửi yêu cầu HEAD."""
     try:
@@ -143,7 +176,6 @@ def apply_replacements(image_url, replacements, always_replace=False):
     """
     final_img_url = image_url
     
-    # Logic thay thế chuỗi cho API và các trường hợp khác (dạng dictionary)
     if replacements and isinstance(replacements, dict):
         for original, replacement_list in replacements.items():
             if original in image_url:
@@ -153,21 +185,19 @@ def apply_replacements(image_url, replacements, always_replace=False):
                     if always_replace:
                         return new_url
                     
-                    # Với API, kiểm tra sự tồn tại của URL mới
                     if check_url_exists(new_url):
                         print(f"✅ Found a valid replacement URL: {new_url}")
                         return new_url
                     else:
                         print(f"❌ Replacement URL not found: {new_url}. Trying next...")
-                # Nếu không tìm thấy URL thay thế nào hợp lệ, trả về URL gốc
                 return image_url
     
     return final_img_url
 
 def apply_fallback_logic(image_url, url_data):
     """
-    Áp dụng logic thay thế đặc biệt (cut_filename_prefix)
-    và kiểm tra sự tồn tại bằng HEAD request.
+    Áp dụng logic thay thế đặc biệt (cut_filename_prefix) một cách thông minh hơn.
+    Nó chỉ áp dụng logic này nếu tên file phù hợp với định dạng nhiễu đã cho (ví dụ: 8 ký tự + '-').
     """
     fallback_rules = url_data.get('fallback_rules', {})
 
@@ -181,23 +211,25 @@ def apply_fallback_logic(image_url, url_data):
     path_parts = parsed_url.path.split('/')
     filename = path_parts[-1]
     prefix_length = fallback_rules.get('prefix_length', 0)
-
-    # Check if the filename has the expected format before cutting
+    
     if len(filename) > prefix_length and filename[prefix_length - 1] == '-':
-        new_filename = filename[prefix_length:]
-        new_path = '/'.join(path_parts[:-1] + [new_filename])
-        modified_url = parsed_url._replace(path=new_path).geturl()
+        prefix = filename[:prefix_length-1]
+        
+        if re.match(r'^[a-zA-Z0-9_-]+$', prefix):
+            new_filename = filename[prefix_length:]
+            new_path = '/'.join(path_parts[:-1] + [new_filename])
+            modified_url = parsed_url._replace(path=new_path).geturl()
 
-        print(f"[{url_data['url']}] Checking fallback URL: {modified_url}")
-        if check_url_exists(modified_url):
-            print(f"[{url_data['url']}] ✅ Found valid URL using fallback logic for original: {image_url}")
-            return modified_url
-        else:
-            print(f"[{url_data['url']}] ❌ Fallback URL not found. Using original.")
-            
+            print(f"[{url_data['url']}] Checking fallback URL: {modified_url}")
+            if check_url_exists(modified_url):
+                print(f"[{url_data['url']}] ✅ Found valid URL using fallback logic for original: {image_url}")
+                return modified_url
+            else:
+                print(f"[{url_data['url']}] ❌ Fallback URL not found. Using original.")
+                
     return image_url
 # ----------------------------------------------------------------------------------------------------------------------
-# Crawl Functions (Giữ nguyên logic, chỉ in log)
+# Crawl Functions
 # ----------------------------------------------------------------------------------------------------------------------
 def find_best_image_url(soup, url_data):
     """
@@ -207,7 +239,6 @@ def find_best_image_url(soup, url_data):
     replacements = url_data.get('replacements', {})
     selector = url_data.get('selector')
     
-    # 1. Logic tìm kiếm ưu tiên cho định dạng danh sách (list)
     if isinstance(replacements, list):
         for suffix in replacements:
             if selector:
@@ -221,7 +252,6 @@ def find_best_image_url(soup, url_data):
                     print(f"Found prioritized URL in HTML: {img_url}")
                     return img_url
     
-    # 2. Fallback sang og:image
     og_image_tag = soup.find('meta', property='og:image')
     if og_image_tag:
         img_url = og_image_tag.get('content')
@@ -229,8 +259,6 @@ def find_best_image_url(soup, url_data):
             print(f"Using fallback og:image URL: {img_url}")
             return img_url
             
-    # 3. Fallback sang img tag thông thường
-    # Chỉ áp dụng nếu không có selector và replacements
     if not selector and not replacements:
         for img_tag in soup.find_all('img'):
             img_url = img_tag.get('src') or img_tag.get('data-src') or img_tag.get('data-lazy-src')
@@ -243,7 +271,6 @@ def find_best_image_url(soup, url_data):
 def fetch_image_urls_from_api(url_data, stop_urls_list):
     """
     Tải và phân tích URL hình ảnh từ API.
-    Thực hiện replace và checkhead.
     """
     all_image_urls = []
     new_product_urls_found = []
@@ -296,7 +323,7 @@ def fetch_image_urls_from_api(url_data, stop_urls_list):
     return all_image_urls, new_product_urls_found
 
 def fetch_image_urls_from_prevnext(url_data, stop_urls_list):
-    """Crawl sản phẩm theo chuỗi next/prev với cơ chế khôi phục và stop_urls.txt."""
+    """Crawl sản phẩm theo chuỗi next/prev."""
     all_image_urls = []
     new_product_urls_found = []
     domain = urlparse(url_data['url']).netloc
@@ -317,7 +344,6 @@ def fetch_image_urls_from_prevnext(url_data, stop_urls_list):
 
     count = 0
     while count < MAX_PREVNEXT_URLS:
-        # Kiểm tra URL sản phẩm để dừng
         if current_product_url in stop_urls_list:
             print(f"Đã tìm thấy URL dừng: {current_product_url}, kết thúc crawl.")
             break
@@ -348,7 +374,6 @@ def fetch_image_urls_from_prevnext(url_data, stop_urls_list):
             print(f"Lỗi khi truy cập {current_product_url}: {e}")
             print(f"URL thành công gần nhất: {last_successful_product_url}")
             
-            # Cơ chế khôi phục từ repo product
             repo_file_url = REPO_URL_PATTERN.format(domain=domain)
             try:
                 repo_file = requests.get(repo_file_url, headers=HEADERS, timeout=30)
@@ -377,8 +402,8 @@ def fetch_image_urls_from_prevnext(url_data, stop_urls_list):
                 else:
                     print(f"Không thể truy cập repo {repo_file_url}, kết thúc.")
                     break
-            except requests.exceptions.RequestException as e:
-                print(f"Lỗi khi truy cập repo: {e}, kết thúc.")
+            except requests.exceptions.RequestException as ex:
+                print(f"Lỗi khi truy cập repo: {ex}, kết thúc.")
                 break
 
     return all_image_urls, new_product_urls_found
@@ -438,13 +463,13 @@ def fetch_image_urls_from_product_list(url_data, stop_urls_list):
             continue
 
     return all_image_urls, new_product_urls_found
+
 # ----------------------------------------------------------------------------------------------------------------------
-# Main Execution (MODIFIED paths)
+# Main Execution
 # ----------------------------------------------------------------------------------------------------------------------
 
 def save_urls(domain, new_urls):
     """Lưu các URL mới vào đầu tệp của domain trong thư mục `domain`."""
-    # MODIFIED: Tạo thư mục domain nếu chưa có
     if not os.path.exists(DOMAIN_DIR):
         os.makedirs(DOMAIN_DIR)
         
@@ -524,12 +549,10 @@ if __name__ == "__main__":
     end_time = time.time()
     duration = end_time - start_time
     
-    # NEW: Chuyển đổi thời gian
     minutes = int(duration // 60)
     seconds = int(duration % 60)
     formatted_duration = f"{minutes} min {seconds} seconds"
 
-    # NEW: Lưu log và tạo message cho Telegram
     log_lines = [
         "--- Summary of Last Image Crawl ---",
         f"Generated at: {now_vietnam.strftime('%Y-%m-%d %H:%M:%S %z')}",
@@ -546,23 +569,40 @@ if __name__ == "__main__":
 
     print(f"\n--- Summary saved to {LOG_FILE} ---")
     
-    # NEW: Gửi báo cáo Telegram
+    # --- START: LOGIC MỚI ĐỂ KIỂM TRA VÀ KÍCH HOẠT WORKFLOW ---
+    found_new_images = False
     try:
         with open(LOG_FILE, "r", encoding="utf-8") as f:
             log_content = f.read().splitlines()
         
         telegram_message_lines = []
         for line in log_content:
-            # Lọc bỏ các dòng có "0 New Images"
-            if "0 New Images" not in line:
+            # Dùng regex để tìm dòng có dạng "X New Images"
+            match = re.search(r'(\d+) New Images', line)
+            if match:
+                # Lấy số lượng ảnh mới và chuyển thành số nguyên
+                num_new_images = int(match.group(1))
+                if num_new_images > 0:
+                    found_new_images = True
                 telegram_message_lines.append(line)
-        
-        if len(telegram_message_lines) > 2: # Nếu có ít nhất 1 dòng domain có ảnh mới
+            # Thêm các dòng không chứa thông tin ảnh mới vào tin nhắn telegram
+            elif "New Images" not in line:
+                 telegram_message_lines.append(line)
+
+
+        # Gửi báo cáo Telegram nếu có ảnh mới
+        if found_new_images:
+            print("Tìm thấy ảnh mới, đang chuẩn bị gửi báo cáo...")
             final_telegram_message = "\n".join(telegram_message_lines)
             send_telegram_message(final_telegram_message)
+            
+            # Kích hoạt workflow của repo khác
+            trigger_workflow_dispatch()
         else:
-            print("Không có ảnh mới nào được tìm thấy. Bỏ qua việc gửi báo cáo Telegram.")
+            print("Không có ảnh mới nào được tìm thấy. Bỏ qua các hành động tiếp theo.")
+
     except FileNotFoundError:
-        print(f"Lỗi: Không tìm thấy tệp {LOG_FILE} để gửi báo cáo Telegram.")
+        print(f"Lỗi: Không tìm thấy tệp {LOG_FILE} để xử lý.")
     
+    # Luôn chạy push để cập nhật log và stop_urls.txt
     git_push_changes()

@@ -3,7 +3,7 @@ name: KTB Image Crawler
 on:
   workflow_dispatch: # Cho phép chạy thủ công từ tab Actions
   schedule:
-    - cron: '0 */6 * * *' # Chạy mỗi 6 giờ
+    - cron: "*/30 0-16 * * *"
 
 jobs:
   Image-Crawl:
