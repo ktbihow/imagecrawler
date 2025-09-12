@@ -113,7 +113,8 @@
     },
     {
         "url": "https://teleteeshirt.com/",
-        "source_type": "api"
+        "selector": "div.product-images img",
+        "source_type": "product-list"
     },
     {
         "url": "https://teeslocal.com/",
