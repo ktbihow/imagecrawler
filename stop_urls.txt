@@ -115,14 +115,16 @@
     "https://fanaticity.com/product/theo-lawrence-and-will-worden-in-austin-tx-on-sep-13-2025-poster-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/dark-star-orchestra-portland-me-dec-29-2025-t-shirt/",
-    "https://legendusashirt.com/product/currents-the-dome-wallingford-ct-2025-holiday-show-t-shirt/",
-    "https://legendusashirt.com/product/charlie-kirk-forever-in-our-hearts-t-shirt/",
-    "https://legendusashirt.com/product/charlie-kirk-the-turning-point-usa-a-true-patriot-never-surrender-t-shirt/",
-    "https://legendusashirt.com/product/chicago-bears-chicago-cubs-its-the-most-wonderful-time-of-the-year-2025-t-shirt/",
-    "https://legendusashirt.com/product/charlie-kirk-they-shot-the-words-not-the-man-t-shirt/",
-    "https://legendusashirt.com/product/cowards-kill-men-debate-justice-for-charlie-kirk-2025-t-shirt/",
-    "https://legendusashirt.com/product/charlie-kirk-shot-freedom-t-shirt/"
+    "https://legendusashirt.com/product/baltimore-ravens-yes-i-am-old-but-i-saw-xlvii-champions-signatures-thank-you-for-the-memories-t-shirt/",
+    "https://legendusashirt.com/product/baltimore-ravens-skyline-names-thank-you-for-the-memories-2025-t-shirt/",
+    "https://legendusashirt.com/product/american-legend-rest-in-peace-charlie-kirk-1993-2025-t-shirt/",
+    "https://legendusashirt.com/product/anthony-rizzo-forever-t-shirt/",
+    "https://legendusashirt.com/product/alabama-crimson-tide-are-you-fall-o-ween-jesus-2025-t-shirt/",
+    "https://legendusashirt.com/product/baltimore-ravens-all-time-greats-1996-2025-2x-sb-champions-signatures-t-shirt/",
+    "https://legendusashirt.com/product/yin-yin-usa-and-canada-tour-2025-t-shirt/",
+    "https://legendusashirt.com/product/words-are-indeed-stronger-than-bullets-charlie-kirk-t-shirt/",
+    "https://legendusashirt.com/product/united-states-of-america-defense-is-freedom-t-shirt/",
+    "https://legendusashirt.com/product/turning-point-usa-2025-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/land-of-the-free-home-of-the-brave-american-flag-with-eagle-shirt/",
@@ -156,16 +158,16 @@
     "https://capitoneshirt.com/product/no-risk-pull-push-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/justice-for-charlie-kirk-usa-flag-shirt/",
-    "https://clickoneshirt.com/product/justice-for-charlie-kirk-usa-flag-rest-in-peace-shirt/",
-    "https://clickoneshirt.com/product/justice-for-charlie-kirk-the-fight-continues-shirt/",
-    "https://clickoneshirt.com/product/justice-for-charlie-kirk-statement-graphic-shirt/",
-    "https://clickoneshirt.com/product/justice-for-charlie-kirk-october-14-1993-september-10-2025-shirt/",
-    "https://clickoneshirt.com/product/justice-for-charlie-kirk-memorial-graphity-shirt/",
-    "https://clickoneshirt.com/product/justice-for-charlie-kirk-american-territory-flag-memorial-shirt/",
-    "https://clickoneshirt.com/product/justice-for-charlie-kirk-1993-2025-shirt/",
-    "https://clickoneshirt.com/product/jesus-and-charlie-kirk-in-heaven-memorial-shirt/",
-    "https://clickoneshirt.com/product/ice-cube-eis-wurfel-shirt/"
+    "https://clickoneshirt.com/product/washington-commanders-vs-green-bay-packers-gameday-2025-comic-shirt/",
+    "https://clickoneshirt.com/product/voices-not-violence-charlie-kirk-1993-2025-statue-of-liberty-shirt/",
+    "https://clickoneshirt.com/product/the-idea-lives-on-rip-charlie-kirk-shirt/",
+    "https://clickoneshirt.com/product/the-american-comeback-tour-usa-2025-charlie-kirk-shirt/",
+    "https://clickoneshirt.com/product/stop-gun-violence-peace-for-our-children-shirt/",
+    "https://clickoneshirt.com/product/statue-of-liberty-silence-is-compliance-sarcastic-shirt/",
+    "https://clickoneshirt.com/product/statue-of-liberty-charlie-kirk-freedom-great-american-patriot-shirt/",
+    "https://clickoneshirt.com/product/stand-strong-in-horror-of-charlie-kirk-1993-2025-memorial-shirt/",
+    "https://clickoneshirt.com/product/stand-against-violance-stand-with-charlie-kirk-shirt/",
+    "https://clickoneshirt.com/product/rip-charlie-kirk-a-true-patriot-1993-2025-thank-you-signature-memorial-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/bring-back-the-i-formation-t-shirts/",
@@ -261,28 +263,28 @@
     "https://neoteeco.com/product/aliyah-boston-indiana-fever-wnba-all-team-basketball-poster-2025-artwork-all-over-print-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/im-okay-with-being-looped-out-t-shirt/",
-    "https://newshirtstore.com/product/j-j-mccarthy-where-else-would-you-rather-be-shirt/",
-    "https://newshirtstore.com/product/fedex-grinch-just-waiting-for-halloween-goth-graphic-shirt/",
-    "https://newshirtstore.com/product/i-gave-110-now-what-t-shirt/",
-    "https://newshirtstore.com/product/ghost-spooky-ghosts-halloween-shirt/",
-    "https://newshirtstore.com/product/ghost-ghoul-ghosts-halloween-shirt/",
-    "https://newshirtstore.com/product/houston-colt-45s-shirt/",
-    "https://newshirtstore.com/product/fifa-worldcup-2026-dallas-cowboys-bicycle-kick-shirt/",
-    "https://newshirtstore.com/product/gary-riding-badger-state-shirt/",
-    "https://newshirtstore.com/product/def-leppard-cowboy-skeleton-basic-shirt/"
+    "https://newshirtstore.com/product/kansas-city-chiefs-cheerleader-go-chiefs-vintage-shirt/",
+    "https://newshirtstore.com/product/lafayette-bulls-louisiana-vintage-shirt/",
+    "https://newshirtstore.com/product/justice-for-iryna-zarutska-t-shirt/",
+    "https://newshirtstore.com/product/kylian-mbappe-scores-51st-france-goal-equals-thierry-henry-shirt/",
+    "https://newshirtstore.com/product/jaren-kanak-burger-time-shirt/",
+    "https://newshirtstore.com/product/in-loving-memory-charlie-kirk-shirt/",
+    "https://newshirtstore.com/product/jason-kelce-old-fashioned-donuts-monday-night-countdown-shirt/",
+    "https://newshirtstore.com/product/its-finally-autism-autumn-cat-shirt/",
+    "https://newshirtstore.com/product/keir-starmer-wanker-shirt/",
+    "https://newshirtstore.com/product/hardcore-tag-team-superstars-young-bucks-slick-nick-and-mr-instant-replay-bear-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/ford-motor-x-horror-movies-halloween-you-cant-sit-with-us-shirt/",
-    "https://eteeclothing.com/product/eagle-we-are-charlie-kirk-shirt/",
-    "https://eteeclothing.com/product/donovan-jones-western-kentucky-hilltoppers-football-illustrated-shirt/",
-    "https://eteeclothing.com/product/diego-pavia-vanderbilt-illustrated-signature-shirt/",
-    "https://eteeclothing.com/product/cross-mascot-vanderbilt-in-my-veins-jesus-in-my-heart-shirt/",
-    "https://eteeclothing.com/product/cross-mascot-uconn-huskies-in-my-veins-jesus-in-my-heart-shirt/",
-    "https://eteeclothing.com/product/cross-mascot-texas-tech-in-my-veins-jesus-in-my-heart-shirt/",
-    "https://eteeclothing.com/product/cisco-x-horror-movies-halloween-you-cant-sit-with-us-shirt/",
-    "https://eteeclothing.com/product/chicago-cubs-legends-rizzo-and-sandberg-forever-skyline-shirt/",
-    "https://eteeclothing.com/product/chicago-cubs-legends-all-time-greats-signatures-shirt/"
+    "https://eteeclothing.com/product/pray-for-charlie-kirk-freedom-cross-us-flag-2-sided-t-shirt/",
+    "https://eteeclothing.com/product/pizza-hut-x-horror-movies-halloween-you-cant-sit-with-us-shirt/",
+    "https://eteeclothing.com/product/pepsi-x-horror-movies-halloween-you-cant-sit-with-us-shirt/",
+    "https://eteeclothing.com/product/penn-state-nittany-lions-saturdays-on-philadelphia-eagles-sundays-skyline-shirt/",
+    "https://eteeclothing.com/product/patriotic-memorial-rip-charlie-kirk-the-idea-lives-on-voices-cant-be-silenced-signature-shirt/",
+    "https://eteeclothing.com/product/osu-oregon-state-beavers-2-sided-t-shirt/",
+    "https://eteeclothing.com/product/oregon-ducks-softball-2-sided-t-shirt/",
+    "https://eteeclothing.com/product/oregon-ducks-football-gay-pride-2-sided-t-shirt/",
+    "https://eteeclothing.com/product/ohio-always-can-beat-michigan-ohio-state-buckeyes-against-the-world-2-sided-t-shirt/",
+    "https://eteeclothing.com/product/new-york-yankees-stand-with-charlie-kirk-heart-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/official-rection-10-piglet-shirt/",
