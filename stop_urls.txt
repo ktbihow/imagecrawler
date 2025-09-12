@@ -203,16 +203,16 @@
     "https://clickoneshirt.com/product/the-muppets-i-know-im-weird-but-sometimes-it-makes-you-laugh-and-that-makes-me-super-happy-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/toad-the-wet-sprocket-california-wasted-t-shirts/",
-    "https://teleteeshirt.com/product/while-she-sleeps-stand-tall-know-your-worth-t-shirts/",
-    "https://teleteeshirt.com/product/while-she-sleeps-the-north-stands-for-nothing-this-is-the-six-brainwashed-you-are-we-so-what-sleeps-society-self-hell-discog-t-shirts/",
-    "https://teleteeshirt.com/product/when-we-were-young-festival-overseer-t-shirts/",
-    "https://teleteeshirt.com/product/this-is-what-an-awesome-patriot-american-flag-eagle-t-shirts/",
-    "https://teleteeshirt.com/product/utah-valley-wolverines-strong-stand-with-charlie-kirk-t-shirts/",
-    "https://teleteeshirt.com/product/thievery-corporation-at-roseland-theater-in-portland-or-on-sept-11-2025-t-shirts/",
-    "https://teleteeshirt.com/product/the-red-clay-strays-tour-2025-andover-ks-on-september-11-t-shirts/",
-    "https://teleteeshirt.com/product/the-purge-election-year-annual-tradition-t-shirts/",
-    "https://teleteeshirt.com/product/the-purge-election-year-for-the-people-t-shirts/"
+    "https://teleteeshirt.com/product/pike-pi-kappa-alpha-est-1868-ghost-t-shirts/",
+    "https://teleteeshirt.com/product/paisaboys-alto-calibre-t-shirts/",
+    "https://teleteeshirt.com/product/official-charlie-kirk-great-american-patriot-the-greatness-of-our-nation-lies-in-the-power-and-potential-of-its-individuals-1993-2025-t-shirts/",
+    "https://teleteeshirt.com/product/my-chemical-romance-raymond-james-stadium-in-tampa-fl-sep-13-2025-t-shirts/",
+    "https://teleteeshirt.com/product/motorhead-killed-by-deaf-a-punk-tribute-to-motorhead-31st-october-2025-t-shirts/",
+    "https://teleteeshirt.com/product/lgnd-supply-co-smoking-kills-marlboro-t-shirts/",
+    "https://teleteeshirt.com/product/lgnd-supply-co-shock-factor-t-shirts/",
+    "https://teleteeshirt.com/product/lgnd-supply-co-no-rich-parents-just-hard-work-earned-not-given-t-shirts/",
+    "https://teleteeshirt.com/product/lgnd-supply-co-luck-is-a-lottery-hustle-is-a-blueprint-legendary-odds-t-shirts/",
+    "https://teleteeshirt.com/product/kengmakleon-spws-ghost-radar-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/underdog-im-the-master-of-my-own-destiny-your-opinion-not-needed-shirt/",
@@ -251,16 +251,16 @@
     "https://dalatshirt.com/product/bigfoot-forest-folk-run-club-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/boston-ma-joe-russos-almost-dead-events-sep-11-2025-shirt/",
-    "https://lovingsquad.com/product/billy-strings-sep-11-2025-schaefer-center-for-the-performing-arts-in-boone-nc-poster-shirt/",
-    "https://lovingsquad.com/product/billy-strings-and-bryan-sutton-with-royal-masat-schaefer-center-for-the-performing-arts-in-boone-nc-sep-11-12-2025-poster-shirt/",
-    "https://lovingsquad.com/product/alabama-shakes-tour-jacobs-pavilion-cleveland-sept-8-2025-poster-shirt/",
-    "https://lovingsquad.com/product/2025-bravado-30-jahre-abenteuerland-poster-shirt/",
-    "https://lovingsquad.com/product/air-israel-new-shirt/",
-    "https://lovingsquad.com/product/2025-gold-rush-the-montana-state-bobcats-football-shirt/",
-    "https://lovingsquad.com/product/cleveland-browns-for-the-brand-shirt/",
-    "https://lovingsquad.com/product/chill-hill-club-pop-pop-shirt/",
-    "https://lovingsquad.com/product/charlies-legacy-lives-on-shirt/"
+    "https://lovingsquad.com/product/green-bay-packers-got-drunk-at-lambeau-and-woke-up-on-lafleur-shirt/",
+    "https://lovingsquad.com/product/georgia-tech-yellow-jackets-im-a-ramblin-wreck-shirt/",
+    "https://lovingsquad.com/product/everything-but-the-girl-the-best-of-shirt/",
+    "https://lovingsquad.com/product/eating-disorder-im-eating-dis-order-shirt/",
+    "https://lovingsquad.com/product/denver-broncos-sunset-shirt/",
+    "https://lovingsquad.com/product/denny-hamlin-checkered-flag-2025-enjoy-illinois-300-race-winner-shirt/",
+    "https://lovingsquad.com/product/ct-bill-cartoon-football-shirt/",
+    "https://lovingsquad.com/product/croskey-merritt-washington-commanders-bill-bill-bill-shirt/",
+    "https://lovingsquad.com/product/charlie-kirk-when-people-stop-talking-thats-when-violence-happens-1993-2025-shirt/",
+    "https://lovingsquad.com/product/charlie-kirk-quote-freedom-is-worth-fighting-for-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/vote-sauron-make-middle-earth-great-again-retro-shirt/",
