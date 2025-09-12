@@ -123,16 +123,16 @@
     "https://serenashirt.com/product/the-nightmare-before-christmas-tonal-group-poster-shirt/"
   ],
   "fanaticity.com": [
-    "https://fanaticity.com/product/yin-yin-usa-and-canada-tour-2025-poster-shirt/",
-    "https://fanaticity.com/product/words-are-indeed-stronger-than-bullets-charlie-kirk-shirt/",
-    "https://fanaticity.com/product/weve-been-priced-out-shirt/",
-    "https://fanaticity.com/product/unreleased-charlie-kirk-design-shirt/",
-    "https://fanaticity.com/product/unity-collective-las-vegas-2025-shirt/",
-    "https://fanaticity.com/product/unc-charlotte-49ers-shirt/",
-    "https://fanaticity.com/product/turning-point-usa-shirt/",
-    "https://fanaticity.com/product/tommy-kelly-florida-state-seminoles-football-signature-shirt/",
-    "https://fanaticity.com/product/tom-smith-2025-uk-ireland-tour-poster-shirt/",
-    "https://fanaticity.com/product/theo-lawrence-and-will-worden-in-austin-tx-on-sep-13-2025-poster-shirt/"
+    "https://fanaticity.com/product/2025-eliza-and-the-delusionals-shirt/",
+    "https://fanaticity.com/product/730-bear-fresh-blank-shirt/",
+    "https://fanaticity.com/product/09-13-2025-my-chemical-romance-tampa-fl-tour-shirt/",
+    "https://fanaticity.com/product/aja-wilson-mvp-campaign-2025-shirt/",
+    "https://fanaticity.com/product/aja-wilson-22-aces-basketball-player-graphic-shirt/",
+    "https://fanaticity.com/product/2025-playoffs-minor-league-baseball-shirt/",
+    "https://fanaticity.com/product/aaron-rodgers-pittsburgh-vintage-football-shirt/",
+    "https://fanaticity.com/product/andrew-mccutchen-if-you-hear-any-noise-its-just-me-and-the-boys-boppin-shirt/",
+    "https://fanaticity.com/product/all-things-go-columbia-maryland-2025-poster-shirt/",
+    "https://fanaticity.com/product/blink-182-fall-tour-2025-darien-center-ny-poster-shirt/"
   ],
   "legendusashirt.com": [
     "https://legendusashirt.com/product/venice-malibu-oxnard-ventura-t-shirt/",
@@ -285,16 +285,7 @@
     "https://collectionpostertour.com/product/boundaries-usa-summer-2025-poster/"
   ],
   "neoteeco.com": [
-    "https://neoteeco.com/product/parkway-drive-killing-with-a-smile-tie-dye-all-over-print-hoodie/",
-    "https://neoteeco.com/product/parkway-drive-killing-with-a-smile-all-over-print-hoodie/",
-    "https://neoteeco.com/product/parkway-drive-killing-with-a-smile-unisex-t-shirt/",
-    "https://neoteeco.com/product/parkway-drive-killing-with-a-smile-two-sides-unisex-longsleeve/",
-    "https://neoteeco.com/product/sabrina-carpenter-tears-movie-style-jumbo-2025-hoem-decor-poster-canvas/",
-    "https://neoteeco.com/product/parkway-drive-poster-killing-with-a-smile-album-artwork-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/oasis-live-25-tour-poster-live-in-estadio-gnp-at-mexico-city-seguros-on-september-12-2025-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/new-york-mets-vs-philadelphia-phillies-poster-baseball-night-in-america-2025-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/molotov-usa-tour-september-2025-dates-and-locations-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/lionel-messi-poster-with-lamine-yamal-and-franco-mastantuono-barcelona-and-argentina-legacy-2025-home-decor-poster-canvas/"
+    "https://neoteeco.com/product/parkway-drive-kwas-20-year-anniversary-killing-with-a-smile-all-over-print-hoodie/"
   ],
   "newshirtstore.com": [
     "https://newshirtstore.com/product/yoda-i-was-taught-to-think-before-i-act-so-if-i-smack-the-stupidity-out-of-you-rest-assured-shirt/",
