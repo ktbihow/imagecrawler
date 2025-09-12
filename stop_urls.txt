@@ -36,14 +36,16 @@
     "https://techteesusa.com/product/elon-musk-american-party-logo-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/resist-the-left-shirt/",
-    "https://teeworksusa.com/product/pritzker-sucks-shirt/",
-    "https://teeworksusa.com/product/monte-carlo-las-vegas-vintage-shirt/",
-    "https://teeworksusa.com/product/this-is-the-turning-point-charlie-kirk-shirt/",
-    "https://teeworksusa.com/product/charlie-kirk-broken-heart-dove-shirt/",
-    "https://teeworksusa.com/product/just-because-you-are-offended-doesnt-mean-you-are-right-charlie-kirk-shirt/",
-    "https://teeworksusa.com/product/comeback-kids-toronto-blue-jays-shirt/",
-    "https://teeworksusa.com/product/the-style-council-a-paris-shirt/"
+    "https://teeworksusa.com/product/the-idea-lives-on-r-i-p-charlie-kirk-shirt/",
+    "https://teeworksusa.com/product/the-charlie-kirk-show-shirt/",
+    "https://teeworksusa.com/product/thats-showbiz-baby-debut-solo-album-shirt/",
+    "https://teeworksusa.com/product/pretty-woman-ugly-hooker-shirt/",
+    "https://teeworksusa.com/product/a-true-patriot-charlie-kirk-1933-2025-american-flag-shirt/",
+    "https://teeworksusa.com/product/an-ethical-society-would-value-lives-more-than-guns-shirt/",
+    "https://teeworksusa.com/product/booster-gold-fan-blub-shirt/",
+    "https://teeworksusa.com/product/better-woke-than-stroke-donald-trump-shirt/",
+    "https://teeworksusa.com/product/cane-ville-miami-hurricanes-mascot-shirt/",
+    "https://teeworksusa.com/product/buffalo-bills-knit-yab-buffalo-buffalo-mascot-wearing-sunglasses-hat-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-washington-commanders-running-hail-t-shirt/",
@@ -165,16 +167,16 @@
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/official-marietta-the-town-faded-when-the-smooth-quit-moving-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-kali-uchis-sincerely-tour-date-back-t-shirts/",
-    "https://uscraftedtees.com/product/official-jd-clark-lone-star-lonely-t-shirts/",
-    "https://uscraftedtees.com/product/official-idaho-vandals-2025-fightin-taters-t-shirts/",
-    "https://uscraftedtees.com/product/official-heart-avery-lynch-sweetheart-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-greatest-defense-ever-chicago-bears-number-of-members-t-shirts/",
-    "https://uscraftedtees.com/product/official-florida-illuminati-graphic-t-shirts/",
-    "https://uscraftedtees.com/product/official-eliza-the-delusionals-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-charlie-kirk-this-is-our-turning-point-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-cboystv-z06-tech-spec-life-wide-open-2025-t-shirts/"
+    "https://uscraftedtees.com/product/official-the-olllam-nov-12-2025-beaver-creek-co-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-the-magic-word-2025-us-tour-voila-presents-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-teenage-death-star-concert-zionist-is-dead-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-skeleton-new-orleans-acid-bath-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-sep-13-2025-my-chemical-romance-tampa-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-paak-house-october-11-2025-csu-channel-islands-ventura-county-ca-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-nine-inch-nails-2025-gas-south-arena-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-killing-with-a-smile-2025-tour-parkway-drive-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-kamasi-washington-september-10-2025-ciudad-de-mexico-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-blondshell-australia-tour-2026-poster-t-shirts/"
   ],
   "capitoneshirt.com": [
     "https://capitoneshirt.com/product/when-free-speech-is-silenced-with-bullets-history-is-repeating-itself-shirt/",
@@ -189,16 +191,16 @@
     "https://capitoneshirt.com/product/right-wing-influencer-charlie-kirk-has-died-following-a-campus-shooting-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/charlie-kirk-if-i-die-i-want-to-be-remembered-for-courage-and-my-faith-shirt/",
-    "https://clickoneshirt.com/product/charlie-kirk-1993-2025-the-faithful-servant-memorial-shirt/",
-    "https://clickoneshirt.com/product/charlie-kirk-77-a-legacy-that-lives-shirt/",
-    "https://clickoneshirt.com/product/charlie-bravo-vintage-logo-graphic-shirt/",
-    "https://clickoneshirt.com/product/certified-ai-free-shirt/",
-    "https://clickoneshirt.com/product/cedar-point-halloweekends-shirt/",
-    "https://clickoneshirt.com/product/cat-i-guess-ill-just-die-dungeon-and-dragon-dice-shirt/",
-    "https://clickoneshirt.com/product/brother-rice-and-st-pats-first-responders-night-shirt/",
-    "https://clickoneshirt.com/product/brook-one-piece-anime-character-instrumentalist-collage-shirt/",
-    "https://clickoneshirt.com/product/boston-celtics-yes-im-old-but-i-saw-celtics-greatness-legendary-basketball-player-signature-shirt/"
+    "https://clickoneshirt.com/product/make-america-healthy-again-shirt/",
+    "https://clickoneshirt.com/product/los-angeles-dodgers-sakura-le-sserafim-signature-shirt/",
+    "https://clickoneshirt.com/product/listen-here-bud-america-deserved-9-11-sarcastic-shirt/",
+    "https://clickoneshirt.com/product/legends-honey-im-home-vintage-shirt/",
+    "https://clickoneshirt.com/product/later-gator-funny-graphic-shirt/",
+    "https://clickoneshirt.com/product/junes-every-days-great-shirt/",
+    "https://clickoneshirt.com/product/jj-mccarthy-and-justin-jefferson-minnesota-vikings-caricature-shirt/",
+    "https://clickoneshirt.com/product/isaac-night-i-love-my-husband-slurp-shirt/",
+    "https://clickoneshirt.com/product/isaac-night-i-love-my-boyfriend-slurp-shirt/",
+    "https://clickoneshirt.com/product/isaac-night-girl-dinner-slurp-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/toad-the-wet-sprocket-california-wasted-t-shirts/",
@@ -237,16 +239,16 @@
     "https://melonashirt.com/product/official-jaylen-carey-23-t-tennessee-basketball-shirts/"
   ],
   "dalatshirt.com": [
-    "https://dalatshirt.com/product/bluey-metal-gear-solid-t-shirts/",
-    "https://dalatshirt.com/product/celtic-park-graphic-t-shirts/",
-    "https://dalatshirt.com/product/cardi-b-am-i-the-drama-portrait-t-shirts/",
-    "https://dalatshirt.com/product/charlie-kirk-great-american-patriot-united-state-map-t-shirts/",
-    "https://dalatshirt.com/product/charlie-kirk-am-charlie-t-shirts/",
-    "https://dalatshirt.com/product/charlies-our-angel-in-loving-memory-charlie-kirk-1993-2025-t-shirts/",
-    "https://dalatshirt.com/product/charlie-kirk-true-patriot-1993-2025-rest-in-power-t-shirts/",
-    "https://dalatshirt.com/product/chilling-tales-of-horror-slave-of-the-living-hell-t-shirts/",
-    "https://dalatshirt.com/product/connect-technical-music-point-youcore-nightcore-resources-sculpted-sampler-t-shirts/",
-    "https://dalatshirt.com/product/decoding-palm-culture-palm-angels-t-shirts/"
+    "https://dalatshirt.com/product/pony-adventure-jungle-uk-ponycon-ocean-2025-t-shirts/",
+    "https://dalatshirt.com/product/porter-bail-bonds-in-a-jam-better-call-porter-t-shirts/",
+    "https://dalatshirt.com/product/rip-charlie-kirk-words-are-power-speak-myself-live-free-ideas-dont-die-the-idea-lives-on-signature-t-shirts/",
+    "https://dalatshirt.com/product/rest-in-peace-charlie-kirk-10-14-1993-9-10-2025-signature-t-shirts/",
+    "https://dalatshirt.com/product/rabbit-on-turtles-back-rush-counterparts-tour-t-shirts/",
+    "https://dalatshirt.com/product/rude-music-is-everything-t-shirts/",
+    "https://dalatshirt.com/product/rushup-edge-of-the-tuss-t-shirts/",
+    "https://dalatshirt.com/product/section-17-podcast-predictions-tulane-green-wave-vs-duke-blue-devils-t-shirts/",
+    "https://dalatshirt.com/product/shooters-bar-and-grill-the-belga-ddicts-experience-poster-t-shirts/",
+    "https://dalatshirt.com/product/skeleton-middle-finger-have-a-nice-day-t-shirts/"
   ],
   "lovingsquad.com": [
     "https://lovingsquad.com/product/you-cant-silence-us-all-i-am-charlie-shirt/",
