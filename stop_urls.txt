@@ -251,16 +251,7 @@
     "https://dalatshirt.com/product/bigfoot-forest-folk-run-club-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/green-bay-packers-got-drunk-at-lambeau-and-woke-up-on-lafleur-shirt/",
-    "https://lovingsquad.com/product/georgia-tech-yellow-jackets-im-a-ramblin-wreck-shirt/",
-    "https://lovingsquad.com/product/everything-but-the-girl-the-best-of-shirt/",
-    "https://lovingsquad.com/product/eating-disorder-im-eating-dis-order-shirt/",
-    "https://lovingsquad.com/product/denver-broncos-sunset-shirt/",
-    "https://lovingsquad.com/product/denny-hamlin-checkered-flag-2025-enjoy-illinois-300-race-winner-shirt/",
-    "https://lovingsquad.com/product/ct-bill-cartoon-football-shirt/",
-    "https://lovingsquad.com/product/croskey-merritt-washington-commanders-bill-bill-bill-shirt/",
-    "https://lovingsquad.com/product/charlie-kirk-when-people-stop-talking-thats-when-violence-happens-1993-2025-shirt/",
-    "https://lovingsquad.com/product/charlie-kirk-quote-freedom-is-worth-fighting-for-shirt/"
+    "https://lovingsquad.com/product/in-a-bit-of-a-pickle-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/vote-sauron-make-middle-earth-great-again-retro-shirt/",
