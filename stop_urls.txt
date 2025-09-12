@@ -36,16 +36,16 @@
     "https://techteesusa.com/product/elon-musk-american-party-logo-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/what-the-duck-shirt/",
-    "https://teeworksusa.com/product/walt-joestar-jr-shirt/",
-    "https://teeworksusa.com/product/violence-has-no-place-in-american-politics-drinking-shirt/",
-    "https://teeworksusa.com/product/the-sopranos-dr-melfi-do-you-feel-depressed-shirt/",
-    "https://teeworksusa.com/product/the-california-raisins-live-from-chilis-90s-bootleg-shirt/",
-    "https://teeworksusa.com/product/talk-to-fascist-in-a-language-they-understand-shirt/",
-    "https://teeworksusa.com/product/sustainability-is-hot-shirt/",
-    "https://teeworksusa.com/product/pug-if-a-child-can-work-a-tablet-phone-or-game-shirt/",
-    "https://teeworksusa.com/product/pray-for-charlie-kirk-and-his-family-shirt/",
-    "https://teeworksusa.com/product/mog-ees-shirt/"
+    "https://teeworksusa.com/product/wslam-natalie-nakase-blow-the-whistle-shirt-2/",
+    "https://teeworksusa.com/product/wslam-hayes-and-thornton-playaz-club-shirt-2/",
+    "https://teeworksusa.com/product/we-are-all-charlie-kirk-shirt/",
+    "https://teeworksusa.com/product/violence-has-no-place-in-american-politics-shirt/",
+    "https://teeworksusa.com/product/vanderbilt-in-my-veins-jesus-in-my-heart-mascot-shirt/",
+    "https://teeworksusa.com/product/vana-tour-shirt/",
+    "https://teeworksusa.com/product/vana-tarot-card-shirt/",
+    "https://teeworksusa.com/product/utah-utes-vs-wyoming-cowboys-red-dead-redemption-parody-shirt/",
+    "https://teeworksusa.com/product/uconn-in-my-veins-jesus-in-my-heart-mascot-shirt/",
+    "https://teeworksusa.com/product/the-packers-won-yesterday-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-washington-commanders-running-hail-t-shirt/",
@@ -108,12 +108,16 @@
     "https://teespix.com/product/no-risk-full-push-shirt/"
   ],
   "nowbestshirt.com": [
-    "https://nowbestshirt.com/product/tyreek-hill-10-miami-dolphins-2025-rivalries-player-name-and-number-2-sided-shirt/",
-    "https://nowbestshirt.com/product/tua-tagovailoa-1-miami-dolphins-2025-rivalries-player-name-and-number-2-sided-shirt/",
-    "https://nowbestshirt.com/product/jaylen-waddle-17-miami-dolphins-2025-rivalries-player-name-and-number-2-sided-shirt/",
-    "https://nowbestshirt.com/product/devon-achane-28-miami-dolphins-2025-rivalries-player-name-and-number-2-sided-shirt/",
-    "https://nowbestshirt.com/product/brock-purdy-13-san-francisco-49ers-player-name-and-number-2-sided-shirt/",
-    "https://nowbestshirt.com/product/weve-been-priced-out-protest-the-libertys-skyrocketing-ticket-prices-2-sided-shirt/"
+    "https://nowbestshirt.com/product/live-like-charlie-kirk-1993-2025-blessed-are-those-who-are-persecuted-because-of-righteousness-2-sided-shirt/",
+    "https://nowbestshirt.com/product/freedom-in-loving-memory-charlie-kirk-2-sided-shirt/",
+    "https://nowbestshirt.com/product/freedom-charlie-kirk-31-legend-never-die-signature-2-sided-shirt/",
+    "https://nowbestshirt.com/product/charlie-kirk-freedom-american-flag-2-sided-shirt/",
+    "https://nowbestshirt.com/product/we-are-charlie-kirk-this-is-the-turning-point-2-sided-shirt/",
+    "https://nowbestshirt.com/product/charlie-kirk-just-because-you-are-offended-doesnt-mean-you-are-right-signature-2-sided/",
+    "https://nowbestshirt.com/product/charlie-kirk-freedoom-just-because-you-are-offended-doesnt-mean-you-are-right-signature-2-sided/",
+    "https://nowbestshirt.com/product/charlie-kirk-father-husband-christian-the-man-the-myth-the-legend-2-sided-shirt/",
+    "https://nowbestshirt.com/product/son-heung-min-7-lafc-hangul-name-and-number-2-sided-shirt/",
+    "https://nowbestshirt.com/product/hank-hank-walker-we-hit-first-we-hit-last-autographed-2-sided-shirt/"
   ],
   "serenashirt.com": [
     "https://serenashirt.com/product/payday-delivery-charge-shirt/",
