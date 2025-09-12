@@ -173,16 +173,16 @@
     "https://uscraftedtees.com/product/original-frog-off-to-commit-tomfoolery-2025-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/official-cool-cat-shirt/",
-    "https://capitoneshirt.com/product/matt-prater-and-josh-allen-game-ball-shirt/",
-    "https://capitoneshirt.com/product/you-cant-silence-us-all-i-am-charlie-shirt/",
-    "https://capitoneshirt.com/product/you-are-the-goat-shirt/",
-    "https://capitoneshirt.com/product/yeah-im-poly-poly-gonna-drink-18-beers-tonight-shirt/",
-    "https://capitoneshirt.com/product/wiener-dog-hot-dog-shirt/",
-    "https://capitoneshirt.com/product/what-the-duck-shirt/",
-    "https://capitoneshirt.com/product/wwmrd-what-would-mr-rogers-do-shirt/",
-    "https://capitoneshirt.com/product/tim-and-moby-full-metal-alchemist-shirt/",
-    "https://capitoneshirt.com/product/words-are-stronger-than-bullets-charlie-kirk-shirt-2/"
+    "https://capitoneshirt.com/product/when-free-speech-is-silenced-with-bullets-history-is-repeating-itself-shirt/",
+    "https://capitoneshirt.com/product/we-are-all-charlie-kirk-now-the-devil-will-not-win-this-war-shirt/",
+    "https://capitoneshirt.com/product/we-are-all-charlie-kirk-now-shirt/",
+    "https://capitoneshirt.com/product/trump-in-america-we-take-blows-but-we-never-buckle-shirt/",
+    "https://capitoneshirt.com/product/time-enough-the-killing-of-charlie-kirk-and-the-epidemic-of-american-shirt/",
+    "https://capitoneshirt.com/product/the-yetee-mog-ees-buc-ees-shirt/",
+    "https://capitoneshirt.com/product/the-onion-dont-tread-on-me-shirt/",
+    "https://capitoneshirt.com/product/rot-in-piss-charlie-kirk-shirt/",
+    "https://capitoneshirt.com/product/tailgatin-up-at-borderland-festival-2025-bills-shirt/",
+    "https://capitoneshirt.com/product/right-wing-influencer-charlie-kirk-has-died-following-a-campus-shooting-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/washington-commanders-vs-green-bay-packers-gameday-2025-comic-shirt/",
@@ -255,16 +255,16 @@
     "https://lovingsquad.com/product/pugsley-i-can-fix-him-slurp-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/baby-yoda-im-old-enough-to-know-better-but-young-enough-to-do-it-anyway-shirt/",
-    "https://designatshop.com/product/baby-yoda-its-officially-wear-a-sweater-in-the-morning-and-regret-it-in-the-afternoon-weather-shirt/",
-    "https://designatshop.com/product/baby-yoda-cup-cofee-i-finally-got-eight-hours-of-sleep-it-took-me-three-days-but-whatever-shirt/",
-    "https://designatshop.com/product/american-flag-pray-for-charlie-kirk-shirt/",
-    "https://designatshop.com/product/baby-yoda-holding-remote-getting-older-is-just-one-body-part-after-another-saying-ha-ha-shirt/",
-    "https://designatshop.com/product/america-will-never-be-the-same-charlie-kirk-rip-shirt/",
-    "https://designatshop.com/product/baby-uoda-magnifying-glass-welcome-to-old-age-you-now-take-pictures-of-instructions-so-you-can-enlarge-shirt/",
-    "https://designatshop.com/product/american-flag-cross-christian-pray-for-charlie-kirk-shirt/",
-    "https://designatshop.com/product/a-true-patriot-charlie-kirk-make-america-great-again-shirt/",
-    "https://designatshop.com/product/a-true-patriot-charlie-kirk-the-greatness-of-our-nation-lies-in-the-power-and-potential-shirt/"
+    "https://designatshop.com/product/when-we-stop-talking-is-when-violence-starts-happening-love-charlie-kirk-shirt/",
+    "https://designatshop.com/product/warrior-girls-powerpuff-style-trio-with-swords-cute-big-eyes-battle-shirt/",
+    "https://designatshop.com/product/stand-with-charlie-kirk-america-freedom-flag-shirt/",
+    "https://designatshop.com/product/sad-baby-yoda-if-you-dont-hear-from-me-its-because-i-dont-hear-from-you-it-works-both-ways-shirt/",
+    "https://designatshop.com/product/rip-charlie-kirk-memorial-patriot-voice-of-truth-symbol-of-love-shirt/",
+    "https://designatshop.com/product/rip-charlie-kirk-american-true-patriot-angel-shirt/",
+    "https://designatshop.com/product/puro-pinche-party-softstyle-t-shirt/",
+    "https://designatshop.com/product/remember-charlie-kirk-faith-over-fear-all-death-can-do-to-the-believer-is-deliver-him-to-jesus-shirt/",
+    "https://designatshop.com/product/pray-for-charlie-kirk-freedom-is-not-free-it-must-be-fought-for-and-defended-shirt/",
+    "https://designatshop.com/product/patriotic-charlie-kirk-great-american-patriot-flag-shirt/"
   ],
   "arjomany.com": [
     "https://arjomany.com/product/tommycash-world-tour-t-shirt/"
