@@ -569,31 +569,43 @@ if __name__ == "__main__":
 
     print(f"\n--- Summary saved to {LOG_FILE} ---")
     
-    # --- START: LOGIC MỚI ĐỂ KIỂM TRA VÀ KÍCH HOẠT WORKFLOW ---
+# THAY THẾ TOÀN BỘ ĐOẠN CODE TỪ DÒNG NÀY...
+# --- START: LOGIC MỚI ĐỂ KIỂM TRA VÀ KÍCH HOẠT WORKFLOW ---
     found_new_images = False
     try:
         with open(LOG_FILE, "r", encoding="utf-8") as f:
             log_content = f.read().splitlines()
         
-        telegram_message_lines = []
+        # Tách các phần của tin nhắn
+        header_lines = []
+        filtered_domain_lines = []
+        footer_line = ""
+
         for line in log_content:
-            # Dùng regex để tìm dòng có dạng "X New Images"
+            # Tìm các dòng kết quả của domain
             match = re.search(r'(\d+) New Images', line)
             if match:
-                # Lấy số lượng ảnh mới và chuyển thành số nguyên
                 num_new_images = int(match.group(1))
                 if num_new_images > 0:
                     found_new_images = True
-                telegram_message_lines.append(line)
-            # Thêm các dòng không chứa thông tin ảnh mới vào tin nhắn telegram
-            elif "New Images" not in line:
-                 telegram_message_lines.append(line)
+                    filtered_domain_lines.append(line) # Chỉ thêm dòng có ảnh mới > 0
+            # Tìm dòng cuối (footer)
+            elif "Crawl duration" in line:
+                footer_line = line
+            # Các dòng còn lại là phần đầu (header)
+            else:
+                header_lines.append(line)
 
-
-        # Gửi báo cáo Telegram nếu có ảnh mới
+        # Nếu tìm thấy ít nhất một domain có ảnh mới thì gửi báo cáo
         if found_new_images:
             print("Tìm thấy ảnh mới, đang chuẩn bị gửi báo cáo...")
-            final_telegram_message = "\n".join(telegram_message_lines)
+            
+            # Ghép các phần lại theo đúng thứ tự
+            final_message_lines = header_lines + filtered_domain_lines
+            if footer_line:
+                final_message_lines.append(footer_line)
+            
+            final_telegram_message = "\n".join(final_message_lines)
             send_telegram_message(final_telegram_message)
             
             # Kích hoạt workflow của repo khác
@@ -606,3 +618,4 @@ if __name__ == "__main__":
     
     # Luôn chạy push để cập nhật log và stop_urls.txt
     git_push_changes()
+# ...CHO ĐẾN HẾT FILE
