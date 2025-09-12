@@ -167,16 +167,16 @@
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/official-the-olllam-nov-12-2025-beaver-creek-co-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-the-magic-word-2025-us-tour-voila-presents-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-teenage-death-star-concert-zionist-is-dead-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-skeleton-new-orleans-acid-bath-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-sep-13-2025-my-chemical-romance-tampa-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-paak-house-october-11-2025-csu-channel-islands-ventura-county-ca-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-nine-inch-nails-2025-gas-south-arena-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-killing-with-a-smile-2025-tour-parkway-drive-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-kamasi-washington-september-10-2025-ciudad-de-mexico-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-blondshell-australia-tour-2026-poster-t-shirts/"
+    "https://uscraftedtees.com/product/official-you-cant-cure-stupid-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-yeah-im-poly-poly-gonna-drink-18-beers-tonight-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-weapons-wendys-zach-cregger-logo-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-time-for-kickoff-so-you-need-to-fck-off-helmet-t-shirts/",
+    "https://uscraftedtees.com/product/official-tailgatin-up-at-borderland-festival-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-ralph-lauren-euro-team-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-proclaim-clothing-charlie-kirk-legacy-t-shirts/",
+    "https://uscraftedtees.com/product/official-ohio-100-years-of-bobcats-since-1925-t-shirts/",
+    "https://uscraftedtees.com/product/official-kali-uchis-the-sincerely-tour-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-houston-oilers-football-helmet-t-shirts/"
   ],
   "capitoneshirt.com": [
     "https://capitoneshirt.com/product/when-free-speech-is-silenced-with-bullets-history-is-repeating-itself-shirt/",
@@ -191,16 +191,16 @@
     "https://capitoneshirt.com/product/right-wing-influencer-charlie-kirk-has-died-following-a-campus-shooting-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/make-america-healthy-again-shirt/",
-    "https://clickoneshirt.com/product/los-angeles-dodgers-sakura-le-sserafim-signature-shirt/",
-    "https://clickoneshirt.com/product/listen-here-bud-america-deserved-9-11-sarcastic-shirt/",
-    "https://clickoneshirt.com/product/legends-honey-im-home-vintage-shirt/",
-    "https://clickoneshirt.com/product/later-gator-funny-graphic-shirt/",
-    "https://clickoneshirt.com/product/junes-every-days-great-shirt/",
-    "https://clickoneshirt.com/product/jj-mccarthy-and-justin-jefferson-minnesota-vikings-caricature-shirt/",
-    "https://clickoneshirt.com/product/isaac-night-i-love-my-husband-slurp-shirt/",
-    "https://clickoneshirt.com/product/isaac-night-i-love-my-boyfriend-slurp-shirt/",
-    "https://clickoneshirt.com/product/isaac-night-girl-dinner-slurp-shirt/"
+    "https://clickoneshirt.com/product/your-mother-was-a-hamster-and-your-father-smelt-of-elderberries-shirt/",
+    "https://clickoneshirt.com/product/you-may-delay-time-will-not-hourglass-graphic-shirt/",
+    "https://clickoneshirt.com/product/yeah-im-poly-poly-gonna-drink-18-beers-tonight-reto-graphic-shirt/",
+    "https://clickoneshirt.com/product/what-the-mallard-graphic-shirt/",
+    "https://clickoneshirt.com/product/wangan-midnight-japanese-racing-shirt/",
+    "https://clickoneshirt.com/product/walter-jr-x-johnny-joestar-jojos-bizarre-adventure-tusk-act-4-prody-shirt/",
+    "https://clickoneshirt.com/product/volleyball-gator-puerto-vallarta-shirt/",
+    "https://clickoneshirt.com/product/us-naval-academy-football-bill-the-goat-mascot-vintage-shirt/",
+    "https://clickoneshirt.com/product/tree-hugger-and-proud-of-it-shirt/",
+    "https://clickoneshirt.com/product/the-muppets-i-know-im-weird-but-sometimes-it-makes-you-laugh-and-that-makes-me-super-happy-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/toad-the-wet-sprocket-california-wasted-t-shirts/",
@@ -239,16 +239,16 @@
     "https://melonashirt.com/product/official-jaylen-carey-23-t-tennessee-basketball-shirts/"
   ],
   "dalatshirt.com": [
-    "https://dalatshirt.com/product/pony-adventure-jungle-uk-ponycon-ocean-2025-t-shirts/",
-    "https://dalatshirt.com/product/porter-bail-bonds-in-a-jam-better-call-porter-t-shirts/",
-    "https://dalatshirt.com/product/rip-charlie-kirk-words-are-power-speak-myself-live-free-ideas-dont-die-the-idea-lives-on-signature-t-shirts/",
-    "https://dalatshirt.com/product/rest-in-peace-charlie-kirk-10-14-1993-9-10-2025-signature-t-shirts/",
-    "https://dalatshirt.com/product/rabbit-on-turtles-back-rush-counterparts-tour-t-shirts/",
-    "https://dalatshirt.com/product/rude-music-is-everything-t-shirts/",
-    "https://dalatshirt.com/product/rushup-edge-of-the-tuss-t-shirts/",
-    "https://dalatshirt.com/product/section-17-podcast-predictions-tulane-green-wave-vs-duke-blue-devils-t-shirts/",
-    "https://dalatshirt.com/product/shooters-bar-and-grill-the-belga-ddicts-experience-poster-t-shirts/",
-    "https://dalatshirt.com/product/skeleton-middle-finger-have-a-nice-day-t-shirts/"
+    "https://dalatshirt.com/product/i-was-not-at-the-first-hii-def-pop-up-store-in-los-angeles-t-shirts/",
+    "https://dalatshirt.com/product/justice-for-charlie-kirk-portrait-t-shirts/",
+    "https://dalatshirt.com/product/leftie-a-person-so-open-minded-their-brains-have-fallen-out-t-shirts/",
+    "https://dalatshirt.com/product/mikhail-gorbachev-minnesota-june-3-1990-t-shirts/",
+    "https://dalatshirt.com/product/mog-ees-style-buc-ees-logo-t-shirts/",
+    "https://dalatshirt.com/product/never-gavin-newsom-t-shirts/",
+    "https://dalatshirt.com/product/notre-dame-fighting-irish-football-mascot-t-shirts-2/",
+    "https://dalatshirt.com/product/no-fire-only-a-naughty-little-monkey-t-shirts/",
+    "https://dalatshirt.com/product/pathifics-pathetic-tiger-rags-auburn-tigers-football-t-shirts/",
+    "https://dalatshirt.com/product/pate-state-freights-university-logo-t-shirts/"
   ],
   "lovingsquad.com": [
     "https://lovingsquad.com/product/you-cant-silence-us-all-i-am-charlie-shirt/",
