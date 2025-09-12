@@ -21,3 +21,5 @@ stop.txt
 
 # Các file tạm thời khác
 *.tmp
+*.bat
+CMD.txt
