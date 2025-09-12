@@ -82,16 +82,16 @@
     "https://dreameshirt.com/product/official-arizona-state-sun-devils-vs-tcu-horned-frogs-football-tempe-az-september-26-2025-helmets-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-vanderbilt-commodore-mascot-in-my-veins-jesus-in-my-heart-2025-shirt/",
-    "https://teeextra.com/product/official-utah-valley-strong-stand-with-charlie-kirk-heart-signature-2025-shirt/",
-    "https://teeextra.com/product/official-uconn-huskies-mascot-in-my-veins-jesus-in-my-heart-2025-shirt/",
-    "https://teeextra.com/product/official-tupac-shakur-55-years-1971-2026-the-man-the-myth-the-legend-signature-shirt/",
-    "https://teeextra.com/product/official-toronto-blue-jays-2025-breast-cancer-awareness-month-shirt/",
-    "https://teeextra.com/product/official-the-peanuts-x-washington-commanders-just-a-woman-who-loves-fall-and-commanders-2025-shirt/",
-    "https://teeextra.com/product/official-the-peanuts-x-san-francisco-49ers-just-a-woman-who-loves-fall-and-49ers-2025-shirt/",
-    "https://teeextra.com/product/official-the-peanuts-x-pittsburgh-steelers-just-a-woman-who-loves-fall-and-steelers-2025-shirt/",
-    "https://teeextra.com/product/official-the-peanuts-x-illinois-fighting-illini-just-a-woman-who-loves-fall-and-illinois-2025-shirt/",
-    "https://teeextra.com/product/official-the-peanuts-x-houston-texans-just-a-woman-who-loves-fall-and-texans-2025-shirt/"
+    "https://teeextra.com/product/official-washington-wizards-basketball-dt-skeleton-shirt/",
+    "https://teeextra.com/product/official-toronto-raptors-basketball-dt-skeleton-shirt/",
+    "https://teeextra.com/product/official-sacramento-kings-basketball-dt-skeleton-shirt/",
+    "https://teeextra.com/product/official-philadelphia-76ers-basketball-dt-skeleton-shirt/",
+    "https://teeextra.com/product/official-los-angeles-lakers-basketball-dt-skeleton-shirt/",
+    "https://teeextra.com/product/official-orlando-magic-basketball-dt-skeleton-shirt/",
+    "https://teeextra.com/product/official-detroit-pistons-basketball-dt-skeleton-shirt/",
+    "https://teeextra.com/product/official-new-orleans-pelicans-basketball-dt-skeleton-shirt/",
+    "https://teeextra.com/product/official-dallas-mavericks-basketball-dead-threads-shirt/",
+    "https://teeextra.com/product/official-atlanta-hawks-basketball-dt-skeleton-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/we-are-all-turning-point-charlie-kirk-shirt/",
@@ -165,16 +165,10 @@
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/original-zom-bee-cute-creepy-2025-t-shirts/",
-    "https://uscraftedtees.com/product/original-the-happy-fits-apple-2025-t-shirts/",
-    "https://uscraftedtees.com/product/original-the-black-crowes-tallest-flag-2025-t-shirts/",
-    "https://uscraftedtees.com/product/original-sorry-i-am-cranky-im-going-through-my-terrible-sixties-right-now-gnome-t-shirts/",
-    "https://uscraftedtees.com/product/original-skeletons-the-palmer-squares-beach-squad-2025-t-shirts/",
-    "https://uscraftedtees.com/product/original-pray-for-charlie-kirk-2025-t-shirts/",
-    "https://uscraftedtees.com/product/original-pheasant-hunting-dont-suck-t-shirts/",
-    "https://uscraftedtees.com/product/original-i-wan-hollow-point-2025-t-shirts/",
-    "https://uscraftedtees.com/product/original-i-never-wish-death-upon-anyone-who-wrongs-me-i-wish-sudden-explosive-diarrhea-while-stuck-in-traffic-t-shirts/",
-    "https://uscraftedtees.com/product/original-frog-off-to-commit-tomfoolery-2025-t-shirts/"
+    "https://uscraftedtees.com/product/official-clearwater-state-cardinal-champions-84-85-86-87-t-shirts/",
+    "https://uscraftedtees.com/product/official-che-noir-the-lotus-child-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-cassidy-paris-bittersweet-t-shirts/",
+    "https://uscraftedtees.com/product/official-certified-ai-free-2025-t-shirts/"
   ],
   "capitoneshirt.com": [
     "https://capitoneshirt.com/product/when-free-speech-is-silenced-with-bullets-history-is-repeating-itself-shirt/",
@@ -196,14 +190,16 @@
     "https://clickoneshirt.com/product/black-out-pediatric-cancer-2025-two-sided-t-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/bring-back-the-i-formation-t-shirts/",
-    "https://teleteeshirt.com/product/cool-cat-t-shirts/",
-    "https://teleteeshirt.com/product/charlie-kirk-martyr-for-democracy-t-shirts/",
-    "https://teleteeshirt.com/product/yeah-im-poly-poly-gonna-drink-18-beers-tonight-t-shirts/",
-    "https://teleteeshirt.com/product/what-the-duck-t-shirts-2/",
-    "https://teleteeshirt.com/product/we-are-all-charlie-kirk-fundraiser-t-shirts-3/",
-    "https://teleteeshirt.com/product/bourbon-beyond-concert-tour-2025-louisville-ky-t-shirts-3/",
-    "https://teleteeshirt.com/product/coach-al-planete-uphoria-new-york-yankees-t-shirts-6/"
+    "https://teleteeshirt.com/product/asuka-langley-soryu-health-eva-02-t-shirts/",
+    "https://teleteeshirt.com/product/asuka-langley-soryu-health-big-jueves-you-will-love-each-other-t-shirts/",
+    "https://teleteeshirt.com/product/anthony-rizzo-chicago-cubs-thank-you-for-the-memories-2012-2021-signature-t-shirts/",
+    "https://teleteeshirt.com/product/asspizza-730-polo-bear-fresh-t-shirts/",
+    "https://teleteeshirt.com/product/anthony-rizzo-ryne-sandberg-forever-signatures-t-shirts/",
+    "https://teleteeshirt.com/product/andys-man-club-2025-winning-competition-t-shirts/",
+    "https://teleteeshirt.com/product/the-sopranos-tony-soprano-t-shirts/",
+    "https://teleteeshirt.com/product/the-maccabees-all-points-east-t-shirts/",
+    "https://teleteeshirt.com/product/the-maccabees-2025-tour-t-shirts/",
+    "https://teleteeshirt.com/product/tame-impala-deadbeat-loser-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/underdog-im-the-master-of-my-own-destiny-your-opinion-not-needed-shirt/",
