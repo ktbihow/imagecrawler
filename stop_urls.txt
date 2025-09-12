@@ -239,16 +239,16 @@
     "https://melonashirt.com/product/official-jaylen-carey-23-t-tennessee-basketball-shirts/"
   ],
   "dalatshirt.com": [
-    "https://dalatshirt.com/product/i-was-not-at-the-first-hii-def-pop-up-store-in-los-angeles-t-shirts/",
-    "https://dalatshirt.com/product/justice-for-charlie-kirk-portrait-t-shirts/",
-    "https://dalatshirt.com/product/leftie-a-person-so-open-minded-their-brains-have-fallen-out-t-shirts/",
-    "https://dalatshirt.com/product/mikhail-gorbachev-minnesota-june-3-1990-t-shirts/",
-    "https://dalatshirt.com/product/mog-ees-style-buc-ees-logo-t-shirts/",
-    "https://dalatshirt.com/product/never-gavin-newsom-t-shirts/",
-    "https://dalatshirt.com/product/notre-dame-fighting-irish-football-mascot-t-shirts-2/",
-    "https://dalatshirt.com/product/no-fire-only-a-naughty-little-monkey-t-shirts/",
-    "https://dalatshirt.com/product/pathifics-pathetic-tiger-rags-auburn-tigers-football-t-shirts/",
-    "https://dalatshirt.com/product/pate-state-freights-university-logo-t-shirts/"
+    "https://dalatshirt.com/product/abolish-the-monarchy-republic-t-shirts/",
+    "https://dalatshirt.com/product/a-true-patriot-charlie-kirk-the-greatness-of-our-nation-lies-in-the-power-and-potential-t-shirts/",
+    "https://dalatshirt.com/product/air-israel-as-twin-towers-t-shirts/",
+    "https://dalatshirt.com/product/active-legion-stand-out-kevin-mccallister-home-alone-movie-t-shirts/",
+    "https://dalatshirt.com/product/bagel-run-club-t-shirts/",
+    "https://dalatshirt.com/product/all-star-major-league-baseball-mlb-with-all-baseball-team-1994-vintage-t-shirts/",
+    "https://dalatshirt.com/product/bat-dont-ever-put-me-in-a-situation-where-i-have-to-show-you-how-heartless-i-can-be-halloween-t-shirts/",
+    "https://dalatshirt.com/product/boys-club-the-great-american-logo-parody-t-shirts/",
+    "https://dalatshirt.com/product/boston-red-sox-weight-lifting-logo-t-shirts/",
+    "https://dalatshirt.com/product/bigfoot-forest-folk-run-club-t-shirts/"
   ],
   "lovingsquad.com": [
     "https://lovingsquad.com/product/you-cant-silence-us-all-i-am-charlie-shirt/",
