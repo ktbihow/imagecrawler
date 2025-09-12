@@ -7,6 +7,7 @@ import re
 from datetime import datetime
 import pytz
 import subprocess
+import time
 from dotenv import load_dotenv
 
 # --- START: Cấu hình đường dẫn ---
@@ -466,6 +467,8 @@ def save_urls(domain, new_urls):
     return len(unique_new_urls), len(all_urls)
 
 if __name__ == "__main__":
+    start_time = time.time()
+    
     configs = load_config()
     if not configs:
         exit(1)
@@ -473,14 +476,12 @@ if __name__ == "__main__":
     urls_summary = {}
     stop_urls_data = load_stop_urls()
     
-    # MODIFIED: Tạo thư mục domain nếu chưa tồn tại để tránh lỗi ở lần chạy đầu
     if not os.path.exists(DOMAIN_DIR):
         os.makedirs(DOMAIN_DIR)
 
     for url_data in configs:
         domain = urlparse(url_data['url']).netloc
         
-        # MODIFIED: Đường dẫn file domain.txt
         domain_file_path = os.path.join(DOMAIN_DIR, f"{domain}.txt")
         try:
             with open(domain_file_path, "r", encoding="utf-8") as f:
@@ -513,31 +514,55 @@ if __name__ == "__main__":
         if new_product_urls_found:
             stop_urls_data[domain] = new_product_urls_found[:STOP_URLS_COUNT]
         elif domain in stop_urls_data:
-            # Vẫn giữ lại các stop urls cũ nếu không tìm thấy url mới
             stop_urls_data[domain] = stop_urls_data.get(domain, [])[:STOP_URLS_COUNT]
         
     save_stop_urls(stop_urls_data)
 
     vietnam_tz = pytz.timezone('Asia/Ho_Chi_Minh')
     now_vietnam = datetime.now(vietnam_tz)
+    
+    end_time = time.time()
+    duration = end_time - start_time
+    
+    # NEW: Chuyển đổi thời gian
+    minutes = int(duration // 60)
+    seconds = int(duration % 60)
+    formatted_duration = f"{minutes} min {seconds} seconds"
 
-    # MODIFIED: Lưu log và tạo message cho Telegram
-    summary_message_lines = [
-        f"*Image Crawler Summary*",
-        f"`Thời gian: {now_vietnam.strftime('%Y-%m-%d %H:%M:%S')}`\n"
+    # NEW: Lưu log và tạo message cho Telegram
+    log_lines = [
+        "--- Summary of Last Image Crawl ---",
+        f"Generated at: {now_vietnam.strftime('%Y-%m-%d %H:%M:%S %z')}",
     ]
     
+    for domain, counts in urls_summary.items():
+        log_line = f"{domain}: {counts['new_count']} New Images: {counts['total_count']}"
+        log_lines.append(log_line)
+            
+    log_lines.append(f"Crawl duration: {formatted_duration}.")
+    
     with open(LOG_FILE, "w", encoding="utf-8") as f:
-        f.write("--- Summary of Last Image Crawl ---\n")
-        f.write(f"Thời gian: {now_vietnam.strftime('%Y-%m-%d %H:%M:%S')}\n")
-        for domain, counts in urls_summary.items():
-            line = f"{domain}: {counts['new_count']} new URLs added. Total {counts['total_count']} URLs."
-            f.write(line + "\n")
-            summary_message_lines.append(f"*{domain}*: `{counts['new_count']}` new, `{counts['total_count']}` total.")
+        f.write("\n".join(log_lines))
 
     print(f"\n--- Summary saved to {LOG_FILE} ---")
     
-    # NEW: Gửi báo cáo Telegram và push lên Git
-    final_summary_message = "\n".join(summary_message_lines)
-    send_telegram_message(final_summary_message)
+    # NEW: Gửi báo cáo Telegram
+    try:
+        with open(LOG_FILE, "r", encoding="utf-8") as f:
+            log_content = f.read().splitlines()
+        
+        telegram_message_lines = []
+        for line in log_content:
+            # Lọc bỏ các dòng có "0 New Images"
+            if "0 New Images" not in line:
+                telegram_message_lines.append(line)
+        
+        if len(telegram_message_lines) > 2: # Nếu có ít nhất 1 dòng domain có ảnh mới
+            final_telegram_message = "\n".join(telegram_message_lines)
+            send_telegram_message(final_telegram_message)
+        else:
+            print("Không có ảnh mới nào được tìm thấy. Bỏ qua việc gửi báo cáo Telegram.")
+    except FileNotFoundError:
+        print(f"Lỗi: Không tìm thấy tệp {LOG_FILE} để gửi báo cáo Telegram.")
+    
     git_push_changes()
