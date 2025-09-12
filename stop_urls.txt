@@ -1,15 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/well-done-good-and-faithful-servant-charlie-kirk-2025-shirt/",
-    "https://geekteesus.com/product/we-stand-with-charlie-kirk-american-flag-shirt/",
-    "https://geekteesus.com/product/we-are-all-charlie-kirk-shirt/",
-    "https://geekteesus.com/product/united-states-space-force-redstone-arsenal-shirt/",
-    "https://geekteesus.com/product/true-og-sebastian-janikowski-shirt/",
-    "https://geekteesus.com/product/this-is-my-turning-point-charlie-kirk-1993-2025-shirt/",
-    "https://geekteesus.com/product/ripcharlie-kirk-a-true-patriot-shirt/",
-    "https://geekteesus.com/product/rest-in-peace-charlie-kirk-shirt/",
-    "https://geekteesus.com/product/model-iryna-zarutska-murdered-on-train-shirt/",
-    "https://geekteesus.com/product/justice-for-charlie-kirk-censored-targeted-silenced-we-wont-stay-quiet-shirt/"
+    "https://geekteesus.com/product/charlie-hero-kirk-shirt/",
+    "https://geekteesus.com/product/buffalo-bills-my-cat-is-also-in-the-meowfia-shirt/",
+    "https://geekteesus.com/product/america-will-never-be-the-same-charlie-kirk-signature-shirt/",
+    "https://geekteesus.com/product/america-will-never-be-the-same-charlie-kirk-shirt/",
+    "https://geekteesus.com/product/all-elite-wrestling-timeless-toni-storm-and-mina-shirakawa-intemporelle-vintage-poster-shirt/",
+    "https://geekteesus.com/product/alabama-vs-clemson-2016-college-football-playoff-national-championship-vintage-shirt/",
+    "https://geekteesus.com/product/air-israel-shirt/",
+    "https://geekteesus.com/product/2019-college-football-playoff-national-championship-clemson-vs-alabama-vintage-shirt/",
+    "https://geekteesus.com/product/a-day-to-remember-raccoon-riding-alligator-sunglasses-funny-animal-illustration-shirt/",
+    "https://geekteesus.com/product/2025-new-york-mets-fdny-9-11-logo-shirt/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-springfield-cardinals-2025-first-second-half-north-division-championship-texas-league-fan-gear-t-shirt/",
@@ -36,7 +36,12 @@
     "https://techteesusa.com/product/elon-musk-american-party-logo-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/south-florida-bulls-football-shirt/"
+    "https://teeworksusa.com/product/star-wars-empire-strikes-back-graphic-shirt/",
+    "https://teeworksusa.com/product/sad-country-songs-cold-beer-2025-shirt/",
+    "https://teeworksusa.com/product/resist-left-2025-shirt/",
+    "https://teeworksusa.com/product/pray-charlie-kirk-photo-shirt/",
+    "https://teeworksusa.com/product/wslam-natalie-nakase-blow-whistle-basketball-shirt/",
+    "https://teeworksusa.com/product/wslam-hayes-thornton-playaz-club-basketball-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-washington-commanders-running-hail-t-shirt/",
@@ -87,16 +92,16 @@
     "https://teeextra.com/product/official-atlanta-hawks-basketball-dt-skeleton-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/kyle-schwarber-joins-club-50-hr-shirt/",
-    "https://teespix.com/product/kyle-schwarber-50-home-runs-poster-shirt/",
-    "https://teespix.com/product/kyle-schwarber-50-hr-schwarbombs-t-shirt/",
-    "https://teespix.com/product/texas-tech-the-jc-suns-up-guns-up-shirt/",
-    "https://teespix.com/product/los-angeles-rams-nike-2025-rivalries-logo-shirt/",
-    "https://teespix.com/product/los-angeles-rams-2025-rivalries-rams-house-t-shirt/",
-    "https://teespix.com/product/seattle-seahawks-nike-2025-rivalries-logo-t-shirt/",
-    "https://teespix.com/product/san-francisco-49ers-nike-2025-rivalries-forty-niners-shirt/",
-    "https://teespix.com/product/san-francisco-49ers-nike-niners-2025-rivalries-shirt/",
-    "https://teespix.com/product/san-francisco-49ers-nike-2025-rivalries-logo-shirt/"
+    "https://teespix.com/product/prove-me-wrong-godspeed-charlie-kirk-1993-2025-shirt/",
+    "https://teespix.com/product/freedom-charlie-kirk-dont-stop-fighting-t-shirt/",
+    "https://teespix.com/product/anthony-rizzo-chicago-cubs-forever-shirt/",
+    "https://teespix.com/product/charlie-kirk-freedom-memorial-shirt/",
+    "https://teespix.com/product/the-true-patriot-freedom-charlie-kirk-worlds-are-stronger-than-bullets-shirt/",
+    "https://teespix.com/product/freedom-charlie-kirk-forever-in-our-hearts-t-shirt/",
+    "https://teespix.com/product/charlie-kirk-1993-2025-great-american-patriot-t-shirt/",
+    "https://teespix.com/product/justice-for-charlie-kirk-freedom-of-speech-t-shirt/",
+    "https://teespix.com/product/taste-good-texas-am-aggies-bear-t-shirt/",
+    "https://teespix.com/product/kentucky-wildcats-spooky-ghosts-halloween-t-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/live-like-charlie-kirk-1993-2025-blessed-are-those-who-are-persecuted-because-of-righteousness-2-sided-shirt/",
@@ -246,16 +251,16 @@
     "https://dalatshirt.com/product/bigfoot-forest-folk-run-club-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/you-cant-silence-us-all-i-am-charlie-shirt/",
-    "https://lovingsquad.com/product/world-dot-day-kids-colorful-polka-shirt/",
-    "https://lovingsquad.com/product/wok-is-dead-retro-shirt/",
-    "https://lovingsquad.com/product/parlay-smacked-retro-shirt/",
-    "https://lovingsquad.com/product/i-am-charlie-inspirational-tribute-shirt/",
-    "https://lovingsquad.com/product/life-is-like-a-wiener-dog-somehow-both-long-and-short-shirt/",
-    "https://lovingsquad.com/product/halloween-ghost-holding-black-cat-vintage-shirt/",
-    "https://lovingsquad.com/product/almost-friday-game-ball-shirt/",
-    "https://lovingsquad.com/product/baby-yoda-i-suffer-from-c-h-s-cant-hear-shit-i-will-huh-the-crap-out-of-you-shirt/",
-    "https://lovingsquad.com/product/charlie-freedom-freedom-shirt/"
+    "https://lovingsquad.com/product/la-boo-boo-labubu-characters-in-halloween-shirt/",
+    "https://lovingsquad.com/product/justice-for-charlie-kirk-memorial-shirt/",
+    "https://lovingsquad.com/product/just-a-girl-who-loves-halloween-and-pittsburgh-steelers-x-peanuts-characters-shirt/",
+    "https://lovingsquad.com/product/just-a-girl-who-loves-halloween-and-penn-state-nittany-lions-x-peanuts-characters-shirt/",
+    "https://lovingsquad.com/product/its-a-tea-original-shirt/",
+    "https://lovingsquad.com/product/its-2-17-am-do-you-know-where-your-children-are-written-by-zach-cregger-and-new-line-cinema-shirt/",
+    "https://lovingsquad.com/product/in-loving-memory-of-charlie-kirk-sept-10th-2025-shirt/",
+    "https://lovingsquad.com/product/im-too-expensive-shirt/",
+    "https://lovingsquad.com/product/if-you-hear-any-noise-its-just-josh-and-the-bills-boppin-shirt/",
+    "https://lovingsquad.com/product/idaho-vandal-athletics-50th-anniversary-of-the-kibbie-dome-sweet-dome-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/vote-sauron-make-middle-earth-great-again-retro-shirt/",
