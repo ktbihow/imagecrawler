@@ -36,12 +36,16 @@
     "https://techteesusa.com/product/elon-musk-american-party-logo-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/star-wars-empire-strikes-back-graphic-shirt/",
-    "https://teeworksusa.com/product/sad-country-songs-cold-beer-2025-shirt/",
-    "https://teeworksusa.com/product/resist-left-2025-shirt/",
-    "https://teeworksusa.com/product/pray-charlie-kirk-photo-shirt/",
-    "https://teeworksusa.com/product/wslam-natalie-nakase-blow-whistle-basketball-shirt/",
-    "https://teeworksusa.com/product/wslam-hayes-thornton-playaz-club-basketball-shirt/"
+    "https://teeworksusa.com/product/halloween-ii-more-of-the-night-he-came-home-michael-myers-horror-movie-poster-shirt/",
+    "https://teeworksusa.com/product/halloween-dog-or-treat-shirt/",
+    "https://teeworksusa.com/product/guardplayer-blue-octopus-tentacle-skull-retro-shirt/",
+    "https://teeworksusa.com/product/green-bay-packers-zombie-football-players-halloween-graphic-shirt/",
+    "https://teeworksusa.com/product/green-bay-packers-crackers-shirt/",
+    "https://teeworksusa.com/product/green-bay-football-skull-wearing-cheesehead-helmet-grunge-shirt/",
+    "https://teeworksusa.com/product/gettin-lucky-biker-ls-shirt/",
+    "https://teeworksusa.com/product/fox-river-state-penitentiary-chicago-illiois-shirt/",
+    "https://teeworksusa.com/product/fightin_-taters-idaho-vandals-mascot-football-team-shirt/",
+    "https://teeworksusa.com/product/everybody-in-that-birthday-book-is-breathing-a-huge-sigh-of-relief-right-about-now-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-washington-commanders-running-hail-t-shirt/",
@@ -179,16 +183,16 @@
     "https://uscraftedtees.com/product/official-houston-oilers-football-helmet-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/tyler-robinson-they-got-him-charlie-kirk-murderer-is-now-in-custody-shirt/",
-    "https://capitoneshirt.com/product/tyler-robinson-charlie-kirks-assassination-shirt/",
-    "https://capitoneshirt.com/product/ty-cooper-horns-up-mississippi-state-shirt/",
-    "https://capitoneshirt.com/product/trech-kekahuna-graphic-wisconsin-badgers-shirt/",
-    "https://capitoneshirt.com/product/tj-lee-big-t-bc-lions-shirt/",
-    "https://capitoneshirt.com/product/thomas-family-christmas-2025-santa-hat-shirt/",
-    "https://capitoneshirt.com/product/they-got-him-murder-of-charlie-kirk-tyler-robinson-shirt/",
-    "https://capitoneshirt.com/product/the-purge-election-year-annual-halloween-shirt/",
-    "https://capitoneshirt.com/product/the-greatest-snowman-christmas-shirt/",
-    "https://capitoneshirt.com/product/team-europe-bethpage-ryder-cup-2025-shirt/"
+    "https://capitoneshirt.com/product/we-are-all-turning-point-charlie-kirk-shirt/",
+    "https://capitoneshirt.com/product/starvation-war-crime-feed-gaza-and-free-palestine-shirt/",
+    "https://capitoneshirt.com/product/son-heung-min-flexing-jersey-number-shirt/",
+    "https://capitoneshirt.com/product/shooter-mcgavin-happy-gilmore-i-eat-pieces-of-shit-like-you-for-breakfast-shirt/",
+    "https://capitoneshirt.com/product/santa-surfing-let-the-good-times-roll-est-2024-shirt/",
+    "https://capitoneshirt.com/product/santa-claus-behave-christmas-shirt/",
+    "https://capitoneshirt.com/product/pj-walker-johnson-graphic-houston-roughnecks-shirt/",
+    "https://capitoneshirt.com/product/micah-parsons-all-i-know-is-go-gb-packers-shirt/",
+    "https://capitoneshirt.com/product/jeremiah-vessel-heart-hand-unlv-rebels-shirt/",
+    "https://capitoneshirt.com/product/isaiah-freeman-zayball-player-of-the-year-lincoln-university-lion-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/your-mother-was-a-hamster-and-your-father-smelt-of-elderberries-shirt/",
@@ -203,16 +207,14 @@
     "https://clickoneshirt.com/product/the-muppets-i-know-im-weird-but-sometimes-it-makes-you-laugh-and-that-makes-me-super-happy-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/pike-pi-kappa-alpha-est-1868-ghost-t-shirts/",
-    "https://teleteeshirt.com/product/paisaboys-alto-calibre-t-shirts/",
-    "https://teleteeshirt.com/product/official-charlie-kirk-great-american-patriot-the-greatness-of-our-nation-lies-in-the-power-and-potential-of-its-individuals-1993-2025-t-shirts/",
-    "https://teleteeshirt.com/product/my-chemical-romance-raymond-james-stadium-in-tampa-fl-sep-13-2025-t-shirts/",
-    "https://teleteeshirt.com/product/motorhead-killed-by-deaf-a-punk-tribute-to-motorhead-31st-october-2025-t-shirts/",
-    "https://teleteeshirt.com/product/lgnd-supply-co-smoking-kills-marlboro-t-shirts/",
-    "https://teleteeshirt.com/product/lgnd-supply-co-shock-factor-t-shirts/",
-    "https://teleteeshirt.com/product/lgnd-supply-co-no-rich-parents-just-hard-work-earned-not-given-t-shirts/",
-    "https://teleteeshirt.com/product/lgnd-supply-co-luck-is-a-lottery-hustle-is-a-blueprint-legendary-odds-t-shirts/",
-    "https://teleteeshirt.com/product/kengmakleon-spws-ghost-radar-t-shirts/"
+    "https://teleteeshirt.com/product/analepsy-cryogenic-rebirth-t-shirts/",
+    "https://teleteeshirt.com/product/papa-roach-rise-of-the-roach-soldier-t-shirts/",
+    "https://teleteeshirt.com/product/washington-commanders-running-hail-t-shirts/",
+    "https://teleteeshirt.com/product/yeah-im-dtf-down-to-frolic-frog-t-shirts/",
+    "https://teleteeshirt.com/product/tigerbelly-throne-room-t-shirts/",
+    "https://teleteeshirt.com/product/they-might-be-giants-dinosaur-t-shirts/",
+    "https://teleteeshirt.com/product/soapbox-the-good-guys-tour-2025-t-shirts/",
+    "https://teleteeshirt.com/product/rose-gray-a-little-louder-please-black-album-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/underdog-im-the-master-of-my-own-destiny-your-opinion-not-needed-shirt/",
