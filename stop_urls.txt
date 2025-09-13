@@ -114,16 +114,16 @@
     "https://serenashirt.com/product/shrub-oak-volunteer-fire-dept-shirt/"
   ],
   "fanaticity.com": [
-    "https://fanaticity.com/product/2025-eliza-and-the-delusionals-shirt/",
-    "https://fanaticity.com/product/730-bear-fresh-blank-shirt/",
-    "https://fanaticity.com/product/09-13-2025-my-chemical-romance-tampa-fl-tour-shirt/",
-    "https://fanaticity.com/product/aja-wilson-mvp-campaign-2025-shirt/",
-    "https://fanaticity.com/product/aja-wilson-22-aces-basketball-player-graphic-shirt/",
-    "https://fanaticity.com/product/2025-playoffs-minor-league-baseball-shirt/",
-    "https://fanaticity.com/product/aaron-rodgers-pittsburgh-vintage-football-shirt/",
-    "https://fanaticity.com/product/andrew-mccutchen-if-you-hear-any-noise-its-just-me-and-the-boys-boppin-shirt/",
-    "https://fanaticity.com/product/all-things-go-columbia-maryland-2025-poster-shirt/",
-    "https://fanaticity.com/product/blink-182-fall-tour-2025-darien-center-ny-poster-shirt/"
+    "https://fanaticity.com/product/introvert-but-willing-to-travel-shirt/",
+    "https://fanaticity.com/product/got-drunk-at-lambeau-and-woke-up-on-lafleur-green-bay-packers-shirt/",
+    "https://fanaticity.com/product/god-family-country-in-that-order-charlie-kirk-shirt/",
+    "https://fanaticity.com/product/gator-the-florida-everglades-national-park-shirt/",
+    "https://fanaticity.com/product/freedom-under-fire-charlie-kirk-shirt/",
+    "https://fanaticity.com/product/freedom-fight-like-charlie-kirk-shirt/",
+    "https://fanaticity.com/product/freedom-faith-eternal-respect-equality-dedication-honor-memorial-charlie-kirk-1993-usa-flag-shirt/",
+    "https://fanaticity.com/product/fight-like-hell-with-your-pregnant-wife-shirt/",
+    "https://fanaticity.com/product/denver-broncos-country-vintage-shirt/",
+    "https://fanaticity.com/product/devereux-wigs-our-wigs-arent-made-from-hair-off-dead-bodies-shirt/"
   ],
   "legendusashirt.com": [
     "https://legendusashirt.com/product/washington-national-james-wood-all-season-and-washington-commanders-daniels-on-sundays-signatures-t-shirt/",
@@ -161,16 +161,16 @@
     "https://uscraftedtees.com/product/official-houston-oilers-football-helmet-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/professional-crop-duster-1993-shirt/",
-    "https://capitoneshirt.com/product/jarren-duran-dash-celebration-boston-red-sox-shirt/",
-    "https://capitoneshirt.com/product/isaac-teslaa-what-a-catch-detroit-lions-shirt-2/",
-    "https://capitoneshirt.com/product/pennywise-middle-finger-fuck-halloween-shirt/",
-    "https://capitoneshirt.com/product/official-up-dog-stripes-shirt/",
-    "https://capitoneshirt.com/product/im-just-here-to-watch-taylor-landfair-nebraska-shirt/",
-    "https://capitoneshirt.com/product/im-just-here-to-watch-keri-leimbach-nebraska-shirt/",
-    "https://capitoneshirt.com/product/official-i-write-code-shirt/",
-    "https://capitoneshirt.com/product/of-course-the-felon-in-chief-was-lying-he-was-never-anti-war-never-america-first-shirt-2/",
-    "https://capitoneshirt.com/product/im-just-here-to-watch-dylan-raiola-nebraska-shirt/"
+    "https://capitoneshirt.com/product/without-free-speech-freedom-dies-shirt/",
+    "https://capitoneshirt.com/product/uterus-its-time-for-congress-to-grow-a-pair-shirt/",
+    "https://capitoneshirt.com/product/tom-cammock-golf-outing-the-friendly-bear-shirt/",
+    "https://capitoneshirt.com/product/they-say-immigrants-are-the-problem-but-we-all-saw-shirt/",
+    "https://capitoneshirt.com/product/we-are-all-charlie-kirk-now-rest-in-peace-shirt/",
+    "https://capitoneshirt.com/product/vladimir-guerrero-jr-vladdy-shush-signature-shirt/",
+    "https://capitoneshirt.com/product/violence-is-the-cowards-voice-shirt/",
+    "https://capitoneshirt.com/product/us-flag-great-american-patriot-shirt/",
+    "https://capitoneshirt.com/product/true-patriot-rest-in-power-charlie-kirk-shirt/",
+    "https://capitoneshirt.com/product/south-florida-bulls-1997-inaugural-season-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/you-cant-spell-hatred-without-red-hat-shirt-2/",
