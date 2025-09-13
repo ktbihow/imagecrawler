@@ -94,7 +94,8 @@
     {
         "url": "https://teehandus.com/",
         "replacements": {"-t-shirt.jpg": ["-long-sleeve.jpg", "-sweater.jpg"]},
-        "source_type": "api"
+        "source_type": "api",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teehandus.com", "prefix_length": 9 }
     },
     {
         "url": "https://uscraftedtees.com/",
@@ -103,7 +104,7 @@
     },
     {
         "url": "https://capitoneshirt.com/",
-        "replacements": {"-shirt.webp": ["-sweater.webp"]},
+        "replacements": {"-shirt.webp": ["-sweater.webp", "-ornament.webp"]},
         "source_type": "api",
         "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.capitoneshirt.com", "prefix_length": 9 }
     },
