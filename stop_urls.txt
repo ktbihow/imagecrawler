@@ -12,16 +12,16 @@
     "https://geekteesus.com/product/waylon-to-dumb-for-new-york-city-too-ugly-for-la-shirt/"
   ],
   "orionshirt.com": [
-    "https://orionshirt.com/product/official-springfield-cardinals-2025-first-second-half-north-division-championship-texas-league-fan-gear-t-shirt/",
-    "https://orionshirt.com/product/official-florida-gators-vs-georgia-bulldogs-football-rivalry-game-matchup-november-1-2025-vintage-college-football-t-shirt/",
-    "https://orionshirt.com/product/official-cross-nimmo-western-kentucky-hilltoppers-football-2025-college-football-t-shirt/",
-    "https://orionshirt.com/product/official-arizona-state-sun-devils-vs-tcu-horned-frogs-tempe-az-september-26-2025-helmets-college-football-t-shirt/",
-    "https://orionshirt.com/product/official-university-of-florida-florida-gators-florida-georgia-jacksonville-fl-november-1-2025-mascot-college-football-t-shirt/",
-    "https://orionshirt.com/product/official-donovan-jones-western-kentucky-hilltoppers-2025-ncaa-college-football-t-shirt/",
-    "https://orionshirt.com/product/official-dark-horse-nyc-x-tennessee-volunteer-ncaa-college-football-t-shirt/",
-    "https://orionshirt.com/product/official-charlie-kirk-77-a-legacy-that-lives-2025-t-shirt/",
-    "https://orionshirt.com/product/official-blink-182-september-11-2025-darien-center-ny-painting-t-shirt/",
-    "https://orionshirt.com/product/official-florida-gators-vs-georgia-bulldogs-florida-georgia-jacksonville-fl-november-1-2025-mascots-college-football-t-shirt/"
+    "https://orionshirt.com/product/official-the-movement-my-husband-built-will-not-die-erika-kirk-charlie-1993-2025-t-shirt/",
+    "https://orionshirt.com/product/official-j-j-mccarthy-minnesota-vikings-on-sundays-we-skol-nfl-2025-t-shirt/",
+    "https://orionshirt.com/product/official-wwe-wrestlemania-43-2027-in-riyadh-saudi-arabia-logo-t-shirt/",
+    "https://orionshirt.com/product/official-this-is-charlie-kirk-superhero-the-turning-point-1993-2025-painting-t-shirt/",
+    "https://orionshirt.com/product/official-poster-miami-dolphins-vs-new-england-patriots-at-hard-rock-stadium-on-september-14-2025-t-shirt/",
+    "https://orionshirt.com/product/official-big-train-champions-2025-bethesda-cal-ripken-sr-collegiate-baseball-2005-2025-t-shirt/",
+    "https://orionshirt.com/product/official-poster-tiana-mangakahia-1995-2025-syracuse-womens-basketball-t-shirt/",
+    "https://orionshirt.com/product/official-poster-nfc-north-chicago-bears-vs-detroit-lions-at-ford-field-on-september-14-2025-t-shirt/",
+    "https://orionshirt.com/product/official-justice-for-charlie-kirk-assassinated-tyler-robinson-new-2025-t-shirt/",
+    "https://orionshirt.com/product/official-i-am-just-humbked-by-gods-charlie-kirk-show-new-2025-t-shirt/"
   ],
   "techteesusa.com": [
     "https://techteesusa.com/product/yo-rock-anime-manga-videojuegos-un-virgen-antisocial-shirt/",
@@ -48,16 +48,16 @@
     "https://teeworksusa.com/product/welcome-to-the-democratic-party-the-party-that-murders-you-if-you-disagree-with-them-shirt-png/"
   ],
   "meredpremium.com": [
-    "https://meredpremium.com/product/viral-pray-for-charlie-kirk-turning-point-shirt/",
-    "https://meredpremium.com/product/viral-turning-point-forever-charlie-kirk-1993-2025-shirt/",
-    "https://meredpremium.com/product/viral-charlie-kirk-freedom-under-fire-shirt/",
-    "https://meredpremium.com/product/viral-we-are-all-turning-point-charlie-kirk-shirt/",
-    "https://meredpremium.com/product/viral-turning-point-usa-live-action-charlie-kirk-shirt/",
-    "https://meredpremium.com/product/viral-this-is-out-turning-point-rip-charlie-kirk-1993-2025-shirt/",
-    "https://meredpremium.com/product/viral-pray-for-the-kirk-family-and-charlie-kirk-t-shirt/",
-    "https://meredpremium.com/product/viral-charlie-kirk-turning-point-t-shirt/",
-    "https://meredpremium.com/product/viral-charlie-kirk-turning-point-they-took-his-breath-words-live-on-shirt/",
-    "https://meredpremium.com/product/viral-charlie-kirk-this-is-the-turning-point-usa-shirt/"
+    "https://meredpremium.com/product/official-we-the-people-are-charlie-kirk-1993-2025-t-shirt/",
+    "https://meredpremium.com/product/official-we-the-people-i-am-charlie-kirk-t-shirt/",
+    "https://meredpremium.com/product/official-we-the-people-charlie-kirk-retro-t-shirt/",
+    "https://meredpremium.com/product/official-we-are-all-charlie-kirk-shirt/",
+    "https://meredpremium.com/product/official-united-states-space-force-huntsville-al-2025-shirt/",
+    "https://meredpremium.com/product/official-tyler-robinson-you-shot-t-shirt/",
+    "https://meredpremium.com/product/official-tyler-robinson-mugshot-t-shirt/",
+    "https://meredpremium.com/product/official-tyler-robinson-mugshot-shot-charlie-kirk-shirt/",
+    "https://meredpremium.com/product/official-tyler-robinson-in-custody-t-shirt/",
+    "https://meredpremium.com/product/official-trump-charlie-kirk-never-surrender-t-shirt/"
   ],
   "berrylittles.com": [
     "https://berrylittles.com/product/official-usc-trojans-at-purdue-boilermakers-cbs-sports-big-ten-september-13-2025-poster-t-shirt/",
@@ -72,16 +72,16 @@
     "https://berrylittles.com/product/official-poster-here-come-the-mummies-cervantes-ballroom-in-denver-co-september-12-2025-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-penix-atlanta-falcons-vs-mccarthy-minnesota-vikings-round-2-2025-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-wwe-wrestlemania-43-2027-in-saudi-arabia-espn-riyadh-season-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-minnesota-vikings-classic-game-halftime-jared-allens-hall-of-fame-ring-ceremony-september-14-2025-signature-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-4th-and-unstoppable-detroit-lions-nfl-football-painting-t-shirt/",
-    "https://dreameshirt.com/product/official-bee-the-change-salt-lake-dsa-painting-t-shirt/",
-    "https://dreameshirt.com/product/official-bo-nix-v2-denver-broncos-nfl-football-planet-euphoria-artwork-t-shirt/",
-    "https://dreameshirt.com/product/official-dark-souls-soon-the-flames-will-fade-and-only-darkness-will-remain-painting-t-shirt/",
-    "https://dreameshirt.com/product/official-mizzou-tigers-ncaa-football-nil-kevin-coleman-3-character-graphic-t-shirt/",
-    "https://dreameshirt.com/product/official-ohio-state-buckeyes-football-ncaa-julian-sayin-just-sayin-t-shirt/",
-    "https://dreameshirt.com/product/official-oklahoma-sooners-football-ncaa-john-mateer-state-star-t-shirt/"
+    "https://dreameshirt.com/product/official-the-browns-travel-to-baltimore-a-rivalry-with-a-storied-past-september-14-2025-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-pittsburgh-panthers-vs-west-virginia-mountaineers-series-extended-since-1895-back-yard-brawl-sep-10-2033-sep-13-2036-poster-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-the-movement-my-husband-built-will-not-die-erika-kirk-charlie-t-shirt/",
+    "https://dreameshirt.com/product/official-wwe-wrestlemania-43-2027-in-riyadh-saudi-arabia-logo-t-shirt/",
+    "https://dreameshirt.com/product/official-miami-dolphins-vs-new-england-patriots-at-hard-rock-stadium-on-september-14-2025-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-big-train-champions-2025-bethesda-cal-ripken-sr-collegiate-baseball-2005-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-i-am-american-ive-had-enough-american-flag-t-shirt/",
+    "https://dreameshirt.com/product/official-this-is-charlie-kirk-superhero-the-turning-point-t-shirt/",
+    "https://dreameshirt.com/product/official-j-j-mccarthy-minnesota-vikings-nfl-on-sundays-we-skol-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-holo-holo-sacramento-ca-september-27-28-2025-heart-health-park-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/official-you-cant-silence-us-all-i-am-charlie-2025-shirt/",
@@ -186,16 +186,9 @@
     "https://capitoneshirt.com/product/isaiah-freeman-zayball-player-of-the-year-lincoln-university-lion-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/your-mother-was-a-hamster-and-your-father-smelt-of-elderberries-shirt/",
-    "https://clickoneshirt.com/product/you-may-delay-time-will-not-hourglass-graphic-shirt/",
-    "https://clickoneshirt.com/product/yeah-im-poly-poly-gonna-drink-18-beers-tonight-reto-graphic-shirt/",
-    "https://clickoneshirt.com/product/what-the-mallard-graphic-shirt/",
-    "https://clickoneshirt.com/product/wangan-midnight-japanese-racing-shirt/",
-    "https://clickoneshirt.com/product/walter-jr-x-johnny-joestar-jojos-bizarre-adventure-tusk-act-4-prody-shirt/",
-    "https://clickoneshirt.com/product/volleyball-gator-puerto-vallarta-shirt/",
-    "https://clickoneshirt.com/product/us-naval-academy-football-bill-the-goat-mascot-vintage-shirt/",
-    "https://clickoneshirt.com/product/tree-hugger-and-proud-of-it-shirt/",
-    "https://clickoneshirt.com/product/the-muppets-i-know-im-weird-but-sometimes-it-makes-you-laugh-and-that-makes-me-super-happy-shirt/"
+    "https://clickoneshirt.com/product/south-alabama-vs-auburn-from-the-jungle-to-the-hunk-yard-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/promotional-consideration-provided-by-and-esri-shirt/",
+    "https://clickoneshirt.com/product/dolton-local-3766-home-of-the-pope-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/yeah-im-trans-transporting-this-beer-to-my-mouth-so-i-can-drink-it-yea-im-pan-gonna-opan-this-beer-and-drink-it-yea-im-poly-poly-gonna-dwink-18-beers-tonight-t-shirts/",
