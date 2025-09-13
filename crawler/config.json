@@ -99,7 +99,7 @@
     },
     {
         "url": "https://uscraftedtees.com/",
-        "replacements": {"-Shirt.webp": ["-Poster.webp", "-Poster.jpg"]},
+        "replacements": { "-Shirt.webp": ["-Poster.webp"], "-Shirt.jpg": ["-Poster.jpg"] }
         "source_type": "api"
     },
     {
