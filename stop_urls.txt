@@ -185,16 +185,16 @@
     "https://clickoneshirt.com/product/texas-rascals-texas-rangers-graphic-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/widespread-panic-stomp-poseidon-richmond-va-sep-12-13-2025-t-shirts/",
-    "https://teleteeshirt.com/product/wicked-for-good-thank-you-for-the-memories-signatures-t-shirts/",
-    "https://teleteeshirt.com/product/tyler-robinson-mugshot-t-shirts/",
-    "https://teleteeshirt.com/product/tyler-robinson-in-custody-assassinated-t-shirts/",
-    "https://teleteeshirt.com/product/tupac-shakur-the-man-the-myth-the-legend-55-years-1971-2026-t-shirts/",
-    "https://teleteeshirt.com/product/spite-new-world-killer-australia-tour-2026-dates-t-shirts/",
-    "https://teleteeshirt.com/product/seattle-storm-forever-sue-t-shirts/",
-    "https://teleteeshirt.com/product/real-women-love-football-smart-women-love-the-pittsburgh-steelers-diamond-heart-t-shirts/",
-    "https://teleteeshirt.com/product/green-day-sep-12-2025-arena-da-baixada-in-curitiba-brazil-tour-dog-t-shirts/",
-    "https://teleteeshirt.com/product/freddie-gibbs-alfredo-ii-the-alchemist-t-shirts/"
+    "https://teleteeshirt.com/product/violent-femmes-graso-and-reach-for-a-leg-of-hope-fall-tour-oct-2025-dates-t-shirts/",
+    "https://teleteeshirt.com/product/suicideboys-g59-greyfivenine-reaper-t-shirts/",
+    "https://teleteeshirt.com/product/pumpkin-spice-girls-t-shirts/",
+    "https://teleteeshirt.com/product/kansas-city-chiefs-913-t-shirts/",
+    "https://teleteeshirt.com/product/harrison-bader-its-just-a-great-baseball-city-t-shirts/",
+    "https://teleteeshirt.com/product/bree-lundberg-oh-worm-t-shirts/",
+    "https://teleteeshirt.com/product/amkw-aeon-dog-t-shirts/",
+    "https://teleteeshirt.com/product/freddie-gibbs-gold-feet-alfredo-ii-entertainment-system-8-bit-t-shirts/",
+    "https://teleteeshirt.com/product/texas-rangers-rascals-t-shirts/",
+    "https://teleteeshirt.com/product/periks-vanner-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/sad-chicken-people-say-i-act-like-i-dont-care-its-not-an-action-shirt/",
@@ -296,16 +296,16 @@
     "https://newshirtstore.com/product/charlie-kirk-freedom-tribute-1993-2025-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/winn-dixie-x-halloween-im-with-the-witch-shirt/",
-    "https://eteeclothing.com/product/wendys-x-halloween-im-with-the-witch-shirt/",
-    "https://eteeclothing.com/product/wawa-x-halloween-im-with-the-witch-shirt/",
-    "https://eteeclothing.com/product/walmart-x-walgreens-im-with-the-witch-shirt/",
-    "https://eteeclothing.com/product/walmart-x-halloween-im-with-the-witch-shirt/",
-    "https://eteeclothing.com/product/waffle-house-x-walgreens-im-with-the-witch-shirt/",
-    "https://eteeclothing.com/product/vladdy-shush-vladimir-guerrero-jr-toronto-baseball-signature-shirt/",
-    "https://eteeclothing.com/product/usps-x-walgreens-im-with-the-witch-shirt/",
-    "https://eteeclothing.com/product/tucker-kraft-tucker-round-and-find-out-signature-shirt/",
-    "https://eteeclothing.com/product/tim-hortons-x-walgreens-im-with-the-witch-shirt/"
+    "https://eteeclothing.com/product/wwckd-what-would-charlie-kirk-do-shirt/",
+    "https://eteeclothing.com/product/whataburger-x-halloween-im-with-the-witch-shirt/",
+    "https://eteeclothing.com/product/waffle-house-x-halloween-im-with-the-witch-shirt/",
+    "https://eteeclothing.com/product/veronika-kudermetova-retro-tennis-shirt/",
+    "https://eteeclothing.com/product/veronika-kudermetova-psychedelic-name-tennis-shirt/",
+    "https://eteeclothing.com/product/thank-you-charlie-kirk-31-years-1993-2025-a-true-patriot-shirt/",
+    "https://eteeclothing.com/product/tennis-player-naomi-osaka-vintage-shirt/",
+    "https://eteeclothing.com/product/tennis-player-nick-kyrgios-vintage-shirt/",
+    "https://eteeclothing.com/product/sol-ruca-vintage-shirt/",
+    "https://eteeclothing.com/product/safeway-x-halloween-im-with-the-witch-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/alfredos-tokyo-action-figure-2025-shirt/",
