@@ -126,28 +126,24 @@
     "https://fanaticity.com/product/blink-182-fall-tour-2025-darien-center-ny-poster-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/tedeschi-trucks-band-9-12-2025-bridgeport-ct-poster-t-shirt/",
-    "https://legendusashirt.com/product/sept-12-13-2025-andy-thomas-poster-richmond-va-t-shirt/",
-    "https://legendusashirt.com/product/rip-charlie-kirk-words-are-power-speak-myself-live-free-ideas-dont-die-the-idea-lives-on-signature-t-shirt/",
-    "https://legendusashirt.com/product/puro-pinche-party-t-shirt/",
-    "https://legendusashirt.com/product/philadelphia-phillies-harper-all-season-and-philadelphia-eagles-jalen-hurts-on-sundays-signatures-t-shirt/",
-    "https://legendusashirt.com/product/oklahoma-sooners-mateer-on-saturdays-and-dallas-cowboys-prescott-on-sundays-signatures-t-shirt/",
-    "https://legendusashirt.com/product/new-york-yankees-aaron-judge-all-season-and-new-york-jets-wilson-on-sunday-signatures-t-shirt/",
-    "https://legendusashirt.com/product/new-york-yankees-aaron-judge-all-season-and-buffalo-bills-josh-allen-on-sundays-signatures-t-shirt/",
-    "https://legendusashirt.com/product/new-york-yankees-aaron-judge-all-season-and-new-york-giants-malik-nabers-on-sunday-signatures-t-shirt/",
-    "https://legendusashirt.com/product/milwaukee-brewers-christian-yelich-all-season-and-green-bay-packers-jordan-love-on-sundays-signatures-t-shirt/"
+    "https://legendusashirt.com/product/washington-national-james-wood-all-season-and-washington-commanders-daniels-on-sundays-signatures-t-shirt/",
+    "https://legendusashirt.com/product/umphreys-mcgee-sep-12-13-2025-mishawaka-amphitheatre-in-bellvue-co-poster-t-shirt/",
+    "https://legendusashirt.com/product/toronto-blue-jays-vladimir-guerrero-jr-all-season-and-buffalo-bills-josh-allen-on-sundays-signatures-t-shirt/",
+    "https://legendusashirt.com/product/the-bruise-brothers-abbey-road-thank-you-for-the-memories-signatures-t-shirt/",
+    "https://legendusashirt.com/product/the-avett-brothers-sept-11-2025-poster-oxford-ms-t-shirt/",
+    "https://legendusashirt.com/product/texas-longhorns-arch-manning-on-saturdays-and-dallas-cowboys-prescott-on-sundays-signatures-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/corteiz-rules-the-world-shirt-2/",
-    "https://teehandus.com/product/create-a-pepper-do-you-want-some-triple-dippuurr-shirt/",
-    "https://teehandus.com/product/deadguy-well-it-was-fun-while-it-lasted-shirt/",
-    "https://teehandus.com/product/distractible-ship-of-theseus-shirt/",
-    "https://teehandus.com/product/dont-care-boobs-bounce-when-i-walk-shirt-2/",
-    "https://teehandus.com/product/elton-john-rocket-man-shirt/",
-    "https://teehandus.com/product/end-it-baltimore-city-hardcore-shirt-2/",
-    "https://teehandus.com/product/falling-in-reverse-shirt/",
-    "https://teehandus.com/product/god-family-country-in-that-order-charlie-kirk-shirt/",
-    "https://teehandus.com/product/i-danced-the-night-away-at-portola-pier-80-san-francisco-shirt/"
+    "https://teehandus.com/product/2001-a-space-odyssey-shirt/",
+    "https://teehandus.com/product/ace-of-spades-lucky-seven-double-down-checkmate-woo-shirt/",
+    "https://teehandus.com/product/away-team-97-shirt/",
+    "https://teehandus.com/product/baking-bread-breaking-bad-walter-white-shirt/",
+    "https://teehandus.com/product/black-midi-schlagenheim-shirt/",
+    "https://teehandus.com/product/black-sabbath-est-1969-we-sold-our-soul-for-rock-n-roll-shirt/",
+    "https://teehandus.com/product/book-club-folklore-fearless-shirt/",
+    "https://teehandus.com/product/boys-are-stupid-throw-rocks-at-them-shirt/",
+    "https://teehandus.com/product/charlie-kirk-i-am-just-humbled-by-gods-grace-shirt/",
+    "https://teehandus.com/product/charlie-kirk-remembered-for-courage-tyler-robinson-remembered-for-violence-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -237,16 +233,16 @@
     "https://dalatshirt.com/product/bigfoot-forest-folk-run-club-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/oklahoma-football-john-mateer-10-stripe-shirt/",
-    "https://lovingsquad.com/product/ohio-state-buckeyes-lee-corso-legend-2025-shirt/",
-    "https://lovingsquad.com/product/need-money-for-art-shirt/",
-    "https://lovingsquad.com/product/n-f-s-w-national-forensic-science-week-shirt/",
-    "https://lovingsquad.com/product/my-heart-burns-for-thee-if-thou-dost-even-care-shirt/",
-    "https://lovingsquad.com/product/mexican-independence-day-viva-mexico-boy-girl-maracas-guitar-shirt/",
-    "https://lovingsquad.com/product/mercy-to-the-guilty-is-cruelty-to-the-innocent-shirt/",
-    "https://lovingsquad.com/product/master-debater-assholes-live-forever-shirt/",
-    "https://lovingsquad.com/product/lucky-charm-collage-i-still-wish-for-you-shirt/",
-    "https://lovingsquad.com/product/like-a-dragon-yakuza-ichiban-kasuga-shirt/"
+    "https://lovingsquad.com/product/yugioh-nike-red-eyes-black-dragon-shirt/",
+    "https://lovingsquad.com/product/yes-im-bi-bisexual-bipolar-bitch-biting-biceps-shirt/",
+    "https://lovingsquad.com/product/yeah-im-trans-transporting-this-beer-to-my-mouth-so-i-can-drink-it-shirt/",
+    "https://lovingsquad.com/product/yeah-im-trans-transporting-this-beer-to-my-mouth-shirt/",
+    "https://lovingsquad.com/product/yeah-im-pan-gonna-o-pan-this-beer-and-drink-it-shirt/",
+    "https://lovingsquad.com/product/we-are-all-charlie-kirk-fundraiser-american-flag-shirt/",
+    "https://lovingsquad.com/product/vladimir-guerrero-jr-vladdy-shush-signature-shirt/",
+    "https://lovingsquad.com/product/violence-has-no-place-in-american-politics-shirt/",
+    "https://lovingsquad.com/product/unleash-your-roar-hudey-14-k-premium-beer-cincinnatis-shirt/",
+    "https://lovingsquad.com/product/tyler-robinson-you-shirt-charlie-kirk-memorial/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/whoever-said-technology-will-replace-paper-has-obviously-never-tried-to-wipe-their-butt-with-an-ipad-shirt/",
