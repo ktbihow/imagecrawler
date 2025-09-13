@@ -233,16 +233,16 @@
     "https://dalatshirt.com/product/bigfoot-forest-folk-run-club-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/jefferson-cleaners-move-on-up-to-better-dry-cleaning-george-jefferson-owner-since-1968-shirt/",
-    "https://lovingsquad.com/product/jason-beghe-as-sergeant-hank-voight-series-chicago-pd-said-yunderstand-shirt/",
-    "https://lovingsquad.com/product/its-weird-being-the-same-age-as-old-people-shirt-2/",
-    "https://lovingsquad.com/product/its-all-of-them-shirt/",
-    "https://lovingsquad.com/product/indonesian-for-police-hate-cops-this-car-is-a-human-killer-shirt/",
-    "https://lovingsquad.com/product/indiana-fever-red-2025-wnba-playoffs-logo-shirt/",
-    "https://lovingsquad.com/product/im-only-28-years-old-i-need-my-mom-shirt/",
-    "https://lovingsquad.com/product/ice-out-of-illinois-kat-abughazaleh-shirt/",
-    "https://lovingsquad.com/product/i-work-to-support-my-daughters-softball-addiction-shirt-2/",
-    "https://lovingsquad.com/product/i-oppose-genocide-i-support-palestine-flag-of-palestine-shirt/"
+    "https://lovingsquad.com/product/washington-nationals-and-washington-commanders-all-season-on-sundays-signatures-shirt/",
+    "https://lovingsquad.com/product/vandersloot-nooooo-retro-basketball-shirt/",
+    "https://lovingsquad.com/product/tip-your-dealers-bettor-media-llc-shirt/",
+    "https://lovingsquad.com/product/thriller-vs-killer-michael-jackson-against-michael-myers-graphic-shirt/",
+    "https://lovingsquad.com/product/the-idea-lives-on-rip-charlie-kirk-shirt/",
+    "https://lovingsquad.com/product/the-bruise-brothers-thank-you-for-the-memories-signatures-team-abbey-road-shirt/",
+    "https://lovingsquad.com/product/the-banana-splits-essential-shirt/",
+    "https://lovingsquad.com/product/texas-longhorns-thank-you-for-the-memories-layers-name-team-logo-shirt/",
+    "https://lovingsquad.com/product/tank-dell-houston-texans-graphic-shirt/",
+    "https://lovingsquad.com/product/stop-the-boats-union-jack-flag-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/whoever-said-technology-will-replace-paper-has-obviously-never-tried-to-wipe-their-butt-with-an-ipad-shirt/",
