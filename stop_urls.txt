@@ -213,16 +213,16 @@
     "https://melonashirt.com/product/official-lords-prayer-amen-our-father-which-art-in-heaven-hallowed-be-thy-name-shirts/"
   ],
   "dalatshirt.com": [
-    "https://dalatshirt.com/product/abolish-the-monarchy-republic-t-shirts/",
-    "https://dalatshirt.com/product/a-true-patriot-charlie-kirk-the-greatness-of-our-nation-lies-in-the-power-and-potential-t-shirts/",
-    "https://dalatshirt.com/product/air-israel-as-twin-towers-t-shirts/",
-    "https://dalatshirt.com/product/active-legion-stand-out-kevin-mccallister-home-alone-movie-t-shirts/",
-    "https://dalatshirt.com/product/bagel-run-club-t-shirts/",
-    "https://dalatshirt.com/product/all-star-major-league-baseball-mlb-with-all-baseball-team-1994-vintage-t-shirts/",
-    "https://dalatshirt.com/product/bat-dont-ever-put-me-in-a-situation-where-i-have-to-show-you-how-heartless-i-can-be-halloween-t-shirts/",
-    "https://dalatshirt.com/product/boys-club-the-great-american-logo-parody-t-shirts/",
-    "https://dalatshirt.com/product/boston-red-sox-weight-lifting-logo-t-shirts/",
-    "https://dalatshirt.com/product/bigfoot-forest-folk-run-club-t-shirts/"
+    "https://dalatshirt.com/product/what-the-fck-colors-circle-t-shirts/",
+    "https://dalatshirt.com/product/we-are-all-turning-point-charlie-kirk-t-shirts/",
+    "https://dalatshirt.com/product/we-are-all-charlie-kirk-now-t-shirts/",
+    "https://dalatshirt.com/product/usa-basketball-paris-olympic-2024-t-shirts/",
+    "https://dalatshirt.com/product/the-idea-lives-on-rip-charlie-kirk-t-shirts/",
+    "https://dalatshirt.com/product/thank-you-charlie-kirk-31-a-true-patriot-1993-2025-signature-t-shirts/",
+    "https://dalatshirt.com/product/robbie-williams-wearing-john-paul-ringo-george-robbie-t-shirts/",
+    "https://dalatshirt.com/product/pugsley-addams-and-tyler-galpin-i-can-fix-him-t-shirts/",
+    "https://dalatshirt.com/product/pray-for-charlie-kirk-usa-t-shirts/",
+    "https://dalatshirt.com/product/pray-for-charlie-kirk-photo-t-shirts/"
   ],
   "lovingsquad.com": [
     "https://lovingsquad.com/product/wu-tang-clan-flag-design-of-the-american-flag-shirt/",
