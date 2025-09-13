@@ -161,16 +161,16 @@
     "https://uscraftedtees.com/product/official-houston-oilers-football-helmet-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/we-are-all-turning-point-charlie-kirk-shirt/",
-    "https://capitoneshirt.com/product/starvation-war-crime-feed-gaza-and-free-palestine-shirt/",
-    "https://capitoneshirt.com/product/son-heung-min-flexing-jersey-number-shirt/",
-    "https://capitoneshirt.com/product/shooter-mcgavin-happy-gilmore-i-eat-pieces-of-shit-like-you-for-breakfast-shirt/",
-    "https://capitoneshirt.com/product/santa-surfing-let-the-good-times-roll-est-2024-shirt/",
-    "https://capitoneshirt.com/product/santa-claus-behave-christmas-shirt/",
-    "https://capitoneshirt.com/product/pj-walker-johnson-graphic-houston-roughnecks-shirt/",
-    "https://capitoneshirt.com/product/micah-parsons-all-i-know-is-go-gb-packers-shirt/",
-    "https://capitoneshirt.com/product/jeremiah-vessel-heart-hand-unlv-rebels-shirt/",
-    "https://capitoneshirt.com/product/isaiah-freeman-zayball-player-of-the-year-lincoln-university-lion-shirt/"
+    "https://capitoneshirt.com/product/professional-crop-duster-1993-shirt/",
+    "https://capitoneshirt.com/product/jarren-duran-dash-celebration-boston-red-sox-shirt/",
+    "https://capitoneshirt.com/product/isaac-teslaa-what-a-catch-detroit-lions-shirt-2/",
+    "https://capitoneshirt.com/product/pennywise-middle-finger-fuck-halloween-shirt/",
+    "https://capitoneshirt.com/product/official-up-dog-stripes-shirt/",
+    "https://capitoneshirt.com/product/im-just-here-to-watch-taylor-landfair-nebraska-shirt/",
+    "https://capitoneshirt.com/product/im-just-here-to-watch-keri-leimbach-nebraska-shirt/",
+    "https://capitoneshirt.com/product/official-i-write-code-shirt/",
+    "https://capitoneshirt.com/product/of-course-the-felon-in-chief-was-lying-he-was-never-anti-war-never-america-first-shirt-2/",
+    "https://capitoneshirt.com/product/im-just-here-to-watch-dylan-raiola-nebraska-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/you-cant-spell-hatred-without-red-hat-shirt-2/",
@@ -185,16 +185,16 @@
     "https://clickoneshirt.com/product/texas-rascals-texas-rangers-graphic-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/whispers-yom-ma-lok-north-american-spring-tour-2025-t-shirts/",
-    "https://teleteeshirt.com/product/whispers-l-flatspot-world-uk-eu-tour-2024-t-shirts/",
-    "https://teleteeshirt.com/product/whispers-l-demon-cat-t-shirts/",
-    "https://teleteeshirt.com/product/vermicular-incubation-chapter-of-the-vermin-domain-t-shirts/",
-    "https://teleteeshirt.com/product/the-fantastic-4-classic-invisible-woman-sue-storm-t-shirts/",
-    "https://teleteeshirt.com/product/sun-eater-light-devoured-t-shirts/",
-    "https://teleteeshirt.com/product/star-wars-yoda-dagobites-bring-balance-to-your-morning-cereal-zine-t-shirts/",
-    "https://teleteeshirt.com/product/star-wars-the-saga-continues-return-of-the-jedi-zine-t-shirts/",
-    "https://teleteeshirt.com/product/star-wars-inferno-squadron-crest-t-shirts/",
-    "https://teleteeshirt.com/product/star-wars-imperial-cogs-cereal-feel-the-power-of-this-fully-openational-breakfast-cereal-zine-darth-vader-t-shirts/"
+    "https://teleteeshirt.com/product/widespread-panic-stomp-poseidon-richmond-va-sep-12-13-2025-t-shirts/",
+    "https://teleteeshirt.com/product/wicked-for-good-thank-you-for-the-memories-signatures-t-shirts/",
+    "https://teleteeshirt.com/product/tyler-robinson-mugshot-t-shirts/",
+    "https://teleteeshirt.com/product/tyler-robinson-in-custody-assassinated-t-shirts/",
+    "https://teleteeshirt.com/product/tupac-shakur-the-man-the-myth-the-legend-55-years-1971-2026-t-shirts/",
+    "https://teleteeshirt.com/product/spite-new-world-killer-australia-tour-2026-dates-t-shirts/",
+    "https://teleteeshirt.com/product/seattle-storm-forever-sue-t-shirts/",
+    "https://teleteeshirt.com/product/real-women-love-football-smart-women-love-the-pittsburgh-steelers-diamond-heart-t-shirts/",
+    "https://teleteeshirt.com/product/green-day-sep-12-2025-arena-da-baixada-in-curitiba-brazil-tour-dog-t-shirts/",
+    "https://teleteeshirt.com/product/freddie-gibbs-alfredo-ii-the-alchemist-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/sad-chicken-people-say-i-act-like-i-dont-care-its-not-an-action-shirt/",
@@ -233,16 +233,16 @@
     "https://dalatshirt.com/product/bigfoot-forest-folk-run-club-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/yugioh-nike-red-eyes-black-dragon-shirt/",
-    "https://lovingsquad.com/product/yes-im-bi-bisexual-bipolar-bitch-biting-biceps-shirt/",
-    "https://lovingsquad.com/product/yeah-im-trans-transporting-this-beer-to-my-mouth-so-i-can-drink-it-shirt/",
-    "https://lovingsquad.com/product/yeah-im-trans-transporting-this-beer-to-my-mouth-shirt/",
-    "https://lovingsquad.com/product/yeah-im-pan-gonna-o-pan-this-beer-and-drink-it-shirt/",
-    "https://lovingsquad.com/product/we-are-all-charlie-kirk-fundraiser-american-flag-shirt/",
-    "https://lovingsquad.com/product/vladimir-guerrero-jr-vladdy-shush-signature-shirt/",
-    "https://lovingsquad.com/product/violence-has-no-place-in-american-politics-shirt/",
-    "https://lovingsquad.com/product/unleash-your-roar-hudey-14-k-premium-beer-cincinnatis-shirt/",
-    "https://lovingsquad.com/product/tyler-robinson-you-shirt-charlie-kirk-memorial/"
+    "https://lovingsquad.com/product/wife-wide-open-the-north-star-state-shirt/",
+    "https://lovingsquad.com/product/tyler-robinson-bee-the-change-salt-lake-dsa-shirt/",
+    "https://lovingsquad.com/product/tucker-kraft-tucker-round-and-find-out-shirt/",
+    "https://lovingsquad.com/product/triple-boss-make-heaven-crowded-shirt/",
+    "https://lovingsquad.com/product/tigerbelly-slept-king-throwback-shirt/",
+    "https://lovingsquad.com/product/the-simpsons-theres-no-such-team-as-the-spungos-shirt/",
+    "https://lovingsquad.com/product/the-simpsons-pigskin-classic-nacho-nacho-man-shirt/",
+    "https://lovingsquad.com/product/the-simpsons-bart-star-its-clobberin-time-shirt/",
+    "https://lovingsquad.com/product/the-charlie-kirk-i-am-just-humbled-by-gods-grace-shirt/",
+    "https://lovingsquad.com/product/that-says-freedom-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/whoever-said-technology-will-replace-paper-has-obviously-never-tried-to-wipe-their-butt-with-an-ipad-shirt/",
