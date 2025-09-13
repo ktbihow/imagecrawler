@@ -75,26 +75,28 @@
     "https://dreameshirt.com/product/official-poster-holo-holo-sacramento-ca-september-27-28-2025-heart-health-park-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-you-cant-silence-us-all-i-am-charlie-2025-shirt/",
-    "https://teeextra.com/product/official-tucker-kraft-tucker-round-and-find-out-shirt/",
-    "https://teeextra.com/product/official-travis-hunter-jacksonville-jaguars-nflpa-2025-shirt/",
-    "https://teeextra.com/product/official-the-hives-ogden-theatre-in-denver-co-september-12-2025-shirt/",
-    "https://teeextra.com/product/official-touche-amore-and-ceremony-pappy-harriets-in-pioneertown-ca-nov-8-2025-shirt/",
-    "https://teeextra.com/product/official-the-avett-brothers-sep-12-2025-athens-ga-shirt/",
-    "https://teeextra.com/product/official-the-charlie-kirk-i-am-just-humbled-by-gods-grace-2025-shirt/",
-    "https://teeextra.com/product/official-texas-born-blood-bought-heaven-bound-cross-shirt/"
+    "https://teeextra.com/product/official-indianapolis-motor-speedway-2025-tirerack-com-battle-on-the-bricks-event-shirt/",
+    "https://teeextra.com/product/official-iggy-pop-boston-ma-poster-2025-shirt/",
+    "https://teeextra.com/product/official-houston-astros-colt-45s-shot-shirt/",
+    "https://teeextra.com/product/official-fc-cincinnati-vs-nashville-soccer-club-oktoberfest-night-sep-13-2025-shirt/",
+    "https://teeextra.com/product/official-fraggle-rock-dance-your-cares-away-swirl-shirt/",
+    "https://teeextra.com/product/official-family-style-food-festival-la-2025-shirt/",
+    "https://teeextra.com/product/official-dirty-coast-everyone-deserves-a-meal-shirt/",
+    "https://teeextra.com/product/official-destiny-bond-the-love-shirt/",
+    "https://teeextra.com/product/official-bleachers-asbury-park-nj-tour-june-28-2025-shirt/",
+    "https://teeextra.com/product/official-blackcraft-cult-good-boy-boot-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/tucker-kraft-tucker-round-and-find-out-shirt/",
-    "https://teespix.com/product/turning-point-usa-shirt/",
-    "https://teespix.com/product/tigerbelly-slept-king-throwback-shirt/",
-    "https://teespix.com/product/they-shot-the-words-not-the-man-shirt/",
-    "https://teespix.com/product/shop-rite-im-with-the-witch-hat-halloween-shirt/",
-    "https://teespix.com/product/safeway-im-with-the-witch-hat-halloween-shirt/",
-    "https://teespix.com/product/ross-im-with-the-witch-hat-halloween-shirt/",
-    "https://teespix.com/product/role-model-plum-tour-shirt/",
-    "https://teespix.com/product/publix-im-with-the-witch-hat-halloween-shirt/",
-    "https://teespix.com/product/proclaim-clothing-charlie-kirk-legacy-shirt/"
+    "https://teespix.com/product/charlie-kirk-debate-not-bullets-t-shirt/",
+    "https://teespix.com/product/known-homosexual-shirt/",
+    "https://teespix.com/product/formula-1-x-peanuts-snoopy-dog-house-t-shirt/",
+    "https://teespix.com/product/cincinnati-unleash-your-roar-hudey-14-k-shirt/",
+    "https://teespix.com/product/cincinnati-frankies-big-boy-shirt/",
+    "https://teespix.com/product/cincinnati-children-of-the-cornhole-shirt/",
+    "https://teespix.com/product/oklahoma-football-john-mateer-state-star-t-shirt/",
+    "https://teespix.com/product/ohio-state-football-julian-sayin-just-sayin-shirt-2/",
+    "https://teespix.com/product/masterdebater-shirt/",
+    "https://teespix.com/product/jerry-kramer-thank-you-jerry-t-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/tyler-robinson-justice-for-charlie-kirk-assassinated-2025-2-sided-shirt/",
@@ -102,28 +104,28 @@
     "https://nowbestshirt.com/product/aidan-hutchinson-charcoal-house-of-hutch-x-detroit-lions-game-face-2-sided-shirt/"
   ],
   "serenashirt.com": [
-    "https://serenashirt.com/product/plugged-in-tuned-out-shirt/",
-    "https://serenashirt.com/product/the-charlie-kirk-show-classic-shirt/",
-    "https://serenashirt.com/product/67-six-seven-meme-shirt/",
-    "https://serenashirt.com/product/a-reptile-dysfunction-shirt/",
-    "https://serenashirt.com/product/iran-air-force-graphic-shirt/",
-    "https://serenashirt.com/product/mantis-girls-will-be-girls-shirt/",
-    "https://serenashirt.com/product/mercy-to-the-guilty-is-cruelty-to-the-innocent-shirt/",
-    "https://serenashirt.com/product/i-was-not-at-the-first-hii-def-pop-up-store-in-los-angeles-shirt/",
-    "https://serenashirt.com/product/the-ring-shirt/",
-    "https://serenashirt.com/product/shrub-oak-volunteer-fire-dept-shirt/"
+    "https://serenashirt.com/product/holy-rebellion-shirt/",
+    "https://serenashirt.com/product/4-million-subscribers-shirt-2/",
+    "https://serenashirt.com/product/i-am-american-ive-had-enough-shirt/",
+    "https://serenashirt.com/product/i-am-charlie-poster-shirt/",
+    "https://serenashirt.com/product/i-love-young-thug-shirt/",
+    "https://serenashirt.com/product/im-a-2a-savage-usa-flag-shirt/",
+    "https://serenashirt.com/product/its-2-17-am-do-you-know-where-your-children-are-shirt/",
+    "https://serenashirt.com/product/not-a-%ce%bde%cf%81%ce%bf-baby-shirt/",
+    "https://serenashirt.com/product/rat-spooky-witch-boo-zombie-rat-halloween-shirt/",
+    "https://serenashirt.com/product/peace-makercycle-shirt/"
   ],
   "fanaticity.com": [
-    "https://fanaticity.com/product/introvert-but-willing-to-travel-shirt/",
-    "https://fanaticity.com/product/got-drunk-at-lambeau-and-woke-up-on-lafleur-green-bay-packers-shirt/",
-    "https://fanaticity.com/product/god-family-country-in-that-order-charlie-kirk-shirt/",
-    "https://fanaticity.com/product/gator-the-florida-everglades-national-park-shirt/",
-    "https://fanaticity.com/product/freedom-under-fire-charlie-kirk-shirt/",
-    "https://fanaticity.com/product/freedom-fight-like-charlie-kirk-shirt/",
-    "https://fanaticity.com/product/freedom-faith-eternal-respect-equality-dedication-honor-memorial-charlie-kirk-1993-usa-flag-shirt/",
-    "https://fanaticity.com/product/fight-like-hell-with-your-pregnant-wife-shirt/",
-    "https://fanaticity.com/product/denver-broncos-country-vintage-shirt/",
-    "https://fanaticity.com/product/devereux-wigs-our-wigs-arent-made-from-hair-off-dead-bodies-shirt/"
+    "https://fanaticity.com/product/what-the-fck-colors-circle-shirt/",
+    "https://fanaticity.com/product/usa-basketball-paris-olympic-2024-shirt/",
+    "https://fanaticity.com/product/the-idea-lives-on-rip-charlie-kirk-shirt/",
+    "https://fanaticity.com/product/thank-you-charlie-kirk-31-a-true-patriot-1993-2025-signature-shirt/",
+    "https://fanaticity.com/product/robbie-williams-wearing-john-paul-ringo-george-robbie-shirt/",
+    "https://fanaticity.com/product/pugsley-addams-and-tyler-galpin-i-can-fix-him-shirt/",
+    "https://fanaticity.com/product/pray-for-charlie-kirk-photo-shirt/",
+    "https://fanaticity.com/product/nato-national-ass-and-tittis-organization-shirt/",
+    "https://fanaticity.com/product/marlon-brando-photo-shirt/",
+    "https://fanaticity.com/product/live-like-charlie-kirk-shirt/"
   ],
   "legendusashirt.com": [
     "https://legendusashirt.com/product/washington-national-james-wood-all-season-and-washington-commanders-daniels-on-sundays-signatures-t-shirt/",
@@ -161,16 +163,12 @@
     "https://uscraftedtees.com/product/official-houston-oilers-football-helmet-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/without-free-speech-freedom-dies-shirt/",
-    "https://capitoneshirt.com/product/uterus-its-time-for-congress-to-grow-a-pair-shirt/",
-    "https://capitoneshirt.com/product/tom-cammock-golf-outing-the-friendly-bear-shirt/",
-    "https://capitoneshirt.com/product/they-say-immigrants-are-the-problem-but-we-all-saw-shirt/",
-    "https://capitoneshirt.com/product/we-are-all-charlie-kirk-now-rest-in-peace-shirt/",
-    "https://capitoneshirt.com/product/vladimir-guerrero-jr-vladdy-shush-signature-shirt/",
-    "https://capitoneshirt.com/product/violence-is-the-cowards-voice-shirt/",
-    "https://capitoneshirt.com/product/us-flag-great-american-patriot-shirt/",
-    "https://capitoneshirt.com/product/true-patriot-rest-in-power-charlie-kirk-shirt/",
-    "https://capitoneshirt.com/product/south-florida-bulls-1997-inaugural-season-shirt/"
+    "https://capitoneshirt.com/product/detroit-football-salty-shirt/",
+    "https://capitoneshirt.com/product/detroit-lions-4th-and-unstoppable-shirt/",
+    "https://capitoneshirt.com/product/cincinnati-bengals-unleash-your-roar-shirt/",
+    "https://capitoneshirt.com/product/being-a-good-human-matters-shirt-2/",
+    "https://capitoneshirt.com/product/beersexual-flag-shirt/",
+    "https://capitoneshirt.com/product/all-charlie-kirk-did-was-have-a-respectful-dialog-with-people-he-didnt-agree-with-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/you-cant-spell-hatred-without-red-hat-shirt-2/",
