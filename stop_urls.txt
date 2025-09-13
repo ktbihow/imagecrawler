@@ -75,28 +75,26 @@
     "https://dreameshirt.com/product/official-poster-holo-holo-sacramento-ca-september-27-28-2025-heart-health-park-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-indianapolis-motor-speedway-2025-tirerack-com-battle-on-the-bricks-event-shirt/",
-    "https://teeextra.com/product/official-iggy-pop-boston-ma-poster-2025-shirt/",
-    "https://teeextra.com/product/official-houston-astros-colt-45s-shot-shirt/",
-    "https://teeextra.com/product/official-fc-cincinnati-vs-nashville-soccer-club-oktoberfest-night-sep-13-2025-shirt/",
-    "https://teeextra.com/product/official-fraggle-rock-dance-your-cares-away-swirl-shirt/",
-    "https://teeextra.com/product/official-family-style-food-festival-la-2025-shirt/",
-    "https://teeextra.com/product/official-dirty-coast-everyone-deserves-a-meal-shirt/",
-    "https://teeextra.com/product/official-destiny-bond-the-love-shirt/",
-    "https://teeextra.com/product/official-bleachers-asbury-park-nj-tour-june-28-2025-shirt/",
-    "https://teeextra.com/product/official-blackcraft-cult-good-boy-boot-shirt/"
+    "https://teeextra.com/product/official-proclaim-clothing-gods-work-charlie-kirk-legacy-shirt/",
+    "https://teeextra.com/product/official-pennywise-latin-american-tour-2025-shirt/",
+    "https://teeextra.com/product/official-ohio-state-buckeyes-vs-ohio-bobcats-football-2025-gameday-showdown-t-shirts/",
+    "https://teeextra.com/product/official-noah-kahan-london-on-sept-12-2025-shirt/",
+    "https://teeextra.com/product/official-luludrawww-x-clairos-you-know-me-shirt/",
+    "https://teeextra.com/product/official-liverpool-isak-66-jersey-premier-league-football-shirt/",
+    "https://teeextra.com/product/official-lainey-wilson-raising-canes-river-center-arena-sep-12-2025-shirt/",
+    "https://teeextra.com/product/official-kevin-abstract-album-photo-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/charlie-kirk-debate-not-bullets-t-shirt/",
-    "https://teespix.com/product/known-homosexual-shirt/",
-    "https://teespix.com/product/formula-1-x-peanuts-snoopy-dog-house-t-shirt/",
-    "https://teespix.com/product/cincinnati-unleash-your-roar-hudey-14-k-shirt/",
-    "https://teespix.com/product/cincinnati-frankies-big-boy-shirt/",
-    "https://teespix.com/product/cincinnati-children-of-the-cornhole-shirt/",
-    "https://teespix.com/product/oklahoma-football-john-mateer-state-star-t-shirt/",
-    "https://teespix.com/product/ohio-state-football-julian-sayin-just-sayin-shirt-2/",
-    "https://teespix.com/product/masterdebater-shirt/",
-    "https://teespix.com/product/jerry-kramer-thank-you-jerry-t-shirt/"
+    "https://teespix.com/product/i-am-charlie-kirk-t-shirt/",
+    "https://teespix.com/product/live-like-charlie-kirk-shirt/",
+    "https://teespix.com/product/chicago-bears-free-chicago-t-shirt/",
+    "https://teespix.com/product/dont-fuck-with-chicago-protest-shirt/",
+    "https://teespix.com/product/charlie-kirk-cannot-be-silenced-shirt/",
+    "https://teespix.com/product/hands-off-chicago-flag-t-shirt/",
+    "https://teespix.com/product/charlie-kirk-his-voice-lives-on-t-shirt/",
+    "https://teespix.com/product/his-voice-lives-on-charlie-kirk-t-shirt/",
+    "https://teespix.com/product/charlie-kirk-god-family-country-in-that-order-shirt/",
+    "https://teespix.com/product/this-is-the-turning-point-prove-me-wrong-charlie-kirk-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/tyler-robinson-justice-for-charlie-kirk-assassinated-2025-2-sided-shirt/",
@@ -163,12 +161,16 @@
     "https://uscraftedtees.com/product/official-houston-oilers-football-helmet-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/detroit-football-salty-shirt/",
-    "https://capitoneshirt.com/product/detroit-lions-4th-and-unstoppable-shirt/",
-    "https://capitoneshirt.com/product/cincinnati-bengals-unleash-your-roar-shirt/",
-    "https://capitoneshirt.com/product/being-a-good-human-matters-shirt-2/",
-    "https://capitoneshirt.com/product/beersexual-flag-shirt/",
-    "https://capitoneshirt.com/product/all-charlie-kirk-did-was-have-a-respectful-dialog-with-people-he-didnt-agree-with-shirt/"
+    "https://capitoneshirt.com/product/yasushi-takagi-this-is-pitbull-shirt/",
+    "https://capitoneshirt.com/product/thank-you-charlie-a-true-patriot-1993-2025-signature-shirt/",
+    "https://capitoneshirt.com/product/taylor-landfair-caricature-big-head-nebraska-shirt/",
+    "https://capitoneshirt.com/product/texas-tech-red-raiders-beat-the-beavers-2025-gameday-shirt/",
+    "https://capitoneshirt.com/product/skeleton-i-know-your-lane-sucks-but-stay-in-it-shirt/",
+    "https://capitoneshirt.com/product/science-should-not-be-silenced-shirt/",
+    "https://capitoneshirt.com/product/no-voice-no-freedom-shirt/",
+    "https://capitoneshirt.com/product/miyagi-do-eagle-fang-combine-miyagi-fang-karate-shirt/",
+    "https://capitoneshirt.com/product/minnesota-twins-fear-of-god-shirt/",
+    "https://capitoneshirt.com/product/luffy-and-usopp-damn-meme-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/you-cant-spell-hatred-without-red-hat-shirt-2/",
@@ -231,16 +233,16 @@
     "https://dalatshirt.com/product/bigfoot-forest-folk-run-club-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/wife-wide-open-the-north-star-state-shirt/",
-    "https://lovingsquad.com/product/tyler-robinson-bee-the-change-salt-lake-dsa-shirt/",
-    "https://lovingsquad.com/product/tucker-kraft-tucker-round-and-find-out-shirt/",
-    "https://lovingsquad.com/product/triple-boss-make-heaven-crowded-shirt/",
-    "https://lovingsquad.com/product/tigerbelly-slept-king-throwback-shirt/",
-    "https://lovingsquad.com/product/the-simpsons-theres-no-such-team-as-the-spungos-shirt/",
-    "https://lovingsquad.com/product/the-simpsons-pigskin-classic-nacho-nacho-man-shirt/",
-    "https://lovingsquad.com/product/the-simpsons-bart-star-its-clobberin-time-shirt/",
-    "https://lovingsquad.com/product/the-charlie-kirk-i-am-just-humbled-by-gods-grace-shirt/",
-    "https://lovingsquad.com/product/that-says-freedom-shirt/"
+    "https://lovingsquad.com/product/jefferson-cleaners-move-on-up-to-better-dry-cleaning-george-jefferson-owner-since-1968-shirt/",
+    "https://lovingsquad.com/product/jason-beghe-as-sergeant-hank-voight-series-chicago-pd-said-yunderstand-shirt/",
+    "https://lovingsquad.com/product/its-weird-being-the-same-age-as-old-people-shirt-2/",
+    "https://lovingsquad.com/product/its-all-of-them-shirt/",
+    "https://lovingsquad.com/product/indonesian-for-police-hate-cops-this-car-is-a-human-killer-shirt/",
+    "https://lovingsquad.com/product/indiana-fever-red-2025-wnba-playoffs-logo-shirt/",
+    "https://lovingsquad.com/product/im-only-28-years-old-i-need-my-mom-shirt/",
+    "https://lovingsquad.com/product/ice-out-of-illinois-kat-abughazaleh-shirt/",
+    "https://lovingsquad.com/product/i-work-to-support-my-daughters-softball-addiction-shirt-2/",
+    "https://lovingsquad.com/product/i-oppose-genocide-i-support-palestine-flag-of-palestine-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/whoever-said-technology-will-replace-paper-has-obviously-never-tried-to-wipe-their-butt-with-an-ipad-shirt/",
