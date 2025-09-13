@@ -1,15 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/philadelphia-phillies-city-love-of-brotherly-shirt/",
-    "https://geekteesus.com/product/paws-detroit-tigers-vs-roary-detroit-lions-my-city-my-team-my-life-skyline-2025-shirt/",
-    "https://geekteesus.com/product/philadelphia-eagles-in-my-veins-jesus-in-my-heart-2025-shirt/",
-    "https://geekteesus.com/product/ohio-bobcats-the-original-ohio-university-since-1804-shirt/",
-    "https://geekteesus.com/product/nix-4-six-bo-nix-denver-broncos-player-shirt/",
-    "https://geekteesus.com/product/my-city-my-team-phillie-phanatic-philadelphia-phillies-and-swoop-philadelphia-eagles-city-of-brotherly-love-signature-shirt/",
-    "https://geekteesus.com/product/missouri-tigers-beau-pribula-pri-zou-la-shirt/",
-    "https://geekteesus.com/product/miami-hurricanes-when-hurricanes-fly-gators-cry-rivalry-shirt/",
-    "https://geekteesus.com/product/miami-hurricanes-305-mia-logo-shirt/",
-    "https://geekteesus.com/product/maxx-crosby-las-vegas-raiders-nfl-nike-shirt/"
+    "https://geekteesus.com/product/no-risk-full-push-shirt/",
+    "https://geekteesus.com/product/turning-point-usa-shirt/",
+    "https://geekteesus.com/product/the-charlie-kirk-show-shirt/",
+    "https://geekteesus.com/product/pray-for-charlie-kirk-flag-shirt/",
+    "https://geekteesus.com/product/pray-for-charlie-kirk-stand-with-charlie-kirk-shirt/",
+    "https://geekteesus.com/product/who-the-fck-is-mads-mikkelsen-shirt/",
+    "https://geekteesus.com/product/tame-impala-deadbeat-loser-shirt/",
+    "https://geekteesus.com/product/my-roots-are-in-kentucky-state-map-roots-shirt/",
+    "https://geekteesus.com/product/rip-charlie-kirk-memorial-2025-shirt/",
+    "https://geekteesus.com/product/waylon-to-dumb-for-new-york-city-too-ugly-for-la-shirt/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-springfield-cardinals-2025-first-second-half-north-division-championship-texas-league-fan-gear-t-shirt/",
@@ -24,28 +24,15 @@
     "https://orionshirt.com/product/official-florida-gators-vs-georgia-bulldogs-florida-georgia-jacksonville-fl-november-1-2025-mascots-college-football-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/magic-is-just-science-that-i-made-up-t-shirt/",
-    "https://techteesusa.com/product/jewish-american-princess-for-a-free-palestine-t-shirt/",
-    "https://techteesusa.com/product/destroy-ai-t-shirt/",
-    "https://techteesusa.com/product/charlie-kirk-land-of-the-free-home-of-the-brave-shirt/",
-    "https://techteesusa.com/product/squid-game-gonggi-player-shirt/",
-    "https://techteesusa.com/product/running-art-shirt/",
-    "https://techteesusa.com/product/go-to-hell-shirt/",
-    "https://techteesusa.com/product/joni-mitchell-and-yorkshire-terrier-shirt/",
-    "https://techteesusa.com/product/d-r-e-a-m-dice-rule-everything-around-me-shirt/",
-    "https://techteesusa.com/product/elon-musk-american-party-logo-shirt/"
+    "https://techteesusa.com/product/freedom-charlie-kirk-shirt/",
+    "https://techteesusa.com/product/gratitoullie-love-island-shirt/",
+    "https://techteesusa.com/product/collo-kiss-me-if-you-hate-ruto-shirt/",
+    "https://techteesusa.com/product/work-in-process-gods-not-done-with-me-yet-shirt/",
+    "https://techteesusa.com/product/youre-killin-me-smalls-washington-nationals-x-the-sandlot-shirt/",
+    "https://techteesusa.com/product/money-fine-shyt-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/halloween-ii-more-of-the-night-he-came-home-michael-myers-horror-movie-poster-shirt/",
-    "https://teeworksusa.com/product/halloween-dog-or-treat-shirt/",
-    "https://teeworksusa.com/product/guardplayer-blue-octopus-tentacle-skull-retro-shirt/",
-    "https://teeworksusa.com/product/green-bay-packers-zombie-football-players-halloween-graphic-shirt/",
-    "https://teeworksusa.com/product/green-bay-packers-crackers-shirt/",
-    "https://teeworksusa.com/product/green-bay-football-skull-wearing-cheesehead-helmet-grunge-shirt/",
-    "https://teeworksusa.com/product/gettin-lucky-biker-ls-shirt/",
-    "https://teeworksusa.com/product/fox-river-state-penitentiary-chicago-illiois-shirt/",
-    "https://teeworksusa.com/product/fightin_-taters-idaho-vandals-mascot-football-team-shirt/",
-    "https://teeworksusa.com/product/everybody-in-that-birthday-book-is-breathing-a-huge-sigh-of-relief-right-about-now-shirt/"
+    "https://teeworksusa.com/product/tyler-robinson-has-been-arrested-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/viral-pray-for-charlie-kirk-turning-point-shirt/",
@@ -205,14 +192,16 @@
     "https://clickoneshirt.com/product/the-muppets-i-know-im-weird-but-sometimes-it-makes-you-laugh-and-that-makes-me-super-happy-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/analepsy-cryogenic-rebirth-t-shirts/",
-    "https://teleteeshirt.com/product/papa-roach-rise-of-the-roach-soldier-t-shirts/",
-    "https://teleteeshirt.com/product/washington-commanders-running-hail-t-shirts/",
-    "https://teleteeshirt.com/product/yeah-im-dtf-down-to-frolic-frog-t-shirts/",
-    "https://teleteeshirt.com/product/tigerbelly-throne-room-t-shirts/",
-    "https://teleteeshirt.com/product/they-might-be-giants-dinosaur-t-shirts/",
-    "https://teleteeshirt.com/product/soapbox-the-good-guys-tour-2025-t-shirts/",
-    "https://teleteeshirt.com/product/rose-gray-a-little-louder-please-black-album-t-shirts/"
+    "https://teleteeshirt.com/product/yeah-im-trans-transporting-this-beer-to-my-mouth-so-i-can-drink-it-yea-im-pan-gonna-opan-this-beer-and-drink-it-yea-im-poly-poly-gonna-dwink-18-beers-tonight-t-shirts/",
+    "https://teleteeshirt.com/product/yak-gotti-wearing-i-love-young-thug-t-shirts/",
+    "https://teleteeshirt.com/product/we-are-charlie-kirk-commemorative-get-married-have-kids-glorify-christ-1993-2025-t-shirts/",
+    "https://teleteeshirt.com/product/saw-how-much-blood-would-you-shed-to-stay-alive-every-puzzle-has-its-pieces-t-shirts/",
+    "https://teleteeshirt.com/product/ohio-state-buckeyes-julian-sayin-just-sayin-t-shirts/",
+    "https://teleteeshirt.com/product/naked-raygun-x-dark-matter-coffee-free-shit-t-shirts/",
+    "https://teleteeshirt.com/product/matt-rhule-nebraska-cornhuskers-logo-t-shirts/",
+    "https://teleteeshirt.com/product/matt-mitchell-southern-haunted-house-t-shirts/",
+    "https://teleteeshirt.com/product/madilyn-mei-can-of-worms-clown-t-shirts/",
+    "https://teleteeshirt.com/product/lost-your-vcard-buy-another-heritage-gamer-supps-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/underdog-im-the-master-of-my-own-destiny-your-opinion-not-needed-shirt/",
@@ -227,16 +216,16 @@
     "https://teeslocal.com/product/pray-for-charlie-kirk-no-voice-no-freedom-make-america-great-again-shirt/"
   ],
   "melonashirt.com": [
-    "https://melonashirt.com/product/official-western-kentucky-university-hilltoppers-womens-volleyball-2025-26-shirts/",
-    "https://melonashirt.com/product/official-the-maccabees-the-maccabees-2025-tour-shirts/",
-    "https://melonashirt.com/product/official-rosali-and-mowed-sound-tour-shirts/",
-    "https://melonashirt.com/product/official-poorly-drawn-i-want-to-go-home-shirts/",
-    "https://melonashirt.com/product/official-mercedes-mone-champion-everywhere-officially-shirts/",
-    "https://melonashirt.com/product/official-cole-rusk-illini-illinois-football-illustrated-shirts/",
-    "https://melonashirt.com/product/official-billy-strings-and-bryan-sutton-with-royal-masat-sep-12-2025-in-boone-nc-shirts/",
-    "https://melonashirt.com/product/official-bourbon-and-beyond-concert-tour-louisville-ky-shirts/",
-    "https://melonashirt.com/product/official-cboystv-north-star-life-wide-open-shirts/",
-    "https://melonashirt.com/product/official-jaylen-carey-23-t-tennessee-basketball-shirts/"
+    "https://melonashirt.com/product/official-carsie-blanton-be-a-friend-dont-be-a-cop-shirts/",
+    "https://melonashirt.com/product/official-2025-historic-prime-football-helmet-shirts/",
+    "https://melonashirt.com/product/official-gorbachev-minnesota-june-3-1990-shirts/",
+    "https://melonashirt.com/product/official-when-we-were-young-festival-las-vegas-festival-grounds-oct-18-19-2025-shirts/",
+    "https://melonashirt.com/product/official-tempt-not-the-righteous-man-to-draw-his-sword-shirts/",
+    "https://melonashirt.com/product/official-splitsville-jackson-shrub-oak-volunteer-fire-dept-shirts/",
+    "https://melonashirt.com/product/official-slowwves-i-perfect-evasion-asia-shirts/",
+    "https://melonashirt.com/product/official-puro-pinche-party-shirts/",
+    "https://melonashirt.com/product/official-parkway-drive-killing-with-a-smile-bundle-shirts/",
+    "https://melonashirt.com/product/official-osamasons-ilove-cats-so-much-theyre-so-awesome-sauce-shirts/"
   ],
   "dalatshirt.com": [
     "https://dalatshirt.com/product/abolish-the-monarchy-republic-t-shirts/",
@@ -251,7 +240,14 @@
     "https://dalatshirt.com/product/bigfoot-forest-folk-run-club-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/in-a-bit-of-a-pickle-shirt/"
+    "https://lovingsquad.com/product/tyler-robinson-justice-for-charlie-kirk-shirt/",
+    "https://lovingsquad.com/product/tyler-robinson-mugshot-charlie-kirk-assassination-shirt/",
+    "https://lovingsquad.com/product/charlie-kirk-signature-freedom-shirt/",
+    "https://lovingsquad.com/product/charlie-kirk-we-are-all-charlie-kirk-now-shirt/",
+    "https://lovingsquad.com/product/just-because-youre-offended-doesnt-make-you-right-charlie-kirk-quote-shirt/",
+    "https://lovingsquad.com/product/tyler-robinson-mugshot-justice-for-charlie-kirk-shirt/",
+    "https://lovingsquad.com/product/bee-the-change-salt-lake-dsa-shirt/",
+    "https://lovingsquad.com/product/stream-bee-the-change-salt-lake-dsa-tyler-robinson-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/vote-sauron-make-middle-earth-great-again-retro-shirt/",
