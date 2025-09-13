@@ -1,15 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/no-risk-full-push-shirt/",
-    "https://geekteesus.com/product/turning-point-usa-shirt/",
-    "https://geekteesus.com/product/the-charlie-kirk-show-shirt/",
-    "https://geekteesus.com/product/pray-for-charlie-kirk-flag-shirt/",
-    "https://geekteesus.com/product/pray-for-charlie-kirk-stand-with-charlie-kirk-shirt/",
-    "https://geekteesus.com/product/who-the-fck-is-mads-mikkelsen-shirt/",
-    "https://geekteesus.com/product/tame-impala-deadbeat-loser-shirt/",
-    "https://geekteesus.com/product/my-roots-are-in-kentucky-state-map-roots-shirt/",
-    "https://geekteesus.com/product/rip-charlie-kirk-memorial-2025-shirt/",
-    "https://geekteesus.com/product/waylon-to-dumb-for-new-york-city-too-ugly-for-la-shirt/"
+    "https://geekteesus.com/product/yeah-im-trans-transporting-this-beer-to-my-mouth-so-i-can-drink-it-shirt/",
+    "https://geekteesus.com/product/yeah-im-pan-gonna-o-pan-this-beer-and-drink-it-shirt/",
+    "https://geekteesus.com/product/we-are-giantx-shirt/",
+    "https://geekteesus.com/product/unleash-your-roar-hudey-14-k-hu-dey-cincinnati-bengals-shirt/",
+    "https://geekteesus.com/product/tyler-robinson-mugshot-shirt/",
+    "https://geekteesus.com/product/tyler-robinson-mugshot-justice-for-charlie-kirk-shirt/",
+    "https://geekteesus.com/product/top-cat-cincinnati-bengals-football-shirt/",
+    "https://geekteesus.com/product/this-is-the-turning-point-rip-charlie-kirk-shirt/",
+    "https://geekteesus.com/product/thanks-jerry-micah-parsons-green-bay-packers-trade-meme-shirt/",
+    "https://geekteesus.com/product/hands-off-chicago-shirt/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-the-movement-my-husband-built-will-not-die-erika-kirk-charlie-1993-2025-t-shirt/",
@@ -149,16 +149,16 @@
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/official-you-cant-cure-stupid-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-yeah-im-poly-poly-gonna-drink-18-beers-tonight-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-weapons-wendys-zach-cregger-logo-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-time-for-kickoff-so-you-need-to-fck-off-helmet-t-shirts/",
-    "https://uscraftedtees.com/product/official-tailgatin-up-at-borderland-festival-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-ralph-lauren-euro-team-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-proclaim-clothing-charlie-kirk-legacy-t-shirts/",
-    "https://uscraftedtees.com/product/official-ohio-100-years-of-bobcats-since-1925-t-shirts/",
-    "https://uscraftedtees.com/product/official-kali-uchis-the-sincerely-tour-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-houston-oilers-football-helmet-t-shirts/"
+    "https://uscraftedtees.com/product/original-the-elovaters-marshfiled-ma-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-natalie-brooke-tour-september-and-october-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-coyote-island-tour-aug-sep-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-sept-19-2025-cactus-lee-joshua-hedlry-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-new-york-borderland-festival-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-sonido-gallo-negro-sept-14-2025-the-chapel-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-adam-sandler-youre-my-best-friend-tour-sept-oct-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-rat-city-recon-oct-25-2025-southgate-roller-rink-in-seattle-wa-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-here-come-the-mummies-cervantes-ballroom-in-denver-co-sep-12-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-sonido-gallo-negro-sep-14-2025-san-francisco-ca-poster-t-shirts/"
   ],
   "capitoneshirt.com": [
     "https://capitoneshirt.com/product/yasushi-takagi-this-is-pitbull-shirt/",
@@ -233,16 +233,16 @@
     "https://dalatshirt.com/product/bigfoot-forest-folk-run-club-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/washington-nationals-and-washington-commanders-all-season-on-sundays-signatures-shirt/",
-    "https://lovingsquad.com/product/vandersloot-nooooo-retro-basketball-shirt/",
-    "https://lovingsquad.com/product/tip-your-dealers-bettor-media-llc-shirt/",
-    "https://lovingsquad.com/product/thriller-vs-killer-michael-jackson-against-michael-myers-graphic-shirt/",
-    "https://lovingsquad.com/product/the-idea-lives-on-rip-charlie-kirk-shirt/",
-    "https://lovingsquad.com/product/the-bruise-brothers-thank-you-for-the-memories-signatures-team-abbey-road-shirt/",
-    "https://lovingsquad.com/product/the-banana-splits-essential-shirt/",
-    "https://lovingsquad.com/product/texas-longhorns-thank-you-for-the-memories-layers-name-team-logo-shirt/",
-    "https://lovingsquad.com/product/tank-dell-houston-texans-graphic-shirt/",
-    "https://lovingsquad.com/product/stop-the-boats-union-jack-flag-shirt/"
+    "https://lovingsquad.com/product/wu-tang-clan-flag-design-of-the-american-flag-shirt/",
+    "https://lovingsquad.com/product/who-shot-ya-the-2nd-amendment-charlie-kirk-shirt/",
+    "https://lovingsquad.com/product/they-wont-silence-us-charlie-kirk-shirt/",
+    "https://lovingsquad.com/product/they-callin-me-republican-the-way-i-enjoy-both-dick-bush-american-book-logo-shirt/",
+    "https://lovingsquad.com/product/the-rockers-1990-classic-wwf-poster-shirt/",
+    "https://lovingsquad.com/product/the-european-mind-cant-comprehend-the-gift-of-centralized-air-conditioning-american-flag-shirt/",
+    "https://lovingsquad.com/product/texas-rascals-baseball-merchandise-shirt/",
+    "https://lovingsquad.com/product/tennessee-titans-thank-you-jesus-shirt/",
+    "https://lovingsquad.com/product/support-our-troops-bring-them-home-american-flag-shirt/",
+    "https://lovingsquad.com/product/some-of-you-need-to-be-mothers-for-halloween-yall-been-ghosts-clowns-all-year-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/whoever-said-technology-will-replace-paper-has-obviously-never-tried-to-wipe-their-butt-with-an-ipad-shirt/",
