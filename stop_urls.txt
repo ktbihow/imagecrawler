@@ -36,10 +36,16 @@
     "https://techteesusa.com/product/what-about-5-inches-and-kind-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/red-bull-mascot-holding-a-basketball-shirt/",
-    "https://teeworksusa.com/product/mo-west-missouri-western-state-university-griffon-mascot-shirt/",
-    "https://teeworksusa.com/product/resist-red-triangle-protocol-shirt/",
-    "https://teeworksusa.com/product/mountaineer-maniacs-25-26-shirt/"
+    "https://teeworksusa.com/product/zero-to-frank-baseball-player-holding-beer-shirt-png/",
+    "https://teeworksusa.com/product/yeah-im-trans-transporting-this-beer-to-my-mouth-so-i-can-drink-it-shirt-png/",
+    "https://teeworksusa.com/product/yeah-im-pan-gonna-o-pan-this-beer-and-drink-it-shirt-png/",
+    "https://teeworksusa.com/product/wwe-espn-2025-logo-shirt-png/",
+    "https://teeworksusa.com/product/wrestlepalooza-indianapolis-september-20-cena-lesnar-the-goat-vs-the-beast-shirt-png/",
+    "https://teeworksusa.com/product/wrestlepalooza-indianapolis-2025-premium-live-event-shirt-png/",
+    "https://teeworksusa.com/product/wildcats-northwestern-soccer-ball-retro-shirt-png/",
+    "https://teeworksusa.com/product/why-rush-the-end-is-the-same-shirt-png/",
+    "https://teeworksusa.com/product/welcome-to-the-schlitt-show-baseball-player-signature-shirt-png/",
+    "https://teeworksusa.com/product/welcome-to-the-democratic-party-the-party-that-murders-you-if-you-disagree-with-them-shirt-png/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/viral-pray-for-charlie-kirk-turning-point-shirt/",
@@ -301,16 +307,16 @@
     "https://newshirtstore.com/product/charlie-kirk-freedom-tribute-1993-2025-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/no-risk-pull-push-shirt/",
-    "https://eteeclothing.com/product/napa-auto-parts-x-walgreens-im-with-the-witch-shirt/",
-    "https://eteeclothing.com/product/my-heart-burns-for-thee-if-thou-dost-even-care-shirt/",
-    "https://eteeclothing.com/product/michaels-x-walgreens-im-with-the-witch-shirt/",
-    "https://eteeclothing.com/product/meijer-x-walgreens-im-with-the-witch-shirt/",
-    "https://eteeclothing.com/product/mcdonalds-x-walgreens-im-with-the-witch-shirt/",
-    "https://eteeclothing.com/product/marshalls-x-walgreens-im-with-the-witch-shirt/",
-    "https://eteeclothing.com/product/macys-x-walgreens-im-with-the-witch-shirt/",
-    "https://eteeclothing.com/product/longhorn-steakhouse-x-walgreens-im-with-the-witch-shirt/",
-    "https://eteeclothing.com/product/lake-titicaca-motorboat-champion-1969-vintage-shirt/"
+    "https://eteeclothing.com/product/winn-dixie-x-halloween-im-with-the-witch-shirt/",
+    "https://eteeclothing.com/product/wendys-x-halloween-im-with-the-witch-shirt/",
+    "https://eteeclothing.com/product/wawa-x-halloween-im-with-the-witch-shirt/",
+    "https://eteeclothing.com/product/walmart-x-walgreens-im-with-the-witch-shirt/",
+    "https://eteeclothing.com/product/walmart-x-halloween-im-with-the-witch-shirt/",
+    "https://eteeclothing.com/product/waffle-house-x-walgreens-im-with-the-witch-shirt/",
+    "https://eteeclothing.com/product/vladdy-shush-vladimir-guerrero-jr-toronto-baseball-signature-shirt/",
+    "https://eteeclothing.com/product/usps-x-walgreens-im-with-the-witch-shirt/",
+    "https://eteeclothing.com/product/tucker-kraft-tucker-round-and-find-out-signature-shirt/",
+    "https://eteeclothing.com/product/tim-hortons-x-walgreens-im-with-the-witch-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/alfredos-tokyo-action-figure-2025-shirt/",
