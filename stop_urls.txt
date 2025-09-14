@@ -139,16 +139,14 @@
     "https://legendusashirt.com/product/my-chemical-romance-raymond-james-stadium-tampa-fl-9-13-25-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/and-they-sold-us-like-beasts-shirt/",
-    "https://teehandus.com/product/boomerang-fu-cartoon-shirt/",
-    "https://teehandus.com/product/britney-spears-oops-i-did-it-again-shirt/",
-    "https://teehandus.com/product/bryan-woo-wearing-step-brothers-bryan-woo-and-cal-raleigh-shirt/",
-    "https://teehandus.com/product/bulldog-wrinkled-love-shirt/",
-    "https://teehandus.com/product/carry-on-my-wayward-son-vintage-shirt/",
-    "https://teehandus.com/product/burton-choose-to-live-smaller-shirt/",
-    "https://teehandus.com/product/charles-bukowski-cartoon-shirt/",
-    "https://teehandus.com/product/dariusz-matecki-wearing-white-lives-matter-shirt/",
-    "https://teehandus.com/product/dashawn-spears-wearing-bayou-bandits-shirt/"
+    "https://teehandus.com/product/howler-head-monkey-shirt/",
+    "https://teehandus.com/product/terence-crawford-boxing-vintage-shirt/",
+    "https://teehandus.com/product/terence-crawford-bud-big-face-shirt/",
+    "https://teehandus.com/product/terence-crawford-nebraska-husker-shirt/",
+    "https://teehandus.com/product/terence-the-crawford-era-shirt/",
+    "https://teehandus.com/product/wild-card-boxing-las-vegas-callum-walsh-freddie-roach-2025-shirt/",
+    "https://teehandus.com/product/wild-card-boxing-shirt/",
+    "https://teehandus.com/product/wild-card-boxing-it-aint-easy-1995-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -238,16 +236,16 @@
     "https://dalatshirt.com/product/metal-gear-solid-portable-ops-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/halloween-boo-dozer-ghost-bulldozer-pumpkin-costume-cute-spooky-shirt/",
-    "https://lovingsquad.com/product/greensky-bluegrass-sep-13-2025-red-rocks-amphitheatre-morrison-co-our-poster-shirt/",
-    "https://lovingsquad.com/product/georgia-football-loyal-to-the-end-conservation-is-a-tradition-shirt/",
-    "https://lovingsquad.com/product/frankensteins-funny-halloween-spooky-scary-october-vintage-shirt/",
-    "https://lovingsquad.com/product/for-charlie-with-american-flag-shirt/",
-    "https://lovingsquad.com/product/foo-fighters-san-luis-obispo-september-13th-2025-poster-shirt/",
-    "https://lovingsquad.com/product/dog-i-dont-have-trust-issues-i-just-think-most-people-are-full-of-shit-shirt/",
-    "https://lovingsquad.com/product/dirty-heads-mchenry-music-festival-in-mchenry-il-on-sep-13-2025-poster-shirt/",
-    "https://lovingsquad.com/product/dash-jarren-duran-boston-red-sox-baseball-2025-graphic-shirt/",
-    "https://lovingsquad.com/product/cute-ghost-halloween-boo-haunted-house-shirt/"
+    "https://lovingsquad.com/product/yusuf-cat-stevens-september-11-2025-tour-birmingham-uk-shirt/",
+    "https://lovingsquad.com/product/you-can-t-spell-hatred-without-red-hat-shirt/",
+    "https://lovingsquad.com/product/would-you-still-love-me-if-i-was-a-wyrm-dragon-shirt/",
+    "https://lovingsquad.com/product/widespread-panic-tour-sep-12-13-2025-richmond-virginia-poster-shirt/",
+    "https://lovingsquad.com/product/widespread-panic-2025-september-12-13-2025-shirt/",
+    "https://lovingsquad.com/product/we-are-all-charlie-kirk-now-american-flag-shirt/",
+    "https://lovingsquad.com/product/vulfpeck-sep-13-2025-madison-square-garden-new-york-ny-poster-shirt/",
+    "https://lovingsquad.com/product/vulfpeck-msg-madison-sq-garden-september-13th-2025-saturday-poster-shirt/",
+    "https://lovingsquad.com/product/ugp-campus-apparel-the-runarounds-car-shirt/",
+    "https://lovingsquad.com/product/tucker-kraft-tucker-round-and-find-out-signature-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/freddy-krueger-the-cincinnati-freds-baseball-team-halloween-shirt/",
@@ -287,16 +285,7 @@
     "https://neoteeco.com/product/parkway-drive-kwas-20-year-anniversary-killing-with-a-smile-all-over-print-hoodie/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/tyler-robinson-you-charlie-kirk-memorial-t-shirt/",
-    "https://newshirtstore.com/product/the-idea-lives-on-rip-charlie-kirk-shirt-2/",
-    "https://newshirtstore.com/product/we-are-charlie-kirk-we-will-carry-the-torch-t-shirt/",
-    "https://newshirtstore.com/product/rip-political-awareness-charlie-kirk-t-shirt/",
-    "https://newshirtstore.com/product/we-stand-with-charlie-kirk-t-shirt/",
-    "https://newshirtstore.com/product/this-is-the-turning-point-charlie-kirk-shirt/",
-    "https://newshirtstore.com/product/this-is-our-turning-point-charlie-kirk-shirt/",
-    "https://newshirtstore.com/product/this-is-my-turning-point-charlie-kirk-1993-2025-t-shirt/",
-    "https://newshirtstore.com/product/official-true-patriot-charlie-kirk-t-shirt/",
-    "https://newshirtstore.com/product/official-charlie-kirk-forever-in-our-hearts-a-true-patriot-shirt/"
+    "https://newshirtstore.com/product/charlie-kirk-freedom-t-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/wendys-x-snoopy-im-the-witch-halloween-shirt/",
