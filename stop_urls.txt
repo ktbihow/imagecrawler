@@ -12,16 +12,10 @@
     "https://geekteesus.com/product/hands-off-chicago-shirt/"
   ],
   "orionshirt.com": [
-    "https://orionshirt.com/product/official-the-movement-my-husband-built-will-not-die-erika-kirk-charlie-1993-2025-t-shirt/",
-    "https://orionshirt.com/product/official-j-j-mccarthy-minnesota-vikings-on-sundays-we-skol-nfl-2025-t-shirt/",
-    "https://orionshirt.com/product/official-wwe-wrestlemania-43-2027-in-riyadh-saudi-arabia-logo-t-shirt/",
-    "https://orionshirt.com/product/official-this-is-charlie-kirk-superhero-the-turning-point-1993-2025-painting-t-shirt/",
-    "https://orionshirt.com/product/official-poster-miami-dolphins-vs-new-england-patriots-at-hard-rock-stadium-on-september-14-2025-t-shirt/",
-    "https://orionshirt.com/product/official-big-train-champions-2025-bethesda-cal-ripken-sr-collegiate-baseball-2005-2025-t-shirt/",
-    "https://orionshirt.com/product/official-poster-tiana-mangakahia-1995-2025-syracuse-womens-basketball-t-shirt/",
-    "https://orionshirt.com/product/official-poster-nfc-north-chicago-bears-vs-detroit-lions-at-ford-field-on-september-14-2025-t-shirt/",
-    "https://orionshirt.com/product/official-justice-for-charlie-kirk-assassinated-tyler-robinson-new-2025-t-shirt/",
-    "https://orionshirt.com/product/official-i-am-just-humbked-by-gods-charlie-kirk-show-new-2025-t-shirt/"
+    "https://orionshirt.com/product/official-west-virginia-mountaineers-vs-pitt-panthers-score-31-24-college-football-backyard-brawl-champs-september-13-2025-t-shirt/",
+    "https://orionshirt.com/product/official-poster-terence-crawford-beats-canelo-alvarez-undisputed-super-middleweight-champion-t-shirt/",
+    "https://orionshirt.com/product/official-poster-a-netflix-series-the-witcher-season-4-on-netflix-october-30-2025-movie-t-shirt/",
+    "https://orionshirt.com/product/official-choked-the-chicken-vanderbilt-commodores-defeats-south-carolina-gamecocks-painting-t-shirt/"
   ],
   "techteesusa.com": [
     "https://techteesusa.com/product/yo-rock-anime-manga-videojuegos-un-virgen-antisocial-shirt/",
@@ -71,16 +65,16 @@
     "https://berrylittles.com/product/official-poster-gorinto-productions-secret-planet-presents-nidia-gongora-september-24-2025-in-state-college-pa-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-ohio-bobcats-vs-ohio-state-buckeyes-football-stadium-mascot-2025-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-milwaukee-brewers-clinched-mlb-2025-postseason-power-of-friendship-leads-to-october-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-noche-ufc-winner-mma-fighter-diego-lopes-defeats-jean-silva-art-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-milwaukee-brewers-2025-mlb-postseason-october-baseball-postseason-locker-room-t-shirt/",
-    "https://dreameshirt.com/product/official-chicago-bears-vs-detroit-lions-nfl-week-2-matchup-september-14-2025-ford-field-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-boston-red-sox-2025-mlb-postseason-october-baseball-postseason-locker-room-t-shirt/",
-    "https://dreameshirt.com/product/official-toronto-blue-jays-2025-mlb-postseason-october-baseball-postseason-locker-room-t-shirt/",
-    "https://dreameshirt.com/product/official-detroit-tigers-2025-mlb-postseason-october-baseball-postseason-locker-room-t-shirt/",
-    "https://dreameshirt.com/product/official-harrison-bader-what-a-gift-philadelphia-phillies-mlb-painting-t-shirt/",
-    "https://dreameshirt.com/product/official-houston-astros-2025-mlb-postseason-october-baseball-postseason-locker-room-t-shirt/"
+    "https://dreameshirt.com/product/official-cody-rhodes-v-drew-mcintyre-wwe-wrestlepalooza-indianapolis-saturday-september-20-2025-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-ohio-state-buckeyes-football-jeremiah-smith-bo-jackson-is-that-guy-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-miami-hurricanes-vs-florida-gators-espn-college-gameday-september-20-2025-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-atlanta-falcons-dirty-bird-dimensions-the-great-adventures-of-the-falcons-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-terence-crawford-victory-over-canelo-alvarez-and-the-new-september-14-2025-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-2025-g59-g59-records-suicideboys-grey-iii-thy-kingdom-come-t-shirt/",
+    "https://dreameshirt.com/product/official-canelo-alvarez-vs-terence-crawford-super-middle-championship-painting-t-shirt/",
+    "https://dreameshirt.com/product/official-texas-am-aggies-vs-notre-dame-fighting-irish-gig-em-score-41-40-september-13th-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-g59-records-count-your-blessings-three-up-like-the-trinity-anti-social-tendencies-aug-1-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-dont-give-a-dame-texas-am-aggies-defeats-notre-dame-fighting-irish-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/tyler-robinson-mugshot-t-shirts-justice-for-charlie-kirk-2-sided-t-shirts/",
@@ -255,16 +249,16 @@
     "https://lovingsquad.com/product/some-of-you-need-to-be-mothers-for-halloween-yall-been-ghosts-clowns-all-year-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/whoever-said-technology-will-replace-paper-has-obviously-never-tried-to-wipe-their-butt-with-an-ipad-shirt/",
-    "https://designatshop.com/product/three-chicken-i-have-three-sides-quiet-fun-and-crazy-and-the-one-you-dont-want-to-see-shirt/",
-    "https://designatshop.com/product/we-are-all-charlie-kirk-now-american-flag-shirt/",
-    "https://designatshop.com/product/the-turning-point-occupy-till-i-come-loving-memory-of-charlie-kirk-christian-scripture-shirt/",
-    "https://designatshop.com/product/tennessee-titans-football-thank-you-jesus-shirt/",
-    "https://designatshop.com/product/sad-snoopy-not-only-does-my-mind-wander-sometimes-it-walks-off-shirt/",
-    "https://designatshop.com/product/sad-chicken-people-say-i-act-like-i-dont-care-its-not-an-action-shirt/",
-    "https://designatshop.com/product/rooster-x-hen-live-laugh-love-if-that-doesnt-work-live-laugh-love-load-aim-fire-shirt/",
-    "https://designatshop.com/product/rooster-wearing-vest-today-is-slap-an-idiot-day-im-gonna-be-busy-shirt/",
-    "https://designatshop.com/product/rooster-thumbs-up-shoutout-putting-up-with-my-own-shit-day-in-and-day-out-shirt/"
+    "https://designatshop.com/product/white-lives-matter-2025-shirt/",
+    "https://designatshop.com/product/west-virginia-mountaineers-vs-pitt-panthers-2025-31-24-lets-go-mountaineers-shirt/",
+    "https://designatshop.com/product/west-virginia-mountaineers-beat-pittsburgh-panthers-champions-shirt/",
+    "https://designatshop.com/product/west-virginia-mountaineers-backyard-brwal-champions-shirt/",
+    "https://designatshop.com/product/the-walking-red-shirt/",
+    "https://designatshop.com/product/texas-am-aggies-41-10-notre-dame-fighting-irish-2025-gig-em-shirt/",
+    "https://designatshop.com/product/terence-the-crawford-era-shirt/",
+    "https://designatshop.com/product/publicly-executed-at-the-mcr-show-shirt/",
+    "https://designatshop.com/product/scream-ohio-ghostface-halloween-shirt/",
+    "https://designatshop.com/product/prayers-up-for-charlie-kirk-the-man-the-myth-the-legend-shirt/"
   ],
   "arjomany.com": [
     "https://arjomany.com/product/we-stand-with-charlie-kirk-t-shirt/",
@@ -292,16 +286,16 @@
     "https://neoteeco.com/product/parkway-drive-kwas-20-year-anniversary-killing-with-a-smile-all-over-print-hoodie/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/green-bay-packers-zombie-football-players-halloween-graphic-shirt/",
-    "https://newshirtstore.com/product/green-bay-football-skull-wearing-cheesehead-helmet-grunge-shirt/",
-    "https://newshirtstore.com/product/green-bay-packers-crackers-shirt/",
-    "https://newshirtstore.com/product/halloween-ii-more-of-the-night-he-came-home-michael-myers-horror-movie-poster-shirt/",
-    "https://newshirtstore.com/product/forever-in-our-hearts-charlie-kirk-t-shirt/",
-    "https://newshirtstore.com/product/gettin-lucky-biker-ls-shirt/",
-    "https://newshirtstore.com/product/fightin_-taters-idaho-vandals-mascot-football-team-shirt/",
-    "https://newshirtstore.com/product/guardplayer-blue-octopus-tentacle-skull-retro-shirt/",
-    "https://newshirtstore.com/product/everybody-in-that-birthday-book-is-breathing-a-huge-sigh-of-relief-right-about-now-shirt/",
-    "https://newshirtstore.com/product/fox-river-state-penitentiary-chicago-illiois-shirt/"
+    "https://newshirtstore.com/product/tyler-robinson-justice-for-charlie-kirk-shirt/",
+    "https://newshirtstore.com/product/we-are-all-charlie-kirk-now-shirt/",
+    "https://newshirtstore.com/product/official-charlie-kirk-freedom-turning-point-usa-rip-t-shirts/",
+    "https://newshirtstore.com/product/we-are-all-charlie-kirk-now-shirt-freedom-t-shirts/",
+    "https://newshirtstore.com/product/gods-work-charlie-kirk-never-give-up-never-surrender-and-always-go-for-the-win-shirt/",
+    "https://newshirtstore.com/product/heart-freedom-charlie-kirk-t-shirt/",
+    "https://newshirtstore.com/product/official-we-stand-with-charlie-kirk-t-shirt/",
+    "https://newshirtstore.com/product/charlie-kirk-pray-for-charlie-kirk-stand-with-charlie-american-flag-shirt/",
+    "https://newshirtstore.com/product/rip-charlie-kirk-1993-2025-shirt-2/",
+    "https://newshirtstore.com/product/live-like-charlie-kirk-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/wwckd-what-would-charlie-kirk-do-shirt/",
