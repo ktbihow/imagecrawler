@@ -17,28 +17,28 @@
     "https://orionshirt.com/product/official-alabama-crimson-tide-38-14-wisconsin-badgers-final-build-giants-alabama-september-13-2025-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/yo-rock-anime-manga-videojuegos-un-virgen-antisocial-shirt/",
-    "https://techteesusa.com/product/scooby-jew-scooby-doo-t-shirt/",
-    "https://techteesusa.com/product/youre-killin-me-smalls-boston-red-sox-x-the-sandlot-shirt/",
-    "https://techteesusa.com/product/bender-keep-calm-and-kill-all-humans-shirt/",
-    "https://techteesusa.com/product/saratoga-springs-americas-oldest-sports-venue-new-york-shirt/",
-    "https://techteesusa.com/product/elon-musk-in-doge-we-trust-america-party-shirt/",
-    "https://techteesusa.com/product/fearless-toronto-zoos-version-lion-shirt/",
-    "https://techteesusa.com/product/i-am-a-cat-boy-for-moms-shirt/",
-    "https://techteesusa.com/product/austin-hays-of-thunder-racing-shirt/",
-    "https://techteesusa.com/product/what-about-5-inches-and-kind-shirt/"
+    "https://techteesusa.com/product/yeah-im-pan-gonna-o-pan-this-beer-and-drink-it-shirt/",
+    "https://techteesusa.com/product/tyler-robinson-in-a-trump-make-america-great-again-shirt/",
+    "https://techteesusa.com/product/saint-joseph-band-oklahoma-sooners-shirt/",
+    "https://techteesusa.com/product/make-sense-common-again-t-shirt/",
+    "https://techteesusa.com/product/shepard-fairey-wake-up-they-want-you-asleep-stay-woke-shirt/",
+    "https://techteesusa.com/product/elon-musk-american-party-shirt/",
+    "https://techteesusa.com/product/kawaii-koalafied-cutie-shirt/",
+    "https://techteesusa.com/product/as-the-prophecy-foretold-shit-is-fucked-shirt/",
+    "https://techteesusa.com/product/i-love-kb-shirt/",
+    "https://techteesusa.com/product/youre-killin-me-smalls-kansas-city-royals-x-the-sandlot-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/downtown-huntsville-alabama-shirt/",
-    "https://teeworksusa.com/product/cat-my-tummy-hurts-but-im-being-really-brave-about-it-shirt/",
-    "https://teeworksusa.com/product/taxi-driver-i-got-some-bad-ideas-in-my-head-shirt/",
-    "https://teeworksusa.com/product/straight-outta-shape-but-bitch-im-tryin-shirt/",
-    "https://teeworksusa.com/product/pumpkin-spice-propofol-ativan-versed-haldol-halloween-nurse-shirt/",
-    "https://teeworksusa.com/product/pummel-party-shirt/",
-    "https://teeworksusa.com/product/peanuts-tonight-will-come-to-life-fall-children-shirt/",
-    "https://teeworksusa.com/product/oasis-live-25-toronto-event-shirt/",
-    "https://teeworksusa.com/product/oasis-live-25-mexico-city-event-shirt/",
-    "https://teeworksusa.com/product/oasis-live-25-los-angeles-event-shirt/"
+    "https://teeworksusa.com/product/georgia-bulldogs-uga-smoked-shirt/",
+    "https://teeworksusa.com/product/george-strait-50th-anniversary-1976-2026-thank-you-for-the-memories-shirt/",
+    "https://teeworksusa.com/product/full-armor-of-god-shirt/",
+    "https://teeworksusa.com/product/frankenstein-and-bride-the-lovers-tarot-shirt/",
+    "https://teeworksusa.com/product/dawgs-on-top-georgia-how-bout-them-dawgs-september-13-2025-mascot-shirt/",
+    "https://teeworksusa.com/product/dachshund-i-finally-got-eight-hours-of-sleep-shirt/",
+    "https://teeworksusa.com/product/chicago-sports-ghost-aint-no-boo-sheet-halloween-shirt/",
+    "https://teeworksusa.com/product/byu-cougars-in-my-veins-jesus-in-my-heart-mascot-shirt/",
+    "https://teeworksusa.com/product/bills-in-my-veins-jesus-in-my-heart-drop-blood-shirt/",
+    "https://teeworksusa.com/product/boston-terrier-ghost-boo-halloween-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-wisconsin-snoopy-fist-bump-charlie-brown-brewers-and-packers-shirt/",
