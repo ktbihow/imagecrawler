@@ -142,16 +142,16 @@
     "https://legendusashirt.com/product/widespread-panic-richmond-va-tour-sept-12-13-2025-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/all-the-ways-you-can-die-in-a-space-craft-shirt/",
-    "https://teehandus.com/product/anthony-rizzos-biggest-fan-is-fitzy-shirt/",
-    "https://teehandus.com/product/behind-every-good-catcher-is-a-mom-shirt/",
-    "https://teehandus.com/product/coach-matt-rhule-wearing-terence-crawford-shirt/",
-    "https://teehandus.com/product/ehigie-brave-in-the-bush-shirt/",
-    "https://teehandus.com/product/el-toro-six-flags-great-adventure-shirt/",
-    "https://teehandus.com/product/fatigued-27-7-shirt/",
-    "https://teehandus.com/product/ghost-of-disapproval-shirt/",
-    "https://teehandus.com/product/its-ok-to-love-your-country-charlie-kirk-shirt/",
-    "https://teehandus.com/product/lets-make-heaven-crowded-charlie-kirk-1993-2025-shirt/"
+    "https://teehandus.com/product/1800-jazzagne-its-called-jazz-baby-deal-with-it-shirt/",
+    "https://teehandus.com/product/aaron-brooks-new-orleans-saints-quarterback-shirt/",
+    "https://teehandus.com/product/absolute-cungadero-shirt/",
+    "https://teehandus.com/product/agnostic-front-liberty-and-justice-vintage-1980s-shirt/",
+    "https://teehandus.com/product/arm-the-dolls-shirt/",
+    "https://teehandus.com/product/bagwork-on-solana-shirt/",
+    "https://teehandus.com/product/bryce-underwood-19-batman-logo-shirt/",
+    "https://teehandus.com/product/charlie-kirk-all-because-of-words-shirt/",
+    "https://teehandus.com/product/charlie-kirk-superhero-this-is-the-turning-point-shirt/",
+    "https://teehandus.com/product/digital-slops-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -215,16 +215,16 @@
     "https://teeslocal.com/product/i-urge-you-to-take-care-of-yourself-and-avoid-accidents-because-spare-parts-for-old-models-like-us-shirt/"
   ],
   "melonashirt.com": [
-    "https://melonashirt.com/product/official-please-be-patient-i-have-autism-and-a-gun-in-my-pocket-shirts/",
-    "https://melonashirt.com/product/official-pink-floyd-wish-you-were-here-50th-david-roger-shirts/",
-    "https://melonashirt.com/product/official-lost-your-vcard-buy-another-heritage-gamersupps-shirts/",
-    "https://melonashirt.com/product/official-mark-leiter-jr-jesus-won-shirts/",
-    "https://melonashirt.com/product/official-justice-for-charlie-kirk-memorial-shirts/",
-    "https://melonashirt.com/product/official-i-am-charlie-give-me-justice-shirts/",
-    "https://melonashirt.com/product/official-gutalax-ralian-smear-campaign-tour-sept-2025-shirts/",
-    "https://melonashirt.com/product/official-great-american-patriot-charle-kirk-1993-2025-shirts/",
-    "https://melonashirt.com/product/official-gamer-supps-proudly-pushing-powder-heritage-hand-shirts/",
-    "https://melonashirt.com/product/official-cubs-all-time-greats-chicago-cubs-shirts/"
+    "https://melonashirt.com/product/official-tyler-robinson-mugshot-shirts/",
+    "https://melonashirt.com/product/official-the-simpsons-theres-no-such-team-as-the-spungos-shirts/",
+    "https://melonashirt.com/product/official-the-simpsons-pigskin-classic-nacho-nacho-man-shirts/",
+    "https://melonashirt.com/product/official-the-simpsons-bart-star-its-clobberin-time-shirts/",
+    "https://melonashirt.com/product/official-the-charlie-kirk-show-shirts-2/",
+    "https://melonashirt.com/product/official-john-brown-blood-big-head-shirts/",
+    "https://melonashirt.com/product/official-half-coffee-half-teacher-shirts/",
+    "https://melonashirt.com/product/official-freddie-gibbs-alfredo-ii-the-alchemist-shirts/",
+    "https://melonashirt.com/product/official-conan-obrien-needs-a-friend-summer-smores-25-shirts/",
+    "https://melonashirt.com/product/official-claude-san-franpsycho-nightlife-big-gaitor-shirts/"
   ],
   "dalatshirt.com": [
     "https://dalatshirt.com/product/white-lives-matter-t-shirts-2/",
