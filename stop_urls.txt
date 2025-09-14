@@ -86,16 +86,16 @@
     "https://teeextra.com/product/this-witch-loves-the-new-england-patriots-halloween-2-sided-t-shirts/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/we-are-all-charlie-kirk-now-shirt/",
-    "https://teespix.com/product/vladdy-shush-shirt/",
-    "https://teespix.com/product/tyler-robinson-justice-for-charlie-kirk-shirt/",
-    "https://teespix.com/product/texas-rascals-shirt/",
-    "https://teespix.com/product/peace-love-bananas-sport-shirt/",
-    "https://teespix.com/product/officials-micah-parsons-thanks-jerry-green-bay-packers-shirt/",
-    "https://teespix.com/product/officials-green-bay-packers-thanks-jerry-shirt/",
-    "https://teespix.com/product/officials-freedom-is-worth-fighting-for-charlie-kirk-patriot-shirt/",
-    "https://teespix.com/product/officials-free-chicago-protest-political-shirt/",
-    "https://teespix.com/product/officials-dont-fuck-with-chicago-protest-shirt/"
+    "https://teespix.com/product/harry-enjoy-health-eat-your-honey-shirt-2/",
+    "https://teespix.com/product/salt-chicago-standing-against-legalized-tyranny-t-shirt/",
+    "https://teespix.com/product/florida-gators-vs-miami-hurricanes-2025-the-battle-of-the-florida-man-shirt/",
+    "https://teespix.com/product/caseoh-goob-lagoon-unofficial-t-shirt/",
+    "https://teespix.com/product/i-survived-goob-lagoon-shirt/",
+    "https://teespix.com/product/i-went-to-goob-lagoon-a-brain-eating-amoeba-shirt/",
+    "https://teespix.com/product/i-went-to-goob-lagoon-t-shirt/",
+    "https://teespix.com/product/goob-lagoon-i-survived-goob-t-shirt/",
+    "https://teespix.com/product/lsu-vs-vanderbilt-game-day-2025-t-shirt/",
+    "https://teespix.com/product/i-survived-goob-lagoon-2025-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/tyler-robinson-justice-for-charlie-kirk-assassinated-2025-2-sided-shirt/",
@@ -154,28 +154,28 @@
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/original-the-elovaters-marshfiled-ma-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-natalie-brooke-tour-september-and-october-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-coyote-island-tour-aug-sep-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-sept-19-2025-cactus-lee-joshua-hedlry-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-new-york-borderland-festival-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-sonido-gallo-negro-sept-14-2025-the-chapel-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-adam-sandler-youre-my-best-friend-tour-sept-oct-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-rat-city-recon-oct-25-2025-southgate-roller-rink-in-seattle-wa-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-here-come-the-mummies-cervantes-ballroom-in-denver-co-sep-12-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-sonido-gallo-negro-sep-14-2025-san-francisco-ca-poster-t-shirts/"
+    "https://uscraftedtees.com/product/official-healing-appalachia-ashland-kentucky-sep-18-20-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-bluebird-music-festival-apr-18-19-2026-boulder-cp-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-san-luis-obispo-9-13-2025-foo-fighters-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-eagles-09-12-09-13-2025-in-las-vegas-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-foo-fighters-concert-san-luis-obispo-sep-13-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-supernova-ska-fest-fort-monroe-hampton-virginia-sep-12-14-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-the-avett-brothers-9-13-2025-enmarket-arena-in-savannah-ga-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-phish-coca-cola-amphitheater-in-birmingham-al-september-13-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-nidia-gongora-september-24-2025-in-state-college-pa-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-the-avett-brothers-july-11-2025-tour-red-rocks-poster-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/yasushi-takagi-this-is-pitbull-shirt/",
-    "https://capitoneshirt.com/product/thank-you-charlie-a-true-patriot-1993-2025-signature-shirt/",
-    "https://capitoneshirt.com/product/taylor-landfair-caricature-big-head-nebraska-shirt/",
-    "https://capitoneshirt.com/product/texas-tech-red-raiders-beat-the-beavers-2025-gameday-shirt/",
-    "https://capitoneshirt.com/product/skeleton-i-know-your-lane-sucks-but-stay-in-it-shirt/",
-    "https://capitoneshirt.com/product/science-should-not-be-silenced-shirt/",
-    "https://capitoneshirt.com/product/no-voice-no-freedom-shirt/",
-    "https://capitoneshirt.com/product/miyagi-do-eagle-fang-combine-miyagi-fang-karate-shirt/",
-    "https://capitoneshirt.com/product/minnesota-twins-fear-of-god-shirt/",
-    "https://capitoneshirt.com/product/luffy-and-usopp-damn-meme-shirt/"
+    "https://capitoneshirt.com/product/you-cant-spell-hatred-without-red-hat-shirt-2/",
+    "https://capitoneshirt.com/product/witch-bury-patriarchy-they-burned-women-shirt/",
+    "https://capitoneshirt.com/product/warning-this-person-has-a-dirty-mind-shirt/",
+    "https://capitoneshirt.com/product/walter-i-was-told-to-check-my-attitude-yup-shirt/",
+    "https://capitoneshirt.com/product/stitch-pumpkin-walmart-happy-halloween-shirt/",
+    "https://capitoneshirt.com/product/stitch-pumpkin-texas-happy-halloween-shirt/",
+    "https://capitoneshirt.com/product/stitch-pumpkin-subway-happy-halloween-shirt/",
+    "https://capitoneshirt.com/product/stitch-pumpkin-h-e-b-happy-halloween-shirt/",
+    "https://capitoneshirt.com/product/stitch-pumpkin-family-dollar-happy-halloween-shirt/",
+    "https://capitoneshirt.com/product/stitch-pumpkin-buffalo-wild-wings-happy-halloween-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/you-cant-spell-hatred-without-red-hat-shirt-2/",
@@ -190,7 +190,12 @@
     "https://clickoneshirt.com/product/texas-rascals-texas-rangers-graphic-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/my-husband-is-my-favorite-pain-in-the-ass-gnomes-t-shirts/"
+    "https://teleteeshirt.com/product/west-virginia-mountaineers-beat-pittsburgh-panthers-backyard-brawl-champions-mascot-t-shirts/",
+    "https://teleteeshirt.com/product/madison-cunningham-you-might-have-to-lose-your-mind-to-wrap-your-head-around-it-revealer-usa-tour-2022-dates-t-shirts/",
+    "https://teleteeshirt.com/product/godsmack-1000hp-world-tour-2015-album-t-shirts/",
+    "https://teleteeshirt.com/product/kane-brown-buckaroo-aint-shit-you-can-tell-me-t-shirts/",
+    "https://teleteeshirt.com/product/never-enough-turnstile-blue-star-t-shirts/",
+    "https://teleteeshirt.com/product/ocean-grove-fly-away-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/sad-chicken-people-say-i-act-like-i-dont-care-its-not-an-action-shirt/",
