@@ -166,11 +166,16 @@
     "https://uscraftedtees.com/product/official-the-avett-brothers-july-11-2025-tour-red-rocks-poster-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/askhole-definition-meaning-a-person-who-constantly-asks-for-your-advice-shirt/",
-    "https://capitoneshirt.com/product/american-i-stand-with-waffle-house-employees-shirt/",
-    "https://capitoneshirt.com/product/alligator-gadsden-flag-save-me-brandon-shirt/",
-    "https://capitoneshirt.com/product/99-of-house-republicans-voted-against-codifying-roe-v-wade-twice-shirt/",
-    "https://capitoneshirt.com/product/afcuk-the-regime-support-the-team-shirt/"
+    "https://capitoneshirt.com/product/would-you-like-policies-with-that-mcdonalds-shirt/",
+    "https://capitoneshirt.com/product/witches-in-the-jungle-girls-will-be-girls-halloween-shirt/",
+    "https://capitoneshirt.com/product/witch-yall-gonna-make-me-lose-my-mind-pumpkin-halloween-shirt/",
+    "https://capitoneshirt.com/product/witch-dustem-off-ladies-its-riding-season-shirt/",
+    "https://capitoneshirt.com/product/wingman-buffalo-wings-graphic-shirt/",
+    "https://capitoneshirt.com/product/uncle-rehkow-he-can-kick-a-pigskin-over-them-mountains-shirt/",
+    "https://capitoneshirt.com/product/trump-cactus-dont-be-a-prick-close-the-border-shirt/",
+    "https://capitoneshirt.com/product/tricks-and-treats-dog-brings-basket-bones-halloween-shirt/",
+    "https://capitoneshirt.com/product/tricks-and-treats-dog-bone-net-halloween-shirt/",
+    "https://capitoneshirt.com/product/steven-kwan-kwanamania-cleveland-guardians-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/virgil-van-dijk-it-was-always-liverpool-shirt/",
@@ -229,16 +234,16 @@
     "https://dalatshirt.com/product/metal-gear-solid-portable-ops-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/we-stand-for-the-flag-we-kneel-for-the-fallen-shirt/",
-    "https://lovingsquad.com/product/we-are-charlie-kirk-usa-shirt/",
-    "https://lovingsquad.com/product/we-are-charlie-kirk-shirt/",
-    "https://lovingsquad.com/product/united-states-army-airborne-logo-shirt/",
-    "https://lovingsquad.com/product/ufo-area-51-nevada-shirt/",
-    "https://lovingsquad.com/product/ufo-alien-get-in-loser-were-doing-butt-stuff-shirt/",
-    "https://lovingsquad.com/product/trump-make-amrica-great-again-shirt/",
-    "https://lovingsquad.com/product/they-got-herb-cartoon-shirt/",
-    "https://lovingsquad.com/product/they-call-him-og-shirt-2/",
-    "https://lovingsquad.com/product/these-gays-are-trying-to-murder-me-ghostface-halloween-shirt/"
+    "https://lovingsquad.com/product/yes-officer-i-saw-the-speed-limit-i-just-didnt-see-you-shirt/",
+    "https://lovingsquad.com/product/willie-mays-san-francisco-giants-baseball-legend-vintage-shirt/",
+    "https://lovingsquad.com/product/white-boy-of-the-year-shirt-2/",
+    "https://lovingsquad.com/product/wagner-whiteout-wagner-seahawks-logo-shirt/",
+    "https://lovingsquad.com/product/voice-of-freedom-that-cant-be-silenced-usa-flag-shirt/",
+    "https://lovingsquad.com/product/travis-kelce-kansas-city-chiefs-vs-philadelphia-eagles-photo-shirt/",
+    "https://lovingsquad.com/product/thomas-friends-style-uncle-sam-sir-topham-needs-you-shirt/",
+    "https://lovingsquad.com/product/they-meet-again-at-the-backyard-brawl-pittsburgh-panthers-vs-west-virginia-shirt/",
+    "https://lovingsquad.com/product/the-pleasure-and-the-agonys-all-mine-shirt-2/",
+    "https://lovingsquad.com/product/the-ministry-of-silly-walks-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/freddy-krueger-the-cincinnati-freds-baseball-team-halloween-shirt/",
