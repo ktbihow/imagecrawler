@@ -48,12 +48,16 @@
     "https://teeworksusa.com/product/oasis-live-25-los-angeles-event-shirt/"
   ],
   "meredpremium.com": [
-    "https://meredpremium.com/product/official-nike-built-for-fall-milwaukee-brewers-2025-postseason-t-shirt/",
-    "https://meredpremium.com/product/official-mlb-october-baseball-milwaukee-brewers-2025-t-shirt/",
-    "https://meredpremium.com/product/official-milwaukee-brewers-october-baseball-2025-mlb-postseason-t-shirt/",
-    "https://meredpremium.com/product/official-milwaukee-brewers-nike-2025-mlb-postseason-t-shirt/",
-    "https://meredpremium.com/product/official-milwaukee-brewers-2025-mlb-postseason-locker-room-t-shirt/",
-    "https://meredpremium.com/product/official-milwaukee-brewers-nike-2025-mlb-postseason-authentic-collection-legend-dri-fit-t-shirt/"
+    "https://meredpremium.com/product/official-wisconsin-snoopy-fist-bump-charlie-brown-brewers-and-packers-shirt/",
+    "https://meredpremium.com/product/official-well-done-good-and-faithful-servant-charlie-kirk-1993-2025-t-shirt/",
+    "https://meredpremium.com/product/official-we-the-people-are-charlie-t-shirt/",
+    "https://meredpremium.com/product/official-tyler-robinson-in-a-trump-shirt/",
+    "https://meredpremium.com/product/official-toronto-snoopy-fist-bump-charlie-brown-blue-jays-and-maple-leafs-shirt/",
+    "https://meredpremium.com/product/official-texas-am-aggies-beat-notre-dame-fighting-irish-2025-football-score-shirt/",
+    "https://meredpremium.com/product/official-tennessee-snoopy-fist-bump-charlie-brown-vols-and-titans-shirt/",
+    "https://meredpremium.com/product/official-tastes-like-chicken-2025-lsu-tigers-defeat-florida-gators-shirt/",
+    "https://meredpremium.com/product/official-st-louis-snoopy-fist-bump-charlie-brown-cardinals-and-blues-shirt/",
+    "https://meredpremium.com/product/official-sophie-cunningham-indiana-fever-the-enforcer-shirt/"
   ],
   "berrylittles.com": [
     "https://berrylittles.com/product/official-minnesota-vikings-vs-atlanta-falcons-september-14-2025-classic-is-back-us-bank-stadium-poster-t-shirt/",
