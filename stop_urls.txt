@@ -29,16 +29,16 @@
     "https://techteesusa.com/product/youre-killin-me-smalls-kansas-city-royals-x-the-sandlot-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/yoda-its-officially-wear-a-sweater-in-the-morning-shirt/",
-    "https://teeworksusa.com/product/williams-and-hurts-alabama-crimson-tide-on-saturdays-philadelphia-eagles-on-sundays-shirt/",
-    "https://teeworksusa.com/product/wicked-for-good-thank-you-for-the-memories-shirt/",
-    "https://teeworksusa.com/product/whataburger-hallothanksmas-grinch-shirt/",
-    "https://teeworksusa.com/product/we-run-this-state-ohio-cincinnati-bengals-shirt/",
-    "https://teeworksusa.com/product/turang-and-love-milwaukee-brewers-all-season-green-bay-packers-on-sundays-shirt/",
-    "https://teeworksusa.com/product/this-is-the-turning-point-prove-me-wrong-charlie-kirk-shirt/",
-    "https://teeworksusa.com/product/the-skeleton-motel-shirt/",
-    "https://teeworksusa.com/product/the-conjuring-last-rites-thank-you-for-the-memories-shirt/",
-    "https://teeworksusa.com/product/steelers-in-my-veins-jesus-in-my-heart-drop-blood-shirt/"
+    "https://teeworksusa.com/product/its-all-about-jesus-charlie-kirk-shirt/",
+    "https://teeworksusa.com/product/houston-astros-grinch-christmas-they-hate-us-aint-us-shirt/",
+    "https://teeworksusa.com/product/harrison-joseph-bader-what-a-gift-graphic-shirt/",
+    "https://teeworksusa.com/product/elon-musk-what-would-orwell-think-shirt/",
+    "https://teeworksusa.com/product/joe-burrow-cincinnati-scribble-shirt/",
+    "https://teeworksusa.com/product/joe-burrow-cincinnati-johio-signature-shirt/",
+    "https://teeworksusa.com/product/joe-burrow-cincinnati-invert-shirt/",
+    "https://teeworksusa.com/product/joe-burrow-cincinnati-collage-signature-shirt/",
+    "https://teeworksusa.com/product/kpop-demon-hunters-saja-boys-tie-dye-shirt/",
+    "https://teeworksusa.com/product/kansas-city-royals-grinch-christmas-they-hate-us-aint-us-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-reign-of-the-east-2025-philadelphia-phillies-t-shirt/",
@@ -127,16 +127,16 @@
     "https://fanaticity.com/product/naked-raygun-dark-matter-coffee-free-shit-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/nidia-gongora-september-24-2025-mannys-performance-space-in-state-college-pa-t-shirt/",
-    "https://legendusashirt.com/product/vulfpeck-madison-square-garden-september-13-2025-t-shirt/",
-    "https://legendusashirt.com/product/unknown-mortal-orchestra-september-27-2025-event-levitation-2025-austin-tx-t-shirt/",
-    "https://legendusashirt.com/product/these-foos-los-angeles-to-miami-t-shirt/",
-    "https://legendusashirt.com/product/the-who-x-the-offspring-live-at-hollywood-bowl-on-september-19-2025-t-shirt/",
-    "https://legendusashirt.com/product/the-hives-september-13-2025-union-event-center-in-salt-lake-city-ut-t-shirt/",
-    "https://legendusashirt.com/product/punk-in-the-park-september-27-2025-event-worcester-ma-t-shirt/",
-    "https://legendusashirt.com/product/publicly-executed-at-the-mcr-show-t-shirt/",
-    "https://legendusashirt.com/product/my-chemical-romance-sep-13-2025-tampa-bay-buccaneers-t-shirt/",
-    "https://legendusashirt.com/product/my-chemical-romance-raymond-james-stadium-tampa-fl-9-13-25-t-shirt/"
+    "https://legendusashirt.com/product/west-virginia-mountaineers-vs-pitt-panthers-2025-score-t-shirt/",
+    "https://legendusashirt.com/product/tyler-robinson-in-a-trump-t-shirt/",
+    "https://legendusashirt.com/product/st-joes-band-oklahoma-t-shirt/",
+    "https://legendusashirt.com/product/sonido-gallo-negro-event-san-francisco-ca-2025-t-shirt/",
+    "https://legendusashirt.com/product/nine-inch-nails-september-18-19-2025-kia-forum-inglewood-ca-t-shirt/",
+    "https://legendusashirt.com/product/minnesota-vikings-jj-mccarthy-on-sundays-we-skol-t-shirt/",
+    "https://legendusashirt.com/product/murder-by-death-nov-11-2025-the-social-in-orlando-fl-poster-t-shirt/",
+    "https://legendusashirt.com/product/minnesota-vikings-classic-is-back-game-2025-t-shirt/",
+    "https://legendusashirt.com/product/milwaukee-brewers-october-2025-mlb-postseason-locker-room-t-shirt/",
+    "https://legendusashirt.com/product/milwaukee-brewers-losers-logo-2025-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/howler-head-monkey-shirt/",
@@ -200,16 +200,16 @@
     "https://teleteeshirt.com/product/die-hard-inspired-welcome-to-the-nakatomi-corporation-christmas-party-88-t-shirts/"
   ],
   "teeslocal.com": [
-    "https://teeslocal.com/product/sad-chicken-people-say-i-act-like-i-dont-care-its-not-an-action-shirt/",
-    "https://teeslocal.com/product/sad-cat-everyone-says-you-should-follow-your-dreams-so-im-going-back-to-bed-shirt/",
-    "https://teeslocal.com/product/rooster-drink-coffee-you-think-im-sassy-you-should-meet-the-girl-i-gave-birth-t%ce%bf-shirt/",
-    "https://teeslocal.com/product/rip-charlie-kirk-rest-in-peace-a-true-patriot-charlie-kirk-memorial-america-freedom-shirt/",
-    "https://teeslocal.com/product/of-course-size-matters-nobody-wants-a-small-cup-of-coffee-text-shirt/",
-    "https://teeslocal.com/product/my-kids-think-i-have-favorites-but-i-dont-like-any-of-them-shirt/",
-    "https://teeslocal.com/product/minion-bathing-suit-im-getting-old-i-got-out-of-bed-and-had-chest-pains-shirt/",
-    "https://teeslocal.com/product/milk-cow-yeah-i-have-tried-shutting-up-its-just-not-for-me-shirt/",
-    "https://teeslocal.com/product/lipstick-girl-i-told-you-id-be-ready-in-5-minutes-stop-calling-me-every-halfhour-shirt/",
-    "https://teeslocal.com/product/i-urge-you-to-take-care-of-yourself-and-avoid-accidents-because-spare-parts-for-old-models-like-us-shirt/"
+    "https://teeslocal.com/product/joe-flacco-ravens-elite-shirt/",
+    "https://teeslocal.com/product/words-are-stronger-than-bullets-charlie-kirk-quote-shirt/",
+    "https://teeslocal.com/product/buffalo-bills-zubaz-tie-shirt/",
+    "https://teeslocal.com/product/uri-kurlianchik-they-killed-all-the-nice-jews-were-whats-left-shirt/",
+    "https://teeslocal.com/product/western-kentucky-vs-lsu-november-22-2025-death-valley-baton-rouge-louisiana-football-game-day-shirt/",
+    "https://teeslocal.com/product/trump-and-charlie-kirk-tribute-god-family-country-freedom-shirt/",
+    "https://teeslocal.com/product/the-american-comeback-tour-usa-2025-patriotic-eagle-microphonefreedom-shirt/",
+    "https://teeslocal.com/product/thank-you-charlie-forever-31-a-true-patriot-remembering-shirt/",
+    "https://teeslocal.com/product/turtlesits-ok-to-lose-your-shit-sometimes-because-if-you-keep-your-shit-you-end-up-full-of-shit-shirt/",
+    "https://teeslocal.com/product/turtles-thinking-does-anybody-else-have-a-voice-in-their-head-stop-that-repeats-slap-the-idiot-shirt/"
   ],
   "melonashirt.com": [
     "https://melonashirt.com/product/official-tyler-robinson-mugshot-shirts/",
@@ -224,16 +224,16 @@
     "https://melonashirt.com/product/official-claude-san-franpsycho-nightlife-big-gaitor-shirts/"
   ],
   "dalatshirt.com": [
-    "https://dalatshirt.com/product/white-lives-matter-t-shirts-2/",
-    "https://dalatshirt.com/product/team-hy-gab-sign-hand-t-shirts/",
-    "https://dalatshirt.com/product/skull-pierce-the-veil-t-shirts/",
-    "https://dalatshirt.com/product/six-one-two-times-reunion-2025-nfl-season-special-edition-minnesota-vikings-t-shirts/",
-    "https://dalatshirt.com/product/re-signed-josh-papalii-canberra-raiders-club-t-shirts/",
-    "https://dalatshirt.com/product/rabbit-i-bet-on-losing-dogs-t-shirts/",
-    "https://dalatshirt.com/product/plasma-power-mega-man-characters-t-shirts/",
-    "https://dalatshirt.com/product/my-favorite-softball-player-calls-me-grandma-t-shirts/",
-    "https://dalatshirt.com/product/mullins-race-engines-make-racing-great-again-t-shirts/",
-    "https://dalatshirt.com/product/metal-gear-solid-portable-ops-t-shirts/"
+    "https://dalatshirt.com/product/yes-officer-i-saw-the-speed-limit-i-just-didnt-see-you-t-shirts/",
+    "https://dalatshirt.com/product/willie-mays-san-francisco-giants-baseball-legend-vintage-t-shirts/",
+    "https://dalatshirt.com/product/travis-kelce-kansas-city-chiefs-vs-philadelphia-eagles-photo-t-shirts/",
+    "https://dalatshirt.com/product/thomas-friends-style-uncle-sam-sir-topham-needs-you-t-shirts/",
+    "https://dalatshirt.com/product/they-meet-again-at-the-backyard-brawl-pittsburgh-panthers-vs-west-virginia-t-shirts/",
+    "https://dalatshirt.com/product/the-pleasure-and-the-agonys-all-mine-t-shirts/",
+    "https://dalatshirt.com/product/the-natural-state-hunting-t-shirts/",
+    "https://dalatshirt.com/product/the-ministry-of-silly-walks-t-shirts/",
+    "https://dalatshirt.com/product/the-beacon-st-buzz-est-2022-logo-t-shirts/",
+    "https://dalatshirt.com/product/texans-dont-sit-on-fencces-doc-t-shirts/"
   ],
   "lovingsquad.com": [
     "https://lovingsquad.com/product/yusuf-cat-stevens-september-11-2025-tour-birmingham-uk-shirt/",
