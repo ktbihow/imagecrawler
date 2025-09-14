@@ -86,16 +86,16 @@
     "https://teeextra.com/product/this-witch-loves-the-new-england-patriots-halloween-2-sided-t-shirts/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/harry-enjoy-health-eat-your-honey-shirt-2/",
-    "https://teespix.com/product/salt-chicago-standing-against-legalized-tyranny-t-shirt/",
-    "https://teespix.com/product/florida-gators-vs-miami-hurricanes-2025-the-battle-of-the-florida-man-shirt/",
-    "https://teespix.com/product/caseoh-goob-lagoon-unofficial-t-shirt/",
-    "https://teespix.com/product/i-survived-goob-lagoon-shirt/",
-    "https://teespix.com/product/i-went-to-goob-lagoon-a-brain-eating-amoeba-shirt/",
-    "https://teespix.com/product/i-went-to-goob-lagoon-t-shirt/",
-    "https://teespix.com/product/goob-lagoon-i-survived-goob-t-shirt/",
-    "https://teespix.com/product/lsu-vs-vanderbilt-game-day-2025-t-shirt/",
-    "https://teespix.com/product/i-survived-goob-lagoon-2025-shirt/"
+    "https://teespix.com/product/charlie-kirk-its-all-about-jesus-shirt/",
+    "https://teespix.com/product/never-surrender-charlie-kirk-freedom-t-shirt/",
+    "https://teespix.com/product/charlie-kirk-4ever-in-our-memories-shirt/",
+    "https://teespix.com/product/penn-state-vs-oregon-2025-big-ten-showdown-t-shirt/",
+    "https://teespix.com/product/charlie-kirk-live-like-charlie-t-shirt/",
+    "https://teespix.com/product/bayou-bengals-lsu-vs-south-carolina-game-day-2025-t-shirt/",
+    "https://teespix.com/product/lsu-vs-alabama-game-day-2025-t-shirt/",
+    "https://teespix.com/product/lsu-vs-western-kentucky-game-day-november-22-2025-t-shirt/",
+    "https://teespix.com/product/vanderbilt-commodores-choked-the-chicken-beat-gamecocks-shirt/",
+    "https://teespix.com/product/west-virginia-football-2025-backyard-brawl-champs-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/tyler-robinson-justice-for-charlie-kirk-assassinated-2025-2-sided-shirt/",
@@ -178,16 +178,16 @@
     "https://capitoneshirt.com/product/stitch-pumpkin-buffalo-wild-wings-happy-halloween-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/you-cant-spell-hatred-without-red-hat-shirt-2/",
-    "https://clickoneshirt.com/product/would-you-still-love-me-if-i-was-a-wyrm-dragon-shirt/",
-    "https://clickoneshirt.com/product/we-are-all-charlie-kirk-now-shirt/",
-    "https://clickoneshirt.com/product/valhalla-army-viking-shirt/",
-    "https://clickoneshirt.com/product/usa-basketball-usa-paris-2024-cartoon-shirt/",
-    "https://clickoneshirt.com/product/the-slept-king-tigerbelly-shirt/",
-    "https://clickoneshirt.com/product/the-rare-pepesaurus-parody-shirt/",
-    "https://clickoneshirt.com/product/the-new-york-mets-mlb-all-time-wins-shrit/",
-    "https://clickoneshirt.com/product/the-hoosier-indiana-witching-society-tarot-card-shirt/",
-    "https://clickoneshirt.com/product/texas-rascals-texas-rangers-graphic-shirt/"
+    "https://clickoneshirt.com/product/greenville-swamp-rabbits-our-stomping-ground-tour-2025-2026-shirt/",
+    "https://clickoneshirt.com/product/georgia-bulldogs-vs-tennesse-volunteers-smoked-shirt/",
+    "https://clickoneshirt.com/product/georgia-bulldogs-nothin-finer-in-the-land-shirt/",
+    "https://clickoneshirt.com/product/f-caw-f-chicken-humor-shirt/",
+    "https://clickoneshirt.com/product/enchantment-dragon-age-shirt/",
+    "https://clickoneshirt.com/product/elon-musk-what-would-orwell-think-shirt/",
+    "https://clickoneshirt.com/product/charlie-kirk-all-because-of-words-shirt/",
+    "https://clickoneshirt.com/product/charlie-kirk-superhero-this-is-the-turning-point-shirt/",
+    "https://clickoneshirt.com/product/cat-lets-get-weird-shirt/",
+    "https://clickoneshirt.com/product/bryce-underwood-is-batman-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/west-virginia-mountaineers-beat-pittsburgh-panthers-backyard-brawl-champions-mascot-t-shirts/",
