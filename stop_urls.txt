@@ -189,16 +189,14 @@
     "https://clickoneshirt.com/product/texas-rascals-texas-rangers-graphic-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/wax-vessel-im-sorry-you-didnt-get-one-eye-esydgo-t-shirts/",
-    "https://teleteeshirt.com/product/tyler-robinson-trump-make-america-great-again-flag-t-shirts/",
-    "https://teleteeshirt.com/product/the-purge-election-year-for-the-people-kiss-me-t-shirts/",
-    "https://teleteeshirt.com/product/official-suicideboys-g59-vanity-louisiana-t-shirts/",
-    "https://teleteeshirt.com/product/official-publicly-executed-at-the-mcr-show-t-shirts/",
-    "https://teleteeshirt.com/product/natalie-brooke-the-magical-moments-fall-tour-2025-t-shirts/",
-    "https://teleteeshirt.com/product/my-chemical-romance-the-black-parade-tampa-florida-09-13-2025-picture-t-shirts/",
-    "https://teleteeshirt.com/product/motley-crue-vegas-admat-t-shirts/",
-    "https://teleteeshirt.com/product/winnie-the-pooh-and-friends-disney-t-shirts/",
-    "https://teleteeshirt.com/product/wax-vessel-radical-t-shirts/"
+    "https://teleteeshirt.com/product/nidia-gongora-son-i-do-september-24-2025-in-state-college-pa-t-shirts/",
+    "https://teleteeshirt.com/product/the-hives-september-13-2025-in-salt-lake-city-ut-cat-knife-t-shirts/",
+    "https://teleteeshirt.com/product/dirty-heads-calvert-street-stage-in-annapolis-md-sep-12-2025-t-shirts/",
+    "https://teleteeshirt.com/product/los-angeles-rams-we-then-me-t-shirts/",
+    "https://teleteeshirt.com/product/hands-off-chicago-t-shirts/",
+    "https://teleteeshirt.com/product/ghosts-of-9-11-inside-job-t-shirts/",
+    "https://teleteeshirt.com/product/charlie-kirk-just-because-you-are-offended-doesnt-mean-you-are-right-t-shirts-2/",
+    "https://teleteeshirt.com/product/charlie-kirk-77-a-legacy-that-lives-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/sad-chicken-people-say-i-act-like-i-dont-care-its-not-an-action-shirt/",
@@ -225,16 +223,16 @@
     "https://melonashirt.com/product/official-lords-prayer-amen-our-father-which-art-in-heaven-hallowed-be-thy-name-shirts/"
   ],
   "dalatshirt.com": [
-    "https://dalatshirt.com/product/wnba-player-courtney-vandersloot-nooo-t-shirts/",
-    "https://dalatshirt.com/product/we-are-the-carbon-they-are-reducing-t-shirts-2/",
-    "https://dalatshirt.com/product/wanted-floyd-last-seen-in-the-field-reward-your-valuable-time-back-t-shirts/",
-    "https://dalatshirt.com/product/they-hate-us-cause-they-aint-us-flavorful-nic-vans-bb-t-shirts/",
-    "https://dalatshirt.com/product/twilight-movie-marathon-september-12-13-2025-t-shirts/",
-    "https://dalatshirt.com/product/the-lnine-inch-nails-concert-t-shirts/",
-    "https://dalatshirt.com/product/the-law-offices-of-dindu-nuffin-t-shirts/",
-    "https://dalatshirt.com/product/the-king-is-back-t-shirts/",
-    "https://dalatshirt.com/product/the-crux-deluxe-t-shirts/",
-    "https://dalatshirt.com/product/the-bronx-bombers-new-york-yankees-t-shirts/"
+    "https://dalatshirt.com/product/white-lives-matter-t-shirts-2/",
+    "https://dalatshirt.com/product/team-hy-gab-sign-hand-t-shirts/",
+    "https://dalatshirt.com/product/skull-pierce-the-veil-t-shirts/",
+    "https://dalatshirt.com/product/six-one-two-times-reunion-2025-nfl-season-special-edition-minnesota-vikings-t-shirts/",
+    "https://dalatshirt.com/product/re-signed-josh-papalii-canberra-raiders-club-t-shirts/",
+    "https://dalatshirt.com/product/rabbit-i-bet-on-losing-dogs-t-shirts/",
+    "https://dalatshirt.com/product/plasma-power-mega-man-characters-t-shirts/",
+    "https://dalatshirt.com/product/my-favorite-softball-player-calls-me-grandma-t-shirts/",
+    "https://dalatshirt.com/product/mullins-race-engines-make-racing-great-again-t-shirts/",
+    "https://dalatshirt.com/product/metal-gear-solid-portable-ops-t-shirts/"
   ],
   "lovingsquad.com": [
     "https://lovingsquad.com/product/wu-tang-clan-flag-design-of-the-american-flag-shirt/",
@@ -261,43 +259,43 @@
     "https://designatshop.com/product/rooster-thumbs-up-shoutout-putting-up-with-my-own-shit-day-in-and-day-out-shirt/"
   ],
   "arjomany.com": [
-    "https://arjomany.com/product/polyphia-eleven-black-tee/",
-    "https://arjomany.com/product/oleg-walks-gear-shirt/",
-    "https://arjomany.com/product/marshmello-slow-motion-shirt/",
-    "https://arjomany.com/product/das-bootleg-hey-bye-merch/",
-    "https://arjomany.com/product/sabaton-crossing-the-rubicon-t-shirt/",
-    "https://arjomany.com/product/sabaton-crossing-the-rubicon-new-merch/",
-    "https://arjomany.com/product/polyphia-remember-that-you-will-die-logo-type-shirt/",
-    "https://arjomany.com/product/marshmello-living-the-dream-tour-2025-shirt/",
-    "https://arjomany.com/product/iron-maiden-the-final-frontier-comic-cover-shirt/",
-    "https://arjomany.com/product/iron-maiden-the-book-of-souls-10-year-anniversary-tee/"
+    "https://arjomany.com/product/we-the-kings-2025-merch/",
+    "https://arjomany.com/product/unisex-born-x-raised-black-seattle-seahawks-t-shirt/",
+    "https://arjomany.com/product/the-charlie-kirk-charity-t-shirt/",
+    "https://arjomany.com/product/spinal-tap-ii-the-new-museum-of-glue-t-shirt/",
+    "https://arjomany.com/product/spinal-tap-ii-does-this-look-infected-t-shirt/",
+    "https://arjomany.com/product/spinal-tap-ii-death-kills-t-shirt/",
+    "https://arjomany.com/product/rock-n-ribs-2025-lineup-shirt/",
+    "https://arjomany.com/product/my-chemical-romance-sept-13-2025-tampa-bay-buccaneers-t-shirt/",
+    "https://arjomany.com/product/jake-minch-george-on-tour-beach-2025-shirt/",
+    "https://arjomany.com/product/frank-pepe-2025-one-bite-festival-t-shirt/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/your-arms-are-my-cocoon-fall-tour-2025-poster/",
-    "https://collectionpostertour.com/product/toro-y-moi-sept-12-2025-san-francisco-ca-tour-poster/",
-    "https://collectionpostertour.com/product/minnesota-vikings-sept-14-2025-poster/",
-    "https://collectionpostertour.com/product/bleachers-june-28-2025-asbury-park-nj-tour-poster/",
-    "https://collectionpostertour.com/product/bleachers-june-28-2025-asbury-park-nj-concert-poster/",
-    "https://collectionpostertour.com/product/seahearnow-september-13-14-2025-asbury-park-nj-concert-poster/",
-    "https://collectionpostertour.com/product/oasis-sept-13-2025-mexico-city-estadio-gnp-seguros-poster/",
-    "https://collectionpostertour.com/product/my-chemical-romance-sept-13-2025-tampa-fl-tour-poster/",
-    "https://collectionpostertour.com/product/bearly-dead-high-time-tour-2025-poster/",
-    "https://collectionpostertour.com/product/anderson-paak-why-lawd-tour-2025-poster/"
+    "https://collectionpostertour.com/product/vulfpeck-sept-13-2025-new-york-city-concert-poster/",
+    "https://collectionpostertour.com/product/vulfpeck-sept-13-2025-madison-square-garden-tour-poster/",
+    "https://collectionpostertour.com/product/wormrot-eu-uk-tour-2025-poster/",
+    "https://collectionpostertour.com/product/wormrot-a-better-tomorrow-eu-uk-tour-2025-poster/",
+    "https://collectionpostertour.com/product/unknown-mortal-orchestra-sept-27-2025-levitation-poster/",
+    "https://collectionpostertour.com/product/unknown-mortal-orchestra-sept-27-2025-austin-tx-poster/",
+    "https://collectionpostertour.com/product/neon-trees-fall-tour-2025-poster/",
+    "https://collectionpostertour.com/product/neon-trees-fall-2025-tour-poster/",
+    "https://collectionpostertour.com/product/eggy-summer-bruce-hornsby-fall-tour-2025-poster/",
+    "https://collectionpostertour.com/product/eggy-summer-bruce-hornsby-fall-2025-tour-poster/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/parkway-drive-kwas-20-year-anniversary-killing-with-a-smile-all-over-print-hoodie/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/good-play-on-my-period-t-shirt/",
-    "https://newshirtstore.com/product/good-martin-brundle-push-cool-cool-push-t-shirt/",
-    "https://newshirtstore.com/product/funny-my-vpn-isnt-working-im-heading-home-t-shirt/",
-    "https://newshirtstore.com/product/good-breast-cancer-awareness-fight-like-a-buffalo-bills-t-shirt/",
-    "https://newshirtstore.com/product/easy-tiger-wild-animals-graphic-shirt/",
-    "https://newshirtstore.com/product/funny-abita-root-beer-blueberry-retro-logo-t-shirt/",
-    "https://newshirtstore.com/product/charlie-kirk-mic-drop-memorial-shirt/",
-    "https://newshirtstore.com/product/dung-master-dungeons-and-dragons-cartoon-character-shirt/",
-    "https://newshirtstore.com/product/freedom-under-fire-charlie-kirk-shirt/",
-    "https://newshirtstore.com/product/charlie-kirk-freedom-tribute-1993-2025-shirt/"
+    "https://newshirtstore.com/product/pug-i-think-im-emotionally-constipated-i-havent-given-a-shit-in-year-shirt/",
+    "https://newshirtstore.com/product/rip-iryna-safe-say-her-name-rose-printed-memorial-shirt/",
+    "https://newshirtstore.com/product/pretty-if-you-use-my-fabric-scissors-i-will-cut-you-but-not-with-these-scissors-t-shirt/",
+    "https://newshirtstore.com/product/r-i-p-charlie-kirk-freedom-is-not-free-flag-shirt/",
+    "https://newshirtstore.com/product/pretty-high-vis-ill-blood-on-my-gore-tex-t-shirt/",
+    "https://newshirtstore.com/product/pretty-birmingham-city-shit-on-the-villa-t-shirt/",
+    "https://newshirtstore.com/product/one-big-holiday-miramar-beach-florida-2025-shirt/",
+    "https://newshirtstore.com/product/pig-working-clean-if-a-child-can-work-a-tablet-phone-or-game-they-can-work-a-broom-mop-and-dishes-shirt/",
+    "https://newshirtstore.com/product/original-new-orleans-saints-saints-watch-party-football-abita-t-shirt/",
+    "https://newshirtstore.com/product/official-cy-hawk-iowa-hawkeyes-vs-iowa-state-cyclones-helmet-t-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/wwckd-what-would-charlie-kirk-do-shirt/",
