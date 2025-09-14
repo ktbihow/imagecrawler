@@ -166,28 +166,23 @@
     "https://uscraftedtees.com/product/official-the-avett-brothers-july-11-2025-tour-red-rocks-poster-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/you-cant-spell-hatred-without-red-hat-shirt-2/",
-    "https://capitoneshirt.com/product/witch-bury-patriarchy-they-burned-women-shirt/",
-    "https://capitoneshirt.com/product/warning-this-person-has-a-dirty-mind-shirt/",
-    "https://capitoneshirt.com/product/walter-i-was-told-to-check-my-attitude-yup-shirt/",
-    "https://capitoneshirt.com/product/stitch-pumpkin-walmart-happy-halloween-shirt/",
-    "https://capitoneshirt.com/product/stitch-pumpkin-texas-happy-halloween-shirt/",
-    "https://capitoneshirt.com/product/stitch-pumpkin-subway-happy-halloween-shirt/",
-    "https://capitoneshirt.com/product/stitch-pumpkin-h-e-b-happy-halloween-shirt/",
-    "https://capitoneshirt.com/product/stitch-pumpkin-family-dollar-happy-halloween-shirt/",
-    "https://capitoneshirt.com/product/stitch-pumpkin-buffalo-wild-wings-happy-halloween-shirt/"
+    "https://capitoneshirt.com/product/askhole-definition-meaning-a-person-who-constantly-asks-for-your-advice-shirt/",
+    "https://capitoneshirt.com/product/american-i-stand-with-waffle-house-employees-shirt/",
+    "https://capitoneshirt.com/product/alligator-gadsden-flag-save-me-brandon-shirt/",
+    "https://capitoneshirt.com/product/99-of-house-republicans-voted-against-codifying-roe-v-wade-twice-shirt/",
+    "https://capitoneshirt.com/product/afcuk-the-regime-support-the-team-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/greenville-swamp-rabbits-our-stomping-ground-tour-2025-2026-shirt/",
-    "https://clickoneshirt.com/product/georgia-bulldogs-vs-tennesse-volunteers-smoked-shirt/",
-    "https://clickoneshirt.com/product/georgia-bulldogs-nothin-finer-in-the-land-shirt/",
-    "https://clickoneshirt.com/product/f-caw-f-chicken-humor-shirt/",
-    "https://clickoneshirt.com/product/enchantment-dragon-age-shirt/",
-    "https://clickoneshirt.com/product/elon-musk-what-would-orwell-think-shirt/",
-    "https://clickoneshirt.com/product/charlie-kirk-all-because-of-words-shirt/",
-    "https://clickoneshirt.com/product/charlie-kirk-superhero-this-is-the-turning-point-shirt/",
-    "https://clickoneshirt.com/product/cat-lets-get-weird-shirt/",
-    "https://clickoneshirt.com/product/bryce-underwood-is-batman-shirt/"
+    "https://clickoneshirt.com/product/virgil-van-dijk-it-was-always-liverpool-shirt/",
+    "https://clickoneshirt.com/product/vanderbilt-commodores-vs-south-carolina-gamecocks-choked-the-chicken-shirt/",
+    "https://clickoneshirt.com/product/travis-kelce-kansas-city-chiefs-06-vs-37-philadelphia-eagles-shirt/",
+    "https://clickoneshirt.com/product/toronto-raptors-vs-indiana-pacers-stops-cartoon-shirt/",
+    "https://clickoneshirt.com/product/they-will-pet-your-cat-shirt/",
+    "https://clickoneshirt.com/product/sasha-blouse-sir-a-steamed-potato-sir-shirt/",
+    "https://clickoneshirt.com/product/lsu-tigers-vs-florida-gators-tastes-like-chicken-shirt/",
+    "https://clickoneshirt.com/product/life-aint-fair-and-the-world-is-mean-shirt/",
+    "https://clickoneshirt.com/product/home-home-on-the-range-my-design-released-august-13-shirt/",
+    "https://clickoneshirt.com/product/heartstopper-why-are-we-like-this-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/west-virginia-mountaineers-beat-pittsburgh-panthers-backyard-brawl-champions-mascot-t-shirts/",
@@ -234,16 +229,16 @@
     "https://dalatshirt.com/product/metal-gear-solid-portable-ops-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/wu-tang-clan-flag-design-of-the-american-flag-shirt/",
-    "https://lovingsquad.com/product/who-shot-ya-the-2nd-amendment-charlie-kirk-shirt/",
-    "https://lovingsquad.com/product/they-wont-silence-us-charlie-kirk-shirt/",
-    "https://lovingsquad.com/product/they-callin-me-republican-the-way-i-enjoy-both-dick-bush-american-book-logo-shirt/",
-    "https://lovingsquad.com/product/the-rockers-1990-classic-wwf-poster-shirt/",
-    "https://lovingsquad.com/product/the-european-mind-cant-comprehend-the-gift-of-centralized-air-conditioning-american-flag-shirt/",
-    "https://lovingsquad.com/product/texas-rascals-baseball-merchandise-shirt/",
-    "https://lovingsquad.com/product/tennessee-titans-thank-you-jesus-shirt/",
-    "https://lovingsquad.com/product/support-our-troops-bring-them-home-american-flag-shirt/",
-    "https://lovingsquad.com/product/some-of-you-need-to-be-mothers-for-halloween-yall-been-ghosts-clowns-all-year-shirt/"
+    "https://lovingsquad.com/product/we-stand-for-the-flag-we-kneel-for-the-fallen-shirt/",
+    "https://lovingsquad.com/product/we-are-charlie-kirk-usa-shirt/",
+    "https://lovingsquad.com/product/we-are-charlie-kirk-shirt/",
+    "https://lovingsquad.com/product/united-states-army-airborne-logo-shirt/",
+    "https://lovingsquad.com/product/ufo-area-51-nevada-shirt/",
+    "https://lovingsquad.com/product/ufo-alien-get-in-loser-were-doing-butt-stuff-shirt/",
+    "https://lovingsquad.com/product/trump-make-amrica-great-again-shirt/",
+    "https://lovingsquad.com/product/they-got-herb-cartoon-shirt/",
+    "https://lovingsquad.com/product/they-call-him-og-shirt-2/",
+    "https://lovingsquad.com/product/these-gays-are-trying-to-murder-me-ghostface-halloween-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/freddy-krueger-the-cincinnati-freds-baseball-team-halloween-shirt/",
