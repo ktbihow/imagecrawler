@@ -1,15 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/yeah-im-trans-transporting-this-beer-to-my-mouth-so-i-can-drink-it-shirt/",
-    "https://geekteesus.com/product/yeah-im-pan-gonna-o-pan-this-beer-and-drink-it-shirt/",
-    "https://geekteesus.com/product/we-are-giantx-shirt/",
-    "https://geekteesus.com/product/unleash-your-roar-hudey-14-k-hu-dey-cincinnati-bengals-shirt/",
-    "https://geekteesus.com/product/tyler-robinson-mugshot-shirt/",
-    "https://geekteesus.com/product/tyler-robinson-mugshot-justice-for-charlie-kirk-shirt/",
-    "https://geekteesus.com/product/top-cat-cincinnati-bengals-football-shirt/",
-    "https://geekteesus.com/product/this-is-the-turning-point-rip-charlie-kirk-shirt/",
-    "https://geekteesus.com/product/thanks-jerry-micah-parsons-green-bay-packers-trade-meme-shirt/",
-    "https://geekteesus.com/product/hands-off-chicago-shirt/"
+    "https://geekteesus.com/product/pray-for-charlie-kirk-portrait-shirt/",
+    "https://geekteesus.com/product/we-are-all-charlie-kirk-now-t-shirt/",
+    "https://geekteesus.com/product/rip-charlie-kirk-is-my-hero-1993-2025-shirt/",
+    "https://geekteesus.com/product/new-york-liberty-weve-been-priced-out-shirt/",
+    "https://geekteesus.com/product/idaho-vandals-gold-uniform-reveal-50-years-logo-shirt/",
+    "https://geekteesus.com/product/idaho-vandals-football-50-years-nike-logo-shirt/",
+    "https://geekteesus.com/product/anthony-rizzo-chicago-cubs-thank-you-legend-mlb-shirt/",
+    "https://geekteesus.com/product/give-hope-help-heal-for-annunciation-minnesota-lynx-2025-shirt/",
+    "https://geekteesus.com/product/zach-bryan-the-big-house-concert-john-mayer-michigan-stadium-2025-shirt/",
+    "https://geekteesus.com/product/washington-commanders-hail-to-the-commanders-nfl-2025-t-shirt/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-penn-state-nittany-lions-52-06-villanova-wildcats-final-saturday-september-13-2025-t-shirt/",
@@ -41,16 +41,16 @@
     "https://teeworksusa.com/product/steelers-in-my-veins-jesus-in-my-heart-drop-blood-shirt/"
   ],
   "meredpremium.com": [
-    "https://meredpremium.com/product/official-wisconsin-snoopy-fist-bump-charlie-brown-brewers-and-packers-shirt/",
-    "https://meredpremium.com/product/official-well-done-good-and-faithful-servant-charlie-kirk-1993-2025-t-shirt/",
-    "https://meredpremium.com/product/official-we-the-people-are-charlie-t-shirt/",
-    "https://meredpremium.com/product/official-tyler-robinson-in-a-trump-shirt/",
-    "https://meredpremium.com/product/official-toronto-snoopy-fist-bump-charlie-brown-blue-jays-and-maple-leafs-shirt/",
-    "https://meredpremium.com/product/official-texas-am-aggies-beat-notre-dame-fighting-irish-2025-football-score-shirt/",
-    "https://meredpremium.com/product/official-tennessee-snoopy-fist-bump-charlie-brown-vols-and-titans-shirt/",
-    "https://meredpremium.com/product/official-tastes-like-chicken-2025-lsu-tigers-defeat-florida-gators-shirt/",
-    "https://meredpremium.com/product/official-st-louis-snoopy-fist-bump-charlie-brown-cardinals-and-blues-shirt/",
-    "https://meredpremium.com/product/official-sophie-cunningham-indiana-fever-the-enforcer-shirt/"
+    "https://meredpremium.com/product/official-reign-of-the-east-2025-philadelphia-phillies-t-shirt/",
+    "https://meredpremium.com/product/official-reign-of-the-east-2025-philadelphia-phillies-nl-east-champions-t-shirt/",
+    "https://meredpremium.com/product/official-red-october-philadelphia-baseball-2025-t-shirt/",
+    "https://meredpremium.com/product/official-red-october-mascot-philadelphia-phillies-2025-nl-east-division-champions-t-shirt/",
+    "https://meredpremium.com/product/official-phillie-phanatic-red-october-2025-nl-east-division-champions-phillies-t-shirt/",
+    "https://meredpremium.com/product/official-philadelphia-phillies-reign-of-the-east-postseason-2025-shirt/",
+    "https://meredpremium.com/product/official-philadelphia-phillies-red-october-2025-nl-east-division-champions-roster-t-shirt/",
+    "https://meredpremium.com/product/official-philadelphia-phillies-october-baseball-2025-mlb-postseason-t-shirt/",
+    "https://meredpremium.com/product/official-philadelphia-phillies-nike-2025-mlb-postseason-t-shirt/",
+    "https://meredpremium.com/product/official-philadelphia-phillies-2025-nl-east-division-champions-road-to-october-t-shirt/"
   ],
   "berrylittles.com": [
     "https://berrylittles.com/product/official-minnesota-vikings-vs-atlanta-falcons-september-14-2025-classic-is-back-us-bank-stadium-poster-t-shirt/",
@@ -86,16 +86,16 @@
     "https://teeextra.com/product/this-witch-loves-the-new-england-patriots-halloween-2-sided-t-shirts/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/charlie-kirk-its-all-about-jesus-shirt/",
-    "https://teespix.com/product/never-surrender-charlie-kirk-freedom-t-shirt/",
-    "https://teespix.com/product/charlie-kirk-4ever-in-our-memories-shirt/",
-    "https://teespix.com/product/penn-state-vs-oregon-2025-big-ten-showdown-t-shirt/",
-    "https://teespix.com/product/charlie-kirk-live-like-charlie-t-shirt/",
-    "https://teespix.com/product/bayou-bengals-lsu-vs-south-carolina-game-day-2025-t-shirt/",
-    "https://teespix.com/product/lsu-vs-alabama-game-day-2025-t-shirt/",
-    "https://teespix.com/product/lsu-vs-western-kentucky-game-day-november-22-2025-t-shirt/",
-    "https://teespix.com/product/vanderbilt-commodores-choked-the-chicken-beat-gamecocks-shirt/",
-    "https://teespix.com/product/west-virginia-football-2025-backyard-brawl-champs-shirt/"
+    "https://teespix.com/product/philadelphia-phillies-reign-of-the-east-postseason-2025-shirt/",
+    "https://teespix.com/product/nl-east-division-champions-2025-philadelphia-phillies-baseball-t-shirt/",
+    "https://teespix.com/product/reign-of-the-east-2025-philadelphia-phillies-nl-east-champions-t-shirt/",
+    "https://teespix.com/product/reign-of-the-east-2025-philadelphia-phillies-t-shirt/",
+    "https://teespix.com/product/red-october-philadelphia-baseball-2025-t-shirt/",
+    "https://teespix.com/product/red-october-2025-phillies-mlb-logo-parody-t-shirt/",
+    "https://teespix.com/product/red-october-mascot-philadelphia-phillies-2025-nl-east-division-champions-t-shirt/",
+    "https://teespix.com/product/philadelphia-phillies-2025-nl-east-division-champions-road-to-october-t-shirt/",
+    "https://teespix.com/product/phillie-phanatic-red-october-2025-nl-east-division-champions-phillies-t-shirt/",
+    "https://teespix.com/product/philadelphia-phillies-red-october-2025-nl-east-division-champions-roster-t-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/tyler-robinson-justice-for-charlie-kirk-assassinated-2025-2-sided-shirt/",
@@ -190,12 +190,16 @@
     "https://clickoneshirt.com/product/heartstopper-why-are-we-like-this-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/west-virginia-mountaineers-beat-pittsburgh-panthers-backyard-brawl-champions-mascot-t-shirts/",
-    "https://teleteeshirt.com/product/madison-cunningham-you-might-have-to-lose-your-mind-to-wrap-your-head-around-it-revealer-usa-tour-2022-dates-t-shirts/",
-    "https://teleteeshirt.com/product/godsmack-1000hp-world-tour-2015-album-t-shirts/",
-    "https://teleteeshirt.com/product/kane-brown-buckaroo-aint-shit-you-can-tell-me-t-shirts/",
-    "https://teleteeshirt.com/product/never-enough-turnstile-blue-star-t-shirts/",
-    "https://teleteeshirt.com/product/ocean-grove-fly-away-t-shirts/"
+    "https://teleteeshirt.com/product/where-the-wild-things-are-wild-rumpus-t-shirts/",
+    "https://teleteeshirt.com/product/west-virginia-mountaineers-vs-pitt-panthers-2025-lets-go-score-t-shirts/",
+    "https://teleteeshirt.com/product/this-is-our-turning-point-usa-t-shirts/",
+    "https://teleteeshirt.com/product/the-sims-motherlode-t-shirts/",
+    "https://teleteeshirt.com/product/the-brightness-of-roses-waifu-anime-t-shirts/",
+    "https://teleteeshirt.com/product/summer-blades-x-waifu-anime-t-shirts/",
+    "https://teleteeshirt.com/product/star-wars-a-long-time-ago-in-a-galaxy-far-far-away-t-shirts/",
+    "https://teleteeshirt.com/product/snoopy-the-peanuts-a-charlie-brown-merry-christmas-t-shirts/",
+    "https://teleteeshirt.com/product/disney-its-just-a-bunch-of-hocus-pocus-t-shirts/",
+    "https://teleteeshirt.com/product/die-hard-inspired-welcome-to-the-nakatomi-corporation-christmas-party-88-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/sad-chicken-people-say-i-act-like-i-dont-care-its-not-an-action-shirt/",
@@ -234,16 +238,16 @@
     "https://dalatshirt.com/product/metal-gear-solid-portable-ops-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/yes-officer-i-saw-the-speed-limit-i-just-didnt-see-you-shirt/",
-    "https://lovingsquad.com/product/willie-mays-san-francisco-giants-baseball-legend-vintage-shirt/",
-    "https://lovingsquad.com/product/white-boy-of-the-year-shirt-2/",
-    "https://lovingsquad.com/product/wagner-whiteout-wagner-seahawks-logo-shirt/",
-    "https://lovingsquad.com/product/voice-of-freedom-that-cant-be-silenced-usa-flag-shirt/",
-    "https://lovingsquad.com/product/travis-kelce-kansas-city-chiefs-vs-philadelphia-eagles-photo-shirt/",
-    "https://lovingsquad.com/product/thomas-friends-style-uncle-sam-sir-topham-needs-you-shirt/",
-    "https://lovingsquad.com/product/they-meet-again-at-the-backyard-brawl-pittsburgh-panthers-vs-west-virginia-shirt/",
-    "https://lovingsquad.com/product/the-pleasure-and-the-agonys-all-mine-shirt-2/",
-    "https://lovingsquad.com/product/the-ministry-of-silly-walks-shirt/"
+    "https://lovingsquad.com/product/vulfpeck-at-the-garden-sept-13-2025-new-york-ny-tour-shirt/",
+    "https://lovingsquad.com/product/vintage-coble-dairy-the-fresh-milk-people-shirt/",
+    "https://lovingsquad.com/product/unknown-mortal-orchestra-sep-27th-2025-event-levitation-2025-austin-tx-poster-shirt/",
+    "https://lovingsquad.com/product/umphreys-mcgee-the-mishawaka-amphitheatre/",
+    "https://lovingsquad.com/product/tyler-robinson-mugshot-charlie-kirk-assassination-shirt-2/",
+    "https://lovingsquad.com/product/tyler-robinson-in-a-trump-make-america-great-again-flag-shirt/",
+    "https://lovingsquad.com/product/turning-point-forever-american-1993-2025-shirt/",
+    "https://lovingsquad.com/product/turning-point-arizona-football-defense-in-freedom-2025-shirt/",
+    "https://lovingsquad.com/product/trumpenstein-halloween-make-liberals-scared-again-shirt/",
+    "https://lovingsquad.com/product/told-myself-to-stop-drinking-but-im-not-gonna-listen-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/freddy-krueger-the-cincinnati-freds-baseball-team-halloween-shirt/",
