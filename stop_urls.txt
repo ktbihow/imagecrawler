@@ -238,16 +238,16 @@
     "https://dalatshirt.com/product/metal-gear-solid-portable-ops-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/vulfpeck-at-the-garden-sept-13-2025-new-york-ny-tour-shirt/",
-    "https://lovingsquad.com/product/vintage-coble-dairy-the-fresh-milk-people-shirt/",
-    "https://lovingsquad.com/product/unknown-mortal-orchestra-sep-27th-2025-event-levitation-2025-austin-tx-poster-shirt/",
-    "https://lovingsquad.com/product/umphreys-mcgee-the-mishawaka-amphitheatre/",
-    "https://lovingsquad.com/product/tyler-robinson-mugshot-charlie-kirk-assassination-shirt-2/",
-    "https://lovingsquad.com/product/tyler-robinson-in-a-trump-make-america-great-again-flag-shirt/",
-    "https://lovingsquad.com/product/turning-point-forever-american-1993-2025-shirt/",
-    "https://lovingsquad.com/product/turning-point-arizona-football-defense-in-freedom-2025-shirt/",
-    "https://lovingsquad.com/product/trumpenstein-halloween-make-liberals-scared-again-shirt/",
-    "https://lovingsquad.com/product/told-myself-to-stop-drinking-but-im-not-gonna-listen-shirt/"
+    "https://lovingsquad.com/product/halloween-boo-dozer-ghost-bulldozer-pumpkin-costume-cute-spooky-shirt/",
+    "https://lovingsquad.com/product/greensky-bluegrass-sep-13-2025-red-rocks-amphitheatre-morrison-co-our-poster-shirt/",
+    "https://lovingsquad.com/product/georgia-football-loyal-to-the-end-conservation-is-a-tradition-shirt/",
+    "https://lovingsquad.com/product/frankensteins-funny-halloween-spooky-scary-october-vintage-shirt/",
+    "https://lovingsquad.com/product/for-charlie-with-american-flag-shirt/",
+    "https://lovingsquad.com/product/foo-fighters-san-luis-obispo-september-13th-2025-poster-shirt/",
+    "https://lovingsquad.com/product/dog-i-dont-have-trust-issues-i-just-think-most-people-are-full-of-shit-shirt/",
+    "https://lovingsquad.com/product/dirty-heads-mchenry-music-festival-in-mchenry-il-on-sep-13-2025-poster-shirt/",
+    "https://lovingsquad.com/product/dash-jarren-duran-boston-red-sox-baseball-2025-graphic-shirt/",
+    "https://lovingsquad.com/product/cute-ghost-halloween-boo-haunted-house-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/freddy-krueger-the-cincinnati-freds-baseball-team-halloween-shirt/",
