@@ -75,14 +75,14 @@
     "https://dreameshirt.com/product/official-poster-holo-holo-sacramento-ca-september-27-28-2025-heart-health-park-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-proclaim-clothing-gods-work-charlie-kirk-legacy-shirt/",
-    "https://teeextra.com/product/official-pennywise-latin-american-tour-2025-shirt/",
-    "https://teeextra.com/product/official-ohio-state-buckeyes-vs-ohio-bobcats-football-2025-gameday-showdown-t-shirts/",
-    "https://teeextra.com/product/official-noah-kahan-london-on-sept-12-2025-shirt/",
-    "https://teeextra.com/product/official-luludrawww-x-clairos-you-know-me-shirt/",
-    "https://teeextra.com/product/official-liverpool-isak-66-jersey-premier-league-football-shirt/",
-    "https://teeextra.com/product/official-lainey-wilson-raising-canes-river-center-arena-sep-12-2025-shirt/",
-    "https://teeextra.com/product/official-kevin-abstract-album-photo-shirt/"
+    "https://teeextra.com/product/tyler-robinson-mugshot-t-shirts-justice-for-charlie-kirk-2-sided-t-shirts/",
+    "https://teeextra.com/product/tyler-robinson-justice-for-charlie-kirk-2-sided-t-shirts/",
+    "https://teeextra.com/product/new-york-yankees-remembering-charlie-kirk-1993-2025-2-sided-t-shirts/",
+    "https://teeextra.com/product/new-york-yankees-nypd-never-forget-2-sided-t-shirts/",
+    "https://teeextra.com/product/new-york-yankees-jesus-won-saved-by-the-blood-of-jesus-2-sided-t-shirts/",
+    "https://teeextra.com/product/new-york-giants-x-angry-runs-2025-2-sided-t-shirts/",
+    "https://teeextra.com/product/justice-for-charlie-kirk-tyler-robinson-2-sided-t-shirts/",
+    "https://teeextra.com/product/jackie-robinson-ny-yankees-breaking-barriers-2-sided-t-shirts/"
   ],
   "teespix.com": [
     "https://teespix.com/product/i-am-charlie-kirk-t-shirt/",
@@ -114,36 +114,40 @@
     "https://serenashirt.com/product/peace-makercycle-shirt/"
   ],
   "fanaticity.com": [
-    "https://fanaticity.com/product/what-the-fck-colors-circle-shirt/",
-    "https://fanaticity.com/product/usa-basketball-paris-olympic-2024-shirt/",
-    "https://fanaticity.com/product/the-idea-lives-on-rip-charlie-kirk-shirt/",
-    "https://fanaticity.com/product/thank-you-charlie-kirk-31-a-true-patriot-1993-2025-signature-shirt/",
-    "https://fanaticity.com/product/robbie-williams-wearing-john-paul-ringo-george-robbie-shirt/",
-    "https://fanaticity.com/product/pugsley-addams-and-tyler-galpin-i-can-fix-him-shirt/",
-    "https://fanaticity.com/product/pray-for-charlie-kirk-photo-shirt/",
-    "https://fanaticity.com/product/nato-national-ass-and-tittis-organization-shirt/",
-    "https://fanaticity.com/product/marlon-brando-photo-shirt/",
-    "https://fanaticity.com/product/live-like-charlie-kirk-shirt/"
+    "https://fanaticity.com/product/dont-ask-im-not-doing-gamechanger-baseball-shirt/",
+    "https://fanaticity.com/product/texas-born-blood-bought-heaven-bound-cross-shirt/",
+    "https://fanaticity.com/product/role-model-plum-tour-shirt/",
+    "https://fanaticity.com/product/peter-poppleton-lock-em-up-shirt/",
+    "https://fanaticity.com/product/julian-and-logan-stepbrothers-shirt/",
+    "https://fanaticity.com/product/alfredos-tokyo-action-figure-shirt/",
+    "https://fanaticity.com/product/4-million-subscribers-black-shirt/",
+    "https://fanaticity.com/product/girls-will-be-girls-new-shirt/",
+    "https://fanaticity.com/product/charlie-kirk-i-am-just-humbled-by-gods-grace-shirt/",
+    "https://fanaticity.com/product/86-47-anti-trump-usa-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/washington-national-james-wood-all-season-and-washington-commanders-daniels-on-sundays-signatures-t-shirt/",
-    "https://legendusashirt.com/product/umphreys-mcgee-sep-12-13-2025-mishawaka-amphitheatre-in-bellvue-co-poster-t-shirt/",
-    "https://legendusashirt.com/product/toronto-blue-jays-vladimir-guerrero-jr-all-season-and-buffalo-bills-josh-allen-on-sundays-signatures-t-shirt/",
-    "https://legendusashirt.com/product/the-bruise-brothers-abbey-road-thank-you-for-the-memories-signatures-t-shirt/",
-    "https://legendusashirt.com/product/the-avett-brothers-sept-11-2025-poster-oxford-ms-t-shirt/",
-    "https://legendusashirt.com/product/texas-longhorns-arch-manning-on-saturdays-and-dallas-cowboys-prescott-on-sundays-signatures-t-shirt/"
+    "https://legendusashirt.com/product/free-range-mk-ultra-chickens-t-shirt/",
+    "https://legendusashirt.com/product/dark-horse-nyc-x-tennessee-volunteer-t-shirt/",
+    "https://legendusashirt.com/product/dance-gavin-dance-pantheon-t-shirt/",
+    "https://legendusashirt.com/product/clearwater-cardinals-logo-t-shirt/",
+    "https://legendusashirt.com/product/charlie-kirk-remembered-for-courage-tyler-robinson-remembered-for-violence-t-shirt/",
+    "https://legendusashirt.com/product/bourbon-beyond-tee-2025-louisville-ky-sep-11-14-t-shirt/",
+    "https://legendusashirt.com/product/bleachers-asbury-park-nj-tour-june-28-2025-t-shirt/",
+    "https://legendusashirt.com/product/blackcraft-cult-eternal-t-shirt/",
+    "https://legendusashirt.com/product/yeah-im-dtf-down-to-frolic-frog-t-shirt/",
+    "https://legendusashirt.com/product/widespread-panic-richmond-va-tour-sept-12-13-2025-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/2001-a-space-odyssey-shirt/",
-    "https://teehandus.com/product/ace-of-spades-lucky-seven-double-down-checkmate-woo-shirt/",
-    "https://teehandus.com/product/away-team-97-shirt/",
-    "https://teehandus.com/product/baking-bread-breaking-bad-walter-white-shirt/",
-    "https://teehandus.com/product/black-midi-schlagenheim-shirt/",
-    "https://teehandus.com/product/black-sabbath-est-1969-we-sold-our-soul-for-rock-n-roll-shirt/",
-    "https://teehandus.com/product/book-club-folklore-fearless-shirt/",
-    "https://teehandus.com/product/boys-are-stupid-throw-rocks-at-them-shirt/",
-    "https://teehandus.com/product/charlie-kirk-i-am-just-humbled-by-gods-grace-shirt/",
-    "https://teehandus.com/product/charlie-kirk-remembered-for-courage-tyler-robinson-remembered-for-violence-shirt/"
+    "https://teehandus.com/product/all-the-ways-you-can-die-in-a-space-craft-shirt/",
+    "https://teehandus.com/product/anthony-rizzos-biggest-fan-is-fitzy-shirt/",
+    "https://teehandus.com/product/behind-every-good-catcher-is-a-mom-shirt/",
+    "https://teehandus.com/product/coach-matt-rhule-wearing-terence-crawford-shirt/",
+    "https://teehandus.com/product/ehigie-brave-in-the-bush-shirt/",
+    "https://teehandus.com/product/el-toro-six-flags-great-adventure-shirt/",
+    "https://teehandus.com/product/fatigued-27-7-shirt/",
+    "https://teehandus.com/product/ghost-of-disapproval-shirt/",
+    "https://teehandus.com/product/its-ok-to-love-your-country-charlie-kirk-shirt/",
+    "https://teehandus.com/product/lets-make-heaven-crowded-charlie-kirk-1993-2025-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -185,8 +189,16 @@
     "https://clickoneshirt.com/product/texas-rascals-texas-rangers-graphic-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/ed-sheeran-sapphire-t-shirts/",
-    "https://teleteeshirt.com/product/indianapolis-motor-speedway-2025-tirerack-com-battle-on-the-bricks-multi-class-t-shirts/"
+    "https://teleteeshirt.com/product/wax-vessel-im-sorry-you-didnt-get-one-eye-esydgo-t-shirts/",
+    "https://teleteeshirt.com/product/tyler-robinson-trump-make-america-great-again-flag-t-shirts/",
+    "https://teleteeshirt.com/product/the-purge-election-year-for-the-people-kiss-me-t-shirts/",
+    "https://teleteeshirt.com/product/official-suicideboys-g59-vanity-louisiana-t-shirts/",
+    "https://teleteeshirt.com/product/official-publicly-executed-at-the-mcr-show-t-shirts/",
+    "https://teleteeshirt.com/product/natalie-brooke-the-magical-moments-fall-tour-2025-t-shirts/",
+    "https://teleteeshirt.com/product/my-chemical-romance-the-black-parade-tampa-florida-09-13-2025-picture-t-shirts/",
+    "https://teleteeshirt.com/product/motley-crue-vegas-admat-t-shirts/",
+    "https://teleteeshirt.com/product/winnie-the-pooh-and-friends-disney-t-shirts/",
+    "https://teleteeshirt.com/product/wax-vessel-radical-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/sad-chicken-people-say-i-act-like-i-dont-care-its-not-an-action-shirt/",
@@ -213,16 +225,16 @@
     "https://melonashirt.com/product/official-lords-prayer-amen-our-father-which-art-in-heaven-hallowed-be-thy-name-shirts/"
   ],
   "dalatshirt.com": [
-    "https://dalatshirt.com/product/what-the-fck-colors-circle-t-shirts/",
-    "https://dalatshirt.com/product/we-are-all-turning-point-charlie-kirk-t-shirts/",
-    "https://dalatshirt.com/product/we-are-all-charlie-kirk-now-t-shirts/",
-    "https://dalatshirt.com/product/usa-basketball-paris-olympic-2024-t-shirts/",
-    "https://dalatshirt.com/product/the-idea-lives-on-rip-charlie-kirk-t-shirts/",
-    "https://dalatshirt.com/product/thank-you-charlie-kirk-31-a-true-patriot-1993-2025-signature-t-shirts/",
-    "https://dalatshirt.com/product/robbie-williams-wearing-john-paul-ringo-george-robbie-t-shirts/",
-    "https://dalatshirt.com/product/pugsley-addams-and-tyler-galpin-i-can-fix-him-t-shirts/",
-    "https://dalatshirt.com/product/pray-for-charlie-kirk-usa-t-shirts/",
-    "https://dalatshirt.com/product/pray-for-charlie-kirk-photo-t-shirts/"
+    "https://dalatshirt.com/product/wnba-player-courtney-vandersloot-nooo-t-shirts/",
+    "https://dalatshirt.com/product/we-are-the-carbon-they-are-reducing-t-shirts-2/",
+    "https://dalatshirt.com/product/wanted-floyd-last-seen-in-the-field-reward-your-valuable-time-back-t-shirts/",
+    "https://dalatshirt.com/product/they-hate-us-cause-they-aint-us-flavorful-nic-vans-bb-t-shirts/",
+    "https://dalatshirt.com/product/twilight-movie-marathon-september-12-13-2025-t-shirts/",
+    "https://dalatshirt.com/product/the-lnine-inch-nails-concert-t-shirts/",
+    "https://dalatshirt.com/product/the-law-offices-of-dindu-nuffin-t-shirts/",
+    "https://dalatshirt.com/product/the-king-is-back-t-shirts/",
+    "https://dalatshirt.com/product/the-crux-deluxe-t-shirts/",
+    "https://dalatshirt.com/product/the-bronx-bombers-new-york-yankees-t-shirts/"
   ],
   "lovingsquad.com": [
     "https://lovingsquad.com/product/wu-tang-clan-flag-design-of-the-american-flag-shirt/",
