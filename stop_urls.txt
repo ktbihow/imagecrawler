@@ -12,10 +12,14 @@
     "https://geekteesus.com/product/hands-off-chicago-shirt/"
   ],
   "orionshirt.com": [
-    "https://orionshirt.com/product/official-west-virginia-mountaineers-vs-pitt-panthers-score-31-24-college-football-backyard-brawl-champs-september-13-2025-t-shirt/",
-    "https://orionshirt.com/product/official-poster-terence-crawford-beats-canelo-alvarez-undisputed-super-middleweight-champion-t-shirt/",
-    "https://orionshirt.com/product/official-poster-a-netflix-series-the-witcher-season-4-on-netflix-october-30-2025-movie-t-shirt/",
-    "https://orionshirt.com/product/official-choked-the-chicken-vanderbilt-commodores-defeats-south-carolina-gamecocks-painting-t-shirt/"
+    "https://orionshirt.com/product/official-texas-am-aggie-football-southern-pride-ol-ag-tradition-vintage-retro-t-shirt/",
+    "https://orionshirt.com/product/official-poster-terence-crawford-victory-over-canelo-alvarez-and-the-new-september-14-2025-t-shirt/",
+    "https://orionshirt.com/product/official-poster-atlanta-falcons-dirty-bird-dimensions-the-great-adventures-of-the-falcons-t-shirt/",
+    "https://orionshirt.com/product/official-g59-records-count-your-blessings-three-up-like-the-trinity-anti-social-tendencies-aug-1-2025-t-shirt/",
+    "https://orionshirt.com/product/official-dont-give-a-dame-texas-am-aggies-defeats-notre-dame-fighting-irish-painting-t-shirt/",
+    "https://orionshirt.com/product/official-college-football-texas-am-aggies-vs-notre-dame-fighting-irish-gig-em-score-41-40-september-13th-2025-t-shirt/",
+    "https://orionshirt.com/product/official-tastes-like-chicken-lsu-tigers-defeats-florida-gators-painting-t-shirt/",
+    "https://orionshirt.com/product/official-poster-the-oakland-ballers-are-heading-to-the-championship-series-begins-tuesday-september-16-2025-t-shirt/"
   ],
   "techteesusa.com": [
     "https://techteesusa.com/product/yo-rock-anime-manga-videojuegos-un-virgen-antisocial-shirt/",
@@ -140,16 +144,16 @@
     "https://legendusashirt.com/product/widespread-panic-richmond-va-tour-sept-12-13-2025-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/1800-jazzagne-its-called-jazz-baby-deal-with-it-shirt/",
-    "https://teehandus.com/product/aaron-brooks-new-orleans-saints-quarterback-shirt/",
-    "https://teehandus.com/product/absolute-cungadero-shirt/",
-    "https://teehandus.com/product/agnostic-front-liberty-and-justice-vintage-1980s-shirt/",
-    "https://teehandus.com/product/arm-the-dolls-shirt/",
-    "https://teehandus.com/product/bagwork-on-solana-shirt/",
-    "https://teehandus.com/product/bryce-underwood-19-batman-logo-shirt/",
-    "https://teehandus.com/product/charlie-kirk-all-because-of-words-shirt/",
-    "https://teehandus.com/product/charlie-kirk-superhero-this-is-the-turning-point-shirt/",
-    "https://teehandus.com/product/digital-slops-shirt/"
+    "https://teehandus.com/product/and-they-sold-us-like-beasts-shirt/",
+    "https://teehandus.com/product/boomerang-fu-cartoon-shirt/",
+    "https://teehandus.com/product/britney-spears-oops-i-did-it-again-shirt/",
+    "https://teehandus.com/product/bryan-woo-wearing-step-brothers-bryan-woo-and-cal-raleigh-shirt/",
+    "https://teehandus.com/product/bulldog-wrinkled-love-shirt/",
+    "https://teehandus.com/product/carry-on-my-wayward-son-vintage-shirt/",
+    "https://teehandus.com/product/burton-choose-to-live-smaller-shirt/",
+    "https://teehandus.com/product/charles-bukowski-cartoon-shirt/",
+    "https://teehandus.com/product/dariusz-matecki-wearing-white-lives-matter-shirt/",
+    "https://teehandus.com/product/dashawn-spears-wearing-bayou-bandits-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -249,16 +253,16 @@
     "https://lovingsquad.com/product/some-of-you-need-to-be-mothers-for-halloween-yall-been-ghosts-clowns-all-year-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/white-lives-matter-2025-shirt/",
-    "https://designatshop.com/product/west-virginia-mountaineers-vs-pitt-panthers-2025-31-24-lets-go-mountaineers-shirt/",
-    "https://designatshop.com/product/west-virginia-mountaineers-beat-pittsburgh-panthers-champions-shirt/",
-    "https://designatshop.com/product/west-virginia-mountaineers-backyard-brwal-champions-shirt/",
-    "https://designatshop.com/product/the-walking-red-shirt/",
-    "https://designatshop.com/product/texas-am-aggies-41-10-notre-dame-fighting-irish-2025-gig-em-shirt/",
-    "https://designatshop.com/product/terence-the-crawford-era-shirt/",
-    "https://designatshop.com/product/publicly-executed-at-the-mcr-show-shirt/",
-    "https://designatshop.com/product/scream-ohio-ghostface-halloween-shirt/",
-    "https://designatshop.com/product/prayers-up-for-charlie-kirk-the-man-the-myth-the-legend-shirt/"
+    "https://designatshop.com/product/freddy-krueger-the-cincinnati-freds-baseball-team-halloween-shirt/",
+    "https://designatshop.com/product/it-pennywise-we-all-float-down-in-ohio-halloween-shirt-shirt/",
+    "https://designatshop.com/product/freedom-is-not-free-charlie-kirk-it-must-be-fought-for-and-defended-shirt-shirt/",
+    "https://designatshop.com/product/lets-play-a-game-spooky-baseball-season-shirt/",
+    "https://designatshop.com/product/jason-voorhees-camp-killer-ohio-mask-halloween-shirt/",
+    "https://designatshop.com/product/loch-ness-nessie-is-real-and-she-tried-to-eat-my-ass-shirt/",
+    "https://designatshop.com/product/eva-vlaardingerbroek-generation-remigration-shirt/",
+    "https://designatshop.com/product/elon-musk-said-they-dont-ban-hate-speech-they-ban-speech-they-hate-shirt/",
+    "https://designatshop.com/product/frankenstein-monster-boy-holding-hamburger-shirt/",
+    "https://designatshop.com/product/georgia-bulldogs-vs-tennessee-volunteers-uga-smoked-shirt/"
   ],
   "arjomany.com": [
     "https://arjomany.com/product/we-stand-with-charlie-kirk-t-shirt/",
@@ -286,16 +290,16 @@
     "https://neoteeco.com/product/parkway-drive-kwas-20-year-anniversary-killing-with-a-smile-all-over-print-hoodie/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/tyler-robinson-justice-for-charlie-kirk-shirt/",
-    "https://newshirtstore.com/product/we-are-all-charlie-kirk-now-shirt/",
-    "https://newshirtstore.com/product/official-charlie-kirk-freedom-turning-point-usa-rip-t-shirts/",
-    "https://newshirtstore.com/product/we-are-all-charlie-kirk-now-shirt-freedom-t-shirts/",
-    "https://newshirtstore.com/product/gods-work-charlie-kirk-never-give-up-never-surrender-and-always-go-for-the-win-shirt/",
-    "https://newshirtstore.com/product/heart-freedom-charlie-kirk-t-shirt/",
-    "https://newshirtstore.com/product/official-we-stand-with-charlie-kirk-t-shirt/",
-    "https://newshirtstore.com/product/charlie-kirk-pray-for-charlie-kirk-stand-with-charlie-american-flag-shirt/",
-    "https://newshirtstore.com/product/rip-charlie-kirk-1993-2025-shirt-2/",
-    "https://newshirtstore.com/product/live-like-charlie-kirk-shirt/"
+    "https://newshirtstore.com/product/tyler-robinson-you-charlie-kirk-memorial-t-shirt/",
+    "https://newshirtstore.com/product/the-idea-lives-on-rip-charlie-kirk-shirt-2/",
+    "https://newshirtstore.com/product/we-are-charlie-kirk-we-will-carry-the-torch-t-shirt/",
+    "https://newshirtstore.com/product/rip-political-awareness-charlie-kirk-t-shirt/",
+    "https://newshirtstore.com/product/we-stand-with-charlie-kirk-t-shirt/",
+    "https://newshirtstore.com/product/this-is-the-turning-point-charlie-kirk-shirt/",
+    "https://newshirtstore.com/product/this-is-our-turning-point-charlie-kirk-shirt/",
+    "https://newshirtstore.com/product/this-is-my-turning-point-charlie-kirk-1993-2025-t-shirt/",
+    "https://newshirtstore.com/product/official-true-patriot-charlie-kirk-t-shirt/",
+    "https://newshirtstore.com/product/official-charlie-kirk-forever-in-our-hearts-a-true-patriot-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/wwckd-what-would-charlie-kirk-do-shirt/",
