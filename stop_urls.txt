@@ -29,16 +29,16 @@
     "https://techteesusa.com/product/youre-killin-me-smalls-kansas-city-royals-x-the-sandlot-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/georgia-bulldogs-uga-smoked-shirt/",
-    "https://teeworksusa.com/product/george-strait-50th-anniversary-1976-2026-thank-you-for-the-memories-shirt/",
-    "https://teeworksusa.com/product/full-armor-of-god-shirt/",
-    "https://teeworksusa.com/product/frankenstein-and-bride-the-lovers-tarot-shirt/",
-    "https://teeworksusa.com/product/dawgs-on-top-georgia-how-bout-them-dawgs-september-13-2025-mascot-shirt/",
-    "https://teeworksusa.com/product/dachshund-i-finally-got-eight-hours-of-sleep-shirt/",
-    "https://teeworksusa.com/product/chicago-sports-ghost-aint-no-boo-sheet-halloween-shirt/",
-    "https://teeworksusa.com/product/byu-cougars-in-my-veins-jesus-in-my-heart-mascot-shirt/",
-    "https://teeworksusa.com/product/bills-in-my-veins-jesus-in-my-heart-drop-blood-shirt/",
-    "https://teeworksusa.com/product/boston-terrier-ghost-boo-halloween-shirt/"
+    "https://teeworksusa.com/product/yoda-its-officially-wear-a-sweater-in-the-morning-shirt/",
+    "https://teeworksusa.com/product/williams-and-hurts-alabama-crimson-tide-on-saturdays-philadelphia-eagles-on-sundays-shirt/",
+    "https://teeworksusa.com/product/wicked-for-good-thank-you-for-the-memories-shirt/",
+    "https://teeworksusa.com/product/whataburger-hallothanksmas-grinch-shirt/",
+    "https://teeworksusa.com/product/we-run-this-state-ohio-cincinnati-bengals-shirt/",
+    "https://teeworksusa.com/product/turang-and-love-milwaukee-brewers-all-season-green-bay-packers-on-sundays-shirt/",
+    "https://teeworksusa.com/product/this-is-the-turning-point-prove-me-wrong-charlie-kirk-shirt/",
+    "https://teeworksusa.com/product/the-skeleton-motel-shirt/",
+    "https://teeworksusa.com/product/the-conjuring-last-rites-thank-you-for-the-memories-shirt/",
+    "https://teeworksusa.com/product/steelers-in-my-veins-jesus-in-my-heart-drop-blood-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-wisconsin-snoopy-fist-bump-charlie-brown-brewers-and-packers-shirt/",
@@ -190,14 +190,7 @@
     "https://clickoneshirt.com/product/texas-rascals-texas-rangers-graphic-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/turning-point-forever-1993-2025-rip-charlie-kirk-american-flag-t-shirts/",
-    "https://teleteeshirt.com/product/these-foos-los-angeles-to-miami-t-shirts/",
-    "https://teleteeshirt.com/product/the-drowns-the-salty-dog-rivalry-kicked-in-the-teeth-sep-21-2025-grim-reaper-t-shirts/",
-    "https://teleteeshirt.com/product/terence-the-crawford-era-t-shirts/",
-    "https://teleteeshirt.com/product/terence-crawford-nebraska-husker-t-shirts/",
-    "https://teleteeshirt.com/product/slightly-stoopid-petersen-park-mchenry-sept-13-2025-skull-t-shirts/",
-    "https://teleteeshirt.com/product/saint-joseph-oklahoma-sooners-music-note-t-shirts/",
-    "https://teleteeshirt.com/product/official-elon-musk-what-would-orwell-think-eye-t-shirts/"
+    "https://teleteeshirt.com/product/my-husband-is-my-favorite-pain-in-the-ass-gnomes-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/sad-chicken-people-say-i-act-like-i-dont-care-its-not-an-action-shirt/",
