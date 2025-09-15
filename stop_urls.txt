@@ -35,16 +35,15 @@
     "https://techteesusa.com/product/the-original-positive-lifestyle-brand-basketball-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/evolution-profiler-criminal-minds-retro-shirt/",
-    "https://teeworksusa.com/product/detroit-lions-skeleton-football-player-shirt/",
-    "https://teeworksusa.com/product/detroit-lions-x-aidan-hutchinson-charcoal-house-shirt/",
-    "https://teeworksusa.com/product/dariusz-matecki-white-lives-matter-shirt/",
-    "https://teeworksusa.com/product/denver-broncos-bo-chapman-nix-touchdown-design-shirt/",
-    "https://teeworksusa.com/product/deep-space-nine-sisko-heartthrob-graphic-shirt/",
-    "https://teeworksusa.com/product/dallas-cowboys-skeleton-on-horseback-football-player-shirt/",
-    "https://teeworksusa.com/product/dallas-cowboys-hell-yeah-shirt/",
-    "https://teeworksusa.com/product/colton-cowser-cow-shirt/",
-    "https://teeworksusa.com/product/cleveland-browns-helmet-end-around-short-sleeve-fashion-shirt/"
+    "https://teeworksusa.com/product/if-meanie-wins-we-dance-shirt/",
+    "https://teeworksusa.com/product/houston-streetz-flava-shirt/",
+    "https://teeworksusa.com/product/here-we-go-cleveland-here-we-go-woof-fooe-cle-shirt/",
+    "https://teeworksusa.com/product/have-some-fa17h-next-time-buffalo-bills-shirt/",
+    "https://teeworksusa.com/product/happiness-pumpkin-family-smile-shirt/",
+    "https://teeworksusa.com/product/hamby-hollywood-plum-wnba-basketball-player-shirt/",
+    "https://teeworksusa.com/product/gotta-pick-it-up-the-challenge-shirt/",
+    "https://teeworksusa.com/product/georgia-bulldogs-smoked-dawgs-mascot-shirt/",
+    "https://teeworksusa.com/product/freedom-is-not-free-it-must-be-fought-for-and-defended-charlie-kirk-1993-2025-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-worlds-smallest-cock-t-shirt/",
@@ -165,16 +164,16 @@
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/original-sept-14-2025-minnesota-vikings-atlanta-falcons-u-s-bank-stadium-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-nine-inch-nails-inglewood-ca-sep-18-19-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-levitation-room-rochester-ny-sept-14-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-king-gizzard-and-the-lizard-wizard-2025-new-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-jonas-brothers-utah-first-credit-union-amphitheatre-west-valley-city-ut-usa-tour-september-13-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-billy-strings-sep-14-15-16-2025-live-ryman-auditorium-in-nashville-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-foo-fighters-the-observatory-santa-ana-event-sep-15-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-billy-strings-bryan-sutton-and-royal-masat-sep-14-15-16-2025-ryman-auditorium-in-nashville-tn-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-alabama-shakes-fall-tour-2025-the-mgm-music-hall-at-fenway-in-boston-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-jim-world-tour-bob-sep-20-2025-financial-amphitheatre-poster-t-shirts/"
+    "https://uscraftedtees.com/product/original-yes-officer-i-saw-the-speed-limit-i-just-didnt-see-you-t-shirts/",
+    "https://uscraftedtees.com/product/original-uri-kurlianchik-they-killed-all-the-nice-jews-were-whats-left-t-shirts/",
+    "https://uscraftedtees.com/product/original-vulfpeck-tender-defender-new-york-city-sept-13-2025-t-shirts/",
+    "https://uscraftedtees.com/product/original-salt-n-pepa-2025-t-shirts/",
+    "https://uscraftedtees.com/product/original-re-signed-josh-papalii-canberra-raiders-club-t-shirts/",
+    "https://uscraftedtees.com/product/original-pizza-dont-be-a-dummy-cum-on-her-tummy-t-shirts/",
+    "https://uscraftedtees.com/product/original-pardon-my-take-lloyd-christmas-so-youre-telling-me-theres-a-chance-t-shirts/",
+    "https://uscraftedtees.com/product/original-ohio-100-years-of-bobcats-since-1925-ohio-state-bobcats-t-shirts/",
+    "https://uscraftedtees.com/product/original-inktastic-resting-witch-data-2025-t-shirts/",
+    "https://uscraftedtees.com/product/original-judge-me-when-youre-perfect-otherwise-shut-up-t-shirts/"
   ],
   "capitoneshirt.com": [
     "https://capitoneshirt.com/product/toronto-blue-jays-win-october-2025-mlb-postseason-shirt/",
@@ -201,10 +200,16 @@
     "https://clickoneshirt.com/product/tucker-kraft-green-bay-packers-football-tucker-round-and-find-out-signature-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/terence-crawford-nebraska-cornhuskers-born-raised-t-shirts/",
-    "https://teleteeshirt.com/product/fantasy-initiative-wiz-t-shirts/",
-    "https://teleteeshirt.com/product/we-the-kings-forever-well-be-you-and-me-shrek-yes-juliet-t-shirts/",
-    "https://teleteeshirt.com/product/official-silly-goose-but-serious-about-the-constitution-t-shirts/"
+    "https://teleteeshirt.com/product/shes-electric-shes-in-a-family-full-of-eccentrics-t-shirts/",
+    "https://teleteeshirt.com/product/lucia-sancho-we-speak-for-the-trees-and-theyre-done-with-you-have-spoken-t-shirts/",
+    "https://teleteeshirt.com/product/official-mat-kearney-coming-home-eugene-or-t-shirts/",
+    "https://teleteeshirt.com/product/bunker-branding-co-howdy-boo-t-shirts/",
+    "https://teleteeshirt.com/product/alien-anatomy-henrique-torres-t-shirts/",
+    "https://teleteeshirt.com/product/official-bob-carpenter-washington-nationals-see-you-later-t-shirts/",
+    "https://teleteeshirt.com/product/milwaukee-brewers-2025-mlb-postseason-t-shirts/",
+    "https://teleteeshirt.com/product/foo-fighters-owl-t-shirts/",
+    "https://teleteeshirt.com/product/yusuf-cat-stevens-on-the-road-to-findout-2025-tour-birmingham-t-shirts/",
+    "https://teleteeshirt.com/product/the-red-clay-strays-tracks-wondering-why-hands-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/walt-disneyys-disneyyworld-est-1971-where-dreams-come-true-shirt/",
