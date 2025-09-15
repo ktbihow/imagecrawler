@@ -137,16 +137,16 @@
     "https://fanaticity.com/product/lets-get-6-7endy-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/chicago-cubs-2025-october-ready-mlb-postseason-t-shirt/",
-    "https://legendusashirt.com/product/chicago-cubs-2025-mlb-postseason-own-october-t-shirt/",
-    "https://legendusashirt.com/product/charlie-kirk-without-free-speech-there-is-no-such-thing-as-truth-the-moment-you-silence-opposing-voices-t-shirt/",
-    "https://legendusashirt.com/product/charlie-kirk-human-rights-quote-never-give-up-never-surrender-and-always-go-for-the-win-t-shirt/",
-    "https://legendusashirt.com/product/charlie-kirk-may-his-legacy-live-on-american-flag-t-shirt/",
-    "https://legendusashirt.com/product/charlie-kirk-human-rights-quote-never-give-up-never-surrender-and-always-go-for-the-win-t-shirt-copy/",
-    "https://legendusashirt.com/product/charlie-kirk-fight-for-truth-t-shirt/",
-    "https://legendusashirt.com/product/charlie-kirk-biblical-verse-blessed-is-the-man-who-remains-steadfast-under-trial-t-shirt/",
-    "https://legendusashirt.com/product/yusuf-cat-stevens-theatre-royal-drury-lane-sept-14-2025-london-uk-poster-t-shirt/",
-    "https://legendusashirt.com/product/well-done-good-and-faithful-servant-charlie-kirk-1993-2025-t-shirt/"
+    "https://legendusashirt.com/product/vulfpeck-clarity-of-cal-t-shirt/",
+    "https://legendusashirt.com/product/sea-hear-now-festival-asbury-park-new-jersey-september-13-14-eye-lineup-t-shirt/",
+    "https://legendusashirt.com/product/sea-hear-now-festival-in-asbury-new-jersey-gig-on-september-13-14-2025-with-lineup-t-shirt/",
+    "https://legendusashirt.com/product/phish-birmingham-alabama-venue-at-coca-cola-amphitheater-on-september-13-and-14-2025-t-shirt/",
+    "https://legendusashirt.com/product/sea-hear-now-festival-2025-asbury-park-new-jersey-september-13-14-asbury-castle-lineup-t-shirt/",
+    "https://legendusashirt.com/product/eric-clapton-tour-september-2025-t-shirt/",
+    "https://legendusashirt.com/product/oasis-live-at-estadio-gnp-seguros-mexico-sep-12-2025-t-shirt/",
+    "https://legendusashirt.com/product/conan-gray-the-wishbone-pajama-show-2025-tour-schedule-dates-t-shirt/",
+    "https://legendusashirt.com/product/charlie-kirk-at-western-michigan-university-in-kalamazoo-t-shirt/",
+    "https://legendusashirt.com/product/conan-gray-the-wishbone-pajama-show-2025-cover-art-with-date-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/twa-toddlers-with-attitude-shirt/",
@@ -200,16 +200,11 @@
     "https://clickoneshirt.com/product/tucker-kraft-green-bay-packers-football-tucker-round-and-find-out-signature-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/shes-electric-shes-in-a-family-full-of-eccentrics-t-shirts/",
-    "https://teleteeshirt.com/product/lucia-sancho-we-speak-for-the-trees-and-theyre-done-with-you-have-spoken-t-shirts/",
-    "https://teleteeshirt.com/product/official-mat-kearney-coming-home-eugene-or-t-shirts/",
-    "https://teleteeshirt.com/product/bunker-branding-co-howdy-boo-t-shirts/",
-    "https://teleteeshirt.com/product/alien-anatomy-henrique-torres-t-shirts/",
-    "https://teleteeshirt.com/product/official-bob-carpenter-washington-nationals-see-you-later-t-shirts/",
-    "https://teleteeshirt.com/product/milwaukee-brewers-2025-mlb-postseason-t-shirts/",
-    "https://teleteeshirt.com/product/foo-fighters-owl-t-shirts/",
-    "https://teleteeshirt.com/product/yusuf-cat-stevens-on-the-road-to-findout-2025-tour-birmingham-t-shirts/",
-    "https://teleteeshirt.com/product/the-red-clay-strays-tracks-wondering-why-hands-t-shirts/"
+    "https://teleteeshirt.com/product/james-and-the-giant-peach-what-a-peach-t-shirts/",
+    "https://teleteeshirt.com/product/james-and-the-giant-peach-t-shirts/",
+    "https://teleteeshirt.com/product/charlie-and-the-chocolate-factory-magician-with-chocolate-t-shirts/",
+    "https://teleteeshirt.com/product/charlie-and-the-chocolate-factory-t-shirts/",
+    "https://teleteeshirt.com/product/sierra-ferrell-at-firefly-distillery-on-sep-13-2025-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/walt-disneyys-disneyyworld-est-1971-where-dreams-come-true-shirt/",
