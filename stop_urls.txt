@@ -12,21 +12,24 @@
     "https://geekteesus.com/product/james-bobo-chenault-south-florida-bulls-football-graphic-shirt/"
   ],
   "orionshirt.com": [
-    "https://orionshirt.com/product/official-penn-state-nittany-lions-52-06-villanova-wildcats-final-saturday-september-13-2025-t-shirt/",
-    "https://orionshirt.com/product/official-cfp-national-championship-trophy-tour-georgia-at-tennessee-neyland-stadium-saturday-september-13-2025-t-shirt/",
-    "https://orionshirt.com/product/official-alabama-crimson-tide-38-14-wisconsin-badgers-final-build-giants-alabama-september-13-2025-t-shirt/"
+    "https://orionshirt.com/product/official-the-hitman-ricky-hatton-boxing-ricky-hatton-vs-jose-castillo-2007-fight-painting-t-shirt/",
+    "https://orionshirt.com/product/official-poster-former-world-boxing-champion-ricky-hatton-has-died-at-the-age-of-46-1978-2025-t-shirt/",
+    "https://orionshirt.com/product/official-poster-espn-ringside-former-world-boxing-champion-ricky-hatton-has-died-1978-2025-t-shirt/",
+    "https://orionshirt.com/product/official-poster-british-boxing-icon-ricky-hatton-has-died-at-the-age-of-46-1978-2025-t-shirt/",
+    "https://orionshirt.com/product/official-jonas-brothers-utah-first-credit-union-amphitheatre-west-valley-city-ut-usa-tour-september-13-2025-painting-t-shirt/",
+    "https://orionshirt.com/product/official-big-red-putation-are-you-ready-for-it-kansas-city-chiefs-nfl-painting-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/new-york-sports-ghost-aint-no-boo-sheet-halloween-shirt/",
-    "https://techteesusa.com/product/peanuts-charlie-brown-and-snoopy-indiana-sports-shirt/",
-    "https://techteesusa.com/product/minion-with-a-fuck-fuck-here-and-a-fuck-fuck-there-shirt/",
-    "https://techteesusa.com/product/peanuts-charlie-brown-and-snoopy-kansas-sports-shirt/",
-    "https://techteesusa.com/product/charlie-kirk-is-my-hero-t-shirt/",
-    "https://techteesusa.com/product/youre-killin-me-smalls-oakland-athletics-x-the-sandlot-shirt/",
-    "https://techteesusa.com/product/in-mars-we-trust-elon-for-president-its-time-to-make-a-change-shirt/",
-    "https://techteesusa.com/product/beyonce-cowboy-carter-tour-usa-flag-shirt/",
-    "https://techteesusa.com/product/im-all-the-bad-guys-shirt/",
-    "https://techteesusa.com/product/stop-censoring-sluts-shirt/"
+    "https://techteesusa.com/product/rage-against-the-machine-t-shirt/",
+    "https://techteesusa.com/product/crow-f-caw-f-t-shirt/",
+    "https://techteesusa.com/product/charlie-kirk-1993-2025-graphic-t-shirt/",
+    "https://techteesusa.com/product/youre-killin-me-smalls-milwaukee-brewers-x-the-sandlot-shirt/",
+    "https://techteesusa.com/product/caitlin-clark-wearing-indiana-fever-secondary-logo-shirt/",
+    "https://techteesusa.com/product/prime-directive-4-protect-trans-kids-shirt/",
+    "https://techteesusa.com/product/squid-game-season-3-movie-shirt/",
+    "https://techteesusa.com/product/bad-bitches-listen-to-destin-conrad-t-shirt/",
+    "https://techteesusa.com/product/turning-point-usa-t-shirt/",
+    "https://techteesusa.com/product/i-love-my-autistic-gf-even-though-her-special-interest-is-being-mean-to-me-t-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/wyatt-flores-tweet-you-ever-wondered-what-it-looks-like-when-you-shit-yourself-shirt/",
@@ -41,14 +44,16 @@
     "https://teeworksusa.com/product/titan-spearkerman-shirt/"
   ],
   "meredpremium.com": [
-    "https://meredpremium.com/product/official-phillies-october-baseball-postseason-t-shirt/",
-    "https://meredpremium.com/product/official-philadelphia-phillies-nike-2025-mlb-postseason-authentic-collection-dri-fit-t-shirt/",
-    "https://meredpremium.com/product/official-philadelphia-phillies-2025-postseason-participant-playoff-t-shirt/",
-    "https://meredpremium.com/product/official-philadelphia-phillies-2025-mlb-postseason-playoff-t-shirt/",
-    "https://meredpremium.com/product/official-philadelphia-phillies-2025-mlb-postseason-october-baseball-t-shirt/",
-    "https://meredpremium.com/product/official-milwaukee-brewers-2025-mlb-postseason-playoff-t-shirt/",
-    "https://meredpremium.com/product/official-milwaukee-brewers-nike-brew-crew-2025-mlb-postseason-t-shirt/",
-    "https://meredpremium.com/product/official-philadelphia-phillies-nike-red-october-2025-mlb-postseason-t-shirt/"
+    "https://meredpremium.com/product/official-worlds-smallest-cock-t-shirt/",
+    "https://meredpremium.com/product/official-williams-alabama-on-saturdays-and-hurts-eagles-on-sundays-shirt/",
+    "https://meredpremium.com/product/official-wicked-for-good-thank-you-for-the-memories-shirt/",
+    "https://meredpremium.com/product/official-when-discourse-ends-violence-begins-charlie-kirk-shirt/",
+    "https://meredpremium.com/product/official-west-virginia-mountaineers-vs-pitt-panthers-2025-score-t-shirt/",
+    "https://meredpremium.com/product/official-west-virginia-mountaineers-vs-pitt-panthers-31-24-lets-go-mountaineers-t-shirt/",
+    "https://meredpremium.com/product/official-wait-im-goated-funny-meme-shirt/",
+    "https://meredpremium.com/product/official-wait-im-goated-shirt/",
+    "https://meredpremium.com/product/official-the-hitman-ricky-hatton-legend-poster-t-shirt/",
+    "https://meredpremium.com/product/official-the-hitman-ricky-hatton-1978-2025-signature-t-shirt/"
   ],
   "berrylittles.com": [
     "https://berrylittles.com/product/official-tennessee-titans-vs-los-angeles-rams-sunday-september-14-2025-home-opener-poster-t-shirt/",
@@ -63,16 +68,16 @@
     "https://berrylittles.com/product/official-2025-pll-us-bank-championship-new-york-atlas-locker-room-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-falcons-esports-every-hero-tells-a-story-champions-the-international-dota-2-championships-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-terence-bud-crawford-undisputed-and-ring-magazine-super-middleweight-champion-and-new-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-philadelphia-eagles-vs-kansas-city-chiefs-september-14th-2025-painting-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-new-york-giants-at-dallas-cowboys-nfl-week-2-september-14-2025-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-the-champ-terence-bud-crawford-omaha-nebraska-by-spaghetti-toes-art-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-the-ring-rip-former-ring-magazine-super-lightweight-champion-ricky-hatton-1978-2025-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-be-an-active-participant-in-making-the-world-less-terrible-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-vegas-matt-frontstreet-boys-new-painting-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-foo-fighters-santa-ana-ca-the-observatory-september-15-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-alabama-shakes-show-mgm-music-hall-at-fenway-park-boston-ma-september-14-2025-t-shirt/"
+    "https://dreameshirt.com/product/official-erie-seawolves-vs-upmc-park-eastern-league-second-half-southwest-division-champions-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-jalen-hurts-philadelphia-eagles-are-3-0-against-patrick-mahomes-kansas-city-chiefs-meme-t-shirt/",
+    "https://dreameshirt.com/product/official-charlie-kirk-all-death-can-do-to-the-believer-is-deliver-him-to-jesus-1993-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-jake-feisty-got-our-6-jake-browning-cincinnati-bengals-football-t-shirt/",
+    "https://dreameshirt.com/product/official-mary-sheffield-mary-for-everybody-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-linkin-park-from-zero-world-tour-los-angeles-ca-intuit-dome-september-13-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-philadelphia-eagles-nfl-fck-patrick-mahomes-t-shirt/",
+    "https://dreameshirt.com/product/official-neon-surfing-polar-bear-new-york-mets-athlete-logos-painting-t-shirt/",
+    "https://dreameshirt.com/product/official-ricky-hatton-forever-the-hitman-1978-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-ricky-hatton-forever-the-hitman-1978-2025-painting-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/official-the-idea-lives-on-rip-charlie-kirk-shirt/",
@@ -285,16 +290,16 @@
     "https://neoteeco.com/product/parkway-drive-kwas-20-year-anniversary-killing-with-a-smile-all-over-print-hoodie/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/i-am-charlie-kirk-great-american-patriot-shirt/",
-    "https://newshirtstore.com/product/hunt-bigfoot-fun-fact-i-dont-care-shirt/",
-    "https://newshirtstore.com/product/hurakan-xenometh-t-shirt/",
-    "https://newshirtstore.com/product/i-am-american-ive-had-enough-usa-flag-shirt/",
-    "https://newshirtstore.com/product/i-am-charlie-usa-flag-shirt/",
-    "https://newshirtstore.com/product/grand-theft-auto-trol-city-shirt/",
-    "https://newshirtstore.com/product/good-star-wars-do-or-do-not-but-first-nap-t-shirt/",
-    "https://newshirtstore.com/product/helluva-boss-pride-merch-cartoon-2025-shirt/",
-    "https://newshirtstore.com/product/houston-cougars-football-tiger-nike-logo-shirt/",
-    "https://newshirtstore.com/product/hubris-cannon-a-shot-your-straight-ed-friends-can-get-behind-shirt/"
+    "https://newshirtstore.com/product/santa-doesnt-believe-in-you-either-ugly-holiday-christmas-t-shirt/",
+    "https://newshirtstore.com/product/sea-side-photo-debi-tomar-mas-fotos-rana-caribena-camara-sol-tropical-shirt/",
+    "https://newshirtstore.com/product/silksong-hornet-slap-animated-emote-shirt/",
+    "https://newshirtstore.com/product/scream-ohio-ghostface-halloween-shirt/",
+    "https://newshirtstore.com/product/salty-tears-salt-by-volume-100-percent-thiccbash-shirt/",
+    "https://newshirtstore.com/product/sabaton-trick-or-treat-halloween-t-shirt/",
+    "https://newshirtstore.com/product/saint-joseph-oklahoma-sooners-music-note-t-shirt/",
+    "https://newshirtstore.com/product/sabaton-crossing-the-rubicon-sword-t-shirt/",
+    "https://newshirtstore.com/product/say-something-negative-about-charlie-kirk-and-ill-fold-you-up-like-sundays-laundry-shirt/",
+    "https://newshirtstore.com/product/rip-charlie-kirk-american-true-patriot-angel-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/washington-mystics-logo-2-sided-t-shirt/",
