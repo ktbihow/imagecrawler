@@ -98,9 +98,16 @@
     "https://teespix.com/product/philadelphia-phillies-red-october-2025-nl-east-division-champions-roster-t-shirt/"
   ],
   "nowbestshirt.com": [
-    "https://nowbestshirt.com/product/vladdy-shush-vladimir-guerrero-jr-toronto-blue-jays-star-celebrates-his-home-runs-signature-shirt/",
-    "https://nowbestshirt.com/product/vikings-classic-game-2025-halftime-jared-allens-hall-of-fame-ring-ceremony-shirt/",
-    "https://nowbestshirt.com/product/vampires-suck-so-did-my-dad-shirt/"
+    "https://nowbestshirt.com/product/wendys-x-snoopy-im-the-witch-halloween-shirt/",
+    "https://nowbestshirt.com/product/wanted-dead-or-alive-mokey-d-snoopy-3500000000-marine-shirt/",
+    "https://nowbestshirt.com/product/walmart-x-stitch-pumpkin-flowers-halloween-shirt/",
+    "https://nowbestshirt.com/product/walmart-x-snoopy-im-the-witch-halloween-shirt/",
+    "https://nowbestshirt.com/product/walgreens-x-snoopy-im-the-witch-halloween-shirt/",
+    "https://nowbestshirt.com/product/tigers-tastes-like-chicken-shirt/",
+    "https://nowbestshirt.com/product/texas-roadhouse-x-stitch-pumpkin-flowers-halloween-shirt/",
+    "https://nowbestshirt.com/product/subway-x-stitch-pumpkin-flowers-halloween-shirt/",
+    "https://nowbestshirt.com/product/subway-x-snoopy-im-the-witch-halloween-shirt/",
+    "https://nowbestshirt.com/product/snoopy-x-one-piece-im-gonna-be-the-king-of-the-pirates-shirt/"
   ],
   "serenashirt.com": [
     "https://serenashirt.com/product/milwaukee-brewers-2025-october-mlb-postseason-locker-room-shirt/",
@@ -115,16 +122,16 @@
     "https://serenashirt.com/product/palm-leaf-sunset-shirt/"
   ],
   "fanaticity.com": [
-    "https://fanaticity.com/product/lainey-wilson-fall-tour-2025-baton-rouge-la-poster-shirt/",
-    "https://fanaticity.com/product/hermanos-gutierrez-sep-23-2025-kings-theatre-brooklyn-ny-tour-poster-shirt/",
-    "https://fanaticity.com/product/the-hives-ogden-theatre-denver-concert-sep-12-2025-poster-shirt/",
-    "https://fanaticity.com/product/lainey-wilson-sep-13-2025-brookshire-grocery-arena-bossier-city-la-tour-poster-shirt/",
-    "https://fanaticity.com/product/jawbreaker-pittsburgh-pa-sep-14-2025-tour-poster-shirt/",
-    "https://fanaticity.com/product/being-dead-austin-tx-concert-september-28-2025-poster-shirt/",
-    "https://fanaticity.com/product/they-might-be-giants-dino-graphic-shirt/",
-    "https://fanaticity.com/product/the-red-clay-strays-fall-tour-2025-capitol-federal-amphitheater-shirt/",
-    "https://fanaticity.com/product/polyphia-eleven-black-graphic-shirt/",
-    "https://fanaticity.com/product/naked-raygun-dark-matter-coffee-free-shit-shirt/"
+    "https://fanaticity.com/product/a-reece-business-as-usual-shirt/",
+    "https://fanaticity.com/product/america-tyler-robinson-land-of-the-frees-home-of-the-brave-shirt/",
+    "https://fanaticity.com/product/alf2-logo-alfstation-2-shirt/",
+    "https://fanaticity.com/product/acid-bath-september-9th-2025-austin-tx-poster-shirt/",
+    "https://fanaticity.com/product/acid-bath-2025-los-angeles-ca-poster-shirt/",
+    "https://fanaticity.com/product/anti-dei-pro-merit-the-charlie-kirk-show-shirt/",
+    "https://fanaticity.com/product/austin-city-limits-music-festival-shirt/",
+    "https://fanaticity.com/product/amira-elfeky-hold-onto-me-2025-poster-shirt/",
+    "https://fanaticity.com/product/blush-girl-reversible-2025-poster-shirt/",
+    "https://fanaticity.com/product/can-i-pet-dat-dawg-can-i-pet-that-dog-funny-dog-shirt/"
   ],
   "legendusashirt.com": [
     "https://legendusashirt.com/product/west-virginia-mountaineers-vs-pitt-panthers-2025-score-t-shirt/",
@@ -200,16 +207,14 @@
     "https://teleteeshirt.com/product/die-hard-inspired-welcome-to-the-nakatomi-corporation-christmas-party-88-t-shirts/"
   ],
   "teeslocal.com": [
-    "https://teeslocal.com/product/joe-flacco-ravens-elite-shirt/",
-    "https://teeslocal.com/product/words-are-stronger-than-bullets-charlie-kirk-quote-shirt/",
-    "https://teeslocal.com/product/buffalo-bills-zubaz-tie-shirt/",
-    "https://teeslocal.com/product/uri-kurlianchik-they-killed-all-the-nice-jews-were-whats-left-shirt/",
-    "https://teeslocal.com/product/western-kentucky-vs-lsu-november-22-2025-death-valley-baton-rouge-louisiana-football-game-day-shirt/",
-    "https://teeslocal.com/product/trump-and-charlie-kirk-tribute-god-family-country-freedom-shirt/",
-    "https://teeslocal.com/product/the-american-comeback-tour-usa-2025-patriotic-eagle-microphonefreedom-shirt/",
-    "https://teeslocal.com/product/thank-you-charlie-forever-31-a-true-patriot-remembering-shirt/",
-    "https://teeslocal.com/product/turtlesits-ok-to-lose-your-shit-sometimes-because-if-you-keep-your-shit-you-end-up-full-of-shit-shirt/",
-    "https://teeslocal.com/product/turtles-thinking-does-anybody-else-have-a-voice-in-their-head-stop-that-repeats-slap-the-idiot-shirt/"
+    "https://teeslocal.com/product/lsu-vs-vandy-nashville-oct-18-2025-football-game-day-shirt/",
+    "https://teeslocal.com/product/lsu-vs-texas-a-and-m-oct-25-2025-no-rally-in-the-valley-football-game-day-shirt/",
+    "https://teeslocal.com/product/lsu-vs-southeastern-louisiana-university-sep-20-2025-tigers-stadium-football-game-day-shirt/",
+    "https://teeslocal.com/product/i-only-watch-womens-sports-and-signature-wnba-playoffs-2025-shirt/",
+    "https://teeslocal.com/product/i-love-paige-bueckers-hash-5-wnba-playoffs-2025-grunge-shirt/",
+    "https://teeslocal.com/product/grumpy-otter-i-am-a-grumpy-woman-i-am-who-i-am-i-have-anger-issues-thin-patience-do-not-play-well-shirt/",
+    "https://teeslocal.com/product/grumpy-turtles-mug-of-fuckoffee-monday-fuel-one-splash-of-no-one-cares-a-dash-of-kiss-my-arse-shirt/",
+    "https://teeslocal.com/product/gnome-sorry-i-am-cranky-im-going-though-my-terrible-seventies-right-now-shirt/"
   ],
   "melonashirt.com": [
     "https://melonashirt.com/product/official-tyler-robinson-mugshot-shirts/",
@@ -248,16 +253,8 @@
     "https://lovingsquad.com/product/tucker-kraft-tucker-round-and-find-out-signature-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/freddy-krueger-the-cincinnati-freds-baseball-team-halloween-shirt/",
-    "https://designatshop.com/product/it-pennywise-we-all-float-down-in-ohio-halloween-shirt-shirt/",
-    "https://designatshop.com/product/freedom-is-not-free-charlie-kirk-it-must-be-fought-for-and-defended-shirt-shirt/",
-    "https://designatshop.com/product/lets-play-a-game-spooky-baseball-season-shirt/",
-    "https://designatshop.com/product/jason-voorhees-camp-killer-ohio-mask-halloween-shirt/",
-    "https://designatshop.com/product/loch-ness-nessie-is-real-and-she-tried-to-eat-my-ass-shirt/",
-    "https://designatshop.com/product/eva-vlaardingerbroek-generation-remigration-shirt/",
-    "https://designatshop.com/product/elon-musk-said-they-dont-ban-hate-speech-they-ban-speech-they-hate-shirt/",
-    "https://designatshop.com/product/frankenstein-monster-boy-holding-hamburger-shirt/",
-    "https://designatshop.com/product/georgia-bulldogs-vs-tennessee-volunteers-uga-smoked-shirt/"
+    "https://designatshop.com/product/charlie-kirk-freedom-31-years-thank-charlie-true-patriot-1993-2025-signature-2-sided-shirt/",
+    "https://designatshop.com/product/charlie-kirk-freedom-just-offended-doesnt-mean-right-signature-2-sided-shirt/"
   ],
   "arjomany.com": [
     "https://arjomany.com/product/we-stand-with-charlie-kirk-t-shirt/",
@@ -288,16 +285,16 @@
     "https://newshirtstore.com/product/charlie-kirk-freedom-t-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/wendys-x-snoopy-im-the-witch-halloween-shirt/",
-    "https://eteeclothing.com/product/wanted-dead-or-alive-mokey-d-snoopy-3500000000-marine-shirt/",
-    "https://eteeclothing.com/product/walmart-x-snoopy-im-the-witch-halloween-shirt/",
-    "https://eteeclothing.com/product/walmart-x-stitch-pumpkin-flowers-halloween-shirt/",
-    "https://eteeclothing.com/product/walgreens-x-snoopy-im-the-witch-halloween-shirt/",
-    "https://eteeclothing.com/product/tigers-tastes-like-chicken-shirt/",
-    "https://eteeclothing.com/product/texas-roadhouse-x-stitch-pumpkin-flowers-halloween-shirt/",
-    "https://eteeclothing.com/product/subway-x-stitch-pumpkin-flowers-halloween-shirt/",
-    "https://eteeclothing.com/product/subway-x-snoopy-im-the-witch-halloween-shirt/",
-    "https://eteeclothing.com/product/snoopy-x-one-piece-im-gonna-be-the-king-of-the-pirates-shirt/"
+    "https://eteeclothing.com/product/wolf-there-are-three-types-of-mornings-early-too-early-and-what-the-hell-am-i-doing-up-shirt/",
+    "https://eteeclothing.com/product/we-are-all-turning-point-charlie-kirk-shirt/",
+    "https://eteeclothing.com/product/we-are-all-kirk-army-now-shirt/",
+    "https://eteeclothing.com/product/this-is-our-turning-point-charlie-kirk-9-10-2025-shirt/",
+    "https://eteeclothing.com/product/snoopy-blood-stains-are-red-ultraviolet-lights-are-blue-theyll-never-find-you-shirt/",
+    "https://eteeclothing.com/product/salt-chicago-standing-against-legalized-tyranny-shirt/",
+    "https://eteeclothing.com/product/pray-for-charlie-kirk-and-his-family-shirt/",
+    "https://eteeclothing.com/product/never-surrender-rip-charlie-kirk-love-an-american-mother-shirt/",
+    "https://eteeclothing.com/product/like-charlie-kirk-said-its-a-great-time-to-go-tell-someone-about-jesus-shirt/",
+    "https://eteeclothing.com/product/kansas-city-chiefs-kelces-face-in-that-loss-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/official-my-chemical-romance-tampa-florida-09-13-2025-event-shirt/",
