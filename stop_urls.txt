@@ -1,15 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/mvp-aja-wilson-las-vegas-aces-wnba-shirt/",
-    "https://geekteesus.com/product/money-martin-kate-martin-golden-state-valkyries-wnba-graphic-shirt/",
-    "https://geekteesus.com/product/las-vegas-tusken-raiders-x-las-vegas-raiders-football-shirt/",
-    "https://geekteesus.com/product/kansas-city-913-kansas-city-chiefs-football-shirt/",
-    "https://geekteesus.com/product/just-a-few-of-the-buffalo-bill-that-i-know-shirt/",
-    "https://geekteesus.com/product/indianapolis-colts-sounds-weird-shirt/",
-    "https://geekteesus.com/product/i-love-dallas-cowboy-lover-shirt/",
-    "https://geekteesus.com/product/football-for-everyone-street-shirt/",
-    "https://geekteesus.com/product/embearassing-chicago-bears-nfl-shirt/",
-    "https://geekteesus.com/product/dork-nun-der-horse-graphic-shirt/"
+    "https://geekteesus.com/product/dallas-sucks-philadelphia-eagles-nfl-2025-logo-shirt/",
+    "https://geekteesus.com/product/dallas-sheriffs-x-dallas-cowboys-football-shirt/",
+    "https://geekteesus.com/product/buffalo-bills-football-sickos-shirt/",
+    "https://geekteesus.com/product/beware-of-dawgs-georgia-bulldogs-football-shirt/",
+    "https://geekteesus.com/product/baltimore-diablos-x-baltimore-ravens-football-shirt/",
+    "https://geekteesus.com/product/arizona-iagos-x-arizona-cardinals-football-shirt/",
+    "https://geekteesus.com/product/alpha-male-cat-drink-matcha-meme-shirt/",
+    "https://geekteesus.com/product/viktor-the-viking-minnesota-vikings-nfl-mascot-shirt/",
+    "https://geekteesus.com/product/the-enforcer-sophie-cunningham-indiana-fever-wnba-graphic-shirt/",
+    "https://geekteesus.com/product/skeleton-buffet-raider-las-vegas-raiders-nfl-shirt/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-penn-state-nittany-lions-52-06-villanova-wildcats-final-saturday-september-13-2025-t-shirt/",
@@ -29,16 +29,16 @@
     "https://techteesusa.com/product/stop-censoring-sluts-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/you-cant-silence-us-all-i-am-charlie-shirt/",
-    "https://teeworksusa.com/product/week-one-is-a-liar-shirt/",
-    "https://teeworksusa.com/product/wanted-josh-allen-stealing-wins-shirt/",
-    "https://teeworksusa.com/product/the-simpsons-theres-no-such-team-as-the-spungos-shirt/",
-    "https://teeworksusa.com/product/the-simpsons-pigskin-classic-shirt/",
-    "https://teeworksusa.com/product/the-simpsons-boston-americans-logo-shirt/",
-    "https://teeworksusa.com/product/the-simpsons-bart-star-shirt/",
-    "https://teeworksusa.com/product/the-only-ny-team-shirt-2/",
-    "https://teeworksusa.com/product/so-youre-telling-me-theres-a-chance-cincy-football-shirt/",
-    "https://teeworksusa.com/product/skibidi-toilet-splatter-paint-toilet-shirt/"
+    "https://teeworksusa.com/product/wyatt-flores-tweet-you-ever-wondered-what-it-looks-like-when-you-shit-yourself-shirt/",
+    "https://teeworksusa.com/product/wrestlepalooza-2025-john-cena-vs-brock-lesnar-shirt/",
+    "https://teeworksusa.com/product/what-a-gift-harrison-bader-shirt/",
+    "https://teeworksusa.com/product/utah-mammoth-outerstuff-one-timer-shirt/",
+    "https://teeworksusa.com/product/unleash-your-roar-hudey-14-k-shirt/",
+    "https://teeworksusa.com/product/tv-surveillance-screens-shirt/",
+    "https://teeworksusa.com/product/turpin-time-dallas-cowboys-shirt/",
+    "https://teeworksusa.com/product/turkey-fiba-eurobasket-runners-up-shirt/",
+    "https://teeworksusa.com/product/transporting-this-beer-to-my-mouth-so-i-can-drink-it-shirt/",
+    "https://teeworksusa.com/product/titan-spearkerman-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-phillies-october-baseball-postseason-t-shirt/",
@@ -75,14 +75,16 @@
     "https://dreameshirt.com/product/official-poster-alabama-shakes-show-mgm-music-hall-at-fenway-park-boston-ma-september-14-2025-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/washington-commanders-that-my-grandson-out-there-2-sided-t-shirts/",
-    "https://teeextra.com/product/this-witch-loves-the-washington-commanders-halloween-2-sided-t-shirts/",
-    "https://teeextra.com/product/this-witch-loves-the-tampa-bay-buccaneers-halloween-2-sided-t-shirts/",
-    "https://teeextra.com/product/this-witch-loves-the-san-francisco-49ers-halloween-2-sided-t-shirts/",
-    "https://teeextra.com/product/this-witch-loves-the-pittsburgh-steelers-halloween-2-sided-t-shirts/",
-    "https://teeextra.com/product/this-witch-loves-the-philadelphia-eagles-halloween-2-sided-t-shirts/",
-    "https://teeextra.com/product/this-witch-loves-the-new-orleans-saints-halloween-2-sided-t-shirts/",
-    "https://teeextra.com/product/this-witch-loves-the-new-england-patriots-halloween-2-sided-t-shirts/"
+    "https://teeextra.com/product/official-he-didnt-spread-hate-you-just-hated-what-he-said-charlie-kirk-shirt/",
+    "https://teeextra.com/product/official-charlie-kirk-turning-point-forever-1993-2025-shirt/",
+    "https://teeextra.com/product/official-charlie-kirk-the-turning-point-a-true-patriot-never-surrender-rip-1993-2025-shirt/",
+    "https://teeextra.com/product/official-charlie-kirk-rest-now-brother-we-have-the-watch-and-ill-see-you-in-valhalla-shirt/",
+    "https://teeextra.com/product/official-charlie-kirk-never-give-up-never-surrender-and-always-go-for-the-win-shirt/",
+    "https://teeextra.com/product/official-charlie-kirk-kirk-for-a-stronger-america-shirt/",
+    "https://teeextra.com/product/official-charlie-kirk-its-ok-to-love-your-country-shirt-2/",
+    "https://teeextra.com/product/official-charlie-kirk-inspired-me-to-speak-up-shirt/",
+    "https://teeextra.com/product/official-charlie-kirk-a-true-patriot-turning-point-usa-flag-shirt/",
+    "https://teeextra.com/product/official-c-kirk-when-people-stop-talking-thats-when-violence-happens-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/you-can-t-spell-hatred-without-red-hat-shirt/",
@@ -145,16 +147,16 @@
     "https://legendusashirt.com/product/psychic-salamander-festival-september-13-14-2025-carnation-wa-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/michigan-wolverines-vs-nebraska-cornhuskers-fall-dont-lie-tour-michigan-at-nebraska-shirt/",
-    "https://teehandus.com/product/my-little-raver-shirt/",
-    "https://teehandus.com/product/neon-surfing-polar-beart-shirt/",
-    "https://teehandus.com/product/nhl-stadium-series-new-jersey-2024-shirt/",
-    "https://teehandus.com/product/new-york-liberty-run-it-back-shirt/",
-    "https://teehandus.com/product/no-block-no-rock-2-sided-shirt/",
-    "https://teehandus.com/product/opening-day-is-better-than-opening-presents-shirt-2/",
-    "https://teehandus.com/product/philadelphia-phillies-clinched-postseason-2025-shirt/",
-    "https://teehandus.com/product/rashee-rice-free-4-kansas-city-chiefs-shirt/",
-    "https://teehandus.com/product/real-latino-man-andrade-el-idolo-shirt/"
+    "https://teehandus.com/product/atlanta-city-icons-varsity-fox-theatre-peach-hawks-car-collage-shirt/",
+    "https://teehandus.com/product/atlanta-dream-2025-playoffs-shirt/",
+    "https://teehandus.com/product/atlantas-world-famous-clemson-pepper-seasoning-shirt/",
+    "https://teehandus.com/product/baltimore-orioles-yago-and-the-orioles-now-thats-class-shirt/",
+    "https://teehandus.com/product/battle-atlanta-gladiators-shirt/",
+    "https://teehandus.com/product/be-an-active-participant-in-making-the-world-less-terrible-shirt/",
+    "https://teehandus.com/product/be-weird-be-rude-stay-alive-shirt/",
+    "https://teehandus.com/product/big-house-bryce-underwood-michigan-wolverines-shirt/",
+    "https://teehandus.com/product/brighter-days-erase-your-mind-today-shirt/",
+    "https://teehandus.com/product/big-house-bryce-underwood-michigan-wolverines-signature-2-sided-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -288,28 +290,28 @@
     "https://neoteeco.com/product/parkway-drive-kwas-20-year-anniversary-killing-with-a-smile-all-over-print-hoodie/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/its-ok-to-love-your-country-charlie-kirk-shirt-2/",
-    "https://newshirtstore.com/product/just-a-spooky-paw-scary-dogs-spooky-season-happy-halloween-2025-shirt/",
-    "https://newshirtstore.com/product/judge-me-when-youre-perfect-otherwise-shut-up-shirt/",
-    "https://newshirtstore.com/product/im-not-a-silly-goose-shirt/",
-    "https://newshirtstore.com/product/georgia-tech-yellow-jackets-atlantas-world-famous-clemson-pepper-seasoning-shirt/",
-    "https://newshirtstore.com/product/harry-enjoy-health-eat-your-honey-shirt/",
-    "https://newshirtstore.com/product/i-love-my-fictional-husband-character-shirt/",
-    "https://newshirtstore.com/product/home-home-on-the-range-my-design-released-august-13-shirt/",
-    "https://newshirtstore.com/product/i-love-toxic-boys-shirt/",
-    "https://newshirtstore.com/product/here-i-am-exodus-shirt/"
+    "https://newshirtstore.com/product/crossing-the-rubicon-shirt/",
+    "https://newshirtstore.com/product/crime-junkie-so-supernatural-t-shirt/",
+    "https://newshirtstore.com/product/date-koyo-shirt/",
+    "https://newshirtstore.com/product/crosshair-the-bad-batch-shirt/",
+    "https://newshirtstore.com/product/custom-matching-halloween-family-mickey-minnie-shirt/",
+    "https://newshirtstore.com/product/civil-war-jokes-are-not-funny-robert-e-lee-shirt/",
+    "https://newshirtstore.com/product/children-of-the-cornhole-halloween-shirt/",
+    "https://newshirtstore.com/product/cope-harder-shirt/",
+    "https://newshirtstore.com/product/clark-connors-100-proof-shirt/",
+    "https://newshirtstore.com/product/charlie-kirk-superhero-this-is-the-turning-point-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/champagne-and-b-positive-blood-shirt/",
-    "https://eteeclothing.com/product/believe-in-u-s-x-mizzou-tigers-2-sided-t-shirt/",
-    "https://eteeclothing.com/product/all-american-braeden-davis-shirt/",
-    "https://eteeclothing.com/product/anger-management-cartoon-rage-face-icon-shirt/",
-    "https://eteeclothing.com/product/2026-seattle-kraken-x-pride-night-2-sided-t-shirt/",
-    "https://eteeclothing.com/product/2025-buffalo-bills-deadmafia-schedule-25-26-2-sided-t-shirt/",
-    "https://eteeclothing.com/product/2025-iowa-hawkeyes-team-under-the-leadership-of-coach-kirk-ferentz-for-fans-2-sided-t-shirt/",
-    "https://eteeclothing.com/product/zombies-eat-brains-horror-humor-shirt/",
-    "https://eteeclothing.com/product/why-slow-down-dallas-wings-rookie-of-the-year-2-sided-t-shirt/",
-    "https://eteeclothing.com/product/when-discourse-ends-violence-begins-charlie-kirk-shirt/"
+    "https://eteeclothing.com/product/washington-mystics-logo-2-sided-t-shirt/",
+    "https://eteeclothing.com/product/vulfpeck-msg-at-new-york-2025-tour-shirt/",
+    "https://eteeclothing.com/product/vegas-cafe-state-college-pa-2-for-1-pancakes-saturdays-shirt/",
+    "https://eteeclothing.com/product/toronto-blue-jays-x-x-peanuts-snoopy-linkin-tour-2025-2-sided-t-shirt/",
+    "https://eteeclothing.com/product/toronto-blue-jays-x-x-peanuts-snoopy-2-sided-t-shirt/",
+    "https://eteeclothing.com/product/the-attention-whore-cartoon-adult-humor-shirt/",
+    "https://eteeclothing.com/product/they-killed-all-the-nice-jews-were-whats-left-uri-kurlianchik-shirt/",
+    "https://eteeclothing.com/product/skeleton-my-dad-has-everything-except-a-pulse-shirt/",
+    "https://eteeclothing.com/product/ryan-barker-night-night-shirt/",
+    "https://eteeclothing.com/product/pussy-magnet-cat-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/official-sep-13-2025-vulfpeck-live-at-the-garden-shirt/",
