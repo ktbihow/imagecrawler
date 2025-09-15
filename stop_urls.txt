@@ -98,9 +98,9 @@
     "https://teespix.com/product/philadelphia-phillies-red-october-2025-nl-east-division-champions-roster-t-shirt/"
   ],
   "nowbestshirt.com": [
-    "https://nowbestshirt.com/product/tyler-robinson-justice-for-charlie-kirk-assassinated-2025-2-sided-shirt/",
-    "https://nowbestshirt.com/product/tyler-robinson-mugshot-justice-for-charlie-kirk-2-sided-shirt/",
-    "https://nowbestshirt.com/product/aidan-hutchinson-charcoal-house-of-hutch-x-detroit-lions-game-face-2-sided-shirt/"
+    "https://nowbestshirt.com/product/vladdy-shush-vladimir-guerrero-jr-toronto-blue-jays-star-celebrates-his-home-runs-signature-shirt/",
+    "https://nowbestshirt.com/product/vikings-classic-game-2025-halftime-jared-allens-hall-of-fame-ring-ceremony-shirt/",
+    "https://nowbestshirt.com/product/vampires-suck-so-did-my-dad-shirt/"
   ],
   "serenashirt.com": [
     "https://serenashirt.com/product/milwaukee-brewers-2025-october-mlb-postseason-locker-room-shirt/",
