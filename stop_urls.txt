@@ -12,12 +12,15 @@
     "https://geekteesus.com/product/james-bobo-chenault-south-florida-bulls-football-graphic-shirt/"
   ],
   "orionshirt.com": [
-    "https://orionshirt.com/product/official-the-hitman-ricky-hatton-boxing-ricky-hatton-vs-jose-castillo-2007-fight-painting-t-shirt/",
-    "https://orionshirt.com/product/official-poster-former-world-boxing-champion-ricky-hatton-has-died-at-the-age-of-46-1978-2025-t-shirt/",
-    "https://orionshirt.com/product/official-poster-espn-ringside-former-world-boxing-champion-ricky-hatton-has-died-1978-2025-t-shirt/",
-    "https://orionshirt.com/product/official-poster-british-boxing-icon-ricky-hatton-has-died-at-the-age-of-46-1978-2025-t-shirt/",
-    "https://orionshirt.com/product/official-jonas-brothers-utah-first-credit-union-amphitheatre-west-valley-city-ut-usa-tour-september-13-2025-painting-t-shirt/",
-    "https://orionshirt.com/product/official-big-red-putation-are-you-ready-for-it-kansas-city-chiefs-nfl-painting-t-shirt/"
+    "https://orionshirt.com/product/official-meme-jalen-hurts-philadelphia-eagles-are-3-0-against-patrick-mahomes-kansas-city-chiefs-t-shirt/",
+    "https://orionshirt.com/product/official-in-loving-memory-of-forrest-lucas-february-25-1942-august-23-2025-t-shirt/",
+    "https://orionshirt.com/product/official-charlie-kirk-all-death-can-do-to-the-believer-is-deliver-him-to-jesus-1993-2025-painting-t-shirt/",
+    "https://orionshirt.com/product/official-2025-season-gameday-pittsburgh-steelers-vs-new-england-patriots-gillette-stadium-week-3-t-shirt/",
+    "https://orionshirt.com/product/official-2025-season-gameday-los-angeles-rams-vs-philadelphia-eagles-lincoln-financial-field-week-3-t-shirt/",
+    "https://orionshirt.com/product/official-2025-season-gameday-green-bay-packers-vs-cleveland-browns-huntington-bank-field-week-3-t-shirt/",
+    "https://orionshirt.com/product/official-2025-season-gameday-detroit-lions-vs-baltimore-ravens-mt-bank-stadium-week-3-t-shirt/",
+    "https://orionshirt.com/product/official-2025-season-gameday-cincinnati-bengals-vs-minnesota-vikings-u-s-bank-stadium-week-3-t-shirt/",
+    "https://orionshirt.com/product/official-poster-former-world-boxing-champion-ricky-hatton-has-been-found-dead-aged-46-1978-2025-t-shirt/"
   ],
   "techteesusa.com": [
     "https://techteesusa.com/product/rage-against-the-machine-t-shirt/",
@@ -123,16 +126,16 @@
     "https://serenashirt.com/product/atlanta-hawks-culture-tan-shirt/"
   ],
   "fanaticity.com": [
-    "https://fanaticity.com/product/a-reece-business-as-usual-shirt/",
-    "https://fanaticity.com/product/america-tyler-robinson-land-of-the-frees-home-of-the-brave-shirt/",
-    "https://fanaticity.com/product/alf2-logo-alfstation-2-shirt/",
-    "https://fanaticity.com/product/acid-bath-september-9th-2025-austin-tx-poster-shirt/",
-    "https://fanaticity.com/product/acid-bath-2025-los-angeles-ca-poster-shirt/",
-    "https://fanaticity.com/product/anti-dei-pro-merit-the-charlie-kirk-show-shirt/",
-    "https://fanaticity.com/product/austin-city-limits-music-festival-shirt/",
-    "https://fanaticity.com/product/amira-elfeky-hold-onto-me-2025-poster-shirt/",
-    "https://fanaticity.com/product/blush-girl-reversible-2025-poster-shirt/",
-    "https://fanaticity.com/product/can-i-pet-dat-dawg-can-i-pet-that-dog-funny-dog-shirt/"
+    "https://fanaticity.com/product/post-yap-clarity-crying-shirt/",
+    "https://fanaticity.com/product/oregon-map-green-as-oregon-ducks-shirt/",
+    "https://fanaticity.com/product/oklahoma-city-thunder-loud-city-logo-shirt/",
+    "https://fanaticity.com/product/new-england-patriots-win-lose-or-die-i-am-a-patriots-fan-till-i-die-shirt/",
+    "https://fanaticity.com/product/neon-surfing-polar-beart-on-dragons-back-new-york-mets-shirt/",
+    "https://fanaticity.com/product/my-heart-is-on-the-line-number-92-football-shirt/",
+    "https://fanaticity.com/product/municipal-2025-shirt/",
+    "https://fanaticity.com/product/mister-killer-sir-ghost-face-booty-halloween-shirt/",
+    "https://fanaticity.com/product/mickeys-halloween-trick-or-treat-candy-co-shirt/",
+    "https://fanaticity.com/product/lets-get-6-7endy-shirt/"
   ],
   "legendusashirt.com": [
     "https://legendusashirt.com/product/wyatt-flores-saturday-santa-barbara-ca-event-13-september-2025-t-shirt/",
@@ -147,16 +150,16 @@
     "https://legendusashirt.com/product/psychic-salamander-festival-september-13-14-2025-carnation-wa-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/atlanta-city-icons-varsity-fox-theatre-peach-hawks-car-collage-shirt/",
-    "https://teehandus.com/product/atlanta-dream-2025-playoffs-shirt/",
-    "https://teehandus.com/product/atlantas-world-famous-clemson-pepper-seasoning-shirt/",
-    "https://teehandus.com/product/baltimore-orioles-yago-and-the-orioles-now-thats-class-shirt/",
-    "https://teehandus.com/product/battle-atlanta-gladiators-shirt/",
-    "https://teehandus.com/product/be-an-active-participant-in-making-the-world-less-terrible-shirt/",
-    "https://teehandus.com/product/be-weird-be-rude-stay-alive-shirt/",
-    "https://teehandus.com/product/big-house-bryce-underwood-michigan-wolverines-shirt/",
-    "https://teehandus.com/product/brighter-days-erase-your-mind-today-shirt/",
-    "https://teehandus.com/product/big-house-bryce-underwood-michigan-wolverines-signature-2-sided-shirt/"
+    "https://teehandus.com/product/my-heart-burns-for-thee-if-thou-dost-even-care-shirt/",
+    "https://teehandus.com/product/never-stop-speaking-the-truth-1995-2025-shirt/",
+    "https://teehandus.com/product/my-stuff-wants-to-touch-your-stuff-shirt/",
+    "https://teehandus.com/product/no-i-will-not-ruin-your-life-im-too-busy-ruining-mine-shirt/",
+    "https://teehandus.com/product/nwa-niners-with-attitude-san-francisco-49ers-shirt/",
+    "https://teehandus.com/product/ohio-state-buckeyes-julian-sayin-just-sayin-shirt/",
+    "https://teehandus.com/product/one-love-boomer-shirt/",
+    "https://teehandus.com/product/oklahoma-sooners-john-mateer-state-star-shirt/",
+    "https://teehandus.com/product/palm-leaf-sunset-shirt/",
+    "https://teehandus.com/product/patty-cake-man-shirt-2/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -198,16 +201,16 @@
     "https://clickoneshirt.com/product/diggs-eyes-on-the-prize-new-england-patriots-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/whoop-dee-doo-t-shirts/",
-    "https://teleteeshirt.com/product/terence-crawford-legends-never-lose-t-shirts/",
-    "https://teleteeshirt.com/product/terence-crawford-king-boxing-t-shirts/",
-    "https://teleteeshirt.com/product/cole-palmer-you-know-chippy-chips-t-shirts/",
-    "https://teleteeshirt.com/product/official-chapel-bill-belichick-coach-unc-north-carolina-tar-heels-t-shirts/",
-    "https://teleteeshirt.com/product/alabama-shakes-mgm-music-hall-boston-ma-sep-14-2025-t-shirts/",
-    "https://teleteeshirt.com/product/cinnamon-rolls-t-shirts/",
-    "https://teleteeshirt.com/product/official-cheeseburger-day-hub-city-spartanburgers-baseballism-t-shirts/",
-    "https://teleteeshirt.com/product/terence-crawford-the-crawford-era-everlast-t-shirts/",
-    "https://teleteeshirt.com/product/philadelphia-eagles-fuck-patrick-mahomes-philly-t-shirts/"
+    "https://teleteeshirt.com/product/yusuf-cat-stevens-king-of-a-land-since-1948-t-shirts/",
+    "https://teleteeshirt.com/product/winnie-the-pooh-bear-winnie-the-pew-born-united-t-shirts/",
+    "https://teleteeshirt.com/product/we-the-kings-skeleton-hands-t-shirts/",
+    "https://teleteeshirt.com/product/videodrome-first-it-controls-your-mind-then-it-destroys-your-body-t-shirts/",
+    "https://teleteeshirt.com/product/vhs-scotch-video-cassette-eg-t-120-t-shirts/",
+    "https://teleteeshirt.com/product/trump-legend-im-back-born-united-t-shirts/",
+    "https://teleteeshirt.com/product/trucks-ducks-and-bucks-mucker-bucket-southern-goods-t-shirts/",
+    "https://teleteeshirt.com/product/trump-i-was-saved-by-god-to-make-america-great-again-legend-born-united-t-shirts/",
+    "https://teleteeshirt.com/product/triggered-born-united-t-shirts/",
+    "https://teleteeshirt.com/product/toy-story-buzz-n-woody-defenders-of-freedom-born-united-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/angry-cat-i-dont-remember-what-i-wanted-to-be-when-i-grew-up-but-im-pretty-sure-it-wasnt-an-anxiety-shirt/",
@@ -290,16 +293,16 @@
     "https://neoteeco.com/product/parkway-drive-kwas-20-year-anniversary-killing-with-a-smile-all-over-print-hoodie/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/santa-doesnt-believe-in-you-either-ugly-holiday-christmas-t-shirt/",
-    "https://newshirtstore.com/product/sea-side-photo-debi-tomar-mas-fotos-rana-caribena-camara-sol-tropical-shirt/",
-    "https://newshirtstore.com/product/silksong-hornet-slap-animated-emote-shirt/",
-    "https://newshirtstore.com/product/scream-ohio-ghostface-halloween-shirt/",
-    "https://newshirtstore.com/product/salty-tears-salt-by-volume-100-percent-thiccbash-shirt/",
-    "https://newshirtstore.com/product/sabaton-trick-or-treat-halloween-t-shirt/",
-    "https://newshirtstore.com/product/saint-joseph-oklahoma-sooners-music-note-t-shirt/",
-    "https://newshirtstore.com/product/sabaton-crossing-the-rubicon-sword-t-shirt/",
-    "https://newshirtstore.com/product/say-something-negative-about-charlie-kirk-and-ill-fold-you-up-like-sundays-laundry-shirt/",
-    "https://newshirtstore.com/product/rip-charlie-kirk-american-true-patriot-angel-shirt/"
+    "https://newshirtstore.com/product/xenos-in-space-no-one-can-hear-you-eat-bursting-with-flavors-alien-shirt/",
+    "https://newshirtstore.com/product/williams-and-hurts-alabama-crimson-tide-on-saturdays-philadelphia-eagles-on-sundays-shirt/",
+    "https://newshirtstore.com/product/wrestlepalooza-indianapolis-2025-premium-live-event-shirt/",
+    "https://newshirtstore.com/product/worrx-mega-hurts-t-shirt/",
+    "https://newshirtstore.com/product/wright-state-raiders-volleyball-logo-shirt/",
+    "https://newshirtstore.com/product/widespread-panic-bear-gone-fishing-shirt/",
+    "https://newshirtstore.com/product/wild-boar-howling-at-the-moon-shirt/",
+    "https://newshirtstore.com/product/whispers-l-hell-realm-sculpture-t-shirt/",
+    "https://newshirtstore.com/product/whataburger-hallothanksmas-grinch-shirt/",
+    "https://newshirtstore.com/product/wildcats-northwestern-soccer-ball-retro-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/washington-mystics-logo-2-sided-t-shirt/",
