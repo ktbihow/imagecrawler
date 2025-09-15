@@ -41,16 +41,14 @@
     "https://teeworksusa.com/product/kansas-city-royals-grinch-christmas-they-hate-us-aint-us-shirt/"
   ],
   "meredpremium.com": [
-    "https://meredpremium.com/product/official-reign-of-the-east-2025-philadelphia-phillies-t-shirt/",
-    "https://meredpremium.com/product/official-reign-of-the-east-2025-philadelphia-phillies-nl-east-champions-t-shirt/",
-    "https://meredpremium.com/product/official-red-october-philadelphia-baseball-2025-t-shirt/",
-    "https://meredpremium.com/product/official-red-october-mascot-philadelphia-phillies-2025-nl-east-division-champions-t-shirt/",
-    "https://meredpremium.com/product/official-phillie-phanatic-red-october-2025-nl-east-division-champions-phillies-t-shirt/",
-    "https://meredpremium.com/product/official-philadelphia-phillies-reign-of-the-east-postseason-2025-shirt/",
-    "https://meredpremium.com/product/official-philadelphia-phillies-red-october-2025-nl-east-division-champions-roster-t-shirt/",
-    "https://meredpremium.com/product/official-philadelphia-phillies-october-baseball-2025-mlb-postseason-t-shirt/",
-    "https://meredpremium.com/product/official-philadelphia-phillies-nike-2025-mlb-postseason-t-shirt/",
-    "https://meredpremium.com/product/official-philadelphia-phillies-2025-nl-east-division-champions-road-to-october-t-shirt/"
+    "https://meredpremium.com/product/official-phillies-october-baseball-postseason-t-shirt/",
+    "https://meredpremium.com/product/official-philadelphia-phillies-nike-2025-mlb-postseason-authentic-collection-dri-fit-t-shirt/",
+    "https://meredpremium.com/product/official-philadelphia-phillies-2025-postseason-participant-playoff-t-shirt/",
+    "https://meredpremium.com/product/official-philadelphia-phillies-2025-mlb-postseason-playoff-t-shirt/",
+    "https://meredpremium.com/product/official-philadelphia-phillies-2025-mlb-postseason-october-baseball-t-shirt/",
+    "https://meredpremium.com/product/official-milwaukee-brewers-2025-mlb-postseason-playoff-t-shirt/",
+    "https://meredpremium.com/product/official-milwaukee-brewers-nike-brew-crew-2025-mlb-postseason-t-shirt/",
+    "https://meredpremium.com/product/official-philadelphia-phillies-nike-red-october-2025-mlb-postseason-t-shirt/"
   ],
   "berrylittles.com": [
     "https://berrylittles.com/product/official-minnesota-vikings-vs-atlanta-falcons-september-14-2025-classic-is-back-us-bank-stadium-poster-t-shirt/",
@@ -64,16 +62,16 @@
     "https://berrylittles.com/product/official-poster-gorinto-productions-secret-planet-presents-nidia-gongora-september-24-2025-in-state-college-pa-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-cody-rhodes-v-drew-mcintyre-wwe-wrestlepalooza-indianapolis-saturday-september-20-2025-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-ohio-state-buckeyes-football-jeremiah-smith-bo-jackson-is-that-guy-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-miami-hurricanes-vs-florida-gators-espn-college-gameday-september-20-2025-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-atlanta-falcons-dirty-bird-dimensions-the-great-adventures-of-the-falcons-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-terence-crawford-victory-over-canelo-alvarez-and-the-new-september-14-2025-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-2025-g59-g59-records-suicideboys-grey-iii-thy-kingdom-come-t-shirt/",
-    "https://dreameshirt.com/product/official-canelo-alvarez-vs-terence-crawford-super-middle-championship-painting-t-shirt/",
-    "https://dreameshirt.com/product/official-texas-am-aggies-vs-notre-dame-fighting-irish-gig-em-score-41-40-september-13th-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-g59-records-count-your-blessings-three-up-like-the-trinity-anti-social-tendencies-aug-1-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-dont-give-a-dame-texas-am-aggies-defeats-notre-dame-fighting-irish-t-shirt/"
+    "https://dreameshirt.com/product/official-poster-wyatt-flores-saturday-13-september-2025-arlington-theatre-santa-barbara-ca-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-yusuf-cat-stevens-show-london-uk-september-14-2025-theatre-royal-drury-lane-t-shirt/",
+    "https://dreameshirt.com/product/official-nebraska-cornhuskers-football-ncaa-terence-crawford-bud-signature-t-shirt/",
+    "https://dreameshirt.com/product/official-kansas-city-chiefs-players-nfl-football-wear-rashee-rice-free-4-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-goose-september-14-2025-waterfront-park-burlington-vt-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-billy-strings-sunday-september-14-2025-night-one-ryman-auditorium-nashville-tn-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-billy-strings-and-bryan-sutton-with-royal-masat-nashville-tn-september-15-2025-night-one-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-billy-strings-bryan-sutton-royal-masat-ryman-auditorium-in-nashville-tn-september-15-16-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-philadelphia-phillies-mlb-2025-postseason-pennsylvania-participant-playoff-t-shirt/",
+    "https://dreameshirt.com/product/official-philadelphia-phillies-2025-mlb-postseason-participant-playoff-player-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/washington-commanders-that-my-grandson-out-there-2-sided-t-shirts/",
@@ -217,16 +215,16 @@
     "https://teeslocal.com/product/gnome-sorry-i-am-cranky-im-going-though-my-terrible-seventies-right-now-shirt/"
   ],
   "melonashirt.com": [
-    "https://melonashirt.com/product/official-vulfpeck-at-the-garden-new-york-ny-september-13-2025-event-shirts/",
-    "https://melonashirt.com/product/official-tyler-robinson-in-a-trump-make-america-great-again-shirts/",
-    "https://melonashirt.com/product/official-turning-point-forever-1993-2025-rip-charlie-shirts/",
-    "https://melonashirt.com/product/official-turning-point-forever-1933-2025-shirts/",
-    "https://melonashirt.com/product/official-travis-kelce-free-4-dreamathon-shirts/",
-    "https://melonashirt.com/product/official-this-is-our-black-turning-point-memorial-shirts/",
-    "https://melonashirt.com/product/official-the-terence-crawford-era-shirts/",
-    "https://melonashirt.com/product/official-the-rizzler-calls-for-kirk-shooter-tyler-robinson-to-face-public-firing-squad-our-patience-has-reached-its-limit-shirts/",
-    "https://melonashirt.com/product/official-the-crawford-era-shirts/",
-    "https://melonashirt.com/product/official-the-charlie-kirk-show-i-am-charlie-kirk-shirts-2/"
+    "https://melonashirt.com/product/official-vulfpeck-sep-13-2025-madison-square-garden-new-york-ny-sept-13-2025-shirts/",
+    "https://melonashirt.com/product/official-uri-kurlianchik-they-killed-all-the-nice-jews-were-whats-left-shirts/",
+    "https://melonashirt.com/product/official-umoya-the-real-prechly-ft-imor-art-thama-tee-and-under-p-shirts/",
+    "https://melonashirt.com/product/official-turning-point-forever-1993-2025-rip-charlie-shirts-2/",
+    "https://melonashirt.com/product/official-triple-boss-make-heaven-crowded-shirts/",
+    "https://melonashirt.com/product/official-this-is-our-turning-point-charlie-kirk-9-10-2025-shirts/",
+    "https://melonashirt.com/product/official-the-cries-of-this-window-will-echo-around-the-world-like-a-battle-cry-erika-kirk-shirts/",
+    "https://melonashirt.com/product/official-so-youre-telling-me-theres-a-chance-cincy-football-i-like-it-un-lot-shirts/",
+    "https://melonashirt.com/product/official-salt-n-pepa-shirts/",
+    "https://melonashirt.com/product/official-oasis-mexico-fox-shirts/"
   ],
   "dalatshirt.com": [
     "https://dalatshirt.com/product/yes-officer-i-saw-the-speed-limit-i-just-didnt-see-you-t-shirts/",
@@ -269,16 +267,16 @@
     "https://arjomany.com/product/crawford-the-champ-is-here-merch/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/james-marriott-dont-tell-the-dog-t-shirt/",
-    "https://collectionpostertour.com/product/james-marriott-dont-tell-the-dog-merch/",
-    "https://collectionpostertour.com/product/james-marriott-dont-tell-the-dog-illustrated-t-shirt/",
-    "https://collectionpostertour.com/product/james-marriott-dont-tell-the-dog-illustrated-merch/",
-    "https://collectionpostertour.com/product/so-youre-telling-me-theres-a-chance-t-shirt/",
-    "https://collectionpostertour.com/product/lloyd-christmas-so-youre-telling-me-theres-a-chance-t-shirt/",
-    "https://collectionpostertour.com/product/jerry-cheesehead-t-shirt/",
-    "https://collectionpostertour.com/product/jerry-cheesehead-merch/",
-    "https://collectionpostertour.com/product/james-marriott-dont-tell-the-dog-scrap-book-t-shirt/",
-    "https://collectionpostertour.com/product/james-marriott-dont-tell-the-dog-scrap-book-merch/"
+    "https://collectionpostertour.com/product/triple-boss-make-heaven-crowded-t-shirt/",
+    "https://collectionpostertour.com/product/this-is-our-turning-point-charlie-t-shirt/",
+    "https://collectionpostertour.com/product/the-avett-brothers-sep-13-2025-enmarket-arena-savannah-ga-t-shirt/",
+    "https://collectionpostertour.com/product/salt-n-pepa-t-shirt/",
+    "https://collectionpostertour.com/product/grey59-lb-savior-t-shirt/",
+    "https://collectionpostertour.com/product/we-stand-with-charlie-kirk-t-shirt/",
+    "https://collectionpostertour.com/product/los-cerveceros-de-milwaukee-october-2025-baseball-t-shirt/",
+    "https://collectionpostertour.com/product/fuerza-regida-seleccion-mexico-t-shirt/",
+    "https://collectionpostertour.com/product/chris-kyle-bootleg-t-shirt/",
+    "https://collectionpostertour.com/product/canelo-vs-crawford-t-shirt/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/parkway-drive-kwas-20-year-anniversary-killing-with-a-smile-all-over-print-hoodie/"
