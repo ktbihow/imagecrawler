@@ -27,7 +27,7 @@ load_dotenv(dotenv_path=ENV_FILE)
 
 
 # Constants
-MAX_URLS = 500
+MAX_URLS = 700
 MAX_PREVNEXT_URLS = 200
 MAX_API_PAGES = 1
 DEFAULT_API_URL_PATTERN = "https://{domain}/wp-json/wp/v2/product?per_page=100&page={page}&orderby=date&order=desc"
