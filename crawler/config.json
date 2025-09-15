@@ -126,7 +126,7 @@
     },
     {
         "url": "https://melonashirt.com/",
-        "replacements": {"-Shirts-shirt.webp": ["-Shirts-men-shirt.webp"]},
+        "replacements": {"-Shirts-shirt.jpg": ["-Shirts-men-shirt.jpg"], "-Shirts-shirt.webp": ["-Shirts-men-shirt.webp"]},
         "source_type": "api"
     },
     {
