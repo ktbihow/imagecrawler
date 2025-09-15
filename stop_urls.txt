@@ -1,15 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/dallas-sucks-philadelphia-eagles-nfl-2025-logo-shirt/",
-    "https://geekteesus.com/product/dallas-sheriffs-x-dallas-cowboys-football-shirt/",
-    "https://geekteesus.com/product/buffalo-bills-football-sickos-shirt/",
-    "https://geekteesus.com/product/beware-of-dawgs-georgia-bulldogs-football-shirt/",
-    "https://geekteesus.com/product/baltimore-diablos-x-baltimore-ravens-football-shirt/",
-    "https://geekteesus.com/product/arizona-iagos-x-arizona-cardinals-football-shirt/",
-    "https://geekteesus.com/product/alpha-male-cat-drink-matcha-meme-shirt/",
-    "https://geekteesus.com/product/viktor-the-viking-minnesota-vikings-nfl-mascot-shirt/",
-    "https://geekteesus.com/product/the-enforcer-sophie-cunningham-indiana-fever-wnba-graphic-shirt/",
-    "https://geekteesus.com/product/skeleton-buffet-raider-las-vegas-raiders-nfl-shirt/"
+    "https://geekteesus.com/product/we-are-eagles-philadelphia-eagles-nfl-shirt/",
+    "https://geekteesus.com/product/the-simpsons-pigskin-classic-cartoon-shirt/",
+    "https://geekteesus.com/product/tastes-like-chicken-lsu-tigers-20-10-florida-gators-shirt/",
+    "https://geekteesus.com/product/staley-da-bear-chicago-country-bears-football-shirt/",
+    "https://geekteesus.com/product/show-up-do-work-repeat-eagles-shirt/",
+    "https://geekteesus.com/product/select-the-traffic-lights-captcha-shirt/",
+    "https://geekteesus.com/product/nothing-can-stop-us-now-bus-skyliner-runaway-railway-shirt/",
+    "https://geekteesus.com/product/philadelphia-birds-go-birds-shirt/",
+    "https://geekteesus.com/product/lloyd-christmas-cincinnati-bengal-so-youre-telling-me-theres-a-chance-shirt/",
+    "https://geekteesus.com/product/james-bobo-chenault-south-florida-bulls-football-graphic-shirt/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-penn-state-nittany-lions-52-06-villanova-wildcats-final-saturday-september-13-2025-t-shirt/",
@@ -75,16 +75,11 @@
     "https://dreameshirt.com/product/official-poster-alabama-shakes-show-mgm-music-hall-at-fenway-park-boston-ma-september-14-2025-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-he-didnt-spread-hate-you-just-hated-what-he-said-charlie-kirk-shirt/",
-    "https://teeextra.com/product/official-charlie-kirk-turning-point-forever-1993-2025-shirt/",
-    "https://teeextra.com/product/official-charlie-kirk-the-turning-point-a-true-patriot-never-surrender-rip-1993-2025-shirt/",
-    "https://teeextra.com/product/official-charlie-kirk-rest-now-brother-we-have-the-watch-and-ill-see-you-in-valhalla-shirt/",
-    "https://teeextra.com/product/official-charlie-kirk-never-give-up-never-surrender-and-always-go-for-the-win-shirt/",
-    "https://teeextra.com/product/official-charlie-kirk-kirk-for-a-stronger-america-shirt/",
-    "https://teeextra.com/product/official-charlie-kirk-its-ok-to-love-your-country-shirt-2/",
-    "https://teeextra.com/product/official-charlie-kirk-inspired-me-to-speak-up-shirt/",
-    "https://teeextra.com/product/official-charlie-kirk-a-true-patriot-turning-point-usa-flag-shirt/",
-    "https://teeextra.com/product/official-c-kirk-when-people-stop-talking-thats-when-violence-happens-shirt/"
+    "https://teeextra.com/product/official-the-idea-lives-on-rip-charlie-kirk-shirt/",
+    "https://teeextra.com/product/official-prove-me-wrong-you-deserve-better-charlie-kirk-shirt/",
+    "https://teeextra.com/product/official-pardon-my-take-lloyd-christmas-so-youre-telling-me-theres-a-chance-shirt/",
+    "https://teeextra.com/product/official-legal-iranian-reelect-trump-2020-shirt/",
+    "https://teeextra.com/product/official-in-honor-of-charlie-kirk-faith-eternal-respect-equality-dedication-honor-memorial-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/you-can-t-spell-hatred-without-red-hat-shirt/",
@@ -290,16 +285,16 @@
     "https://neoteeco.com/product/parkway-drive-kwas-20-year-anniversary-killing-with-a-smile-all-over-print-hoodie/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/crossing-the-rubicon-shirt/",
-    "https://newshirtstore.com/product/crime-junkie-so-supernatural-t-shirt/",
-    "https://newshirtstore.com/product/date-koyo-shirt/",
-    "https://newshirtstore.com/product/crosshair-the-bad-batch-shirt/",
-    "https://newshirtstore.com/product/custom-matching-halloween-family-mickey-minnie-shirt/",
-    "https://newshirtstore.com/product/civil-war-jokes-are-not-funny-robert-e-lee-shirt/",
-    "https://newshirtstore.com/product/children-of-the-cornhole-halloween-shirt/",
-    "https://newshirtstore.com/product/cope-harder-shirt/",
-    "https://newshirtstore.com/product/clark-connors-100-proof-shirt/",
-    "https://newshirtstore.com/product/charlie-kirk-superhero-this-is-the-turning-point-shirt/"
+    "https://newshirtstore.com/product/i-am-charlie-kirk-great-american-patriot-shirt/",
+    "https://newshirtstore.com/product/hunt-bigfoot-fun-fact-i-dont-care-shirt/",
+    "https://newshirtstore.com/product/hurakan-xenometh-t-shirt/",
+    "https://newshirtstore.com/product/i-am-american-ive-had-enough-usa-flag-shirt/",
+    "https://newshirtstore.com/product/i-am-charlie-usa-flag-shirt/",
+    "https://newshirtstore.com/product/grand-theft-auto-trol-city-shirt/",
+    "https://newshirtstore.com/product/good-star-wars-do-or-do-not-but-first-nap-t-shirt/",
+    "https://newshirtstore.com/product/helluva-boss-pride-merch-cartoon-2025-shirt/",
+    "https://newshirtstore.com/product/houston-cougars-football-tiger-nike-logo-shirt/",
+    "https://newshirtstore.com/product/hubris-cannon-a-shot-your-straight-ed-friends-can-get-behind-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/washington-mystics-logo-2-sided-t-shirt/",
