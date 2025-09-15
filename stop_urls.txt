@@ -35,7 +35,16 @@
     "https://techteesusa.com/product/the-original-positive-lifestyle-brand-basketball-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/louisiana-saints-on-saturdays-lsu-on-sundays-shirt/"
+    "https://teeworksusa.com/product/evolution-profiler-criminal-minds-retro-shirt/",
+    "https://teeworksusa.com/product/detroit-lions-skeleton-football-player-shirt/",
+    "https://teeworksusa.com/product/detroit-lions-x-aidan-hutchinson-charcoal-house-shirt/",
+    "https://teeworksusa.com/product/dariusz-matecki-white-lives-matter-shirt/",
+    "https://teeworksusa.com/product/denver-broncos-bo-chapman-nix-touchdown-design-shirt/",
+    "https://teeworksusa.com/product/deep-space-nine-sisko-heartthrob-graphic-shirt/",
+    "https://teeworksusa.com/product/dallas-cowboys-skeleton-on-horseback-football-player-shirt/",
+    "https://teeworksusa.com/product/dallas-cowboys-hell-yeah-shirt/",
+    "https://teeworksusa.com/product/colton-cowser-cow-shirt/",
+    "https://teeworksusa.com/product/cleveland-browns-helmet-end-around-short-sleeve-fashion-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-worlds-smallest-cock-t-shirt/",
@@ -156,16 +165,16 @@
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/original-wvu-eat-shit-pitt-2025-t-shirts/",
-    "https://uscraftedtees.com/product/original-we-stand-with-charlie-kirk-2025-t-shirts/",
-    "https://uscraftedtees.com/product/original-turtle-love-relax-mode-on-please-do-not-disturb-t-shirts/",
-    "https://uscraftedtees.com/product/original-the-usos-jey-uso-and-jimmy-uso-you-the-twos-and-we-the-ones-t-shirts/",
-    "https://uscraftedtees.com/product/original-the-fish-is-calling-and-i-must-go-funny-love-fishing-t-shirts/",
-    "https://uscraftedtees.com/product/original-the-crawford-era-graphic-2025-t-shirts/",
-    "https://uscraftedtees.com/product/original-terence-the-crawford-era-2025-t-shirts/",
-    "https://uscraftedtees.com/product/original-romayer-characters-2025-t-shirts/",
-    "https://uscraftedtees.com/product/original-otoboke-beaver-dancing-t-shirts/",
-    "https://uscraftedtees.com/product/original-new-york-city-queens-streetwear-estd-1982-t-shirts/"
+    "https://uscraftedtees.com/product/original-sept-14-2025-minnesota-vikings-atlanta-falcons-u-s-bank-stadium-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-nine-inch-nails-inglewood-ca-sep-18-19-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-levitation-room-rochester-ny-sept-14-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-king-gizzard-and-the-lizard-wizard-2025-new-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-jonas-brothers-utah-first-credit-union-amphitheatre-west-valley-city-ut-usa-tour-september-13-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-billy-strings-sep-14-15-16-2025-live-ryman-auditorium-in-nashville-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-foo-fighters-the-observatory-santa-ana-event-sep-15-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-billy-strings-bryan-sutton-and-royal-masat-sep-14-15-16-2025-ryman-auditorium-in-nashville-tn-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-alabama-shakes-fall-tour-2025-the-mgm-music-hall-at-fenway-in-boston-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-jim-world-tour-bob-sep-20-2025-financial-amphitheatre-poster-t-shirts/"
   ],
   "capitoneshirt.com": [
     "https://capitoneshirt.com/product/toronto-blue-jays-win-october-2025-mlb-postseason-shirt/",
