@@ -1,8 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/atlanta-gladiators-one-battle-shirt/",
-    "https://geekteesus.com/product/big-house-bryce-underwood-valiant-university-of-michigan-signature-comic-shirt/",
-    "https://geekteesus.com/product/2025-playoffs-atlanta-dream-wnba-logo-shirt/"
+    "https://geekteesus.com/product/robbie-williams-wearing-john-paul-ringo-george-robbie-t-shirt/",
+    "https://geekteesus.com/product/thank-you-jesus-2025-tennessee-titans-football-shirt/",
+    "https://geekteesus.com/product/riley-greene-big-head-detroit-tigers-mlb-graphic-shirt/",
+    "https://geekteesus.com/product/jose-altuve-big-head-houston-astros-mlb-graphic-shirt/",
+    "https://geekteesus.com/product/zach-bryan-michigan-wolverines-the-quittin-time-tour-2025-shirt/",
+    "https://geekteesus.com/product/terence-crawford-bud-nebraska-cornhuskers-football-graphic-shirt/",
+    "https://geekteesus.com/product/rise-up-red-sea-arizona-cardinals-nfl-2025-shirt/",
+    "https://geekteesus.com/product/philadelphia-phillies-annual-domestic-violence-awareness-day-2025-shirt/",
+    "https://geekteesus.com/product/new-york-giants-big-blue-nfl-2025-shirt/",
+    "https://geekteesus.com/product/nebraska-huskers-x-terence-crawford-2025-shirt/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-meme-jalen-hurts-philadelphia-eagles-are-3-0-against-patrick-mahomes-kansas-city-chiefs-t-shirt/",
@@ -170,16 +177,16 @@
     "https://uscraftedtees.com/product/official-the-avett-brothers-july-11-2025-tour-red-rocks-poster-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/san-diego-padres-2025-choke-in-october-mlb-postseason-shirt/",
-    "https://capitoneshirt.com/product/philadelphia-phillies-win-october-2025-mlb-postseason-shirt/",
-    "https://capitoneshirt.com/product/philadelphia-phillies-dominate-october-2025-mlb-postseason-shirt/",
-    "https://capitoneshirt.com/product/philadelphia-phillies-conquer-october-2025-mlb-postseason-shirt/",
-    "https://capitoneshirt.com/product/philadelphia-phillies-back-to-october-2025-mlb-postseason-shirt/",
-    "https://capitoneshirt.com/product/philadelphia-phillies-2025-mlb-postseason-own-october-shirt/",
-    "https://capitoneshirt.com/product/philadelphia-phillies-2025-choke-in-october-mlb-postseason-shirt/",
-    "https://capitoneshirt.com/product/new-york-yankees-win-october-2025-mlb-postseason-shirt/",
-    "https://capitoneshirt.com/product/new-york-yankees-dominate-october-2025-mlb-postseason-shirt/",
-    "https://capitoneshirt.com/product/new-york-yankees-conquer-october-2025-mlb-postseason-shirt/"
+    "https://capitoneshirt.com/product/toronto-blue-jays-win-october-2025-mlb-postseason-shirt/",
+    "https://capitoneshirt.com/product/toronto-blue-jays-dominate-october-2025-mlb-postseason-shirt/",
+    "https://capitoneshirt.com/product/toronto-blue-jays-conquer-october-2025-mlb-postseason-shirt/",
+    "https://capitoneshirt.com/product/toronto-blue-jays-back-to-october-2025-mlb-postseason-shirt/",
+    "https://capitoneshirt.com/product/toronto-blue-jays-2025-mlb-postseason-own-october-shirt/",
+    "https://capitoneshirt.com/product/toronto-blue-jays-2025-choke-in-october-mlb-postseason-shirt/",
+    "https://capitoneshirt.com/product/texas-rangers-win-october-2025-mlb-postseason-shirt/",
+    "https://capitoneshirt.com/product/texas-rangers-dominate-october-2025-mlb-postseason-shirt/",
+    "https://capitoneshirt.com/product/texas-rangers-conquer-october-2025-mlb-postseason-shirt/",
+    "https://capitoneshirt.com/product/texas-rangers-back-to-october-2025-mlb-postseason-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/we-shall-not-forget-mlb-september-11-2001-logo-shirt/",
@@ -194,14 +201,10 @@
     "https://clickoneshirt.com/product/diggs-eyes-on-the-prize-new-england-patriots-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/i-love-with-my-butthole-shirts/",
-    "https://teleteeshirt.com/product/yugioh-solo-swoosh-red-eyes-black-dragon-t-shirts/",
-    "https://teleteeshirt.com/product/yellow-days-south-america-tour-october-2025-dates-t-shirts/",
-    "https://teleteeshirt.com/product/the-offspring-mohawk-worldwide-2025-tour-skull-t-shirts/",
-    "https://teleteeshirt.com/product/the-rizzler-calls-for-kirk-shooter-tyler-robinson-to-face-public-firing-squad-our-patience-has-reached-its-limit-t-shirts/",
-    "https://teleteeshirt.com/product/the-hives-box-sept-15-2025-seattle-wa-bee-t-shirts/",
-    "https://teleteeshirt.com/product/thank-you-jerry-jones-green-bay-packers-cheese-t-shirts/",
-    "https://teleteeshirt.com/product/terence-crawford-the-champ-is-here-throne-t-shirts/"
+    "https://teleteeshirt.com/product/terence-crawford-nebraska-cornhuskers-born-raised-t-shirts/",
+    "https://teleteeshirt.com/product/fantasy-initiative-wiz-t-shirts/",
+    "https://teleteeshirt.com/product/we-the-kings-forever-well-be-you-and-me-shrek-yes-juliet-t-shirts/",
+    "https://teleteeshirt.com/product/official-silly-goose-but-serious-about-the-constitution-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/walt-disneyys-disneyyworld-est-1971-where-dreams-come-true-shirt/",
