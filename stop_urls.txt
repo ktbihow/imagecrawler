@@ -17,16 +17,16 @@
     "https://orionshirt.com/product/official-alabama-crimson-tide-38-14-wisconsin-badgers-final-build-giants-alabama-september-13-2025-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/yeah-im-pan-gonna-o-pan-this-beer-and-drink-it-shirt/",
-    "https://techteesusa.com/product/tyler-robinson-in-a-trump-make-america-great-again-shirt/",
-    "https://techteesusa.com/product/saint-joseph-band-oklahoma-sooners-shirt/",
-    "https://techteesusa.com/product/make-sense-common-again-t-shirt/",
-    "https://techteesusa.com/product/shepard-fairey-wake-up-they-want-you-asleep-stay-woke-shirt/",
-    "https://techteesusa.com/product/elon-musk-american-party-shirt/",
-    "https://techteesusa.com/product/kawaii-koalafied-cutie-shirt/",
-    "https://techteesusa.com/product/as-the-prophecy-foretold-shit-is-fucked-shirt/",
-    "https://techteesusa.com/product/i-love-kb-shirt/",
-    "https://techteesusa.com/product/youre-killin-me-smalls-kansas-city-royals-x-the-sandlot-shirt/"
+    "https://techteesusa.com/product/yoda-its-officially-wear-a-sweater-in-the-morning-shirt/",
+    "https://techteesusa.com/product/wood-and-daniels-washington-nationals-all-season-commanders-on-sundays-shirt/",
+    "https://techteesusa.com/product/williams-and-hurts-alabama-crimson-tide-on-saturdays-philadelphia-eagles-on-sundays-shirt/",
+    "https://techteesusa.com/product/wicked-for-good-thank-you-for-the-memories-shirt/",
+    "https://techteesusa.com/product/whataburger-hallothanksmas-grinch-shirt/",
+    "https://techteesusa.com/product/more-fiddle-shirt/",
+    "https://techteesusa.com/product/merica-party-alligator-flag-shirt/",
+    "https://techteesusa.com/product/g-dragon-ubermensch-shirt/",
+    "https://techteesusa.com/product/we-run-this-state-ohio-cincinnati-bengals-shirt/",
+    "https://techteesusa.com/product/turang-and-love-milwaukee-brewers-all-season-green-bay-packers-on-sundays-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/its-all-about-jesus-charlie-kirk-shirt/",
@@ -195,16 +195,16 @@
     "https://clickoneshirt.com/product/heartstopper-why-are-we-like-this-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/where-the-wild-things-are-wild-rumpus-t-shirts/",
-    "https://teleteeshirt.com/product/west-virginia-mountaineers-vs-pitt-panthers-2025-lets-go-score-t-shirts/",
-    "https://teleteeshirt.com/product/this-is-our-turning-point-usa-t-shirts/",
-    "https://teleteeshirt.com/product/the-sims-motherlode-t-shirts/",
-    "https://teleteeshirt.com/product/the-brightness-of-roses-waifu-anime-t-shirts/",
-    "https://teleteeshirt.com/product/summer-blades-x-waifu-anime-t-shirts/",
-    "https://teleteeshirt.com/product/star-wars-a-long-time-ago-in-a-galaxy-far-far-away-t-shirts/",
-    "https://teleteeshirt.com/product/snoopy-the-peanuts-a-charlie-brown-merry-christmas-t-shirts/",
-    "https://teleteeshirt.com/product/disney-its-just-a-bunch-of-hocus-pocus-t-shirts/",
-    "https://teleteeshirt.com/product/die-hard-inspired-welcome-to-the-nakatomi-corporation-christmas-party-88-t-shirts/"
+    "https://teleteeshirt.com/product/whoop-dee-doo-t-shirts/",
+    "https://teleteeshirt.com/product/terence-crawford-legends-never-lose-t-shirts/",
+    "https://teleteeshirt.com/product/terence-crawford-king-boxing-t-shirts/",
+    "https://teleteeshirt.com/product/cole-palmer-you-know-chippy-chips-t-shirts/",
+    "https://teleteeshirt.com/product/official-chapel-bill-belichick-coach-unc-north-carolina-tar-heels-t-shirts/",
+    "https://teleteeshirt.com/product/alabama-shakes-mgm-music-hall-boston-ma-sep-14-2025-t-shirts/",
+    "https://teleteeshirt.com/product/cinnamon-rolls-t-shirts/",
+    "https://teleteeshirt.com/product/official-cheeseburger-day-hub-city-spartanburgers-baseballism-t-shirts/",
+    "https://teleteeshirt.com/product/terence-crawford-the-crawford-era-everlast-t-shirts/",
+    "https://teleteeshirt.com/product/philadelphia-eagles-fuck-patrick-mahomes-philly-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/lsu-vs-vandy-nashville-oct-18-2025-football-game-day-shirt/",
@@ -217,16 +217,16 @@
     "https://teeslocal.com/product/gnome-sorry-i-am-cranky-im-going-though-my-terrible-seventies-right-now-shirt/"
   ],
   "melonashirt.com": [
-    "https://melonashirt.com/product/official-tyler-robinson-mugshot-shirts/",
-    "https://melonashirt.com/product/official-the-simpsons-theres-no-such-team-as-the-spungos-shirts/",
-    "https://melonashirt.com/product/official-the-simpsons-pigskin-classic-nacho-nacho-man-shirts/",
-    "https://melonashirt.com/product/official-the-simpsons-bart-star-its-clobberin-time-shirts/",
-    "https://melonashirt.com/product/official-the-charlie-kirk-show-shirts-2/",
-    "https://melonashirt.com/product/official-john-brown-blood-big-head-shirts/",
-    "https://melonashirt.com/product/official-half-coffee-half-teacher-shirts/",
-    "https://melonashirt.com/product/official-freddie-gibbs-alfredo-ii-the-alchemist-shirts/",
-    "https://melonashirt.com/product/official-conan-obrien-needs-a-friend-summer-smores-25-shirts/",
-    "https://melonashirt.com/product/official-claude-san-franpsycho-nightlife-big-gaitor-shirts/"
+    "https://melonashirt.com/product/official-vulfpeck-at-the-garden-new-york-ny-september-13-2025-event-shirts/",
+    "https://melonashirt.com/product/official-tyler-robinson-in-a-trump-make-america-great-again-shirts/",
+    "https://melonashirt.com/product/official-turning-point-forever-1993-2025-rip-charlie-shirts/",
+    "https://melonashirt.com/product/official-turning-point-forever-1933-2025-shirts/",
+    "https://melonashirt.com/product/official-travis-kelce-free-4-dreamathon-shirts/",
+    "https://melonashirt.com/product/official-this-is-our-black-turning-point-memorial-shirts/",
+    "https://melonashirt.com/product/official-the-terence-crawford-era-shirts/",
+    "https://melonashirt.com/product/official-the-rizzler-calls-for-kirk-shooter-tyler-robinson-to-face-public-firing-squad-our-patience-has-reached-its-limit-shirts/",
+    "https://melonashirt.com/product/official-the-crawford-era-shirts/",
+    "https://melonashirt.com/product/official-the-charlie-kirk-show-i-am-charlie-kirk-shirts-2/"
   ],
   "dalatshirt.com": [
     "https://dalatshirt.com/product/yes-officer-i-saw-the-speed-limit-i-just-didnt-see-you-t-shirts/",
@@ -257,26 +257,28 @@
     "https://designatshop.com/product/charlie-kirk-freedom-just-offended-doesnt-mean-right-signature-2-sided-shirt/"
   ],
   "arjomany.com": [
-    "https://arjomany.com/product/we-stand-with-charlie-kirk-t-shirt/",
-    "https://arjomany.com/product/fuerza-regida-seleccion-mexico-t-shirt/",
-    "https://arjomany.com/product/dawgs-smoked-tee/",
-    "https://arjomany.com/product/chris-kyle-bootleg-t-shirt/",
-    "https://arjomany.com/product/amira-elfeky-hold-onto-me-new-shirt/",
-    "https://arjomany.com/product/we-the-kings-sad-song-shirt/",
-    "https://arjomany.com/product/salt-n-pepa-t-shirt/",
-    "https://arjomany.com/product/amira-elfeky-card-shirt/"
+    "https://arjomany.com/product/thantu-thikha-waging-war-against-your-facade-shirt/",
+    "https://arjomany.com/product/terence-crawford-era-merch/",
+    "https://arjomany.com/product/red-clay-strays-red-rocks-morrison-shirt/",
+    "https://arjomany.com/product/red-clay-strays-red-rocks-live-morrison-co-tee/",
+    "https://arjomany.com/product/red-clay-strays-red-rocks-live-morrison-co-merch/",
+    "https://arjomany.com/product/red-clay-strays-get-right-tour-2025-shirt/",
+    "https://arjomany.com/product/jonas-brothers-sep-13-2025-autah-first-credit-union-amphitheatre-shirt/",
+    "https://arjomany.com/product/fishbone-stockholm-syndrome-shirt/",
+    "https://arjomany.com/product/crawford-viva-mexico-shirt/",
+    "https://arjomany.com/product/crawford-the-champ-is-here-merch/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/southern-culture-on-the-skids-october-tour-2025-poster/",
-    "https://collectionpostertour.com/product/southern-culture-on-the-skids-october-2025-tour-poster/",
-    "https://collectionpostertour.com/product/sacred-skin-fall-2025-european-tour-poster/",
-    "https://collectionpostertour.com/product/sacred-skin-fall-2025-eu-tour-poster/",
-    "https://collectionpostertour.com/product/port-city-jerry-day-wilmington-nc-september-13-2025-tour-poster/",
-    "https://collectionpostertour.com/product/port-city-jerry-day-sept-13-2025-wilmington-nc-concert-poster/",
-    "https://collectionpostertour.com/product/foo-fighters-sept-13-2025-san-luis-obispo-concert-poster/",
-    "https://collectionpostertour.com/product/foo-fighters-sept-13-2025-fremont-theater-tour-poster/",
-    "https://collectionpostertour.com/product/dirty-heads-sept-12-2025-calvert-street-stage-tour-poster/",
-    "https://collectionpostertour.com/product/dirty-heads-sept-12-2025-annapolis-md-concert-poster/"
+    "https://collectionpostertour.com/product/james-marriott-dont-tell-the-dog-t-shirt/",
+    "https://collectionpostertour.com/product/james-marriott-dont-tell-the-dog-merch/",
+    "https://collectionpostertour.com/product/james-marriott-dont-tell-the-dog-illustrated-t-shirt/",
+    "https://collectionpostertour.com/product/james-marriott-dont-tell-the-dog-illustrated-merch/",
+    "https://collectionpostertour.com/product/so-youre-telling-me-theres-a-chance-t-shirt/",
+    "https://collectionpostertour.com/product/lloyd-christmas-so-youre-telling-me-theres-a-chance-t-shirt/",
+    "https://collectionpostertour.com/product/jerry-cheesehead-t-shirt/",
+    "https://collectionpostertour.com/product/jerry-cheesehead-merch/",
+    "https://collectionpostertour.com/product/james-marriott-dont-tell-the-dog-scrap-book-t-shirt/",
+    "https://collectionpostertour.com/product/james-marriott-dont-tell-the-dog-scrap-book-merch/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/parkway-drive-kwas-20-year-anniversary-killing-with-a-smile-all-over-print-hoodie/"
