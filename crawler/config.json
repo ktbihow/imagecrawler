@@ -141,7 +141,7 @@
     },
     {
         "url": "https://arjomany.com/",
-        "replacements": {"-shirt-men.jpg": ["-shirt-poster.jpg"]},
+        "replacements": {"-poster.jpg": ["-men.jpg"]},
         "source_type": "api"
     },
     {
