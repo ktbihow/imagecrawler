@@ -27,16 +27,16 @@
     "https://techteesusa.com/product/ireland-bound-iowa-state-cyclones-football-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/cincinnati-bengals-and-jacksonville-jaguars-ring-of-honor-september-30-2021-shirt/",
-    "https://teeworksusa.com/product/chiefs-kingdom-shirt/",
-    "https://teeworksusa.com/product/chiefs-free-4-rashee-rice-shirt/",
-    "https://teeworksusa.com/product/cantlay-ryder-cup-shirt/",
-    "https://teeworksusa.com/product/bryson-ryder-cup-shirt/",
-    "https://teeworksusa.com/product/bryce-eldridge-swing-baseball-shirt/",
-    "https://teeworksusa.com/product/brandon-aubrey-dallas-americas-favorite-kicker-shirt/",
-    "https://teeworksusa.com/product/blanche-im-the-beauty-shirt/",
-    "https://teeworksusa.com/product/bee-the-change-salt-lake-dsa-shirt/",
-    "https://teeworksusa.com/product/barkley-the-cockroach-stomper-comic-shirt/"
+    "https://teeworksusa.com/product/perry-the-platypus-halloween-shirt/",
+    "https://teeworksusa.com/product/october-ready-philadelphia-phillies-2025-postseason-shirt/",
+    "https://teeworksusa.com/product/october-ready-new-york-yankees-2025-postseason-shirt/",
+    "https://teeworksusa.com/product/october-ready-houston-astros-2025-postseason-shirt/",
+    "https://teeworksusa.com/product/october-ready-baltimore-orioles-2025-postseason-shirt/",
+    "https://teeworksusa.com/product/october-ready-atlanta-braves-2025-postseason-shirt/",
+    "https://teeworksusa.com/product/now-we-play-michael-oku-shirt/",
+    "https://teeworksusa.com/product/now-we-play-michael-oku-and-amira-shirt/",
+    "https://teeworksusa.com/product/nobody-likes-it-we-take-it-personal-detroit-lions-shirt/",
+    "https://teeworksusa.com/product/nigel-mcguiness-vs-zack-sabre-jr-forbidden-door-london-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-wisconsin-snoopy-fist-bump-charlie-brown-badgers-and-packers-shirt/",
@@ -154,16 +154,16 @@
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/official-leftover-salmon-tigre-island-room-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-nicky-diamonds-2025-texas-tour-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-kula-shaker-tour-2025-september-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-eric-church-td-garden-boston-ma-sep-19-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-dogs-in-a-pile-9-15-9-16-2025-pappy-harriets-in-pioneertown-ca-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-deafheaven-sep-22-2025-asheville-nc-the-orange-peel-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-bela-lugosi-2025-david-manners-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-chaparelle-the-chapel-san-francisco-ca-event-sept-20-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-alabama-shakes-sep-15-2025-the-mgm-music-hall-at-fenway-in-boston-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-borderland-2025-east-aurora-sept-14-2025-new-york-poster-t-shirts/"
+    "https://uscraftedtees.com/product/official-shaky-knees-music-festival-atlanta-ga-sep-19-21-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-wyatt-flores-albuquerque-nm-show-sept-17-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-wyatt-flores-9-16-2025-flagstaff-az-pepsi-amphitheater-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-tool-tour-2025-spark-arena-auckland-nz-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-tittybats-fall-mini-tour-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-the-soccer-bus-nashville-sc-vs-philadelphia-union-sept-16-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-the-lawrence-arms-dec-2025-concert-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-skull-eric-church-september-18-2025-xfinity-mobile-arena-philadelphia-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-skeleton-orange-eric-church-sept-20-2025-tour-brooklyn-ny-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-skeleton-avenged-sevenfold-2025-latin-america-tour-poster-t-shirts/"
   ],
   "capitoneshirt.com": [
     "https://capitoneshirt.com/product/usa-liberty-or-death-dont-tread-on-me-shirt/",
@@ -190,16 +190,16 @@
     "https://clickoneshirt.com/product/thats-showbiz-baby-it-girl-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/typhoon-turns-twenty-january-2026-cigarettes-t-shirts/",
-    "https://teleteeshirt.com/product/trump-nope-not-my-president-not-my-emperor-not-my-czar-not-my-king-t-shirts/",
-    "https://teleteeshirt.com/product/tool-at-spark-arena-on-auckland-nz-on-nov-22-2025-tour-t-shirts/",
-    "https://teleteeshirt.com/product/the-tomarrifer-axe-t-shirts/",
-    "https://teleteeshirt.com/product/the-lawrence-arms-war-on-x-mas-dec-2025-tour-christmas-t-shirts/",
-    "https://teleteeshirt.com/product/terrell-owens-fuck-the-cowboys-t-shirts/",
-    "https://teleteeshirt.com/product/sydney-sweeney-wearing-turning-point-usa-t-shirts/",
-    "https://teleteeshirt.com/product/sidney-crosby-marc-andre-fleury-kris-letang-and-evgeni-malkin-pittsburgh-penguins-2025-farewell-tour-signatures-t-shirts/",
-    "https://teleteeshirt.com/product/jolly-olive-shea-strikeout-meme-shea-station-t-shirts/",
-    "https://teleteeshirt.com/product/keep-the-candy-ill-take-the-tacos-the-scarier-the-hood-the-better-the-tacos-ghost-halloween-t-shirts/"
+    "https://teleteeshirt.com/product/nude-project-gardening-club-where-we-plant-dreams-and-grow-peace-floreta-t-shirts/",
+    "https://teleteeshirt.com/product/tampa-bay-buccaneers-vs-houston-texans-season-home-opener-september-15-2025-t-shirts/",
+    "https://teleteeshirt.com/product/troye-sivan-rush-sports-co-30-t-shirts/",
+    "https://teleteeshirt.com/product/world-of-warcraft-warsong-t-shirts/",
+    "https://teleteeshirt.com/product/wdrfa-x-club-520-truth-hurts-we-dont-run-from-the-truth-1st-team-t-shirts/",
+    "https://teleteeshirt.com/product/van-halen-speed-shop-1972-t-shirts/",
+    "https://teleteeshirt.com/product/unleash-your-roar-hudey-14-k-beer-t-shirts/",
+    "https://teleteeshirt.com/product/trust-no-woman-except-grandma-t-shirts/",
+    "https://teleteeshirt.com/product/michigan-wolverines-michigan-state-spartans-d-bloc-michigan-united-detroit-tigers-september-2025-t-shirts/",
+    "https://teleteeshirt.com/product/michael-seyer-boylife-candle-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/philadelphia-phillies-2025-national-league-east-division-champs-mlb-shirt/",
