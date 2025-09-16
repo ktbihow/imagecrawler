@@ -86,16 +86,16 @@
     "https://teeextra.com/product/official-obie-mascot-massillon-tigers-x-breast-cancer-awareness-clawing-our-way-to-a-cure-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/tpusa-charlie-kirk-never-surrender-family-tribute-shirt/",
-    "https://teespix.com/product/tommy-castellanos-tommy-football-shirt/",
-    "https://teespix.com/product/the-farewell-season-1973-2025-shirt/",
-    "https://teespix.com/product/the-classiest-tailgate-in-pocket-shirt/",
-    "https://teespix.com/product/the-american-comeback-tour-usa-2025-charlie-kirk-shirt/",
-    "https://teespix.com/product/texas-is-the-reason-shows-in-garwood-nj-2025-shirt/",
-    "https://teespix.com/product/tantor-is-this-water-sanitary-retro-safari-distressed-disney-animal-kingdom-shirt/",
-    "https://teespix.com/product/so-youre-telling-me-theres-a-chance-shirt/",
-    "https://teespix.com/product/snoopy-and-woodstock-winter-snow-shirt/",
-    "https://teespix.com/product/snoopy-and-friends-winter-vintage-style-shirt/"
+    "https://teespix.com/product/philadelphia-phillies-nike-we-are-so-back-2025-nl-east-champions-t-shirt/",
+    "https://teespix.com/product/philadelphia-phillies-nike-2025-nl-east-division-champions-t-shirt/",
+    "https://teespix.com/product/philadelphia-eagles-philly-goose-shirt/",
+    "https://teespix.com/product/chicago-cubs-cubbie-here-for-the-snacks-shirt/",
+    "https://teespix.com/product/charlie-kirk-the-american-comeback-tour-usa-2025-shirt-2/",
+    "https://teespix.com/product/charlie-kirk-american-comeback-the-future-belongs-to-the-brave-t-shirt/",
+    "https://teespix.com/product/american-comeback-tour-justice-for-charlie-kirk-shirt/",
+    "https://teespix.com/product/justice-for-charlie-kirk-assassinated-2025-t-shirt/",
+    "https://teespix.com/product/he-did-not-spread-hate-you-just-hated-what-he-said-rip-charlie-kirk-t-shirt/",
+    "https://teespix.com/product/chicken-f-caw-f-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/why-do-they-call-it-queer-eye-instead-of-homo-improvement-shirt/",
@@ -178,16 +178,16 @@
     "https://capitoneshirt.com/product/molon-labe-coyote-spartan-warrior-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/amiration-lodge-25-annual-picnic-june-9th-2001-two-sided-t-shirt-2/",
-    "https://clickoneshirt.com/product/las-vegas-aces-raise-the-stakes-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/amiration-lodge-25-annual-picnic-june-9th-2001-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/bethpage-black-2025-ryder-cup-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/interstellar-never-meant-to-die-here-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/always-a-saint-sometimes-a-sinner-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/terence-crawford-undisputed-champion-2025-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/oregon-ducks-shoe-duck-unstoppable-force-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/arrival-why-are-they-here-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/zavtracast-mandarin-summer-est-2015-shirt/"
+    "https://clickoneshirt.com/product/optimus-prime-and-the-alcoholic-beverage-scotch-classic-shirt/",
+    "https://clickoneshirt.com/product/ole-miss-in-my-veins-jesus-in-my-heart-mascot-shirt/",
+    "https://clickoneshirt.com/product/notre-dame-fighting-irish-football-indiana-big-head-vintage-shirt/",
+    "https://clickoneshirt.com/product/nosferatu-frankenstein-psycho-the-shining-halloween-collage-shirt/",
+    "https://clickoneshirt.com/product/no-one-will-love-you-with-those-small-calves-mother-teresa-shirt/",
+    "https://clickoneshirt.com/product/nikola-tesla-the-man-who-invented-the-20th-century-graphic-shirt/",
+    "https://clickoneshirt.com/product/new-york-sprots-aint-no-boo-sheet-halloween-shirt/",
+    "https://clickoneshirt.com/product/new-york-giants-100-seasons-i-can-do-christ-all-things-through-who-strengthens-me-shirt/",
+    "https://clickoneshirt.com/product/nasa-national-aeronautics-distressed-vintage-86-logo-shirt/",
+    "https://clickoneshirt.com/product/napheesa-collier-minnesota-lynx-basketball-mvphee-collier-signature-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/typhoon-turns-twenty-january-2026-cigarettes-t-shirts/",
