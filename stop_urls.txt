@@ -98,16 +98,16 @@
     "https://teespix.com/product/chicken-f-caw-f-shirt/"
   ],
   "nowbestshirt.com": [
-    "https://nowbestshirt.com/product/zack-wheeler-45-philadelphia-phillies-pitcher-autographed-shirt/",
-    "https://nowbestshirt.com/product/zach-neto-los-angeles-angels-player-retro-shirt/",
-    "https://nowbestshirt.com/product/yes-i-support-blm-beer-ling-ling-money-shirt/",
-    "https://nowbestshirt.com/product/wtf-is-a-kilometer-eagle-american-flag-shirt/",
-    "https://nowbestshirt.com/product/vladimir-guerrero-montreal-expos-city-skyline-autographed-shirt/",
-    "https://nowbestshirt.com/product/vernell-brown-iii-vb3-florida-gators-football-player-vintage-shirt/",
-    "https://nowbestshirt.com/product/travis-kelce-kansas-city-chiefs-game-face-signature-shirt/",
-    "https://nowbestshirt.com/product/tom-herr-st-louis-cardinals-swing-autographed-vintage-shirt/",
-    "https://nowbestshirt.com/product/theres-not-always-tomorrow-do-it-while-you-can-shirt/",
-    "https://nowbestshirt.com/product/the-vikings-skol-vikings-65th-season-thank-you-for-the-memories-signatures-shirt/"
+    "https://nowbestshirt.com/product/trader-joes-jims-skeleton-shirt/",
+    "https://nowbestshirt.com/product/the-cries-of-this-window-will-echo-around-the-world-like-a-battle-cry-erika-kirk-shirt/",
+    "https://nowbestshirt.com/product/tee-higgins-cincinnati-bengals-aura-flame-vintage-shirt/",
+    "https://nowbestshirt.com/product/strong-women-arent-simply-born-we-are-made-by-the-storms-we-walk-through-shirt/",
+    "https://nowbestshirt.com/product/stitch-let-me-pour-you-a-tall-glass-of-get-over-it-oh-and-heres-a-straw-so-you-can-suck-it-up-shirt/",
+    "https://nowbestshirt.com/product/stitch-it-doesnt-matter-what-you-think-of-me-because-my-imaginary-friends-think-im-special-shirt/",
+    "https://nowbestshirt.com/product/stitch-i-said-to-myself-today-is-going-to-be-a-good-day-shirt/",
+    "https://nowbestshirt.com/product/stitch-i-dont-speak-a-lot-but-i-notice-everything-shirt/",
+    "https://nowbestshirt.com/product/stitch-how-do-you-sleep-at-night-knowing-people-dont-like-you-shirt/",
+    "https://nowbestshirt.com/product/stitch-dont-be-a-twatwaffle-shirt/"
   ],
   "serenashirt.com": [
     "https://serenashirt.com/product/quit-your-job-go-on-tour-bang-a-wook-shirt/",
