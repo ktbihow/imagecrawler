@@ -154,16 +154,16 @@
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/official-shaky-knees-music-festival-atlanta-ga-sep-19-21-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-wyatt-flores-albuquerque-nm-show-sept-17-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-wyatt-flores-9-16-2025-flagstaff-az-pepsi-amphitheater-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-tool-tour-2025-spark-arena-auckland-nz-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-tittybats-fall-mini-tour-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-the-soccer-bus-nashville-sc-vs-philadelphia-union-sept-16-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-the-lawrence-arms-dec-2025-concert-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-skull-eric-church-september-18-2025-xfinity-mobile-arena-philadelphia-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-skeleton-orange-eric-church-sept-20-2025-tour-brooklyn-ny-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-skeleton-avenged-sevenfold-2025-latin-america-tour-poster-t-shirts/"
+    "https://uscraftedtees.com/product/official-why-do-they-call-it-queer-eye-instead-of-homo-improvement-t-shirts/",
+    "https://uscraftedtees.com/product/official-watercolor-stadium-the-university-of-alabama-t-shirts/",
+    "https://uscraftedtees.com/product/official-stu-smith-no-revolution-without-womens-liberation-t-shirts/",
+    "https://uscraftedtees.com/product/official-skeleton-i-fully-intend-to-haunt-people-when-i-die-i-have-a-list-t-shirts/",
+    "https://uscraftedtees.com/product/official-rat-cigarette-the-only-thing-im-able-to-commit-to-is-just-one-more-cigarette-i-swear-t-shirts/",
+    "https://uscraftedtees.com/product/official-palm-leaf-sunset-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-obie-mascot-massillon-tigers-x-breast-cancer-awareness-clawing-our-way-to-a-cure-t-shirts/",
+    "https://uscraftedtees.com/product/official-nikki-hughes-who-shot-ya-the-2nd-amendment-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-never-surrender-love-an-american-mother-t-shirts/",
+    "https://uscraftedtees.com/product/official-marina-im-a-star-2025-t-shirts/"
   ],
   "capitoneshirt.com": [
     "https://capitoneshirt.com/product/usa-liberty-or-death-dont-tread-on-me-shirt/",
@@ -190,16 +190,14 @@
     "https://clickoneshirt.com/product/thats-showbiz-baby-it-girl-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/nude-project-gardening-club-where-we-plant-dreams-and-grow-peace-floreta-t-shirts/",
-    "https://teleteeshirt.com/product/tampa-bay-buccaneers-vs-houston-texans-season-home-opener-september-15-2025-t-shirts/",
-    "https://teleteeshirt.com/product/troye-sivan-rush-sports-co-30-t-shirts/",
-    "https://teleteeshirt.com/product/world-of-warcraft-warsong-t-shirts/",
-    "https://teleteeshirt.com/product/wdrfa-x-club-520-truth-hurts-we-dont-run-from-the-truth-1st-team-t-shirts/",
-    "https://teleteeshirt.com/product/van-halen-speed-shop-1972-t-shirts/",
-    "https://teleteeshirt.com/product/unleash-your-roar-hudey-14-k-beer-t-shirts/",
-    "https://teleteeshirt.com/product/trust-no-woman-except-grandma-t-shirts/",
-    "https://teleteeshirt.com/product/michigan-wolverines-michigan-state-spartans-d-bloc-michigan-united-detroit-tigers-september-2025-t-shirts/",
-    "https://teleteeshirt.com/product/michael-seyer-boylife-candle-t-shirts/"
+    "https://teleteeshirt.com/product/troye-sivan-translate-your-vibration-let-your-body-talk-to-me-t-shirts/",
+    "https://teleteeshirt.com/product/troye-sivan-rush-sports-silhouette-95-t-shirts/",
+    "https://teleteeshirt.com/product/troye-sivan-photo-t-shirts/",
+    "https://teleteeshirt.com/product/the-hermit-a-messenger-of-peace-t-shirts/",
+    "https://teleteeshirt.com/product/san-francisco-giants-world-series-2010-champions-mlb-t-shirts/",
+    "https://teleteeshirt.com/product/pop-culture-wizard-bird-and-cat-t-shirts/",
+    "https://teleteeshirt.com/product/atlanta-braves-world-series-1995-world-series-champions-mlb-t-shirts/",
+    "https://teleteeshirt.com/product/chicago-cubs-world-series-2016-world-series-champions-mlb-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/philadelphia-phillies-2025-national-league-east-division-champs-mlb-shirt/",
