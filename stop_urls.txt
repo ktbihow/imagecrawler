@@ -27,16 +27,8 @@
     "https://techteesusa.com/product/ireland-bound-iowa-state-cyclones-football-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/perry-the-platypus-halloween-shirt/",
-    "https://teeworksusa.com/product/october-ready-philadelphia-phillies-2025-postseason-shirt/",
-    "https://teeworksusa.com/product/october-ready-new-york-yankees-2025-postseason-shirt/",
-    "https://teeworksusa.com/product/october-ready-houston-astros-2025-postseason-shirt/",
-    "https://teeworksusa.com/product/october-ready-baltimore-orioles-2025-postseason-shirt/",
-    "https://teeworksusa.com/product/october-ready-atlanta-braves-2025-postseason-shirt/",
-    "https://teeworksusa.com/product/now-we-play-michael-oku-shirt/",
-    "https://teeworksusa.com/product/now-we-play-michael-oku-and-amira-shirt/",
-    "https://teeworksusa.com/product/nobody-likes-it-we-take-it-personal-detroit-lions-shirt/",
-    "https://teeworksusa.com/product/nigel-mcguiness-vs-zack-sabre-jr-forbidden-door-london-shirt/"
+    "https://teeworksusa.com/product/rest-in-peace-robert-redford-shirt/",
+    "https://teeworksusa.com/product/hollywood-legend-robert-redford-rip-1936-2025-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-wisconsin-snoopy-fist-bump-charlie-brown-badgers-and-packers-shirt/",
@@ -74,16 +66,16 @@
     "https://dreameshirt.com/product/official-philadelphia-phillies-2025-mlb-national-league-east-division-champions-fan-gear-logo-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-wyatt-flores-albuquerque-nm-concert-september-17-2025-shirt/",
-    "https://teeextra.com/product/official-why-do-they-call-it-queer-eye-instead-of-homo-improvement-shirt/",
-    "https://teeextra.com/product/official-this-is-pitbull-yasushi-takagi-shirt/",
-    "https://teeextra.com/product/official-soccer-mommy-summerstage-in-central-park-september-16-2025-concert-shirt/",
-    "https://teeextra.com/product/official-smerz-big-city-life-fall-tour-2025-shirt/",
-    "https://teeextra.com/product/official-pittsburgh-steelers-tour-50th-anniversary-the-terrible-towel-sept-oct-2025-shirt/",
-    "https://teeextra.com/product/official-patty-cake-man-shirt/",
-    "https://teeextra.com/product/official-orange-madrox-the-great-skull-green-skull-halloween-shirt/",
-    "https://teeextra.com/product/official-one-love-boomer-shirt/",
-    "https://teeextra.com/product/official-obie-mascot-massillon-tigers-x-breast-cancer-awareness-clawing-our-way-to-a-cure-shirt/"
+    "https://teeextra.com/product/well-done-good-and-faithful-servant-we-are-charlie-kirk-two-side-shirt/",
+    "https://teeextra.com/product/rip-warrior-of-christ-may-god-receive-you-in-his-loving-army-charlie-kirk-two-side-shirt/",
+    "https://teeextra.com/product/this-is-our-turning-point-09-10-2025-charlie-kirk-two-side-shirt/",
+    "https://teeextra.com/product/rest-in-peace-45-47-we-the-people-charlie-kirk-two-side-shirt/",
+    "https://teeextra.com/product/penn-state-nittany-lions-special-new-cream-for-the-glory-2-sided-shirt/",
+    "https://teeextra.com/product/oakland-athletics-tim-hudson-mark-mulder-barry-zito-big-three-2-sided-shirt/",
+    "https://teeextra.com/product/keep-the-faith-he-fought-the-good-fight-we-will-finish-the-race-2-timothy-4/",
+    "https://teeextra.com/product/god-family-country-in-that-order-charlie-kirk-two-side-shirt/",
+    "https://teeextra.com/product/official-your-love-drags-me-down-2025-shirt/",
+    "https://teeextra.com/product/official-wch-tokyo-25-mascot-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/philadelphia-phillies-nike-we-are-so-back-2025-nl-east-champions-t-shirt/",
@@ -127,16 +119,16 @@
     "https://fanaticity.com/product/charlie-kick-freedom-red-signature-red-1993-2025-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/charlie-kirk-all-death-can-do-to-the-believer-is-deliver-him-to-jesus-1993-2025-t-shirt/",
-    "https://legendusashirt.com/product/charlie-kirk-a-voice-for-the-silent-2025-t-shirt/",
-    "https://legendusashirt.com/product/charlie-great-american-patriot-t-shirt/",
-    "https://legendusashirt.com/product/carousel-laufey-life-is-a-circus-t-shirt/",
-    "https://legendusashirt.com/product/candlebox-seattle-wa-concert-september-25-2025-t-shirt/",
-    "https://legendusashirt.com/product/beware-of-ice-whiskey-gin-vodka-t-shirt/",
-    "https://legendusashirt.com/product/bart-simpson-friday-damn-meme-t-shirt/",
-    "https://legendusashirt.com/product/banksy-street-royal-courts-of-justice-political-activism-t-shirt/",
-    "https://legendusashirt.com/product/audrey-hobert-the-staircase-to-stardom-2025-2026-t-shirt/",
-    "https://legendusashirt.com/product/are-all-charlie-kirk-army-now-r-i-p-charlie-kirk-t-shirt/"
+    "https://legendusashirt.com/product/i-am-charlie-kirk-repeat-t-shirt/",
+    "https://legendusashirt.com/product/hypocrisy-virus-20th-anniversary-7th-november-2025-t-shirt/",
+    "https://legendusashirt.com/product/hypocrisy-a-taste-of-extreme-divinity-7th-november-2025-t-shirt/",
+    "https://legendusashirt.com/product/houston-astros-2025-choke-in-october-mlb-postseason-locker-room-t-shirt/",
+    "https://legendusashirt.com/product/houston-astros-2025-american-league-the-west-is-ours-t-shirt/",
+    "https://legendusashirt.com/product/gympie-music-muster-artisit-t-shirt/",
+    "https://legendusashirt.com/product/george-strait-50th-anniversary-1976-2026-signature-thank-you-for-the-memories-t-shirt/",
+    "https://legendusashirt.com/product/georgia-bulldogs-dawgs-smoked-t-shirt/",
+    "https://legendusashirt.com/product/freddie-mercury-80-years-1946-2026-the-man-the-myth-the-legend-signature-t-shirt/",
+    "https://legendusashirt.com/product/foo-fighters-adolescents-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/15-concept-2-million-meter-club-shirt/",
@@ -236,16 +228,16 @@
     "https://dalatshirt.com/product/charlie-kirk-we-are-kirk-army-now-1993-2025-usa-flag-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/florida-state-seminole-fsu-osceola-and-renegade-design-logo-shirt/",
-    "https://lovingsquad.com/product/everyone-wants-to-play-in-the-wcha-the-western-collegiate-hockey-association-ice-hockey-shirt/",
-    "https://lovingsquad.com/product/everybody-has-a-price-shirt/",
-    "https://lovingsquad.com/product/dk-metcalf-pittsburgh-steelers-signature-poster-shirt/",
-    "https://lovingsquad.com/product/diablos-rojos-del-mexico-team-players-graphic-shirt/",
-    "https://lovingsquad.com/product/detroit-lions-logo-nobody-likes-it-we-take-it-personal-shirt/",
-    "https://lovingsquad.com/product/dbloc-detroit-tigers-michigan-wolverines-vs-michigan-state-spartans-united-september-2025-shirt/",
-    "https://lovingsquad.com/product/custom-one-day-design-pet-halloween-trick-or-treat-shirt/",
-    "https://lovingsquad.com/product/cuny-the-city-university-of-new-york-shirt/",
-    "https://lovingsquad.com/product/costa-rica-toucan-i-dont-wanna-waste-my-time-become-another-casualty-of-society-shirt/"
+    "https://lovingsquad.com/product/yes-im-painting-yes-this-is-my-real-job-it-is-for-sale-yes-i-have-seen-that-guy-on-tv-shirt/",
+    "https://lovingsquad.com/product/why-do-they-call-it-queer-eye-instead-of-homo-improvement-shirt/",
+    "https://lovingsquad.com/product/victory-monday-philadelphia-eagles-logo-sunday-game-shirt/",
+    "https://lovingsquad.com/product/university-of-oregon-ducks-quick-attack-go-ducks-autzen-stadium-shirt/",
+    "https://lovingsquad.com/product/university-of-arizona-wildcats-logo-shirt/",
+    "https://lovingsquad.com/product/university-of-arizona-wildcats-basketball-vintage-cactus-court-shirt/",
+    "https://lovingsquad.com/product/toronto-blue-jays-power-company-paul-molitor-joe-carter-john-olerud-signatures-shirt/",
+    "https://lovingsquad.com/product/tony-the-tigga-kelloggs-frosted-flakes-cereal-mascot-shirt/",
+    "https://lovingsquad.com/product/thomas-more-lacrosse-logo-of-thomas-more-university-shirt/",
+    "https://lovingsquad.com/product/texas-tech-red-raiders-university-athletics-logo-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/rothschilds-sewage-and-septic-sucking-services-distressed-est-1991-shirt/",
@@ -294,16 +286,15 @@
     "https://newshirtstore.com/product/yao-ming-money-houston-rockets-basketball-sitting-tall-sarcastic-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/wolf-trick-or-treat-smell-my-feet-halloween-shirt/",
-    "https://eteeclothing.com/product/wake-up-work-out-look-hot-be-a-mom-shirt/",
-    "https://eteeclothing.com/product/vladimir-guerrero-montreal-expos-gritty-shirt/",
-    "https://eteeclothing.com/product/turtle-i-didnt-just-turn-into-a-grouchy-old-woman-overnight-shirt/",
-    "https://eteeclothing.com/product/tom-herr-st-louis-cardinals-gritty-signature-shirt/",
-    "https://eteeclothing.com/product/tiffany-stratton-tiffy-time-gritty-shirt/",
-    "https://eteeclothing.com/product/the-riotz-gt-anime-shirt/",
-    "https://eteeclothing.com/product/terence-crawford-goat-us-signature-shirt/",
-    "https://eteeclothing.com/product/tampa-bay-buccaneers-50-seasons-of-the-krewe-parrot-shirt/",
-    "https://eteeclothing.com/product/tampa-bay-buccaneers-50-seasons-of-the-krewe-helmet-shirt/"
+    "https://eteeclothing.com/product/im-the-dollar-tree-witch-stitch-halloween-shirt/",
+    "https://eteeclothing.com/product/im-the-dairy-queen-witch-stitch-halloween-shirt/",
+    "https://eteeclothing.com/product/im-the-chipotle-mexican-grill-witch-stitch-halloween-shirt/",
+    "https://eteeclothing.com/product/i-dont-care-how-you-were-raised-unlearn-that-shit-text-shirt/",
+    "https://eteeclothing.com/product/32-years-1993-2025-jurassic-park-thank-you-for-the-memories-signatures-shirt/",
+    "https://eteeclothing.com/product/75th-anniversary-1950-2025-doak-campbell-stadium-the-house-that-bobby-built-shirt/",
+    "https://eteeclothing.com/product/green-bay-packers-105-seasons-curly-lambeau-and-legends-abbey-road-signatures-shirt/",
+    "https://eteeclothing.com/product/im-the-chilis-witch-stitch-halloween-shirt/",
+    "https://eteeclothing.com/product/ghouls-just-wanna-have-fundamental-rights-floral-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/official-these-foos-la-vice-shirt/",
