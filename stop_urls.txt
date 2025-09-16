@@ -224,28 +224,28 @@
     "https://melonashirt.com/product/official-hanz-driven-stay-driven-vancouver-hnz-drvn-shirts/"
   ],
   "dalatshirt.com": [
-    "https://dalatshirt.com/product/red-white-and-blueberries-t-shirts/",
-    "https://dalatshirt.com/product/shoot-it-we-get-paid-to-shoot-t-shirts/",
-    "https://dalatshirt.com/product/ring-of-honor-cincinnati-bengals-vs-jacksonville-jaguars-paul-brown-stadium-2021-vintage-t-shirts/",
-    "https://dalatshirt.com/product/skeleton-racing-sorry-im-late-i-was-crankin-my-hog-t-shirts-2/",
-    "https://dalatshirt.com/product/skeleton-extraordinary-life-is-too-short-there-are-too-young-things-to-do-it-is-time-to-race-t-shirts/",
-    "https://dalatshirt.com/product/skeleton-im-feeling-bonely-t-shirts/",
-    "https://dalatshirt.com/product/special-agent-zero-powerpuff-girls-t-shirts/",
-    "https://dalatshirt.com/product/sorry-you-had-a-bad-day-you-can-touch-my-tits-if-you-want-t-shirts/",
-    "https://dalatshirt.com/product/soldier-chance-of-rain-today-t-shirts/",
-    "https://dalatshirt.com/product/skull-warriors-1979-nyc-logo-t-shirts/"
+    "https://dalatshirt.com/product/20-years-together-t-shirts/",
+    "https://dalatshirt.com/product/americas-tribune-we-from-here-native-american-t-shirts/",
+    "https://dalatshirt.com/product/bane-mustangs-doodle-together-we-can-t-shirts/",
+    "https://dalatshirt.com/product/bob-belcher-okay-fine-but-im-gonna-complain-the-whole-time-t-shirts/",
+    "https://dalatshirt.com/product/brandon-boyd-incubus-t-shirts/",
+    "https://dalatshirt.com/product/camila-cabello-but-daddy-i-love-her-t-shirts/",
+    "https://dalatshirt.com/product/charlie-kirk-martyr-portrait-t-shirts/",
+    "https://dalatshirt.com/product/charlie-kirk-usa-freedom-t-shirts/",
+    "https://dalatshirt.com/product/chuck-norris-vs-bruce-lee-t-shirts/",
+    "https://dalatshirt.com/product/charlie-kirk-we-are-kirk-army-now-1993-2025-usa-flag-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/you-cant-sit-with-us-jack-skeleton-beetlejuice-and-edward-scissorhands-halloween-shirt/",
-    "https://lovingsquad.com/product/you-cant-silence-us-all-i-am-charlie-kirk-shirt/",
-    "https://lovingsquad.com/product/watercolor-stadium-the-university-of-alabama-shirt/",
-    "https://lovingsquad.com/product/vulfpeck-the-tender-defender-live-new-york-city-sept-13-2025-shirt/",
-    "https://lovingsquad.com/product/touchdown-american-football-game-day-shirt/",
-    "https://lovingsquad.com/product/this-is-the-turning-point-charlie-kirk-shirt/",
-    "https://lovingsquad.com/product/the-war-sugar-ray-leonard-vs-thomas-hearns-caesars-palace-1989-shirt/",
-    "https://lovingsquad.com/product/texas-is-the-reason-shirt/",
-    "https://lovingsquad.com/product/take-to-the-streets-and-see-the-truth-peace-logo-shirt/",
-    "https://lovingsquad.com/product/son-heung-min-lets-say-im-a-legend-tottenham-hotspur-fc-shirt/"
+    "https://lovingsquad.com/product/athletelogos-neon-surfing-polar-beart-shirt/",
+    "https://lovingsquad.com/product/ashton-jeanty-las-vegas-raiders-football-vintage-shirt/",
+    "https://lovingsquad.com/product/ashton-jeanty-las-vegas-football-vintage-style-shirt/",
+    "https://lovingsquad.com/product/art-the-clown-heart-hand-scary-horror-clown-shirt/",
+    "https://lovingsquad.com/product/angry-runs-detroit-lions-david-montgomery-shirt/",
+    "https://lovingsquad.com/product/alkaline-trio-2025-halloween-shirt/",
+    "https://lovingsquad.com/product/america-will-never-be-the-same-charlie-kirk-quote-shirt/",
+    "https://lovingsquad.com/product/all-death-can-do-to-the-believer-is-deliver-him-to-jesus-signature-flag-shirt/",
+    "https://lovingsquad.com/product/all-charlie-kirk-did-was-have-a-respectful-dialog-with-people-he-didnt-agree-with-shirt/",
+    "https://lovingsquad.com/product/6-or-9-were-all-having-fun-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/rothschilds-sewage-and-septic-sucking-services-distressed-est-1991-shirt/",
