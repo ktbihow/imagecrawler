@@ -176,11 +176,10 @@
     "https://capitoneshirt.com/product/goalie-work-hard-and-stay-humble-the-lord-strengthens-the-hand-of-diligent-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/interstellar-never-meant-to-die-here-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/always-a-saint-sometimes-a-sinner-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/terence-crawford-undisputed-champion-2025-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/oregon-ducks-shoe-duck-unstoppable-force-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/arrival-why-are-they-here-two-sided-t-shirt/"
+    "https://clickoneshirt.com/product/new-york-liberty-cartoon-mob-2025-mascot-shirt/",
+    "https://clickoneshirt.com/product/las-vegas-aces-raise-the-stakes-shirt/",
+    "https://clickoneshirt.com/product/amiration-lodge-25-annual-picnic-june-9th-2001-shirt/",
+    "https://clickoneshirt.com/product/bethpage-black-2025-ryder-cup-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/i-love-hit-t-shirts/",
