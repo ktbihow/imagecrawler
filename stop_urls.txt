@@ -241,16 +241,16 @@
     "https://lovingsquad.com/product/son-heung-min-lets-say-im-a-legend-tottenham-hotspur-fc-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/we-are-charlie-kirk-pray-for-you-great-american-patriot-cross-shirt/",
-    "https://designatshop.com/product/tyler-the-creator-like-him-do-i-look-like-him-how-could-i-miss-something-i-never-had-shirt/",
-    "https://designatshop.com/product/the-bronx-goes-savannah-bananas-new-york-yankees-the-stadium-september-13-and-14-2025-shirt/",
-    "https://designatshop.com/product/take-to-the-streets-and-see-the-truth-shirt/",
-    "https://designatshop.com/product/stitch-tongue-out-ive-talked-the-talk-and-walked-the-walk-now-at-my-age-im-just-gonna-shirt/",
-    "https://designatshop.com/product/stitch-bathrobe-im-getting-old-i-got-out-of-bed-and-had-chest-pains-i-looked-down-and-realized-shirt/",
-    "https://designatshop.com/product/spikky-squirrel-my-child-is-turning-out-just-like-me-well-played-karma-well-played-shirt/",
-    "https://designatshop.com/product/protecting-a-dead-guy-leftaro-art-shirt/",
-    "https://designatshop.com/product/salvador-perez-kansas-city-royals-mlb-baseball-300-homers-and-1000-rbi-1-salvy-perez-signature-shirt/",
-    "https://designatshop.com/product/poor-cat-hugging-a-foot-dont-go-i-feel-terrible-funny-shirt/"
+    "https://designatshop.com/product/skeleton-burning-i-know-now-why-you-lose-but-its-something-i-could-never-do-shirt/",
+    "https://designatshop.com/product/philadelphia-phillies-phantic-red-october-phillies-playoff-baseball-mlb-2025-shirt/",
+    "https://designatshop.com/product/philadelphia-phillies-nike-2025-national-league-east-division-champions-we-are-so-back-shirt/",
+    "https://designatshop.com/product/philadelphia-phillies-phantic-red-october-mlb-2025-shirt/",
+    "https://designatshop.com/product/philadelphia-phillies-national-league-east-champ-red-october-phillies-nation-mlb-2025-shirt/",
+    "https://designatshop.com/product/philadelphia-phillies-national-league-east-champ-red-october-mlb-2025-shirt/",
+    "https://designatshop.com/product/philadelphia-phillies-2025-national-league-east-division-champs-postseason-red-october-mlb-shirt/",
+    "https://designatshop.com/product/oasis-los-angeles-rose-bowl-stadium-live-25-world-tour-shirt/",
+    "https://designatshop.com/product/oasis-cover-face-mona-lisa-you-need-to-be-yourself-you-cant-be-no-one-else-shirt/",
+    "https://designatshop.com/product/justin-herbert-ladd-mcconkey-los-angeles-football-step-brothers-funny-shirt/"
   ],
   "arjomany.com": [
     "https://arjomany.com/product/michael-seyer-bug-dew-t-shirt/",
