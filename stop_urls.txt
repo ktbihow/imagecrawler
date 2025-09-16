@@ -12,13 +12,8 @@
     "https://geekteesus.com/product/nebraska-huskers-x-terence-crawford-2025-shirt/"
   ],
   "orionshirt.com": [
-    "https://orionshirt.com/product/official-poster-philadelphia-phillies-win-los-angeles-dodgers-2025-back-to-back-nl-east-division-champions-t-shirt/",
-    "https://orionshirt.com/product/official-philadelphia-phillies-b2b-back-to-back-2025-nl-east-division-champs-photos-t-shirt/",
-    "https://orionshirt.com/product/official-poster-philadelphia-phillies-mlb-2025-nl-east-division-back-to-back-national-league-east-division-titles-t-shirt/",
-    "https://orionshirt.com/product/official-fox-poster-philadelphia-phillies-win-los-angeles-dodgers-2025-national-league-east-division-t-shirt/",
-    "https://orionshirt.com/product/official-poster-philadelphia-phillies-win-los-angeles-dodgers-2025-nl-east-division-champs-postseason-t-shirt/",
-    "https://orionshirt.com/product/official-poster-jim-harbaugh-and-justin-herbert-los-angeles-chargers-2-0-start-graphic-t-shirt/",
-    "https://orionshirt.com/product/official-philadelphia-phillies-back-to-back-2025-mlb-national-league-east-division-champions-fan-gear-t-shirt/"
+    "https://orionshirt.com/product/official-philadelphia-phillies-2025-mlb-national-league-east-division-champions-fan-gear-logo-t-shirt/",
+    "https://orionshirt.com/product/official-philadelphia-phillies-2025-back-to-back-mlb-postseason-national-league-east-division-champions-fan-gear-logo-t-shirt/"
   ],
   "techteesusa.com": [
     "https://techteesusa.com/product/born-x-raised-kansas-city-chiefs-chiefs-kingdom-chrome-rocker-two-sided-shirt/",
