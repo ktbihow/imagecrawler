@@ -58,16 +58,15 @@
     "https://meredpremium.com/product/official-the-hitman-ricky-hatton-1978-2025-signature-t-shirt/"
   ],
   "berrylittles.com": [
-    "https://berrylittles.com/product/official-tennessee-titans-vs-los-angeles-rams-sunday-september-14-2025-home-opener-poster-t-shirt/",
-    "https://berrylittles.com/product/official-delaware-fightin-blue-hens-vs-connecticut-huskies-just-like-old-time-hens-win-september-13-2025-t-shirt/",
-    "https://berrylittles.com/product/official-poster-billy-strings-september-15-2025-ryman-auditorium-nashville-tn-t-shirt/",
-    "https://berrylittles.com/product/official-poster-billy-strings-and-bryan-sutton-with-royal-masat-event-september-14-2025-ryman-auditorium-nashville-tn-t-shirt/",
-    "https://berrylittles.com/product/official-scottie-scheffler-procore-championship-sixth-victory-this-season-pga-tour-2025-poster-t-shirt/",
-    "https://berrylittles.com/product/official-matt-rhule-terence-bud-crawford-nebraska-cornhuskers-football-ncaa-signature-t-shirt/",
-    "https://berrylittles.com/product/official-tnt-sports-are-saddened-to-learn-of-the-passing-of-ricky-hatton-1978-2025-poster-t-shirt/",
-    "https://berrylittles.com/product/official-wbo-are-deeply-saddened-by-the-passing-of-former-world-champion-ricky-hatton-1978-2025-poster-t-shirt/",
-    "https://berrylittles.com/product/official-boxing-king-media-are-heartbroken-to-share-the-news-that-ricky-hatton-the-hitman-1978-2025-poster-t-shirt/",
-    "https://berrylittles.com/product/official-2025-pll-us-bank-championship-new-york-atlas-locker-room-t-shirt/"
+    "https://berrylittles.com/product/official-espn-college-gameday-florida-gators-vs-miami-hurricanes-live-from-miami-fl-september-20-2025-helmet-t-shirt/",
+    "https://berrylittles.com/product/official-georgia-tech-yellow-jackets-football-whiteout-knockout-september-13-2025-24-21-t-shirt/",
+    "https://berrylittles.com/product/official-college-gameday-miami-hurricanes-live-from-miami-fl-september-20-2025-t-shirt/",
+    "https://berrylittles.com/product/official-salvador-perez-300-homers-1000-rbi-1-salvy-perez-kansas-city-royals-signature-t-shirt/",
+    "https://berrylittles.com/product/official-poster-alabama-shakes-mgm-music-hall-at-fenway-park-boston-ma-tour-september-15-2025-t-shirt/",
+    "https://berrylittles.com/product/official-poster-screeching-weasel-september-21-2025-chicago-il-in-riot-fest-2025-t-shirt/",
+    "https://berrylittles.com/product/official-new-york-giants-vs-dallas-cowboys-victory-monday-everythings-bigger-in-texas-even-our-giants-poster-t-shirt/",
+    "https://berrylittles.com/product/official-poster-eric-church-free-the-machine-tour-september-18-2025-xfinity-mobile-arena-tour-t-shirt/",
+    "https://berrylittles.com/product/official-espn-college-gameday-florida-gators-vs-miami-hurricanes-miami-fl-september-20-2025-t-shirt/"
   ],
   "dreameshirt.com": [
     "https://dreameshirt.com/product/official-pittsburgh-pirates-roberto-clemente-when-i-put-on-my-uniform-i-feel-i-am-the-proudest-man-on-earth-poster-t-shirt/",
@@ -89,16 +88,16 @@
     "https://teeextra.com/product/official-in-honor-of-charlie-kirk-faith-eternal-respect-equality-dedication-honor-memorial-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/milwaukee-brewers-nike-brew-crew-2025-mlb-postseason-t-shirt/",
-    "https://teespix.com/product/built-for-fall-philadelphia-phillies-nike-2025-mlb-postseason-t-shirt/",
-    "https://teespix.com/product/philadelphia-phillies-nike-red-october-2025-mlb-postseason-t-shirt/",
-    "https://teespix.com/product/ricky-hatton-the-hitman-1978-2025-t-shirt/",
-    "https://teespix.com/product/nebraska-football-x-crawford-2025-shirt/",
-    "https://teespix.com/product/i-am-charlie-retro-american-eagle-t-shirt/",
-    "https://teespix.com/product/matt-rhule-the-crawford-era-shirt/",
-    "https://teespix.com/product/charlie-kirk-great-american-patriot-usa-tribute-t-shirt/",
-    "https://teespix.com/product/thank-you-jerry-ringer-t-shirt/",
-    "https://teespix.com/product/jerry-cheesehead-thank-you-jerry-shirt/"
+    "https://teespix.com/product/tpusa-charlie-kirk-never-surrender-family-tribute-shirt/",
+    "https://teespix.com/product/tommy-castellanos-tommy-football-shirt/",
+    "https://teespix.com/product/the-farewell-season-1973-2025-shirt/",
+    "https://teespix.com/product/the-classiest-tailgate-in-pocket-shirt/",
+    "https://teespix.com/product/the-american-comeback-tour-usa-2025-charlie-kirk-shirt/",
+    "https://teespix.com/product/texas-is-the-reason-shows-in-garwood-nj-2025-shirt/",
+    "https://teespix.com/product/tantor-is-this-water-sanitary-retro-safari-distressed-disney-animal-kingdom-shirt/",
+    "https://teespix.com/product/so-youre-telling-me-theres-a-chance-shirt/",
+    "https://teespix.com/product/snoopy-and-woodstock-winter-snow-shirt/",
+    "https://teespix.com/product/snoopy-and-friends-winter-vintage-style-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/zavtracast-mandarin-summer-2015-shirt/",
@@ -137,16 +136,16 @@
     "https://fanaticity.com/product/charlie-kick-freedom-red-signature-red-1993-2025-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/vulfpeck-clarity-of-cal-t-shirt/",
-    "https://legendusashirt.com/product/sea-hear-now-festival-asbury-park-new-jersey-september-13-14-eye-lineup-t-shirt/",
-    "https://legendusashirt.com/product/sea-hear-now-festival-in-asbury-new-jersey-gig-on-september-13-14-2025-with-lineup-t-shirt/",
-    "https://legendusashirt.com/product/phish-birmingham-alabama-venue-at-coca-cola-amphitheater-on-september-13-and-14-2025-t-shirt/",
-    "https://legendusashirt.com/product/sea-hear-now-festival-2025-asbury-park-new-jersey-september-13-14-asbury-castle-lineup-t-shirt/",
-    "https://legendusashirt.com/product/eric-clapton-tour-september-2025-t-shirt/",
-    "https://legendusashirt.com/product/oasis-live-at-estadio-gnp-seguros-mexico-sep-12-2025-t-shirt/",
-    "https://legendusashirt.com/product/conan-gray-the-wishbone-pajama-show-2025-tour-schedule-dates-t-shirt/",
-    "https://legendusashirt.com/product/charlie-kirk-at-western-michigan-university-in-kalamazoo-t-shirt/",
-    "https://legendusashirt.com/product/conan-gray-the-wishbone-pajama-show-2025-cover-art-with-date-t-shirt/"
+    "https://legendusashirt.com/product/wyatt-flores-pepsi-amphitheater-in-flagstaff-az-september-16-2025-t-shirt/",
+    "https://legendusashirt.com/product/wyatt-flores-albuquerque-nm-2025-tour-t-shirt/",
+    "https://legendusashirt.com/product/wrestlepalooza-2025-john-cena-vs-brock-lesnar-t-shirt/",
+    "https://legendusashirt.com/product/vana-youll-get-what-you-deserve-tour-t-shirt/",
+    "https://legendusashirt.com/product/vana-tarot-card-t-shirt/",
+    "https://legendusashirt.com/product/tool-auckland-nz-22-november-2025-show-t-shirt/",
+    "https://legendusashirt.com/product/tennessee-titans-born-x-raised-titan-up-t-shirt/",
+    "https://legendusashirt.com/product/teenage-mutant-sketchy-streets-1990-t-shirt/",
+    "https://legendusashirt.com/product/teenage-mutant-ninja-turtles-this-is-no-cartoon-1990-t-shirt/",
+    "https://legendusashirt.com/product/soccer-mommy-september-16-2025-new-york-city-at-summerstage-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/no-revolution-without-womens-liberation-shirt/"
@@ -179,16 +178,11 @@
     "https://capitoneshirt.com/product/texas-rangers-back-to-october-2025-mlb-postseason-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/zavtracast-mandarin-summer-est-2015-shirt/",
-    "https://clickoneshirt.com/product/wnba-players-pay-them-what-you-owe-them-shirt/",
-    "https://clickoneshirt.com/product/wheres-the-wifi-death-gun-funny-meme-shirt/",
-    "https://clickoneshirt.com/product/what-happen-the-day-after-liberation-graphic-shirt/",
-    "https://clickoneshirt.com/product/west-virginia-vs-pittsburgh-panthers-football-backyard-brawl-champs-2025-shirt/",
-    "https://clickoneshirt.com/product/vulfpeck-the-tender-defender-new-york-city-shirt/",
-    "https://clickoneshirt.com/product/vladdy-shush-vladimir-guerrero-toronto-blue-jays-shirt/",
-    "https://clickoneshirt.com/product/usf-south-florida-bulls-football-march-victorious-neon-retro-shirt/",
-    "https://clickoneshirt.com/product/umoya-the-real-prechly-shirt/",
-    "https://clickoneshirt.com/product/tucker-kraft-green-bay-packers-football-tucker-round-and-find-out-signature-shirt/"
+    "https://clickoneshirt.com/product/interstellar-never-meant-to-die-here-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/always-a-saint-sometimes-a-sinner-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/terence-crawford-undisputed-champion-2025-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/oregon-ducks-shoe-duck-unstoppable-force-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/arrival-why-are-they-here-two-sided-t-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/i-love-hit-t-shirts/",
@@ -261,36 +255,43 @@
     "https://designatshop.com/product/snoopy-singer-oasis-live-25-vintage-shirt/"
   ],
   "arjomany.com": [
-    "https://arjomany.com/product/saba-pivot-the-big-picture-tour-eu-2026-poster/",
-    "https://arjomany.com/product/ben-kweller-november-22-2025-workplay-theater-birmingham-al-poster/",
-    "https://arjomany.com/product/ben-kweller-cover-the-mirors-tour-2025-poster/"
+    "https://arjomany.com/product/troye-sivan-rush-sports-co-95-t-shirt/",
+    "https://arjomany.com/product/troye-sivan-rush-silhouette-new-tee/",
+    "https://arjomany.com/product/saint-brown-the-sun-god-new-shirt/",
+    "https://arjomany.com/product/rush-sports-co-troye-sivan-tee/",
+    "https://arjomany.com/product/laufey-mr-eclectic-a-matter-of-time-tee/",
+    "https://arjomany.com/product/laufey-a-matter-of-time-tour-shirt/",
+    "https://arjomany.com/product/a-matter-of-time-tour-new-shirt/",
+    "https://arjomany.com/product/troye-sivan-photo-tee/",
+    "https://arjomany.com/product/troye-sivan-photo-new-shirt/",
+    "https://arjomany.com/product/this-is-our-turning-point-tee/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/nuovo-testamento-discoteca-italia-t-shirt/",
-    "https://collectionpostertour.com/product/nuovo-testamento-discoteca-italia-merch/",
-    "https://collectionpostertour.com/product/smerz-big-city-life-fall-tour-2025-poster/",
-    "https://collectionpostertour.com/product/poster-smerz-big-city-life-fall-2025/",
-    "https://collectionpostertour.com/product/poster-kevin-james-eat-the-frog-2026/",
-    "https://collectionpostertour.com/product/poster-ashnikko-smoochies-2026/",
-    "https://collectionpostertour.com/product/kevin-james-eat-the-frog-tour-2026-poster/",
-    "https://collectionpostertour.com/product/ashnikko-smoochies-tour-2026-poster/",
-    "https://collectionpostertour.com/product/mat-kearney-coming-home-t-shirt/",
-    "https://collectionpostertour.com/product/mat-kearney-coming-home-merch/"
+    "https://collectionpostertour.com/product/terence-bud-crawford-tbc-t-shirt/",
+    "https://collectionpostertour.com/product/terence-bud-crawford-tbc-merch/",
+    "https://collectionpostertour.com/product/seahearnow-eye-lineup-2025-t-shirt/",
+    "https://collectionpostertour.com/product/seahearnow-eye-lineup-2025-merch/",
+    "https://collectionpostertour.com/product/fishbone-stockholm-syndrome-t-shirt/",
+    "https://collectionpostertour.com/product/fishbone-stockholm-syndrome-merch/",
+    "https://collectionpostertour.com/product/crawford-the-champ-is-here-t-shirt/",
+    "https://collectionpostertour.com/product/crawford-the-champ-is-here-merch/",
+    "https://collectionpostertour.com/product/crawford-husker-collab-t-shirt/",
+    "https://collectionpostertour.com/product/crawford-husker-collab-merch/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/parkway-drive-kwas-20-year-anniversary-killing-with-a-smile-all-over-print-hoodie/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/xenos-in-space-no-one-can-hear-you-eat-bursting-with-flavors-alien-shirt/",
-    "https://newshirtstore.com/product/williams-and-hurts-alabama-crimson-tide-on-saturdays-philadelphia-eagles-on-sundays-shirt/",
-    "https://newshirtstore.com/product/wrestlepalooza-indianapolis-2025-premium-live-event-shirt/",
-    "https://newshirtstore.com/product/worrx-mega-hurts-t-shirt/",
-    "https://newshirtstore.com/product/wright-state-raiders-volleyball-logo-shirt/",
-    "https://newshirtstore.com/product/widespread-panic-bear-gone-fishing-shirt/",
-    "https://newshirtstore.com/product/wild-boar-howling-at-the-moon-shirt/",
-    "https://newshirtstore.com/product/whispers-l-hell-realm-sculpture-t-shirt/",
-    "https://newshirtstore.com/product/whataburger-hallothanksmas-grinch-shirt/",
-    "https://newshirtstore.com/product/wildcats-northwestern-soccer-ball-retro-shirt/"
+    "https://newshirtstore.com/product/devonta-smith-philadelphia-eagles-football-slim-reaper-inspired-comic-shirt/",
+    "https://newshirtstore.com/product/cubanito-glasses-cuba-flag-shirt/",
+    "https://newshirtstore.com/product/detroit-lions-mashup-detroit-tiger-logo-nfl-shirt/",
+    "https://newshirtstore.com/product/daja-boys-welcome-to-daja-stadium-baseball-shirt/",
+    "https://newshirtstore.com/product/chemie-leipzig-alfred-kunze-sportpark-shirt/",
+    "https://newshirtstore.com/product/cat-a-kiss-ass-can-only-kiss-so-much-ass-before-they-choke-on-shit-shirt/",
+    "https://newshirtstore.com/product/charlie-krik-red-hat-walking-with-jesus-assassination-great-american-patriot-shirt/",
+    "https://newshirtstore.com/product/dallas-cowboys-wins-week-2-nfl-shirt/",
+    "https://newshirtstore.com/product/buffalo-bills-helmet-football-nfl-vintage-style-gift-for-fan-shirt/",
+    "https://newshirtstore.com/product/charlie-kirk-rip-1993-2025-its-all-about-jesus-memorial-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/you-only-live-once-but-if-you-do-it-right-once-is-enough-shirt/",
