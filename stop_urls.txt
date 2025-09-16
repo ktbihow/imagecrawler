@@ -27,15 +27,16 @@
     "https://techteesusa.com/product/ireland-bound-iowa-state-cyclones-football-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/if-meanie-wins-we-dance-shirt/",
-    "https://teeworksusa.com/product/houston-streetz-flava-shirt/",
-    "https://teeworksusa.com/product/here-we-go-cleveland-here-we-go-woof-fooe-cle-shirt/",
-    "https://teeworksusa.com/product/have-some-fa17h-next-time-buffalo-bills-shirt/",
-    "https://teeworksusa.com/product/happiness-pumpkin-family-smile-shirt/",
-    "https://teeworksusa.com/product/hamby-hollywood-plum-wnba-basketball-player-shirt/",
-    "https://teeworksusa.com/product/gotta-pick-it-up-the-challenge-shirt/",
-    "https://teeworksusa.com/product/georgia-bulldogs-smoked-dawgs-mascot-shirt/",
-    "https://teeworksusa.com/product/freedom-is-not-free-it-must-be-fought-for-and-defended-charlie-kirk-1993-2025-shirt/"
+    "https://teeworksusa.com/product/wtf-wheres-the-fish-funny-fishing-shirt/",
+    "https://teeworksusa.com/product/we-are-charlie-american-flag-shirt/",
+    "https://teeworksusa.com/product/southern-rock-legend-freebird-forever-shirt/",
+    "https://teeworksusa.com/product/so-youre-telling-me-theres-a-chance-cincy-football-meme-shirt/",
+    "https://teeworksusa.com/product/slap-shot-hanson-brothers-shirt/",
+    "https://teeworksusa.com/product/premier-league-club-fulham-antonee-robinson-shirt/",
+    "https://teeworksusa.com/product/no-diggity-bout-to-bag-it-up-halloween-shirt/",
+    "https://teeworksusa.com/product/kingdom-over-culture-letter-shirt/",
+    "https://teeworksusa.com/product/its-rainbow-time-shirt/",
+    "https://teeworksusa.com/product/healing-children-and-veterans-diego-ranch-horse-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-wisconsin-snoopy-fist-bump-charlie-brown-badgers-and-packers-shirt/",
@@ -73,16 +74,16 @@
     "https://dreameshirt.com/product/official-philadelphia-phillies-2025-mlb-national-league-east-division-champions-fan-gear-logo-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-wnba-players-pay-them-what-you-owe-them-shirt/",
-    "https://teeextra.com/product/official-west-virginia-football-backyard-brawl-champs-shirt/",
-    "https://teeextra.com/product/official-wesley-schultz-wearing-billy-joel-shirt/",
-    "https://teeextra.com/product/official-we-are-all-now-charlie-kirk-strong-lets-roll-shirt/",
-    "https://teeextra.com/product/official-uri-kurlianchik-they-killed-all-the-nice-jews-were-whats-left-shirt/",
-    "https://teeextra.com/product/official-this-is-our-turning-point-charlie-kirk-shirt/",
-    "https://teeextra.com/product/official-thank-you-charlie-kirk-31-a-true-patriot-1993-2025-signature-shirt/",
-    "https://teeextra.com/product/official-thank-you-charlie-a-true-patriot-31-shirt/",
-    "https://teeextra.com/product/official-rememberence-patriot-rest-in-peace-charlie-kirk-shirt/",
-    "https://teeextra.com/product/official-prove-me-wrong-2025-justice-for-charlie-kirk-shirt/"
+    "https://teeextra.com/product/official-wyatt-flores-albuquerque-nm-concert-september-17-2025-shirt/",
+    "https://teeextra.com/product/official-why-do-they-call-it-queer-eye-instead-of-homo-improvement-shirt/",
+    "https://teeextra.com/product/official-this-is-pitbull-yasushi-takagi-shirt/",
+    "https://teeextra.com/product/official-soccer-mommy-summerstage-in-central-park-september-16-2025-concert-shirt/",
+    "https://teeextra.com/product/official-smerz-big-city-life-fall-tour-2025-shirt/",
+    "https://teeextra.com/product/official-pittsburgh-steelers-tour-50th-anniversary-the-terrible-towel-sept-oct-2025-shirt/",
+    "https://teeextra.com/product/official-patty-cake-man-shirt/",
+    "https://teeextra.com/product/official-orange-madrox-the-great-skull-green-skull-halloween-shirt/",
+    "https://teeextra.com/product/official-one-love-boomer-shirt/",
+    "https://teeextra.com/product/official-obie-mascot-massillon-tigers-x-breast-cancer-awareness-clawing-our-way-to-a-cure-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/tpusa-charlie-kirk-never-surrender-family-tribute-shirt/",
@@ -109,16 +110,9 @@
     "https://nowbestshirt.com/product/official-girl-power-kc-current-shirt/"
   ],
   "serenashirt.com": [
-    "https://serenashirt.com/product/charlies-legacy-live-on-shirt/",
-    "https://serenashirt.com/product/i-yearn-for-noodles-ferret-shirt/",
-    "https://serenashirt.com/product/charlie-kirk-never-give-up-never-surrender-always-go-for-the-win-shirt/",
-    "https://serenashirt.com/product/known-homosexual-shirt/",
-    "https://serenashirt.com/product/james-and-the-giant-peach-shirt/",
-    "https://serenashirt.com/product/first-i-bang-a-drum-then-i-bang-you-shirt/",
-    "https://serenashirt.com/product/start-by-starting-shirt/",
-    "https://serenashirt.com/product/i-have-never-seen-a-vagina-shirt/",
-    "https://serenashirt.com/product/have-a-killer-day-shirt/",
-    "https://serenashirt.com/product/i-just-want-some-cheese-quiet-shirt/"
+    "https://serenashirt.com/product/quit-your-job-go-on-tour-bang-a-wook-shirt/",
+    "https://serenashirt.com/product/sonia-citron-22-washington-mystics-wnba-elite-shirt/",
+    "https://serenashirt.com/product/satou-sabally-0-phoenix-mercury-wnba-elite-shirt/"
   ],
   "fanaticity.com": [
     "https://fanaticity.com/product/aja-riyadh-wilson-las-vegas-aces-signature-shirt/",
