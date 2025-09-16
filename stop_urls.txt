@@ -12,8 +12,7 @@
     "https://geekteesus.com/product/nebraska-huskers-x-terence-crawford-2025-shirt/"
   ],
   "orionshirt.com": [
-    "https://orionshirt.com/product/official-philadelphia-phillies-2025-mlb-national-league-east-division-champions-fan-gear-logo-t-shirt/",
-    "https://orionshirt.com/product/official-philadelphia-phillies-2025-back-to-back-mlb-postseason-national-league-east-division-champions-fan-gear-logo-t-shirt/"
+    "https://orionshirt.com/product/official-chiefs-kingdom-kansas-city-chiefs-born-x-raised-2025-nfl-football-fan-gear-t-shirt/"
   ],
   "techteesusa.com": [
     "https://techteesusa.com/product/born-x-raised-kansas-city-chiefs-chiefs-kingdom-chrome-rocker-two-sided-shirt/",
@@ -281,16 +280,11 @@
     "https://neoteeco.com/product/parkway-drive-kwas-20-year-anniversary-killing-with-a-smile-all-over-print-hoodie/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/welcome-to-the-denton-desert-shirt-2/",
-    "https://newshirtstore.com/product/west-towson-loves-the-ravens-mascots-shirt/",
-    "https://newshirtstore.com/product/word-to-your-mummy-halloween-shirt/",
-    "https://newshirtstore.com/product/we-are-all-charlie-kirk-great-american-patriot-shirt/",
-    "https://newshirtstore.com/product/vampire-love-bites-kiss-cam-parody-halloween-shirt/",
-    "https://newshirtstore.com/product/x-files-the-truth-is-out-there-ufo-conspiracy-t-shirt/",
-    "https://newshirtstore.com/product/well-done-good-and-faithful-servant-1993-2025-shirt/",
-    "https://newshirtstore.com/product/trick-or-tacos-halloween-shirt/",
-    "https://newshirtstore.com/product/wait-im-goated-shirt/",
-    "https://newshirtstore.com/product/trump-zombie-make-halloween-great-again-shirt/"
+    "https://newshirtstore.com/product/you-aint-getting-shit-ugly-holiday-christmas-t-shirt/",
+    "https://newshirtstore.com/product/you-will-pay-thats-all-earth-gave-you-shirt/",
+    "https://newshirtstore.com/product/yoda-its-officially-wear-a-sweater-in-the-morning-shirt/",
+    "https://newshirtstore.com/product/yoda-ive-talked-the-talk-and-walked-the-walk-shirt/",
+    "https://newshirtstore.com/product/yao-ming-money-houston-rockets-basketball-sitting-tall-sarcastic-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/wnba-playoffs-2025-do-it-for-the-atlanta-dream-2-sided-t-shirt/",
