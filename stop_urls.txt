@@ -236,16 +236,16 @@
     "https://dalatshirt.com/product/charlie-kirk-we-are-kirk-army-now-1993-2025-usa-flag-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/athletelogos-neon-surfing-polar-beart-shirt/",
-    "https://lovingsquad.com/product/ashton-jeanty-las-vegas-raiders-football-vintage-shirt/",
-    "https://lovingsquad.com/product/ashton-jeanty-las-vegas-football-vintage-style-shirt/",
-    "https://lovingsquad.com/product/art-the-clown-heart-hand-scary-horror-clown-shirt/",
-    "https://lovingsquad.com/product/angry-runs-detroit-lions-david-montgomery-shirt/",
-    "https://lovingsquad.com/product/alkaline-trio-2025-halloween-shirt/",
-    "https://lovingsquad.com/product/america-will-never-be-the-same-charlie-kirk-quote-shirt/",
-    "https://lovingsquad.com/product/all-death-can-do-to-the-believer-is-deliver-him-to-jesus-signature-flag-shirt/",
-    "https://lovingsquad.com/product/all-charlie-kirk-did-was-have-a-respectful-dialog-with-people-he-didnt-agree-with-shirt/",
-    "https://lovingsquad.com/product/6-or-9-were-all-having-fun-shirt/"
+    "https://lovingsquad.com/product/you-dont-know-a-die-hard-fan-until-you-meet-a-bills-fan-shirt/",
+    "https://lovingsquad.com/product/wnba-official-golden-state-valkyries-2025-playoffs-worlds-shirt/",
+    "https://lovingsquad.com/product/wnba-official-atlanta-dream-2025-playoffs-worlds-collide-shirt/",
+    "https://lovingsquad.com/product/wings-of-fire-dragon-circle-shirt/",
+    "https://lovingsquad.com/product/when-the-national-guard-arrives-the-crime-dies-shirt/",
+    "https://lovingsquad.com/product/we-are-charlies-2025-shirt/",
+    "https://lovingsquad.com/product/we-are-all-charlie-kirk-retro-shirt/",
+    "https://lovingsquad.com/product/walker-jenkins-minnesota-twins-twin-city-star-shirt/",
+    "https://lovingsquad.com/product/vote-dan-bauer-elks-trustee-shirt/",
+    "https://lovingsquad.com/product/universal-studios-halloween-horror-nights-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/rothschilds-sewage-and-septic-sucking-services-distressed-est-1991-shirt/",
