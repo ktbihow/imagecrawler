@@ -27,16 +27,16 @@
     "https://techteesusa.com/product/ireland-bound-iowa-state-cyclones-football-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/who-shot-ya-the-2nd-amendment-shirt/",
-    "https://teeworksusa.com/product/we-won-the-fuck1ng-game-shirt/",
-    "https://teeworksusa.com/product/turnstile-band-color-wall-2025-shirt/",
-    "https://teeworksusa.com/product/turnstile-band-blue-star-sept-2025-tour-shirt/",
-    "https://teeworksusa.com/product/turnstile-band-birds-painting-sept-2025-tour-shirt/",
-    "https://teeworksusa.com/product/tricolore-and-forza-buffalo-bills-shirt/",
-    "https://teeworksusa.com/product/torontos-power-company-molitor-carter-olerud-shirt/",
-    "https://teeworksusa.com/product/tootsie-pops-world-tour-shirt/",
-    "https://teeworksusa.com/product/this-is-our-turning-point-charlie-kirk-shirt/",
-    "https://teeworksusa.com/product/the-golden-girls-venus-fly-trap-shirt/"
+    "https://teeworksusa.com/product/cincinnati-bengals-and-jacksonville-jaguars-ring-of-honor-september-30-2021-shirt/",
+    "https://teeworksusa.com/product/chiefs-kingdom-shirt/",
+    "https://teeworksusa.com/product/chiefs-free-4-rashee-rice-shirt/",
+    "https://teeworksusa.com/product/cantlay-ryder-cup-shirt/",
+    "https://teeworksusa.com/product/bryson-ryder-cup-shirt/",
+    "https://teeworksusa.com/product/bryce-eldridge-swing-baseball-shirt/",
+    "https://teeworksusa.com/product/brandon-aubrey-dallas-americas-favorite-kicker-shirt/",
+    "https://teeworksusa.com/product/blanche-im-the-beauty-shirt/",
+    "https://teeworksusa.com/product/bee-the-change-salt-lake-dsa-shirt/",
+    "https://teeworksusa.com/product/barkley-the-cockroach-stomper-comic-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-wisconsin-snoopy-fist-bump-charlie-brown-badgers-and-packers-shirt/",
@@ -154,16 +154,16 @@
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/original-yes-officer-i-saw-the-speed-limit-i-just-didnt-see-you-t-shirts/",
-    "https://uscraftedtees.com/product/original-uri-kurlianchik-they-killed-all-the-nice-jews-were-whats-left-t-shirts/",
-    "https://uscraftedtees.com/product/original-vulfpeck-tender-defender-new-york-city-sept-13-2025-t-shirts/",
-    "https://uscraftedtees.com/product/original-salt-n-pepa-2025-t-shirts/",
-    "https://uscraftedtees.com/product/original-re-signed-josh-papalii-canberra-raiders-club-t-shirts/",
-    "https://uscraftedtees.com/product/original-pizza-dont-be-a-dummy-cum-on-her-tummy-t-shirts/",
-    "https://uscraftedtees.com/product/original-pardon-my-take-lloyd-christmas-so-youre-telling-me-theres-a-chance-t-shirts/",
-    "https://uscraftedtees.com/product/original-ohio-100-years-of-bobcats-since-1925-ohio-state-bobcats-t-shirts/",
-    "https://uscraftedtees.com/product/original-inktastic-resting-witch-data-2025-t-shirts/",
-    "https://uscraftedtees.com/product/original-judge-me-when-youre-perfect-otherwise-shut-up-t-shirts/"
+    "https://uscraftedtees.com/product/official-leftover-salmon-tigre-island-room-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-nicky-diamonds-2025-texas-tour-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-kula-shaker-tour-2025-september-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-eric-church-td-garden-boston-ma-sep-19-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-dogs-in-a-pile-9-15-9-16-2025-pappy-harriets-in-pioneertown-ca-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-deafheaven-sep-22-2025-asheville-nc-the-orange-peel-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-bela-lugosi-2025-david-manners-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-chaparelle-the-chapel-san-francisco-ca-event-sept-20-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-alabama-shakes-sep-15-2025-the-mgm-music-hall-at-fenway-in-boston-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-borderland-2025-east-aurora-sept-14-2025-new-york-poster-t-shirts/"
   ],
   "capitoneshirt.com": [
     "https://capitoneshirt.com/product/usa-liberty-or-death-dont-tread-on-me-shirt/",
