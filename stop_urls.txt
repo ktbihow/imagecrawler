@@ -147,16 +147,8 @@
     "https://legendusashirt.com/product/soccer-mommy-september-16-2025-new-york-city-at-summerstage-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/yes-im-old-but-i-saw-ravens-greatness-players-signatures-shirt/",
-    "https://teehandus.com/product/yes-i-support-blm-ling-ling-money-shirt/",
-    "https://teehandus.com/product/whitman-school-of-management-alumini-syracuse-university-shirt/",
-    "https://teehandus.com/product/warrior-queen-boudica-shirt/",
-    "https://teehandus.com/product/warning-this-person-has-a-dirty-mind-everything-you-say-can-shirt/",
-    "https://teehandus.com/product/walter-clayton-jr-utah-jazz-shirt/",
-    "https://teehandus.com/product/walk-a-mile-then-speak-shirt/",
-    "https://teehandus.com/product/tweet-into-existence-shirt/",
-    "https://teehandus.com/product/trump-nope-not-my-president-not-my-emperor-shirt/",
-    "https://teehandus.com/product/torontos-power-company-molitor-carter-olerud-vintage-shirt/"
+    "https://teehandus.com/product/zach-bryan-michigan-wolverines-the-quittin-time-tour-2025-2-sided-shirt/",
+    "https://teehandus.com/product/yes-im-old-but-i-saw-ravens-greatness-players-super-bowl-vii-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -174,16 +166,16 @@
     "https://uscraftedtees.com/product/original-judge-me-when-youre-perfect-otherwise-shut-up-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/toronto-blue-jays-win-october-2025-mlb-postseason-shirt/",
-    "https://capitoneshirt.com/product/toronto-blue-jays-dominate-october-2025-mlb-postseason-shirt/",
-    "https://capitoneshirt.com/product/toronto-blue-jays-conquer-october-2025-mlb-postseason-shirt/",
-    "https://capitoneshirt.com/product/toronto-blue-jays-back-to-october-2025-mlb-postseason-shirt/",
-    "https://capitoneshirt.com/product/toronto-blue-jays-2025-mlb-postseason-own-october-shirt/",
-    "https://capitoneshirt.com/product/toronto-blue-jays-2025-choke-in-october-mlb-postseason-shirt/",
-    "https://capitoneshirt.com/product/texas-rangers-win-october-2025-mlb-postseason-shirt/",
-    "https://capitoneshirt.com/product/texas-rangers-dominate-october-2025-mlb-postseason-shirt/",
-    "https://capitoneshirt.com/product/texas-rangers-conquer-october-2025-mlb-postseason-shirt/",
-    "https://capitoneshirt.com/product/texas-rangers-back-to-october-2025-mlb-postseason-shirt/"
+    "https://capitoneshirt.com/product/your-being-manipulated-vote-zoe-cross-shirt/",
+    "https://capitoneshirt.com/product/surfing-usa-flag-hockey-shirt/",
+    "https://capitoneshirt.com/product/skater-video-game-star-shirt/",
+    "https://capitoneshirt.com/product/shes-electric-shes-in-a-family-full-of-eccentrics-shirt/",
+    "https://capitoneshirt.com/product/orange-pacman-trump-eating-blue-bye-bye-blue-shirt/",
+    "https://capitoneshirt.com/product/ice-cream-cone-hockey-shirt/",
+    "https://capitoneshirt.com/product/hockey-hot-dog-days-of-summer-shirt/",
+    "https://capitoneshirt.com/product/cowboy-hockey-stick-ride-the-bull-shirt/",
+    "https://capitoneshirt.com/product/hockey-goalie-video-game-star-shirt/",
+    "https://capitoneshirt.com/product/goalie-work-hard-and-stay-humble-the-lord-strengthens-the-hand-of-diligent-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/interstellar-never-meant-to-die-here-two-sided-t-shirt/",
@@ -290,28 +282,28 @@
     "https://neoteeco.com/product/parkway-drive-kwas-20-year-anniversary-killing-with-a-smile-all-over-print-hoodie/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/you-cant-sit-with-us-jack-skeleton-beetlejuice-and-edward-scissorhands-halloween-shirt/",
-    "https://newshirtstore.com/product/usf-south-florida-bulls-football-march-victorious-neon-retro-shirt/",
-    "https://newshirtstore.com/product/wheres-the-wifi-death-gun-funny-meme-shirt/",
-    "https://newshirtstore.com/product/touchdown-american-football-game-day-shirt/",
-    "https://newshirtstore.com/product/veronika-kudermetova-retro-tennis-shirt/",
-    "https://newshirtstore.com/product/unicorn-you-cant-fix-stupid-but-you-can-numb-it-with-a-2x4-shirt/",
-    "https://newshirtstore.com/product/wnba-players-pay-them-what-you-owe-them-shirt/",
-    "https://newshirtstore.com/product/west-virginia-mountaineers-football-rich-rodriguez-take-me-home-shirt/",
-    "https://newshirtstore.com/product/unblock-me-barry-shirt/",
-    "https://newshirtstore.com/product/the-catfather-if-you-disrespect-my-cat-you-disrespect-my-whole-family-shirt/"
+    "https://newshirtstore.com/product/ghost-excavator-construction-halloween-shirt/",
+    "https://newshirtstore.com/product/freedom-in-america-flag-shirt/",
+    "https://newshirtstore.com/product/ghost-thats-not-a-costume-kiss-cam-halloween-shirt/",
+    "https://newshirtstore.com/product/gnome-backseat-lovers-shirt/",
+    "https://newshirtstore.com/product/freedom-charlie-krik-never-dies-great-america-patriotic-shirt/",
+    "https://newshirtstore.com/product/fire-mcdaniel-shirt/",
+    "https://newshirtstore.com/product/foo-fighters-sept-15-2025-santa-ana-california-poster-shirt/",
+    "https://newshirtstore.com/product/eagle-i-may-be-old-but-i-got-to-see-the-usa-before-it-went-to-shit-shirt/",
+    "https://newshirtstore.com/product/frankenstein-monster-is-this-a-joke-kiss-cam-halloween-shirt/",
+    "https://newshirtstore.com/product/embearassing-graphic-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/2025-texas-tech-red-raiders-lubbock-texas-shirt/",
-    "https://eteeclothing.com/product/addie-lyon-penn-state-womens-volleyball-illustrated-shirt/",
-    "https://eteeclothing.com/product/2025-wnba-playoffs-do-it-for-the-atlanta-dream-logo-2-sided-t-shirt/",
-    "https://eteeclothing.com/product/2025-wnba-playoffs-las-vegas-aces-raise-the-stakes-2-sided-t-shirt/",
-    "https://eteeclothing.com/product/2025-wnba-playoffs-las-vegas-aces-raise-the-stakes-logo-2-sided-t-shirt/",
-    "https://eteeclothing.com/product/zack-wheeler-philadelphia-phillies-gritty-signature-shirt/",
-    "https://eteeclothing.com/product/yutani-corporation-sci-fi-parody-logo-shirt/",
-    "https://eteeclothing.com/product/you-know-its-bad-when-introverts-protest-shirt/",
-    "https://eteeclothing.com/product/yes-im-old-but-i-saw-miami-dolphins-legends-perfect-season-signatures-shirt/",
-    "https://eteeclothing.com/product/worst-person-you-know-shirt/"
+    "https://eteeclothing.com/product/wnba-playoffs-2025-do-it-for-the-atlanta-dream-2-sided-t-shirt/",
+    "https://eteeclothing.com/product/why-do-they-call-it-queer-eye-instead-of-homo-improvement-shirt/",
+    "https://eteeclothing.com/product/this-is-the-turning-point-charlie-kirk-fist-us-flag-shirt/",
+    "https://eteeclothing.com/product/super-captain-autism-shirt/",
+    "https://eteeclothing.com/product/straight-roads-are-for-quitters-round-about-capitol-of-the-world-shirt/",
+    "https://eteeclothing.com/product/stay-happy-stay-proud-stay-ohioan-wherever-you-are-shirt/",
+    "https://eteeclothing.com/product/sloth-slow-sundays-rest-and-relax-book-club-shirt/",
+    "https://eteeclothing.com/product/sarah-morton-colorado-buffaloes-women-volleyball-illustrated-shirt/",
+    "https://eteeclothing.com/product/playa-society-x-cash-app-x-atlanta-dream-pay-some-respect-2-sided-t-shirt/",
+    "https://eteeclothing.com/product/ohio-yall-cowboy-hat-icon-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/official-these-foos-la-vice-shirt/",
