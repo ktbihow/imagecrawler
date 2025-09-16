@@ -46,10 +46,7 @@
     "https://teeworksusa.com/product/freedom-is-not-free-it-must-be-fought-for-and-defended-charlie-kirk-1993-2025-shirt/"
   ],
   "meredpremium.com": [
-    "https://meredpremium.com/product/official-philadelphia-phillies-2025-nl-east-division-champions-locker-room-t-shirt/",
-    "https://meredpremium.com/product/official-nike-we-are-phillies-so-back-2025-nl-east-champions-phillies-t-shirt/",
-    "https://meredpremium.com/product/official-division-champs-2025-nl-east-phillies-postseason-t-shirt/",
-    "https://meredpremium.com/product/official-philadelphia-phillies-nike-2025-nl-east-division-champions-t-shirt/"
+    "https://meredpremium.com/product/official-american-comeback-tour-justice-for-charlie-kirk-shirt/"
   ],
   "berrylittles.com": [
     "https://berrylittles.com/product/official-espn-college-gameday-florida-gators-vs-miami-hurricanes-live-from-miami-fl-september-20-2025-helmet-t-shirt/",
@@ -267,31 +264,31 @@
     "https://arjomany.com/product/this-is-our-turning-point-tee/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/terence-bud-crawford-tbc-t-shirt/",
-    "https://collectionpostertour.com/product/terence-bud-crawford-tbc-merch/",
-    "https://collectionpostertour.com/product/seahearnow-eye-lineup-2025-t-shirt/",
-    "https://collectionpostertour.com/product/seahearnow-eye-lineup-2025-merch/",
-    "https://collectionpostertour.com/product/fishbone-stockholm-syndrome-t-shirt/",
-    "https://collectionpostertour.com/product/fishbone-stockholm-syndrome-merch/",
-    "https://collectionpostertour.com/product/crawford-the-champ-is-here-t-shirt/",
-    "https://collectionpostertour.com/product/crawford-the-champ-is-here-merch/",
-    "https://collectionpostertour.com/product/crawford-husker-collab-t-shirt/",
-    "https://collectionpostertour.com/product/crawford-husker-collab-merch/"
+    "https://collectionpostertour.com/product/valuetainment-future-looks-bright-t-shirt/",
+    "https://collectionpostertour.com/product/valuetainment-future-looks-bright-merch/",
+    "https://collectionpostertour.com/product/valuetainment-angry-patriot-t-shirt/",
+    "https://collectionpostertour.com/product/valuetainment-angry-patriot-merch/",
+    "https://collectionpostertour.com/product/valuetainment-allegedly-t-shirt/",
+    "https://collectionpostertour.com/product/valuetainment-allegedly-merch/",
+    "https://collectionpostertour.com/product/taylor-swift-the-life-of-a-showgirl-t-shirt/",
+    "https://collectionpostertour.com/product/taylor-swift-spotify-fans-t-shirt/",
+    "https://collectionpostertour.com/product/real-men-listen-to-laufey-t-shirt/",
+    "https://collectionpostertour.com/product/real-men-listen-to-laufey-merch/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/parkway-drive-kwas-20-year-anniversary-killing-with-a-smile-all-over-print-hoodie/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/ghost-excavator-construction-halloween-shirt/",
-    "https://newshirtstore.com/product/freedom-in-america-flag-shirt/",
-    "https://newshirtstore.com/product/ghost-thats-not-a-costume-kiss-cam-halloween-shirt/",
-    "https://newshirtstore.com/product/gnome-backseat-lovers-shirt/",
-    "https://newshirtstore.com/product/freedom-charlie-krik-never-dies-great-america-patriotic-shirt/",
-    "https://newshirtstore.com/product/fire-mcdaniel-shirt/",
-    "https://newshirtstore.com/product/foo-fighters-sept-15-2025-santa-ana-california-poster-shirt/",
-    "https://newshirtstore.com/product/eagle-i-may-be-old-but-i-got-to-see-the-usa-before-it-went-to-shit-shirt/",
-    "https://newshirtstore.com/product/frankenstein-monster-is-this-a-joke-kiss-cam-halloween-shirt/",
-    "https://newshirtstore.com/product/embearassing-graphic-shirt/"
+    "https://newshirtstore.com/product/patriotic-pride-freedom-american-flag-shirt/",
+    "https://newshirtstore.com/product/phases-of-tricky-shirt/",
+    "https://newshirtstore.com/product/minnesota-this-years-our-year-hope-springs-eternal-shirt/",
+    "https://newshirtstore.com/product/peanuts-characters-and-rutgers-university-flag-shirt/",
+    "https://newshirtstore.com/product/night-of-horrors-not-for-the-faint-of-heart-shirt/",
+    "https://newshirtstore.com/product/mickey-muse-band-funny-cartoon-shirt/",
+    "https://newshirtstore.com/product/m-wazowski-monsters-inc-we-scare-because-we-care-shirt/",
+    "https://newshirtstore.com/product/new-england-patriots-win-lose-or-die-i-am-a-patriots-fan-till-i-die-shirt/",
+    "https://newshirtstore.com/product/mickey-and-friends-merry-christmas-ornaments-snowflakes-shirt/",
+    "https://newshirtstore.com/product/mango-pablo-creeper-femboy-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/wnba-playoffs-2025-do-it-for-the-atlanta-dream-2-sided-t-shirt/",
