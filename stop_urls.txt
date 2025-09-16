@@ -213,16 +213,16 @@
     "https://teeslocal.com/product/detroit-lions-mashup-detroit-tiger-logo-nfl-shirt/"
   ],
   "melonashirt.com": [
-    "https://melonashirt.com/product/official-vulfpeck-sep-13-2025-madison-square-garden-new-york-ny-sept-13-2025-shirts/",
-    "https://melonashirt.com/product/official-uri-kurlianchik-they-killed-all-the-nice-jews-were-whats-left-shirts/",
-    "https://melonashirt.com/product/official-umoya-the-real-prechly-ft-imor-art-thama-tee-and-under-p-shirts/",
-    "https://melonashirt.com/product/official-turning-point-forever-1993-2025-rip-charlie-shirts-2/",
-    "https://melonashirt.com/product/official-triple-boss-make-heaven-crowded-shirts/",
-    "https://melonashirt.com/product/official-this-is-our-turning-point-charlie-kirk-9-10-2025-shirts/",
-    "https://melonashirt.com/product/official-the-cries-of-this-window-will-echo-around-the-world-like-a-battle-cry-erika-kirk-shirts/",
-    "https://melonashirt.com/product/official-so-youre-telling-me-theres-a-chance-cincy-football-i-like-it-un-lot-shirts/",
-    "https://melonashirt.com/product/official-salt-n-pepa-shirts/",
-    "https://melonashirt.com/product/official-oasis-mexico-fox-shirts/"
+    "https://melonashirt.com/product/official-slick-stevie-poor-mans-yacht-club-floridas-least-exclusive-yacht-club-bradenton-florida-shirts/",
+    "https://melonashirt.com/product/official-marshmello-half-helmet-shirts/",
+    "https://melonashirt.com/product/official-madison-cunningham-coming-back-shirts/",
+    "https://melonashirt.com/product/official-le-mans-hanzd-riven-racing-shirts/",
+    "https://melonashirt.com/product/official-kentucky-the-bluegrass-state-deer-shirts/",
+    "https://melonashirt.com/product/official-jennie-summer-back-to-school-shirts/",
+    "https://melonashirt.com/product/official-jasper-beer-hug-albeerta-shirts/",
+    "https://melonashirt.com/product/official-i-say-no-to-sin-shirts/",
+    "https://melonashirt.com/product/official-hong-kong-diecast-paradise-hanz-driven-shirts/",
+    "https://melonashirt.com/product/official-hanz-driven-stay-driven-vancouver-hnz-drvn-shirts/"
   ],
   "dalatshirt.com": [
     "https://dalatshirt.com/product/atlanta-varsity-fox-not-really-meant-for-the-public-t-shirts/",
@@ -273,16 +273,16 @@
     "https://arjomany.com/product/eric-church-sept-20-2025-brooklyn-ny-poster/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/alabama-shakes-september-15-2025-boston-ma-concert-poster/",
-    "https://collectionpostertour.com/product/alabama-shakes-mgm-music-hall-at-fenway-september-15-2025-concert-poster/",
-    "https://collectionpostertour.com/product/the-weeknd-after-hours-photo-t-shirt/",
-    "https://collectionpostertour.com/product/the-weeknd-after-hours-photo-merch/",
-    "https://collectionpostertour.com/product/red-clay-strays-september-15-2025-red-rocks-amphitheatre-concert-t-shirt/",
-    "https://collectionpostertour.com/product/red-clay-strays-september-15-2025-morrison-co-concert-t-shirt/",
-    "https://collectionpostertour.com/product/darko-band-protocol-t-shirt/",
-    "https://collectionpostertour.com/product/darko-band-protocol-merch/",
-    "https://collectionpostertour.com/product/darko-band-race-team-t-shirt/",
-    "https://collectionpostertour.com/product/toad-sat-and-did-nothing-frog-sat-with-him-t-shirt/"
+    "https://collectionpostertour.com/product/wyatt-flores-september-17-2025-albuquerque-nm-concert-poster/",
+    "https://collectionpostertour.com/product/wyatt-flores-revel-entertainment-center-september-17-2025-concert-poster/",
+    "https://collectionpostertour.com/product/tool-spark-arena-november-22-2025-concert-poster/",
+    "https://collectionpostertour.com/product/tool-november-22-2025-auckland-nz-concert-poster/",
+    "https://collectionpostertour.com/product/sonic-temple-may-14-17-2026-columbus-oh-concert-poster/",
+    "https://collectionpostertour.com/product/sonic-temple-historic-crew-stadium-may-14-17-2026-concert-poster/",
+    "https://collectionpostertour.com/product/screeching-weasel-september-21st-riot-fest-2025-chicago-il-concert-poster/",
+    "https://collectionpostertour.com/product/screeching-weasel-september-21-2025-chicago-il-concert-poster/",
+    "https://collectionpostertour.com/product/psychic-salamander-festival-september-13-14-2025-carnation-wa-concert-poster/",
+    "https://collectionpostertour.com/product/psychic-salamander-festival-remlinger-farms-september-13-14-2025-concert-poster/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/parkway-drive-kwas-20-year-anniversary-killing-with-a-smile-all-over-print-hoodie/"
@@ -312,15 +312,15 @@
     "https://eteeclothing.com/product/shaylee-bent-gold-coast-titans-so-game-2-sided-t-shirt/"
   ],
   "milkywayshirt.com": [
-    "https://milkywayshirt.com/product/official-sep-13-2025-vulfpeck-live-at-the-garden-shirt/",
-    "https://milkywayshirt.com/product/official-phish-birmingham-al-2025-concert-shirt/",
-    "https://milkywayshirt.com/product/official-09-14-2025-morrison-co-red-clay-strays-red-rocks-shirt/",
-    "https://milkywayshirt.com/product/official-this-black-turning-point-memorial-shirt/",
-    "https://milkywayshirt.com/product/official-canelo-vs-crawford-t-shirt/",
-    "https://milkywayshirt.com/product/official-canelo-and-crawford-las-vegas-sep-13-2025-t-shirt/",
-    "https://milkywayshirt.com/product/official-acid-bath-sep-13-2025-tour-syracuse-ny-shirt/",
-    "https://milkywayshirt.com/product/official-sep-14-2025-yusuf-cat-stevens-theatre-royal-drury-lane-london-uk-event-shirt/",
-    "https://milkywayshirt.com/product/official-being-dead-sept-28-2025-palmer-events-center-austin-tx-poster-shirt/",
-    "https://milkywayshirt.com/product/official-poster-many-eyes-sep-oct-2025-tour-shirt/"
+    "https://milkywayshirt.com/product/official-these-foos-la-vice-shirt/",
+    "https://milkywayshirt.com/product/official-philip-bowen-appalachia-forever-shirt/",
+    "https://milkywayshirt.com/product/official-eric-clapton-september-16-2025-td-garden-boston-ma-event-shirt/",
+    "https://milkywayshirt.com/product/official-2025-mat-kearney-coming-home-eugene-or-t-shirt/",
+    "https://milkywayshirt.com/product/official-sheffield-for-everybody-shirt/",
+    "https://milkywayshirt.com/product/official-red-clay-strays-get-right-tour-shirt/",
+    "https://milkywayshirt.com/product/official-2025-julian-and-logan-tummy-ache-survivor-shirt/",
+    "https://milkywayshirt.com/product/official-red-clay-strays-red-rocks-2025-shirt/",
+    "https://milkywayshirt.com/product/official-goose-september-14-2025-waterfront-park-burlington-vt-t-shirt/",
+    "https://milkywayshirt.com/product/official-well-done-good-and-faithful-servant-charlie-kirk-1993-2025-shirt/"
   ]
 }
