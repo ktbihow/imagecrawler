@@ -27,16 +27,16 @@
     "https://techteesusa.com/product/ireland-bound-iowa-state-cyclones-football-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/wtf-wheres-the-fish-funny-fishing-shirt/",
-    "https://teeworksusa.com/product/we-are-charlie-american-flag-shirt/",
-    "https://teeworksusa.com/product/southern-rock-legend-freebird-forever-shirt/",
-    "https://teeworksusa.com/product/so-youre-telling-me-theres-a-chance-cincy-football-meme-shirt/",
-    "https://teeworksusa.com/product/slap-shot-hanson-brothers-shirt/",
-    "https://teeworksusa.com/product/premier-league-club-fulham-antonee-robinson-shirt/",
-    "https://teeworksusa.com/product/no-diggity-bout-to-bag-it-up-halloween-shirt/",
-    "https://teeworksusa.com/product/kingdom-over-culture-letter-shirt/",
-    "https://teeworksusa.com/product/its-rainbow-time-shirt/",
-    "https://teeworksusa.com/product/healing-children-and-veterans-diego-ranch-horse-shirt/"
+    "https://teeworksusa.com/product/who-shot-ya-the-2nd-amendment-shirt/",
+    "https://teeworksusa.com/product/we-won-the-fuck1ng-game-shirt/",
+    "https://teeworksusa.com/product/turnstile-band-color-wall-2025-shirt/",
+    "https://teeworksusa.com/product/turnstile-band-blue-star-sept-2025-tour-shirt/",
+    "https://teeworksusa.com/product/turnstile-band-birds-painting-sept-2025-tour-shirt/",
+    "https://teeworksusa.com/product/tricolore-and-forza-buffalo-bills-shirt/",
+    "https://teeworksusa.com/product/torontos-power-company-molitor-carter-olerud-shirt/",
+    "https://teeworksusa.com/product/tootsie-pops-world-tour-shirt/",
+    "https://teeworksusa.com/product/this-is-our-turning-point-charlie-kirk-shirt/",
+    "https://teeworksusa.com/product/the-golden-girls-venus-fly-trap-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-wisconsin-snoopy-fist-bump-charlie-brown-badgers-and-packers-shirt/",
@@ -98,16 +98,16 @@
     "https://teespix.com/product/chicken-f-caw-f-shirt/"
   ],
   "nowbestshirt.com": [
-    "https://nowbestshirt.com/product/why-do-they-call-it-queer-eye-instead-of-homo-improvement-shirt/",
-    "https://nowbestshirt.com/product/virginia-tech-hokies-vs-wofford-terriers-2025-football-helmet-shirt/",
-    "https://nowbestshirt.com/product/texas-longhorns-vs-sam-houston-state-bearkats-2025-gameday-showdown-shirt/",
-    "https://nowbestshirt.com/product/tampa-bay-buccaneers-duvin-designs-co-50-seasons-of-the-krewe-pirate-shirt/",
-    "https://nowbestshirt.com/product/stitch-ive-talked-the-talk-and-walked-the-walk-now-at-my-age-im-just-gonna-sit-the-sit-shirt/",
-    "https://nowbestshirt.com/product/stitch-for-my-age-i-have-a-lot-doing-for-me-my-eyes-are-going-my-knees-are-going-my-back-is-doing-shirt/",
-    "https://nowbestshirt.com/product/shake-n-bake-6-tampa-bay-football-shirt/",
-    "https://nowbestshirt.com/product/red-october-philadelphia-phillies-2025-mlb-postseason-shirt/",
-    "https://nowbestshirt.com/product/philadelphia-phillies-2025-mlb-postseason-legend-dri-fit-shirt/",
-    "https://nowbestshirt.com/product/official-girl-power-kc-current-shirt/"
+    "https://nowbestshirt.com/product/zack-wheeler-45-philadelphia-phillies-pitcher-autographed-shirt/",
+    "https://nowbestshirt.com/product/zach-neto-los-angeles-angels-player-retro-shirt/",
+    "https://nowbestshirt.com/product/yes-i-support-blm-beer-ling-ling-money-shirt/",
+    "https://nowbestshirt.com/product/wtf-is-a-kilometer-eagle-american-flag-shirt/",
+    "https://nowbestshirt.com/product/vladimir-guerrero-montreal-expos-city-skyline-autographed-shirt/",
+    "https://nowbestshirt.com/product/vernell-brown-iii-vb3-florida-gators-football-player-vintage-shirt/",
+    "https://nowbestshirt.com/product/travis-kelce-kansas-city-chiefs-game-face-signature-shirt/",
+    "https://nowbestshirt.com/product/tom-herr-st-louis-cardinals-swing-autographed-vintage-shirt/",
+    "https://nowbestshirt.com/product/theres-not-always-tomorrow-do-it-while-you-can-shirt/",
+    "https://nowbestshirt.com/product/the-vikings-skol-vikings-65th-season-thank-you-for-the-memories-signatures-shirt/"
   ],
   "serenashirt.com": [
     "https://serenashirt.com/product/quit-your-job-go-on-tour-bang-a-wook-shirt/",
@@ -178,16 +178,16 @@
     "https://capitoneshirt.com/product/molon-labe-coyote-spartan-warrior-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/optimus-prime-and-the-alcoholic-beverage-scotch-classic-shirt/",
-    "https://clickoneshirt.com/product/ole-miss-in-my-veins-jesus-in-my-heart-mascot-shirt/",
-    "https://clickoneshirt.com/product/notre-dame-fighting-irish-football-indiana-big-head-vintage-shirt/",
-    "https://clickoneshirt.com/product/nosferatu-frankenstein-psycho-the-shining-halloween-collage-shirt/",
-    "https://clickoneshirt.com/product/no-one-will-love-you-with-those-small-calves-mother-teresa-shirt/",
-    "https://clickoneshirt.com/product/nikola-tesla-the-man-who-invented-the-20th-century-graphic-shirt/",
-    "https://clickoneshirt.com/product/new-york-sprots-aint-no-boo-sheet-halloween-shirt/",
-    "https://clickoneshirt.com/product/new-york-giants-100-seasons-i-can-do-christ-all-things-through-who-strengthens-me-shirt/",
-    "https://clickoneshirt.com/product/nasa-national-aeronautics-distressed-vintage-86-logo-shirt/",
-    "https://clickoneshirt.com/product/napheesa-collier-minnesota-lynx-basketball-mvphee-collier-signature-shirt/"
+    "https://clickoneshirt.com/product/wyatt-flores-flagstaff-az-shirt/",
+    "https://clickoneshirt.com/product/who-shot-ya-the-2nd-amendment-shirt/",
+    "https://clickoneshirt.com/product/witch-holding-black-cat-feelin-cute-might-curse-you-later-halloween-shirt/",
+    "https://clickoneshirt.com/product/we-love-you-in-california-shirt/",
+    "https://clickoneshirt.com/product/toronto-power-company-molitor-carter-olerud-shirt/",
+    "https://clickoneshirt.com/product/tony-the-tigga-tiger-parody-shirt/",
+    "https://clickoneshirt.com/product/the-last-guardian-shirt/",
+    "https://clickoneshirt.com/product/the-tiger-and-the-magpie-sumie-shirt/",
+    "https://clickoneshirt.com/product/tasmanian-devil-atlanta-falcons-sack-em-shirt/",
+    "https://clickoneshirt.com/product/thats-showbiz-baby-it-girl-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/typhoon-turns-twenty-january-2026-cigarettes-t-shirts/",
