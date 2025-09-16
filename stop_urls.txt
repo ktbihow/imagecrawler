@@ -125,16 +125,16 @@
     "https://serenashirt.com/product/chatgpt-college-of-nursing-shirt/"
   ],
   "fanaticity.com": [
-    "https://fanaticity.com/product/post-yap-clarity-crying-shirt/",
-    "https://fanaticity.com/product/oregon-map-green-as-oregon-ducks-shirt/",
-    "https://fanaticity.com/product/oklahoma-city-thunder-loud-city-logo-shirt/",
-    "https://fanaticity.com/product/new-england-patriots-win-lose-or-die-i-am-a-patriots-fan-till-i-die-shirt/",
-    "https://fanaticity.com/product/neon-surfing-polar-beart-on-dragons-back-new-york-mets-shirt/",
-    "https://fanaticity.com/product/my-heart-is-on-the-line-number-92-football-shirt/",
-    "https://fanaticity.com/product/municipal-2025-shirt/",
-    "https://fanaticity.com/product/mister-killer-sir-ghost-face-booty-halloween-shirt/",
-    "https://fanaticity.com/product/mickeys-halloween-trick-or-treat-candy-co-shirt/",
-    "https://fanaticity.com/product/lets-get-6-7endy-shirt/"
+    "https://fanaticity.com/product/aja-riyadh-wilson-las-vegas-aces-signature-shirt/",
+    "https://fanaticity.com/product/alligator-one-day-ill-do-amazing-things-today-ill-be-satisfied-if-i-manage-not-to-spill-food-on-my-boobs-shirt/",
+    "https://fanaticity.com/product/american-ghost-i-am-a-grumpy-woman-i-am-who-i-am-i-have-anger-issues-thin-patience-shirt/",
+    "https://fanaticity.com/product/and-if-all-else-fails-punch-him-in-the-balls-graham-linehan-shirt/",
+    "https://fanaticity.com/product/bat-skull-im-at-that-age-where-my-mind-still-thinks-im-29-my-humor-suggests-im-12-while-shirt/",
+    "https://fanaticity.com/product/beware-of-dawgs-old-row-sic-em-bulldog-shirt/",
+    "https://fanaticity.com/product/border-showdown-champs-missouri-tigers-vs-kansas-jayhawks-42-31-september-6th-2025-helmet-shirt/",
+    "https://fanaticity.com/product/bucky-chow-mine-got-torn-up-playing-sandlot-football-in-hs-retro-shirt/",
+    "https://fanaticity.com/product/cat-a-kiss-ass-can-only-kiss-so-much-ass-before-they-choke-on-shit-shirt/",
+    "https://fanaticity.com/product/charlie-kick-freedom-red-signature-red-1993-2025-shirt/"
   ],
   "legendusashirt.com": [
     "https://legendusashirt.com/product/vulfpeck-clarity-of-cal-t-shirt/",
@@ -149,16 +149,7 @@
     "https://legendusashirt.com/product/conan-gray-the-wishbone-pajama-show-2025-cover-art-with-date-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/twa-toddlers-with-attitude-shirt/",
-    "https://teehandus.com/product/a-little-freak-goes-a-long-way-shirt/",
-    "https://teehandus.com/product/americas-tribune-we-from-here-shirt/",
-    "https://teehandus.com/product/arnold-schwarzenegger-and-the-predator-photo-shirt/",
-    "https://teehandus.com/product/ancient-jadakiss-proverb-fuck-the-frail-shit-shirt/",
-    "https://teehandus.com/product/ascend-conference-2025-we-are-a-generation-after-jesus-shirt/",
-    "https://teehandus.com/product/ashlyn-alexander-ashlyn-spooky-shirt/",
-    "https://teehandus.com/product/ava-martin-8-magic-shirt/",
-    "https://teehandus.com/product/back-in-the-day-did-you-ever-dress-up-to-go-to-church-shirt/",
-    "https://teehandus.com/product/beast-of-the-east-shirt/"
+    "https://teehandus.com/product/no-revolution-without-womens-liberation-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -200,11 +191,14 @@
     "https://clickoneshirt.com/product/tucker-kraft-green-bay-packers-football-tucker-round-and-find-out-signature-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/james-and-the-giant-peach-what-a-peach-t-shirts/",
-    "https://teleteeshirt.com/product/james-and-the-giant-peach-t-shirts/",
-    "https://teleteeshirt.com/product/charlie-and-the-chocolate-factory-magician-with-chocolate-t-shirts/",
-    "https://teleteeshirt.com/product/charlie-and-the-chocolate-factory-t-shirts/",
-    "https://teleteeshirt.com/product/sierra-ferrell-at-firefly-distillery-on-sep-13-2025-t-shirts/"
+    "https://teleteeshirt.com/product/i-love-hit-t-shirts/",
+    "https://teleteeshirt.com/product/yes-i-support-blm-beer-ling-ling-money-t-shirts/",
+    "https://teleteeshirt.com/product/wwe-the-kabuki-warriors-superstar-t-shirts/",
+    "https://teleteeshirt.com/product/twiztid-halloween-freek-show-spiral-t-shirts/",
+    "https://teleteeshirt.com/product/twiztid-halloween-faces-t-shirts/",
+    "https://teleteeshirt.com/product/twiztid-freek-show-era-logo-t-shirts/",
+    "https://teleteeshirt.com/product/twiztid-bloody-chokehold-t-shirts/",
+    "https://teleteeshirt.com/product/theres-no-place-like-home-for-the-holidays-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/walt-disneyys-disneyyworld-est-1971-where-dreams-come-true-shirt/",
@@ -267,21 +261,28 @@
     "https://designatshop.com/product/snoopy-singer-oasis-live-25-vintage-shirt/"
   ],
   "arjomany.com": [
-    "https://arjomany.com/product/my-little-raver-2025-shirt/",
-    "https://arjomany.com/product/seahearnow-festival-wave-lineup-2025-shirt/",
-    "https://arjomany.com/product/seahearnow-festival-surf-lineup-2025-shirt/",
-    "https://arjomany.com/product/seahearnow-eye-lineup-tee/",
-    "https://arjomany.com/product/seahearnow-asbury-lineup-tee-2025/",
-    "https://arjomany.com/product/neon-surfing-polar-beart-t-shirt/",
-    "https://arjomany.com/product/jerry-cheesehead-t-shirt/",
-    "https://arjomany.com/product/harrison-bader-what-a-gift-shirt/"
+    "https://arjomany.com/product/widespread-panic-december-29-31-2025-fox-theatre-poster/",
+    "https://arjomany.com/product/typhoon-january-23-24-2026-revolution-hall-poster/",
+    "https://arjomany.com/product/tool-nov-22-2025-spark-arena-auckland-nz-poster/",
+    "https://arjomany.com/product/the-lawrence-arms-dec-5-6-2025-metro-chicago-poster/",
+    "https://arjomany.com/product/state-champs-november-2025-tour-poster/",
+    "https://arjomany.com/product/screeching-weasel-sept-21-2025-chicago-illinois-poster/",
+    "https://arjomany.com/product/palm-tree-music-festival-february-20-21-2026-aspen-co-poster/",
+    "https://arjomany.com/product/leftover-salmon-dec-30-31-2025-fernandina-beach-fl-poster/",
+    "https://arjomany.com/product/govt-mule-dec-28-30-31-2025-new-york-poster/",
+    "https://arjomany.com/product/eric-church-sept-20-2025-brooklyn-ny-poster/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/spinal-tap-ii-does-this-look-infected-t-shirt/",
-    "https://collectionpostertour.com/product/las-vegas-grand-prix-steering-t-shirt/",
-    "https://collectionpostertour.com/product/born-x-raised-black-seattle-seahawks-t-shirt/",
-    "https://collectionpostertour.com/product/backyard-brawl-champs-t-shirt/",
-    "https://collectionpostertour.com/product/atlantas-world-famous-t-shirt/"
+    "https://collectionpostertour.com/product/alabama-shakes-september-15-2025-boston-ma-concert-poster/",
+    "https://collectionpostertour.com/product/alabama-shakes-mgm-music-hall-at-fenway-september-15-2025-concert-poster/",
+    "https://collectionpostertour.com/product/the-weeknd-after-hours-photo-t-shirt/",
+    "https://collectionpostertour.com/product/the-weeknd-after-hours-photo-merch/",
+    "https://collectionpostertour.com/product/red-clay-strays-september-15-2025-red-rocks-amphitheatre-concert-t-shirt/",
+    "https://collectionpostertour.com/product/red-clay-strays-september-15-2025-morrison-co-concert-t-shirt/",
+    "https://collectionpostertour.com/product/darko-band-protocol-t-shirt/",
+    "https://collectionpostertour.com/product/darko-band-protocol-merch/",
+    "https://collectionpostertour.com/product/darko-band-race-team-t-shirt/",
+    "https://collectionpostertour.com/product/toad-sat-and-did-nothing-frog-sat-with-him-t-shirt/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/parkway-drive-kwas-20-year-anniversary-killing-with-a-smile-all-over-print-hoodie/"
