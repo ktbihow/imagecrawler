@@ -224,16 +224,16 @@
     "https://melonashirt.com/product/official-hanz-driven-stay-driven-vancouver-hnz-drvn-shirts/"
   ],
   "dalatshirt.com": [
-    "https://dalatshirt.com/product/atlanta-varsity-fox-not-really-meant-for-the-public-t-shirts/",
-    "https://dalatshirt.com/product/banksy-street-graphic-t-shirts/",
-    "https://dalatshirt.com/product/black-flag-my-rules-t-shirts/",
-    "https://dalatshirt.com/product/bill-jesus-paid-it-all-t-shirts/",
-    "https://dalatshirt.com/product/champagne-and-b-positive-blood-t-shirts/",
-    "https://dalatshirt.com/product/charlie-bucket-willy-wonka-killed-a-kid-justice-for-augustus-t-shirts/",
-    "https://dalatshirt.com/product/charlie-kirk-legends-never-die-t-shirts/",
-    "https://dalatshirt.com/product/boone-checkered-stars-usa-flag-t-shirts/",
-    "https://dalatshirt.com/product/charlie-kirk-great-american-patriot-flag-t-shirts/",
-    "https://dalatshirt.com/product/charlie-kirk-we-cant-forget-you-charlie-t-shirts/"
+    "https://dalatshirt.com/product/red-white-and-blueberries-t-shirts/",
+    "https://dalatshirt.com/product/shoot-it-we-get-paid-to-shoot-t-shirts/",
+    "https://dalatshirt.com/product/ring-of-honor-cincinnati-bengals-vs-jacksonville-jaguars-paul-brown-stadium-2021-vintage-t-shirts/",
+    "https://dalatshirt.com/product/skeleton-racing-sorry-im-late-i-was-crankin-my-hog-t-shirts-2/",
+    "https://dalatshirt.com/product/skeleton-extraordinary-life-is-too-short-there-are-too-young-things-to-do-it-is-time-to-race-t-shirts/",
+    "https://dalatshirt.com/product/skeleton-im-feeling-bonely-t-shirts/",
+    "https://dalatshirt.com/product/special-agent-zero-powerpuff-girls-t-shirts/",
+    "https://dalatshirt.com/product/sorry-you-had-a-bad-day-you-can-touch-my-tits-if-you-want-t-shirts/",
+    "https://dalatshirt.com/product/soldier-chance-of-rain-today-t-shirts/",
+    "https://dalatshirt.com/product/skull-warriors-1979-nyc-logo-t-shirts/"
   ],
   "lovingsquad.com": [
     "https://lovingsquad.com/product/you-cant-sit-with-us-jack-skeleton-beetlejuice-and-edward-scissorhands-halloween-shirt/",
