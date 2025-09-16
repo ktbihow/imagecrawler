@@ -23,16 +23,16 @@
     "https://orionshirt.com/product/official-poster-former-world-boxing-champion-ricky-hatton-has-been-found-dead-aged-46-1978-2025-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/philadelphia-eagles-this-aint-hotel-california-t-shirt/",
-    "https://techteesusa.com/product/the-function-cant-handle-my-tomfoolery-t-shirt/",
-    "https://techteesusa.com/product/a-lion-does-concern-himself-when-it-comes-to-the-well-being-of-the-homies-t-shirt/",
-    "https://techteesusa.com/product/4th-of-july-im-just-here-for-the-wieners-shirt/",
-    "https://techteesusa.com/product/zebra-pride-shirt/",
-    "https://techteesusa.com/product/wrestlepalooza-2025-premium-live-event-indianapolis-in-9-20-25-shirt/",
-    "https://techteesusa.com/product/wrestlepalooza-2025-john-cena-vs-brock-lesnar-the-goat-vs-the-beast-shirt/",
-    "https://techteesusa.com/product/utah-mammoth-hockey-shirt/",
-    "https://techteesusa.com/product/the-ravens-the-much-anticipated-sequel-by-edgar-allen-poe-shirt/",
-    "https://techteesusa.com/product/the-original-positive-lifestyle-brand-basketball-shirt/"
+    "https://techteesusa.com/product/born-x-raised-kansas-city-chiefs-chiefs-kingdom-chrome-rocker-two-sided-shirt/",
+    "https://techteesusa.com/product/kansas-city-chiefs-chiefs-kingdom-born-x-raised-two-sided-shirt/",
+    "https://techteesusa.com/product/youre-killin-me-smalls-houston-astros-x-the-sandlot-shirt/",
+    "https://techteesusa.com/product/shut-the-fuck-up-and-rap-shirt/",
+    "https://techteesusa.com/product/whiteout-knockout-24-21-georgia-tech-yellow-jackets-football-2025-shirt/",
+    "https://techteesusa.com/product/wait-im-goated-shirt/",
+    "https://techteesusa.com/product/the-world-i-didnt-want-2025-shirt/",
+    "https://techteesusa.com/product/paul-wesley-turn-it-off-stefan-shirt/",
+    "https://techteesusa.com/product/pierced-titties-taste-like-house-keys-and-theres-no-place-like-home-shirt/",
+    "https://techteesusa.com/product/give-nazis-a-platform-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/if-meanie-wins-we-dance-shirt/",
@@ -70,16 +70,16 @@
     "https://berrylittles.com/product/official-2025-pll-us-bank-championship-new-york-atlas-locker-room-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-erie-seawolves-vs-upmc-park-eastern-league-second-half-southwest-division-champions-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-jalen-hurts-philadelphia-eagles-are-3-0-against-patrick-mahomes-kansas-city-chiefs-meme-t-shirt/",
-    "https://dreameshirt.com/product/official-charlie-kirk-all-death-can-do-to-the-believer-is-deliver-him-to-jesus-1993-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-jake-feisty-got-our-6-jake-browning-cincinnati-bengals-football-t-shirt/",
-    "https://dreameshirt.com/product/official-mary-sheffield-mary-for-everybody-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-linkin-park-from-zero-world-tour-los-angeles-ca-intuit-dome-september-13-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-philadelphia-eagles-nfl-fck-patrick-mahomes-t-shirt/",
-    "https://dreameshirt.com/product/official-neon-surfing-polar-bear-new-york-mets-athlete-logos-painting-t-shirt/",
-    "https://dreameshirt.com/product/official-ricky-hatton-forever-the-hitman-1978-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-ricky-hatton-forever-the-hitman-1978-2025-painting-t-shirt/"
+    "https://dreameshirt.com/product/official-pittsburgh-pirates-roberto-clemente-when-i-put-on-my-uniform-i-feel-i-am-the-proudest-man-on-earth-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-roberto-clemente-day-any-time-you-have-an-opportunity-to-make-a-difference-in-this-world-and-you-dont-2025-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-seattle-mariners-j-p-crawford-2025-roberto-clemente-award-nominee-signature-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-buddah-al-uqdah-washington-huskies-vs-washington-state-cougars-2025-boeing-apple-cup-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-los-angeles-chargers-nfl-2025-latino-heritage-month-painting-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-judge-integrity-and-earth-crisis-october-2025-boston-rutherford-brooklyn-philadelphia-and-berkeley-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-candace-owens-i-know-what-you-did-this-summer-all-for-charlie-kirk-t-shirt/",
+    "https://dreameshirt.com/product/official-brandon-aubrey-smooth-like-butter-dallas-cowboys-nfl-t-shirt/",
+    "https://dreameshirt.com/product/official-obey-your-hunger-kinda-fit-kinda-fat-est-2017-painting-t-shirt/",
+    "https://dreameshirt.com/product/official-rated-rr-ringside-renaissance-explicit-wrestling-content-new-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/official-the-idea-lives-on-rip-charlie-kirk-shirt/",
@@ -261,28 +261,21 @@
     "https://designatshop.com/product/snoopy-singer-oasis-live-25-vintage-shirt/"
   ],
   "arjomany.com": [
-    "https://arjomany.com/product/widespread-panic-december-29-31-2025-fox-theatre-poster/",
-    "https://arjomany.com/product/typhoon-january-23-24-2026-revolution-hall-poster/",
-    "https://arjomany.com/product/tool-nov-22-2025-spark-arena-auckland-nz-poster/",
-    "https://arjomany.com/product/the-lawrence-arms-dec-5-6-2025-metro-chicago-poster/",
-    "https://arjomany.com/product/state-champs-november-2025-tour-poster/",
-    "https://arjomany.com/product/screeching-weasel-sept-21-2025-chicago-illinois-poster/",
-    "https://arjomany.com/product/palm-tree-music-festival-february-20-21-2026-aspen-co-poster/",
-    "https://arjomany.com/product/leftover-salmon-dec-30-31-2025-fernandina-beach-fl-poster/",
-    "https://arjomany.com/product/govt-mule-dec-28-30-31-2025-new-york-poster/",
-    "https://arjomany.com/product/eric-church-sept-20-2025-brooklyn-ny-poster/"
+    "https://arjomany.com/product/saba-pivot-the-big-picture-tour-eu-2026-poster/",
+    "https://arjomany.com/product/ben-kweller-november-22-2025-workplay-theater-birmingham-al-poster/",
+    "https://arjomany.com/product/ben-kweller-cover-the-mirors-tour-2025-poster/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/wyatt-flores-september-17-2025-albuquerque-nm-concert-poster/",
-    "https://collectionpostertour.com/product/wyatt-flores-revel-entertainment-center-september-17-2025-concert-poster/",
-    "https://collectionpostertour.com/product/tool-spark-arena-november-22-2025-concert-poster/",
-    "https://collectionpostertour.com/product/tool-november-22-2025-auckland-nz-concert-poster/",
-    "https://collectionpostertour.com/product/sonic-temple-may-14-17-2026-columbus-oh-concert-poster/",
-    "https://collectionpostertour.com/product/sonic-temple-historic-crew-stadium-may-14-17-2026-concert-poster/",
-    "https://collectionpostertour.com/product/screeching-weasel-september-21st-riot-fest-2025-chicago-il-concert-poster/",
-    "https://collectionpostertour.com/product/screeching-weasel-september-21-2025-chicago-il-concert-poster/",
-    "https://collectionpostertour.com/product/psychic-salamander-festival-september-13-14-2025-carnation-wa-concert-poster/",
-    "https://collectionpostertour.com/product/psychic-salamander-festival-remlinger-farms-september-13-14-2025-concert-poster/"
+    "https://collectionpostertour.com/product/nuovo-testamento-discoteca-italia-t-shirt/",
+    "https://collectionpostertour.com/product/nuovo-testamento-discoteca-italia-merch/",
+    "https://collectionpostertour.com/product/smerz-big-city-life-fall-tour-2025-poster/",
+    "https://collectionpostertour.com/product/poster-smerz-big-city-life-fall-2025/",
+    "https://collectionpostertour.com/product/poster-kevin-james-eat-the-frog-2026/",
+    "https://collectionpostertour.com/product/poster-ashnikko-smoochies-2026/",
+    "https://collectionpostertour.com/product/kevin-james-eat-the-frog-tour-2026-poster/",
+    "https://collectionpostertour.com/product/ashnikko-smoochies-tour-2026-poster/",
+    "https://collectionpostertour.com/product/mat-kearney-coming-home-t-shirt/",
+    "https://collectionpostertour.com/product/mat-kearney-coming-home-merch/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/parkway-drive-kwas-20-year-anniversary-killing-with-a-smile-all-over-print-hoodie/"
