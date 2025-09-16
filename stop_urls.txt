@@ -98,16 +98,16 @@
     "https://teespix.com/product/chicken-f-caw-f-shirt/"
   ],
   "nowbestshirt.com": [
-    "https://nowbestshirt.com/product/trader-joes-jims-skeleton-shirt/",
-    "https://nowbestshirt.com/product/the-cries-of-this-window-will-echo-around-the-world-like-a-battle-cry-erika-kirk-shirt/",
-    "https://nowbestshirt.com/product/tee-higgins-cincinnati-bengals-aura-flame-vintage-shirt/",
-    "https://nowbestshirt.com/product/strong-women-arent-simply-born-we-are-made-by-the-storms-we-walk-through-shirt/",
-    "https://nowbestshirt.com/product/stitch-let-me-pour-you-a-tall-glass-of-get-over-it-oh-and-heres-a-straw-so-you-can-suck-it-up-shirt/",
-    "https://nowbestshirt.com/product/stitch-it-doesnt-matter-what-you-think-of-me-because-my-imaginary-friends-think-im-special-shirt/",
-    "https://nowbestshirt.com/product/stitch-i-said-to-myself-today-is-going-to-be-a-good-day-shirt/",
-    "https://nowbestshirt.com/product/stitch-i-dont-speak-a-lot-but-i-notice-everything-shirt/",
-    "https://nowbestshirt.com/product/stitch-how-do-you-sleep-at-night-knowing-people-dont-like-you-shirt/",
-    "https://nowbestshirt.com/product/stitch-dont-be-a-twatwaffle-shirt/"
+    "https://nowbestshirt.com/product/philadelphia-phillies-2025-nl-east-divison-champions-shirt/",
+    "https://nowbestshirt.com/product/official-philadelphia-phillies-2025-national-league-east-champions-shirt/",
+    "https://nowbestshirt.com/product/miami-marlins-vs-philadelphia-phillies-2025-mlb-national-league-championship-shirt/",
+    "https://nowbestshirt.com/product/philadelphia-phillies-red-october-nike-2025-mlb-postseason-shirtphiladelphia-phillies-red-october-nike-2025-mlb-postseason-shirt/",
+    "https://nowbestshirt.com/product/the-philadelphia-phillies-are-2025-nl-east-champions-shirt/",
+    "https://nowbestshirt.com/product/phillies-red-october-back-2-back-nl-east-division-champions-2025-shirt/",
+    "https://nowbestshirt.com/product/phillies-red-october-2025-nl-east-division-13-time-champions-shirt/",
+    "https://nowbestshirt.com/product/phillies-red-october-2025-nl-east-champions-mascot-shirt/",
+    "https://nowbestshirt.com/product/phillies-baseball-24-25-back-2-back-nl-east-division-13-time-champions-shirt/",
+    "https://nowbestshirt.com/product/phillies-red-october-2025-back-2-back-nl-east-division-champions-shirt/"
   ],
   "serenashirt.com": [
     "https://serenashirt.com/product/quit-your-job-go-on-tour-bang-a-wook-shirt/",
@@ -127,16 +127,16 @@
     "https://fanaticity.com/product/charlie-kick-freedom-red-signature-red-1993-2025-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/wyatt-flores-pepsi-amphitheater-in-flagstaff-az-september-16-2025-t-shirt/",
-    "https://legendusashirt.com/product/wyatt-flores-albuquerque-nm-2025-tour-t-shirt/",
-    "https://legendusashirt.com/product/wrestlepalooza-2025-john-cena-vs-brock-lesnar-t-shirt/",
-    "https://legendusashirt.com/product/vana-youll-get-what-you-deserve-tour-t-shirt/",
-    "https://legendusashirt.com/product/vana-tarot-card-t-shirt/",
-    "https://legendusashirt.com/product/tool-auckland-nz-22-november-2025-show-t-shirt/",
-    "https://legendusashirt.com/product/tennessee-titans-born-x-raised-titan-up-t-shirt/",
-    "https://legendusashirt.com/product/teenage-mutant-sketchy-streets-1990-t-shirt/",
-    "https://legendusashirt.com/product/teenage-mutant-ninja-turtles-this-is-no-cartoon-1990-t-shirt/",
-    "https://legendusashirt.com/product/soccer-mommy-september-16-2025-new-york-city-at-summerstage-t-shirt/"
+    "https://legendusashirt.com/product/charlie-kirk-all-death-can-do-to-the-believer-is-deliver-him-to-jesus-1993-2025-t-shirt/",
+    "https://legendusashirt.com/product/charlie-kirk-a-voice-for-the-silent-2025-t-shirt/",
+    "https://legendusashirt.com/product/charlie-great-american-patriot-t-shirt/",
+    "https://legendusashirt.com/product/carousel-laufey-life-is-a-circus-t-shirt/",
+    "https://legendusashirt.com/product/candlebox-seattle-wa-concert-september-25-2025-t-shirt/",
+    "https://legendusashirt.com/product/beware-of-ice-whiskey-gin-vodka-t-shirt/",
+    "https://legendusashirt.com/product/bart-simpson-friday-damn-meme-t-shirt/",
+    "https://legendusashirt.com/product/banksy-street-royal-courts-of-justice-political-activism-t-shirt/",
+    "https://legendusashirt.com/product/audrey-hobert-the-staircase-to-stardom-2025-2026-t-shirt/",
+    "https://legendusashirt.com/product/are-all-charlie-kirk-army-now-r-i-p-charlie-kirk-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/15-concept-2-million-meter-club-shirt/",
@@ -236,16 +236,16 @@
     "https://dalatshirt.com/product/charlie-kirk-we-are-kirk-army-now-1993-2025-usa-flag-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/you-dont-know-a-die-hard-fan-until-you-meet-a-bills-fan-shirt/",
-    "https://lovingsquad.com/product/wnba-official-golden-state-valkyries-2025-playoffs-worlds-shirt/",
-    "https://lovingsquad.com/product/wnba-official-atlanta-dream-2025-playoffs-worlds-collide-shirt/",
-    "https://lovingsquad.com/product/wings-of-fire-dragon-circle-shirt/",
-    "https://lovingsquad.com/product/when-the-national-guard-arrives-the-crime-dies-shirt/",
-    "https://lovingsquad.com/product/we-are-charlies-2025-shirt/",
-    "https://lovingsquad.com/product/we-are-all-charlie-kirk-retro-shirt/",
-    "https://lovingsquad.com/product/walker-jenkins-minnesota-twins-twin-city-star-shirt/",
-    "https://lovingsquad.com/product/vote-dan-bauer-elks-trustee-shirt/",
-    "https://lovingsquad.com/product/universal-studios-halloween-horror-nights-shirt/"
+    "https://lovingsquad.com/product/florida-state-seminole-fsu-osceola-and-renegade-design-logo-shirt/",
+    "https://lovingsquad.com/product/everyone-wants-to-play-in-the-wcha-the-western-collegiate-hockey-association-ice-hockey-shirt/",
+    "https://lovingsquad.com/product/everybody-has-a-price-shirt/",
+    "https://lovingsquad.com/product/dk-metcalf-pittsburgh-steelers-signature-poster-shirt/",
+    "https://lovingsquad.com/product/diablos-rojos-del-mexico-team-players-graphic-shirt/",
+    "https://lovingsquad.com/product/detroit-lions-logo-nobody-likes-it-we-take-it-personal-shirt/",
+    "https://lovingsquad.com/product/dbloc-detroit-tigers-michigan-wolverines-vs-michigan-state-spartans-united-september-2025-shirt/",
+    "https://lovingsquad.com/product/custom-one-day-design-pet-halloween-trick-or-treat-shirt/",
+    "https://lovingsquad.com/product/cuny-the-city-university-of-new-york-shirt/",
+    "https://lovingsquad.com/product/costa-rica-toucan-i-dont-wanna-waste-my-time-become-another-casualty-of-society-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/rothschilds-sewage-and-septic-sucking-services-distressed-est-1991-shirt/",
