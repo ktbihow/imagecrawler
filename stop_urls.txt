@@ -135,16 +135,16 @@
     "https://legendusashirt.com/product/woodhave-homecoming-just-keep-winning-2025-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/bobby-roode-victorious-i-am-glorious-2-sided-shirt/",
-    "https://teehandus.com/product/charlotte-flair-if-youre-gonna-do-it-2-sided-shirt/",
-    "https://teehandus.com/product/gamecock-bourbon-society-carolina-born-and-bred-2-sided-shirt/",
-    "https://teehandus.com/product/hank-walker-we-hit-first-we-hit-last-2-sided-shirt/",
-    "https://teehandus.com/product/johnny-gargano-wrestling-the-whole-shebang-2-sided-shirt/",
-    "https://teehandus.com/product/ross-chastain-support-your-local-farmers-and-ranchers-nascar-2-sided-shirt/",
-    "https://teehandus.com/product/profits-are-up-street-profits-2-sided-shirt/",
-    "https://teehandus.com/product/tiffany-stratton-im-hot-tiffany-stratton-toodles-2-sided-shirt/",
-    "https://teehandus.com/product/tyler-breeze-just-a-pretty-face-poser-2-sided-shirt/",
-    "https://teehandus.com/product/sami-zayn-in-zayn-2-sided-shirt/"
+    "https://teehandus.com/product/ronald-reagan-one-they-will-limit-your-freedoms-shirt/",
+    "https://teehandus.com/product/saltiness-only-seasons-my-sauce-shirt/",
+    "https://teehandus.com/product/ryder-cup-2025-new-york-bethpage-black-shirt/",
+    "https://teehandus.com/product/seattle-mariners-10-straight-wins-shirt/",
+    "https://teehandus.com/product/smash-ice-stick-to-your-guns-terror-knocked-loose-and-year-of-the-knife-shirt/",
+    "https://teehandus.com/product/stayc-i-want-it-july-comeback-shirt/",
+    "https://teehandus.com/product/the-og-eb-ebjunkies-est-1996-shirt/",
+    "https://teehandus.com/product/the-night-the-reindeer-died-shirt/",
+    "https://teehandus.com/product/tna-wrestling-bound-for-glory-shirt/",
+    "https://teehandus.com/product/torchys-tacos-taco-love-for-all-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
