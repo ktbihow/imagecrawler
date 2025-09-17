@@ -206,16 +206,16 @@
     "https://teeslocal.com/product/official-rest-in-pace-robert-redford-1936-2025-light-fades-legacy-shines-shirt/"
   ],
   "melonashirt.com": [
-    "https://melonashirt.com/product/official-slick-stevie-poor-mans-yacht-club-floridas-least-exclusive-yacht-club-bradenton-florida-shirts/",
-    "https://melonashirt.com/product/official-marshmello-half-helmet-shirts/",
-    "https://melonashirt.com/product/official-madison-cunningham-coming-back-shirts/",
-    "https://melonashirt.com/product/official-le-mans-hanzd-riven-racing-shirts/",
-    "https://melonashirt.com/product/official-kentucky-the-bluegrass-state-deer-shirts/",
-    "https://melonashirt.com/product/official-jennie-summer-back-to-school-shirts/",
-    "https://melonashirt.com/product/official-jasper-beer-hug-albeerta-shirts/",
-    "https://melonashirt.com/product/official-i-say-no-to-sin-shirts/",
-    "https://melonashirt.com/product/official-hong-kong-diecast-paradise-hanz-driven-shirts/",
-    "https://melonashirt.com/product/official-hanz-driven-stay-driven-vancouver-hnz-drvn-shirts/"
+    "https://melonashirt.com/product/official-uprisers-we-see-you-therefore-for-we-love-you-floral-shirts/",
+    "https://melonashirt.com/product/official-saved-by-his-grace-shirts/",
+    "https://melonashirt.com/product/official-pray-grind-repeat-proclaim-ny-la-uk-shirts/",
+    "https://melonashirt.com/product/official-indy-eleven-storm-striker-shirts/",
+    "https://melonashirt.com/product/official-i-cry-a-lot-but-i-am-so-productive-its-an-art-bow-shirts/",
+    "https://melonashirt.com/product/official-indy-eleven-play-angry-shirts/",
+    "https://melonashirt.com/product/official-lvn-hly-paradise-shirts/",
+    "https://melonashirt.com/product/official-its-a-cruel-summer-with-you-hearts-shirts/",
+    "https://melonashirt.com/product/official-waffles-and-violence-combat-iron-shirts/",
+    "https://melonashirt.com/product/official-tough-times-make-tough-mfs-make-tough-combat-iron-shirts/"
   ],
   "dalatshirt.com": [
     "https://dalatshirt.com/product/20-years-together-t-shirts/",
