@@ -22,16 +22,16 @@
     "https://techteesusa.com/product/the-terence-crawford-era-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/athletics-star-wars-this-the-way-halloween-shirt/",
-    "https://teeworksusa.com/product/washington-nationals-star-wars-this-the-way-halloween-shirt/",
-    "https://teeworksusa.com/product/toronto-blue-jays-star-wars-this-the-way-halloween-shirt/",
-    "https://teeworksusa.com/product/william-regal-nxt-made-in-england-1983-shirt/",
-    "https://teeworksusa.com/product/weve-got-seventeen-buffalo-bills-shirt/",
-    "https://teeworksusa.com/product/tampa-bay-rays-star-wars-this-the-way-halloween-shirt/",
-    "https://teeworksusa.com/product/street-reaper-grim-reaper-car-terror-on-the-streets-halloween-shirt/",
-    "https://teeworksusa.com/product/the-east-belongs-to-buffalo-text-shirt/",
-    "https://teeworksusa.com/product/texas-rangers-star-wars-this-the-way-halloween-shirt/",
-    "https://teeworksusa.com/product/south-atlantic-league-playoffs-2025-spartanburgers-shirt/"
+    "https://teeworksusa.com/product/logotipo-deportivo-de-beartooth-shirt/",
+    "https://teeworksusa.com/product/johnny-gargano-nxt-the-whole-shebang-boom-shirt/",
+    "https://teeworksusa.com/product/i-want-william-afton-cartoon-shirt/",
+    "https://teeworksusa.com/product/d-you-betta-grumpy-betta-shirt/",
+    "https://teeworksusa.com/product/chicago-pride-ringer-shirt/",
+    "https://teeworksusa.com/product/bourbon-beyond-logo-text-2025-shirt/",
+    "https://teeworksusa.com/product/buffalo-bills-josh-allen-ice-cold-signature-shirt/",
+    "https://teeworksusa.com/product/supreme-supreme-devotion-forever-new-york-girls-sexy-shirt/",
+    "https://teeworksusa.com/product/san-francisco-giants-run-like-the-wind-magnet-shirt/",
+    "https://teeworksusa.com/product/san-francisco-giants-la-beat-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/mlb-october-baseball-2025-toronto-blue-jays-t-shirt/",
@@ -69,16 +69,16 @@
     "https://dreameshirt.com/product/official-poster-an-evening-with-cake-december-9-2025-the-sylvee-madison-wi-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-whatever-it-takes-phila-shirt/",
-    "https://teeextra.com/product/official-whatever-the-hell-it-takes-topper-phillies-shirt/",
-    "https://teeextra.com/product/official-wake-up-and-smell-the-crunch-berries-max-collegiate-heavyweight-shirt/",
-    "https://teeextra.com/product/official-week-one-is-a-liar-detroit-lions-shirt/",
-    "https://teeextra.com/product/official-the-bronx-goes-savannah-bananas-new-york-yankees-the-stadium-september-13-and-14-2025-shirt/",
-    "https://teeextra.com/product/official-san-francisco-49ers-nwa-niners-with-attitude-shirt/",
-    "https://teeextra.com/product/official-radio-city-music-hall-jason-isbell-feb-20-21-2026-shirt/",
-    "https://teeextra.com/product/official-sturgill-simpson-red-rocks-shows-on-sep-16-17-2025-shirt/",
-    "https://teeextra.com/product/official-wolverine-dont-tread-on-me-michigan-shirt/",
-    "https://teeextra.com/product/official-willie-nelson-willies-high-peaks-ski-resort-winter-shirt/"
+    "https://teeextra.com/product/washington-commanders-nfl-annunciation-2025-two-side-shirt/",
+    "https://teeextra.com/product/tampa-bay-buccaneers-nfl-annunciation-2025-two-side-shirt/",
+    "https://teeextra.com/product/san-francisco-49ers-nfl-annunciation-2025-two-side-shirt/",
+    "https://teeextra.com/product/pittsburgh-steelers-nfl-annunciation-2025-two-side-shirt/",
+    "https://teeextra.com/product/philadelphia-eagles-nfl-annunciation-2025-two-side-shirt/",
+    "https://teeextra.com/product/new-orleans-saints-nfl-annunciation-2025-two-side-shirt/",
+    "https://teeextra.com/product/new-england-patriots-nfl-annunciation-2025-two-side-shirt/",
+    "https://teeextra.com/product/minnesota-vikings-nfl-annunciation-2025-two-side-shirt/",
+    "https://teeextra.com/product/baltimore-ravens-nfl-annunciation-2025-two-side-shirt/",
+    "https://teeextra.com/product/dallas-cowboys-nfl-annunciation-2025-two-side-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/you-cant-fix-stupid-but-the-hats-sure-make-it-easy-to-identify-shirt/",
@@ -93,16 +93,12 @@
     "https://teespix.com/product/mein-hund-ist-nicht-nur-hund-er-ist-familie-shirt/"
   ],
   "nowbestshirt.com": [
-    "https://nowbestshirt.com/product/yoda-im-not-quite-sure-if-life-is-passing-me-by-or-trying-to-run-me-over-shirt/",
-    "https://nowbestshirt.com/product/whatever-it-takes-philadelphia-phillies-shirt/",
-    "https://nowbestshirt.com/product/vita-vea-50-tampa-bay-buccaneers-50th-season-name-and-number-shirt/",
-    "https://nowbestshirt.com/product/university-of-south-florida-football-helmet-2025-season-shirt/",
-    "https://nowbestshirt.com/product/turtle-my-five-moods-im-too-old-for-this-i-dont-get-paid-enough-for-this-shirt/",
-    "https://nowbestshirt.com/product/turtle-i-know-i-swear-a-lot-i-am-very-sorry-you-can-fuck-off-shirt/",
-    "https://nowbestshirt.com/product/turtle-beer-3-thing-i-dont-like-when-talking-to-me-never-talk-to-me-like-im-stupid-shirt/",
-    "https://nowbestshirt.com/product/tristan-wirfs-78-tampa-bay-buccaneers-50th-season-name-and-number-shirt/",
-    "https://nowbestshirt.com/product/thats-what-i-do-i-drink-beer-i-tolerate-idiots-and-i-know-things-shirt/",
-    "https://nowbestshirt.com/product/something-corporate-orange-county-piano-movers-shirt/"
+    "https://nowbestshirt.com/product/forever-sundance-kid-robert-redford-1936-2025-shirt/",
+    "https://nowbestshirt.com/product/dodgers-shohei-ohtani-50-homers-and-50-strikeouts-in-the-same-season-shirt/",
+    "https://nowbestshirt.com/product/cal-raleigh-seattle-mariners-55-home-runs-shirt/",
+    "https://nowbestshirt.com/product/fightin-philadelphia-phillies-red-october-department-shirt/",
+    "https://nowbestshirt.com/product/freedom-robert-redford-1936-2025-american-flag-shirt/",
+    "https://nowbestshirt.com/product/forever-in-our-hearts-robert-redford-1936-2025-shirt/"
   ],
   "serenashirt.com": [
     "https://serenashirt.com/product/philadelphia-eagles-jalen-hurts-how-bout-them-birds-ornament/",
@@ -161,16 +157,7 @@
     "https://uscraftedtees.com/product/official-marina-im-a-star-2025-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/just-stu-it-shirt-2/",
-    "https://capitoneshirt.com/product/jordan-love-angry-runs-packers-helmet-fire-shirt/",
-    "https://capitoneshirt.com/product/have-fun-do-good-shirt-2/",
-    "https://capitoneshirt.com/product/charlie-kirk-you-cant-kill-ideas-shirt/",
-    "https://capitoneshirt.com/product/charlie-brown-and-snoopy-fist-bump-kc-royals-chiefs-skyline-shirt/",
-    "https://capitoneshirt.com/product/brandon-aubrey-americas-favorite-kicker-dallas-cowboys-shirt/",
-    "https://capitoneshirt.com/product/zack-wheeler-pitching-signature-philadelphia-phillies-shirt/",
-    "https://capitoneshirt.com/product/zach-neto-home-plate-diamond-los-angeles-angels-shirt/",
-    "https://capitoneshirt.com/product/wizard-if-i-come-off-a-little-strange-and-hard-to-understand-i-am-not-normal-shirt/",
-    "https://capitoneshirt.com/product/wizard-do-not-speak-to-me-of-procrastination-deadlines-are-a-construct-shirt/"
+    "https://capitoneshirt.com/product/phillies-red-october-2025-nl-east-division-champions-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/wyatt-flores-flagstaff-az-shirt/",
@@ -185,28 +172,28 @@
     "https://clickoneshirt.com/product/thats-showbiz-baby-it-girl-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/mcfly-ready-to-soft-rock-since-03-t-shirts/",
-    "https://teleteeshirt.com/product/marvel-zombies-animation-series-disney-plus-september-2025-t-shirts/",
-    "https://teleteeshirt.com/product/lovebites-eternal-phenomenon-tour-us-2025-dates-t-shirts/",
-    "https://teleteeshirt.com/product/la-yein-fonda-2025-parque-ciudad-empresarial-huechuraba-t-shirts/",
-    "https://teleteeshirt.com/product/kill-tony-where-killers-are-born-est-2013-t-shirts/",
-    "https://teleteeshirt.com/product/kill-tony-monday-night-kt-t-shirts/",
-    "https://teleteeshirt.com/product/kanii-europe-tour-feb-2026-t-shirts/",
-    "https://teleteeshirt.com/product/kaia-gerber-come-to-my-house-i-have-great-books-t-shirts/",
-    "https://teleteeshirt.com/product/brisbane-broncos-2025-nrl-finals-t-shirts/",
-    "https://teleteeshirt.com/product/blink-182-at-riverbend-music-center-cincinnati-ohio-on-september-16-2025-missionary-impossible-tour-t-shirts/"
+    "https://teleteeshirt.com/product/yes-im-old-but-i-saw-baltimore-ravens-greatness-signatures-t-shirts/",
+    "https://teleteeshirt.com/product/wu-tang-clan-project-x-paris-change-the-game-t-shirts/",
+    "https://teleteeshirt.com/product/wilco-pursuit-of-happiness-rainbow-t-shirts/",
+    "https://teleteeshirt.com/product/this-is-the-turning-point-american-flags-t-shirts/",
+    "https://teleteeshirt.com/product/the-witcher-season-4-new-revealed-on-netflix-releasing-october-30-2025-fantasy-series-t-shirts/",
+    "https://teleteeshirt.com/product/the-movement-redwoodz-were-among-the-greatest-things-that-live-upon-this-land-t-shirts/",
+    "https://teleteeshirt.com/product/the-kooks-european-2026-tour-dates-t-shirts/",
+    "https://teleteeshirt.com/product/the-interview-san-francisco-1973-t-shirts/",
+    "https://teleteeshirt.com/product/the-growlers-feel-my-funk-t-shirts/",
+    "https://teleteeshirt.com/product/team-mcfly-logo-t-shirts/"
   ],
   "teeslocal.com": [
-    "https://teeslocal.com/product/final-fantasy-xiv-fun-in-the-sun-shirt/",
-    "https://teeslocal.com/product/eagle-in-flag-im-gonna-let-karma-fix-it-because-if-i-fix-it-im-going-to-jail-shirt/",
-    "https://teeslocal.com/product/doomed-souls-logo-shirt/",
-    "https://teeslocal.com/product/dexter-20-years-2006-2026-thank-you-for-the-memories-signatures-shirt/",
-    "https://teeslocal.com/product/deviled-eggs-you-know-why-im-here-shirt/",
-    "https://teeslocal.com/product/dallas-cowboy-jerry-makes-me-drink-shirt/",
-    "https://teeslocal.com/product/charlie-brown-and-snoopy-back-to-red-october-philadelphia-phillies-postseason-2025-shirt/",
-    "https://teeslocal.com/product/canberra-raiders-logo-x-flag-shirt/",
-    "https://teeslocal.com/product/brian-potter-phoenix-nights-shirt/",
-    "https://teeslocal.com/product/breaking-news-i-am-the-drama-shirt/"
+    "https://teeslocal.com/product/you-know-why-im-here-deviled-eggs-shirt/",
+    "https://teeslocal.com/product/yes-im-old-but-i-saw-washington-redskins-greatness-super-bowl-signatures-shirt/",
+    "https://teeslocal.com/product/yes-im-old-but-i-saw-steelers-greatness-super-bowl-signatures-shirt/",
+    "https://teeslocal.com/product/yes-im-old-but-i-saw-pittsburgh-steelers-greatness-super-bowl-signatures-shirt/",
+    "https://teeslocal.com/product/yes-im-old-but-i-saw-new-york-giants-greatness-city-skyline-super-bowl-signatures-shirt/",
+    "https://teeslocal.com/product/yes-im-old-but-i-saw-miami-dolphins-greatness-super-bowl-signatures-shirt/",
+    "https://teeslocal.com/product/yes-im-old-but-i-saw-green-bay-packers-greatness-super-bowl-signatures-shirt/",
+    "https://teeslocal.com/product/yes-im-old-but-i-saw-denver-broncos-greatness-city-skyline-super-bowl-signatures-shirt/",
+    "https://teeslocal.com/product/yes-im-old-but-i-saw-dallas-cowboys-greatness-city-skyline-super-bowl-signatures-shirt/",
+    "https://teeslocal.com/product/yes-im-old-but-i-saw-baltimore-ravens-greatness-super-bowl-signatures-shirt/"
   ],
   "melonashirt.com": [
     "https://melonashirt.com/product/official-uprisers-we-see-you-therefore-for-we-love-you-floral-shirts/",
