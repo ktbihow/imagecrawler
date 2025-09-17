@@ -1,30 +1,23 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/robbie-williams-wearing-john-paul-ringo-george-robbie-t-shirt/",
-    "https://geekteesus.com/product/thank-you-jesus-2025-tennessee-titans-football-shirt/",
-    "https://geekteesus.com/product/riley-greene-big-head-detroit-tigers-mlb-graphic-shirt/",
-    "https://geekteesus.com/product/jose-altuve-big-head-houston-astros-mlb-graphic-shirt/",
-    "https://geekteesus.com/product/zach-bryan-michigan-wolverines-the-quittin-time-tour-2025-shirt/",
-    "https://geekteesus.com/product/terence-crawford-bud-nebraska-cornhuskers-football-graphic-shirt/",
-    "https://geekteesus.com/product/rise-up-red-sea-arizona-cardinals-nfl-2025-shirt/",
-    "https://geekteesus.com/product/philadelphia-phillies-annual-domestic-violence-awareness-day-2025-shirt/",
-    "https://geekteesus.com/product/new-york-giants-big-blue-nfl-2025-shirt/",
-    "https://geekteesus.com/product/nebraska-huskers-x-terence-crawford-2025-shirt/"
+    "https://geekteesus.com/product/baltimore-orioles-2025-october-ready-mlb-postseason-logo-shirt/",
+    "https://geekteesus.com/product/atlanta-braves-2025-october-ready-mlb-postseason-logo-shirt/",
+    "https://geekteesus.com/product/athletics-2025-built-for-fall-mlb-postseason-shirt/",
+    "https://geekteesus.com/product/arizona-state-sun-devils-vs-tcu-horned-frogs-football-2025-helmet-shirt/",
+    "https://geekteesus.com/product/arizona-diamondbacks-2025-october-ready-mlb-postseason-logo-shirt/",
+    "https://geekteesus.com/product/arizona-diamondbacks-2025-mlb-postseason-own-october-shirt/",
+    "https://geekteesus.com/product/4-million-subscribers-shirt/",
+    "https://geekteesus.com/product/andy-pettitte-46-player-new-york-yankees-mlb-gritty-signature-shirt/",
+    "https://geekteesus.com/product/6-or-9-were-all-having-fun-cincinnati-bengals-nfl-shirt/",
+    "https://geekteesus.com/product/a-true-patriot-charlie-kirk-1993-2025-if-you-believe-in-something-shirt/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-chiefs-kingdom-kansas-city-chiefs-born-x-raised-2025-nfl-football-fan-gear-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/my-father-tarot-card-t-shirt/",
-    "https://techteesusa.com/product/ask-me-about-my-wolf-t-shirt/",
-    "https://techteesusa.com/product/diogo-jota-20-rip-2025-shirt/",
-    "https://techteesusa.com/product/i-got-my-ass-ate-on-the-severed-floor-of-lumon-shirt/",
-    "https://techteesusa.com/product/crunchwrap-slut-shirt/",
-    "https://techteesusa.com/product/indianapolis-skyline-3-team-indianapolis-colts-indiana-fever-indiana-pacers-shirt/",
-    "https://techteesusa.com/product/ohio-state-buckeyes-lee-corso-1987-2025-thank-you-for-the-memories-shirt/",
-    "https://techteesusa.com/product/michigan-wolverines-2025-ncaa-mens-gymnastics-national-champions-shirt/",
-    "https://techteesusa.com/product/trans-women-are-just-retarded-fags-shirt/",
-    "https://techteesusa.com/product/ireland-bound-iowa-state-cyclones-football-shirt/"
+    "https://techteesusa.com/product/mike-piazza-new-york-mets-2000-subway-series-25th-anniversary-vintage-shirt/",
+    "https://techteesusa.com/product/stitch-aloha-from-hawaii-shirt/",
+    "https://techteesusa.com/product/wnba-jam-los-angeles-sparks-kelsey-plum-and-cameron-brink-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/rest-in-peace-robert-redford-shirt/",
