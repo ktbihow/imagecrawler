@@ -162,5 +162,9 @@
     {
         "url": "https://newshirtstore.com/",
         "source_type": "api"
+    },
+    {
+        "url": "https://mercuryshirt.com/",
+        "source_type": "api"
     }
 ]

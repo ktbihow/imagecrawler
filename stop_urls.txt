@@ -320,5 +320,8 @@
     "https://milkywayshirt.com/product/official-gallagher-hill-2025-shirt/",
     "https://milkywayshirt.com/product/official-widespread-panic-dec-29-2025-concert-poster-shirt/",
     "https://milkywayshirt.com/product/official-leftover-salmon-dec-30-31-2025-fernandina-beach-fl-posters-shirt/"
+  ],
+  "mercuryshirt.com": [
+    "https://mercuryshirt.com/product/official-turning-point-usa-we-are-all-charlie-kirk-shirt/"
   ]
 }
