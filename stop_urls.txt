@@ -131,16 +131,7 @@
     "https://legendusashirt.com/product/yes-im-old-but-i-saw-raiders-greatness-helmet-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/15-concept-2-million-meter-club-shirt/",
-    "https://teehandus.com/product/aj-lee-love-bites-back-spider-web-shirt/",
-    "https://teehandus.com/product/all-i-want-is-illegal-expensive-or-brunette-shirt/",
-    "https://teehandus.com/product/armed-queers-salt-lake-city-shirt/",
-    "https://teehandus.com/product/brooklyn-unite-basketball-graphic-shirt/",
-    "https://teehandus.com/product/brandon-aubrey-smooth-like-butter-shirt/",
-    "https://teehandus.com/product/bryce-underwood-big-10-freshman-of-the-week-shirt/",
-    "https://teehandus.com/product/bytown-sea-shanty-collective-shirt/",
-    "https://teehandus.com/product/c-j-stroud-wearing-jesus-shirt/",
-    "https://teehandus.com/product/charlie-kirk-no-voice-no-freedom-shirt/"
+    "https://teehandus.com/product/ravens-tailgate-sunday-with-a-wild-2-sided-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -270,16 +261,16 @@
     "https://collectionpostertour.com/product/nine-inch-nails-september-16-2025-phoenix-az-concert-poster/"
   ],
   "neoteeco.com": [
-    "https://neoteeco.com/product/philadelphia-phillies-team-nl-east-champions-major-league-baseball-baseball-2025-poster-team-spirit-artwork-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/philadelphia-phillies-nl-east-division-champions-major-league-baseball-baseball-2025-postseason-poster-playoff-energy-artwork-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/philadelphia-phillies-lineup-nl-east-champions-major-league-baseball-baseball-2025-poster-stadium-celebration-artwork-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/philadelphia-phillies-core-players-nl-east-division-champions-major-league-baseball-baseball-2025-poster-fierce-unity-artwork-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/marvel-zombies-animation-series-poster-disney-plus-september-2024-horror-artwork-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/lionel-messi-inter-miami-goal-celebration-poster-mls-soccer-2025-minimal-pink-artwork-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/kyle-schwarber-philadelphia-phillies-nl-east-champions-major-league-baseball-baseball-2025-poster-intense-celebration-artwork-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/cal-raleigh-seattle-mariners-single-season-home-run-record-mlb-baseball-2025-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/cal-raleigh-seattle-mariners-56-home-runs-mlb-baseball-2025-home-decor-poster-canvas/",
-    "https://neoteeco.com/product/cal-raleigh-seattle-mariners-55-home-runs-record-major-league-baseball-baseball-2025-poster-epic-landmark-artwork-home-decor-poster-canvas/"
+    "https://neoteeco.com/product/philadelphia-phillies-nl-east-division-champions-major-league-baseball-baseball-2025-postseason-poster-playoff-energy-artwork-unisex-t-shirt/",
+    "https://neoteeco.com/product/philadelphia-phillies-lineup-nl-east-champions-major-league-baseball-baseball-2025-poster-stadium-celebration-artwork-unisex-t-shirt/",
+    "https://neoteeco.com/product/philadelphia-phillies-core-players-nl-east-division-champions-major-league-baseball-baseball-2025-poster-fierce-unity-artwork-unisex-t-shirt/",
+    "https://neoteeco.com/product/philadelphia-phillies-2025-postseason-authentic-collection-legend-mlb-unisex-t-shirt/",
+    "https://neoteeco.com/product/paige-bueckers-x-nike-wnba-2025-rookie-of-the-year-from-indiana-fever-two-sides-unisex-t-shirt/",
+    "https://neoteeco.com/product/marvel-zombies-animation-series-poster-disney-plus-september-2024-horror-artwork-unisex-t-shirt/",
+    "https://neoteeco.com/product/lionel-messi-inter-miami-goal-celebration-poster-mls-soccer-2025-minimal-pink-artwork-unisex-t-shirt/",
+    "https://neoteeco.com/product/kyle-schwarber-philadelphia-phillies-nl-east-champions-major-league-baseball-baseball-2025-poster-intense-celebration-artwork-unisex-t-shirt/",
+    "https://neoteeco.com/product/christopher-bell-checkered-flag-sports-2025-bass-pro-shops-night-race-race-winner-unisex-t-shirt/",
+    "https://neoteeco.com/product/cal-raleigh-seattle-mariners-single-season-home-run-record-mlb-baseball-2025-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
     "https://newshirtstore.com/product/you-aint-getting-shit-ugly-holiday-christmas-t-shirt/",
