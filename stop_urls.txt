@@ -149,16 +149,16 @@
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/official-why-do-they-call-it-queer-eye-instead-of-homo-improvement-t-shirts/",
-    "https://uscraftedtees.com/product/official-watercolor-stadium-the-university-of-alabama-t-shirts/",
-    "https://uscraftedtees.com/product/official-stu-smith-no-revolution-without-womens-liberation-t-shirts/",
-    "https://uscraftedtees.com/product/official-skeleton-i-fully-intend-to-haunt-people-when-i-die-i-have-a-list-t-shirts/",
-    "https://uscraftedtees.com/product/official-rat-cigarette-the-only-thing-im-able-to-commit-to-is-just-one-more-cigarette-i-swear-t-shirts/",
-    "https://uscraftedtees.com/product/official-palm-leaf-sunset-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-obie-mascot-massillon-tigers-x-breast-cancer-awareness-clawing-our-way-to-a-cure-t-shirts/",
-    "https://uscraftedtees.com/product/official-nikki-hughes-who-shot-ya-the-2nd-amendment-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-never-surrender-love-an-american-mother-t-shirts/",
-    "https://uscraftedtees.com/product/official-marina-im-a-star-2025-t-shirts/"
+    "https://uscraftedtees.com/product/original-billy-strings-chattanooga-tn-sep-16-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-blink-182-sep-16-2025-riverbend-music-center-cincinnati-oh-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-the-hives-commodore-ballroom-in-vancouver-bc-sept-16-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-billy-strings-winter-tour-25-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-deafheaven-lincoln-theatre-in-raleigh-nc-sep-23-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-jason-isbell-radio-city-music-hall-nyc-feb-20-21-2026-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-fruit-bats-oct-16-17-2025-ojai-ca-and-los-angeles-ca-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-bob-belcher-okay-fine-but-im-gonna-complain-the-whole-time-t-shirts/",
+    "https://uscraftedtees.com/product/original-fire-mike-mcdaniel-miami-dolphins-t-shirts/",
+    "https://uscraftedtees.com/product/original-brandon-boyd-incubus-t-shirts/"
   ],
   "capitoneshirt.com": [
     "https://capitoneshirt.com/product/paige-bueckers-another-off-the-bucket-list-shirt/",
@@ -197,16 +197,16 @@
     "https://teleteeshirt.com/product/team-mcfly-logo-t-shirts/"
   ],
   "teeslocal.com": [
-    "https://teeslocal.com/product/oakland-athletics-tim-hudson-mark-mulder-barry-zito-big-three-art-shirt/",
-    "https://teeslocal.com/product/new-york-liberty-stars-cartoon-mascot-shirt/",
-    "https://teeslocal.com/product/new-england-patriots-annunciation-be-kind-be-respectful-be-inclusive-shirt/",
-    "https://teeslocal.com/product/new-orleans-saints-annunciation-be-kind-be-respectful-be-inclusive-shirt/",
-    "https://teeslocal.com/product/nebraska-cornhuskers-the-run-how-many-fackles-can-one-man-break-kegs-eggs-football-shirt/",
-    "https://teeslocal.com/product/morgan-wallen-x-cleveland-browns-tour-2025-mascot-logo-schedule-shirt/",
-    "https://teeslocal.com/product/morgan-wallen-x-cleveland-browns-tour-2025-vintage-car-shirt/",
-    "https://teeslocal.com/product/morgan-wallen-x-cleveland-browns-tour-2025-helmet-shirt/",
-    "https://teeslocal.com/product/morgan-wallen-x-cleveland-browns-tour-2025-helmet-logo-shirt/",
-    "https://teeslocal.com/product/morgan-wallen-x-cleveland-browns-im-the-problem-tour-2025-stadium-logo-shirt/"
+    "https://teeslocal.com/product/were-back-booster-club-cartoon-shirt/",
+    "https://teeslocal.com/product/washington-commanders-annunciation-be-kind-be-respectful-be-inclusive-shirt/",
+    "https://teeslocal.com/product/turi-ravens-wild-portrait-shirt/",
+    "https://teeslocal.com/product/the-hundreds-x-taco-crawl-el-ruso-tacos-y-birria-shirt/",
+    "https://teeslocal.com/product/the-crawford-era-photo-bands-shirt/",
+    "https://teeslocal.com/product/texas-tech-red-raiders-on-gamedays-we-wear-red-paper-dolls-shirt/",
+    "https://teeslocal.com/product/tennessee-titans-thank-you-jesus-2025-art-shirt/",
+    "https://teeslocal.com/product/tampa-bay-buccaneers-annunciation-be-kind-be-respectful-be-inclusive-shirt/",
+    "https://teeslocal.com/product/tampa-bay-buccaneers-50-seasons-of-the-krewe-pirate-skeletons-est-1976-shirt/",
+    "https://teeslocal.com/product/san-francisco-49ers-annunciation-be-kind-be-respectful-be-inclusive-shirt/"
   ],
   "melonashirt.com": [
     "https://melonashirt.com/product/official-uprisers-we-see-you-therefore-for-we-love-you-floral-shirts/",
@@ -233,16 +233,16 @@
     "https://dalatshirt.com/product/charlie-kirk-we-are-kirk-army-now-1993-2025-usa-flag-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/freedom-charlie-signature-kirk-memorial-shirt/",
-    "https://lovingsquad.com/product/free-luigi-mangione-shirt-2/",
-    "https://lovingsquad.com/product/for-the-boss-irsay-shirt/",
-    "https://lovingsquad.com/product/foo-fighters-playing-the-old-songs-tour-2025-shirt/",
-    "https://lovingsquad.com/product/fitzwilliam-darcy-shirt/",
-    "https://lovingsquad.com/product/fever-now-you-know-2025-playoffs-logo-shirt/",
-    "https://lovingsquad.com/product/elvis-was-a-liverpool-fan-shirt/",
-    "https://lovingsquad.com/product/dot-day-make-your-mark-shirt/",
-    "https://lovingsquad.com/product/dicker-real-good-shirt/",
-    "https://lovingsquad.com/product/deviled-eggs-you-know-why-im-here-shirt/"
+    "https://lovingsquad.com/product/yuri-ravens-wild-shirt/",
+    "https://lovingsquad.com/product/wnba-official-new-york-liberty-2025-playoffs-above-the-rim-shirt/",
+    "https://lovingsquad.com/product/wnba-official-indiana-fever-2025-playoffs-shirt/",
+    "https://lovingsquad.com/product/warning-beware-ice-rats-shirt/",
+    "https://lovingsquad.com/product/vampire-weekend-tour-2025-shirt/",
+    "https://lovingsquad.com/product/trump-in-loving-memory-of-iryna-zarutska-shirt/",
+    "https://lovingsquad.com/product/ting-auto-parts-shirt/",
+    "https://lovingsquad.com/product/this-is-the-turning-point-patriot-american-flag-vintage-shirt/",
+    "https://lovingsquad.com/product/the-growlers-feel-my-funk-shirt/",
+    "https://lovingsquad.com/product/that-s-showbiz-baby-it-girl-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/yuri-ravens-tailgate-sunday-with-a-wild-shirt/"
@@ -284,16 +284,16 @@
     "https://neoteeco.com/product/nicolas-maduro-enemigo-de-los-venezolanos-political-protest-poster-venezuela-opposition-artwork-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/ghostface-talk-spooky-to-me-halloween-shirt/",
-    "https://newshirtstore.com/product/its-time-to-start-flipping-tables-funny-sarcastic-humor-shirt/",
-    "https://newshirtstore.com/product/i-want-america-to-look-like-america-american-map-shirt/",
-    "https://newshirtstore.com/product/im-that-legendary-graham-everybody-is-talking-about-shirt/",
-    "https://newshirtstore.com/product/ghost-spooky-boo-pumpkin-happy-halloween-autumn-vibes-shirt/",
-    "https://newshirtstore.com/product/i-love-it-when-my-wife-lets-me-buy-more-guns-shirt/",
-    "https://newshirtstore.com/product/i-hate-terrorists-unisex-shirt/",
-    "https://newshirtstore.com/product/fire-up-the-grill-philadelphia-eagles-vs-kansas-city-chiefs-shirt/",
-    "https://newshirtstore.com/product/happy-halloween-scary-pumpkin-party-shirt/",
-    "https://newshirtstore.com/product/haunted-philippines-halloween-filipino-sarcasm-shirt/"
+    "https://newshirtstore.com/product/honkus-ponkus-witches-goose-silly-happy-halloween-shirt/",
+    "https://newshirtstore.com/product/justice-for-charlie-kirk-freedom-legend-never-die-great-american-patriot-shirt/",
+    "https://newshirtstore.com/product/ivoryton-pumpkin-chase-hosted-by-the-ivoryton-library-t-rex-skeleton-shirt/",
+    "https://newshirtstore.com/product/just-sauce-its-ok-its-just-bbq-cowboy-skeleton-graphic-shirt/",
+    "https://newshirtstore.com/product/johnny-cupcakes-the-great-cupcake-halloween-shirt/",
+    "https://newshirtstore.com/product/im-your-pusha-shirt/",
+    "https://newshirtstore.com/product/im-a-teacher-who-just-loves-the-penn-state-nittany-lions-logo-shirt/",
+    "https://newshirtstore.com/product/im-overburdened-with-mitochondria-challenges-shirt/",
+    "https://newshirtstore.com/product/i-get-money-50-cent-shirt/",
+    "https://newshirtstore.com/product/its-always-better-to-piss-in-the-sink-than-sink-in-the-piss-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/when-we-were-younger-we-didnt-have-to-be-told-not-to-try-this-at-home-shirt/",
