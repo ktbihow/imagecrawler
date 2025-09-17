@@ -119,16 +119,16 @@
     "https://fanaticity.com/product/charlie-kick-freedom-red-signature-red-1993-2025-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/i-am-charlie-kirk-repeat-t-shirt/",
-    "https://legendusashirt.com/product/hypocrisy-virus-20th-anniversary-7th-november-2025-t-shirt/",
-    "https://legendusashirt.com/product/hypocrisy-a-taste-of-extreme-divinity-7th-november-2025-t-shirt/",
-    "https://legendusashirt.com/product/houston-astros-2025-choke-in-october-mlb-postseason-locker-room-t-shirt/",
-    "https://legendusashirt.com/product/houston-astros-2025-american-league-the-west-is-ours-t-shirt/",
-    "https://legendusashirt.com/product/gympie-music-muster-artisit-t-shirt/",
-    "https://legendusashirt.com/product/george-strait-50th-anniversary-1976-2026-signature-thank-you-for-the-memories-t-shirt/",
-    "https://legendusashirt.com/product/georgia-bulldogs-dawgs-smoked-t-shirt/",
-    "https://legendusashirt.com/product/freddie-mercury-80-years-1946-2026-the-man-the-myth-the-legend-signature-t-shirt/",
-    "https://legendusashirt.com/product/foo-fighters-adolescents-t-shirt/"
+    "https://legendusashirt.com/product/republicans-are-scared-because-trans-people-make-em-horny-t-shirt/",
+    "https://legendusashirt.com/product/rashee-rice-free-4-kansas-city-chiefs-football-t-shirt/",
+    "https://legendusashirt.com/product/proud-tobe-filipino-ashamed-of-my-government-t-shirt/",
+    "https://legendusashirt.com/product/poster-daily-bread-sep-13-2025-in-grundy-county-tn-t-shirt/",
+    "https://legendusashirt.com/product/pittsburgh-steelers-tour-poster-sept-oct-2025-t-shirt/",
+    "https://legendusashirt.com/product/pittsburgh-steelers-national-football-league-member-club-logo-t-shirt/",
+    "https://legendusashirt.com/product/phish-birmingham-alabama-2025-venue-poster-at-coca-cola-amphitheater-on-september-13-and-14-2025-t-shirt/",
+    "https://legendusashirt.com/product/philadelphia-phillies-red-october-2025-b2b-nl-east-division-champions-t-shirt/",
+    "https://legendusashirt.com/product/yes-im-old-but-i-saw-steelers-greatness-helmet-t-shirt/",
+    "https://legendusashirt.com/product/yes-im-old-but-i-saw-raiders-greatness-helmet-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/15-concept-2-million-meter-club-shirt/",
@@ -286,15 +286,16 @@
     "https://newshirtstore.com/product/yao-ming-money-houston-rockets-basketball-sitting-tall-sarcastic-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/im-the-dollar-tree-witch-stitch-halloween-shirt/",
-    "https://eteeclothing.com/product/im-the-dairy-queen-witch-stitch-halloween-shirt/",
-    "https://eteeclothing.com/product/im-the-chipotle-mexican-grill-witch-stitch-halloween-shirt/",
-    "https://eteeclothing.com/product/i-dont-care-how-you-were-raised-unlearn-that-shit-text-shirt/",
-    "https://eteeclothing.com/product/32-years-1993-2025-jurassic-park-thank-you-for-the-memories-signatures-shirt/",
-    "https://eteeclothing.com/product/75th-anniversary-1950-2025-doak-campbell-stadium-the-house-that-bobby-built-shirt/",
-    "https://eteeclothing.com/product/green-bay-packers-105-seasons-curly-lambeau-and-legends-abbey-road-signatures-shirt/",
-    "https://eteeclothing.com/product/im-the-chilis-witch-stitch-halloween-shirt/",
-    "https://eteeclothing.com/product/ghouls-just-wanna-have-fundamental-rights-floral-shirt/"
+    "https://eteeclothing.com/product/youth-is-the-gift-of-nature-but-age-is-a-work-of-art-shirt/",
+    "https://eteeclothing.com/product/you-dont-get-to-tell-me-what-to-do-youre-not-my-dog-shirt/",
+    "https://eteeclothing.com/product/you-dont-get-to-tell-me-what-to-do-youre-not-my-cat-shirt/",
+    "https://eteeclothing.com/product/whoever-said-theres-no-rest-for-the-wicked-was-lying-i-love-sleep-cat-shirt/",
+    "https://eteeclothing.com/product/when-i-say-the-other-day-it-could-be-anytime-between-yesterday-and-my-birth-shirt/",
+    "https://eteeclothing.com/product/this-exercise-is-bullshit-toilet-shirt/",
+    "https://eteeclothing.com/product/this-exercise-is-banana-shirt/",
+    "https://eteeclothing.com/product/the-secret-of-staying-young-is-to-live-honestly-eat-slowly-and-lie-about-your-age-shirt/",
+    "https://eteeclothing.com/product/the-pug-life-gym-shirt/",
+    "https://eteeclothing.com/product/tampa-bay-buccaneers-50-seasons-of-the-krewe-pirate-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/official-these-foos-la-vice-shirt/",
