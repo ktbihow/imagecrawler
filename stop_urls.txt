@@ -93,12 +93,16 @@
     "https://teespix.com/product/mein-hund-ist-nicht-nur-hund-er-ist-familie-shirt/"
   ],
   "nowbestshirt.com": [
-    "https://nowbestshirt.com/product/forever-sundance-kid-robert-redford-1936-2025-shirt/",
-    "https://nowbestshirt.com/product/dodgers-shohei-ohtani-50-homers-and-50-strikeouts-in-the-same-season-shirt/",
-    "https://nowbestshirt.com/product/cal-raleigh-seattle-mariners-55-home-runs-shirt/",
-    "https://nowbestshirt.com/product/fightin-philadelphia-phillies-red-october-department-shirt/",
-    "https://nowbestshirt.com/product/freedom-robert-redford-1936-2025-american-flag-shirt/",
-    "https://nowbestshirt.com/product/forever-in-our-hearts-robert-redford-1936-2025-shirt/"
+    "https://nowbestshirt.com/product/youre-the-director-of-your-life-so-make-it-a-good-movie-robert-redford-shirt/",
+    "https://nowbestshirt.com/product/you-wouldnt-last-an-hour-in-the-asylum-where-they-raised-me-shirt/",
+    "https://nowbestshirt.com/product/you-know-why-im-here-deviled-egg-shirt/",
+    "https://nowbestshirt.com/product/yes-i-am-a-boy-no-im-not-cutting-my-hair-shirt/",
+    "https://nowbestshirt.com/product/world-wide-mcm-girl-i-dont-want-him-either-shirt/",
+    "https://nowbestshirt.com/product/wherever-you-are-i-hope-youre-fucking-miserable-shirt/",
+    "https://nowbestshirt.com/product/when-the-news-is-silent-the-streets-speak-the-truth-shirt/",
+    "https://nowbestshirt.com/product/turning-point-usa-we-are-all-charlie-kirk-shirt/",
+    "https://nowbestshirt.com/product/this-guy-needs-a-cig-shirt/",
+    "https://nowbestshirt.com/product/the-story-lives-forever-robert-redford-mount-timpanogos-shirt/"
   ],
   "serenashirt.com": [
     "https://serenashirt.com/product/philadelphia-eagles-jalen-hurts-how-bout-them-birds-ornament/",
@@ -184,16 +188,16 @@
     "https://teleteeshirt.com/product/team-mcfly-logo-t-shirts/"
   ],
   "teeslocal.com": [
-    "https://teeslocal.com/product/you-know-why-im-here-deviled-eggs-shirt/",
-    "https://teeslocal.com/product/yes-im-old-but-i-saw-washington-redskins-greatness-super-bowl-signatures-shirt/",
-    "https://teeslocal.com/product/yes-im-old-but-i-saw-steelers-greatness-super-bowl-signatures-shirt/",
-    "https://teeslocal.com/product/yes-im-old-but-i-saw-pittsburgh-steelers-greatness-super-bowl-signatures-shirt/",
-    "https://teeslocal.com/product/yes-im-old-but-i-saw-new-york-giants-greatness-city-skyline-super-bowl-signatures-shirt/",
-    "https://teeslocal.com/product/yes-im-old-but-i-saw-miami-dolphins-greatness-super-bowl-signatures-shirt/",
-    "https://teeslocal.com/product/yes-im-old-but-i-saw-green-bay-packers-greatness-super-bowl-signatures-shirt/",
-    "https://teeslocal.com/product/yes-im-old-but-i-saw-denver-broncos-greatness-city-skyline-super-bowl-signatures-shirt/",
-    "https://teeslocal.com/product/yes-im-old-but-i-saw-dallas-cowboys-greatness-city-skyline-super-bowl-signatures-shirt/",
-    "https://teeslocal.com/product/yes-im-old-but-i-saw-baltimore-ravens-greatness-super-bowl-signatures-shirt/"
+    "https://teeslocal.com/product/yuri-hyun-wumuti-haru-rui-shirt/",
+    "https://teeslocal.com/product/witch-im-at-that-age-where-my-mind-still-thinks-im-29-my-humor-suggests-im-12-halloween-shirt/",
+    "https://teeslocal.com/product/whatever-it-takes-philadelphia-phillies-ring-logo-shirt/",
+    "https://teeslocal.com/product/utsa-roadrunners-soccer-20-seasons-2025-logo-shirt/",
+    "https://teeslocal.com/product/the-one-piece-times-shirt/",
+    "https://teeslocal.com/product/teed-up-trades-golf-ball-shirt/",
+    "https://teeslocal.com/product/smashing-pumpkins-portrait-shirt/",
+    "https://teeslocal.com/product/sloth-i-never-wish-death-upon-anyone-who-wrongs-me-i-wish-sudden-explosive-diarrhea-shirt/",
+    "https://teeslocal.com/product/shank-monkey-scumboy-shirt/",
+    "https://teeslocal.com/product/shaheens-60-india-flag-shirt/"
   ],
   "melonashirt.com": [
     "https://melonashirt.com/product/official-uprisers-we-see-you-therefore-for-we-love-you-floral-shirts/",
