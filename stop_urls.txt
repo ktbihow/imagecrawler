@@ -241,16 +241,16 @@
     "https://lovingsquad.com/product/texas-tech-red-raiders-university-athletics-logo-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/chobani-put-chobani-on-my-jeans-shirt/",
-    "https://designatshop.com/product/chickens-i-am-sweet-lovable-kind-shy-and-innocent-oh-for-heavens-sake-stop-laughing-shirt/",
-    "https://designatshop.com/product/charlie-kirk-who-shot-ya-the-2nd-amendment-shirt/",
-    "https://designatshop.com/product/chicken-let-me-check-my-giveashitometer-nope-nothing-shirt/",
-    "https://designatshop.com/product/cat-japan-sitting-still-plotting-chaos-shirt/",
-    "https://designatshop.com/product/aryna-sabalenka-tennis-back-to-back-stripes-signature-shirt/",
-    "https://designatshop.com/product/aryna-sabalenka-tennis-back-to-back-signature-shirt/",
-    "https://designatshop.com/product/baby-yoda-dang-it-today-i-was-really-hoping-to-wake-up-rich-and-full-of-energy-shirt/",
-    "https://designatshop.com/product/baseball-coquette-bow-red-october-philadelphia-baseball-nl-east-division-champs-shirt/",
-    "https://designatshop.com/product/bird-my-give-a-fuck-broken-but-my-go-fuck-yourself-is-fully-functional-shirt/"
+    "https://designatshop.com/product/philadelphia-phillies-baseball-whatever-it-takes-red-october-2025-shirt/",
+    "https://designatshop.com/product/philadelphia-phillies-baseball-phillies-red-october-im-hammered-shirt/",
+    "https://designatshop.com/product/wnba-rookie-of-the-year-paige-bueckers-shirt/",
+    "https://designatshop.com/product/rat-faking-my-own-death-to-avoid-small-talk-shirt/",
+    "https://designatshop.com/product/philadelphia-phillies-baseball-phanatic-red-october-mlb-2025-shirt/",
+    "https://designatshop.com/product/philadelphia-phillies-baseball-phanatic-ice-cream-helmet-shirt/",
+    "https://designatshop.com/product/philadelphia-baseball-whatever-it-takes-topper-1980-2008-shirt/",
+    "https://designatshop.com/product/peace-robert-1936-2025-true-legends-always-live-i-work-because-i-want-to-work-shirt/",
+    "https://designatshop.com/product/paige-bueckers-2025-wnba-rookie-of-the-year-this-was-only-her-first-rodeo-roty-nike-logo-shirt/",
+    "https://designatshop.com/product/paige-bueckers-dallas-wings-2025-wnba-rookie-of-the-year-shirt/"
   ],
   "arjomany.com": [
     "https://arjomany.com/product/michael-seyer-bug-dew-t-shirt/",
