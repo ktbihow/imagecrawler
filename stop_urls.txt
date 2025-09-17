@@ -12,10 +12,10 @@
     "https://geekteesus.com/product/duck-philadelphia-phillies-sorry-im-late-the-phils-went-into-extra-innings-red-october-2025-shirt/"
   ],
   "orionshirt.com": [
-    "https://orionshirt.com/product/official-poster-beat-back-indiana-hoosiers-vs-illinois-fighting-illini-september-20-2025-in-bloomington-indiana-t-shirt/",
-    "https://orionshirt.com/product/official-nfl-cleveland-browns-high-school-game-of-the-week-ohio-logo-2025-t-shirt/",
-    "https://orionshirt.com/product/official-luis-robert-jr-la-pantera-para-siempre-chicago-white-sox-mlb-2025-fan-gear-t-shirt/",
-    "https://orionshirt.com/product/official-checkered-flag-sports-charcoal-christopher-bell-night-race-race-winner-nascar-cup-series-2025-fan-gear-t-shirt/"
+    "https://orionshirt.com/product/official-i-work-because-i-want-to-work-it-keeps-me-going-robert-redford-1936-2025-t-shirt/",
+    "https://orionshirt.com/product/official-thank-you-robert-redford-89-the-golden-boy-of-hollywood-1936-2025-signature-t-shirt/",
+    "https://orionshirt.com/product/official-speedway-the-worlds-greatest-dirt-track-rossburg-ohio-est-1954-t-shirt/",
+    "https://orionshirt.com/product/official-thanks-for-memories-robert-redford-1936-2025-t-shirt/"
   ],
   "techteesusa.com": [
     "https://techteesusa.com/product/im-not-old-im-vintage-shirt/",
@@ -135,16 +135,16 @@
     "https://legendusashirt.com/product/woodhave-homecoming-just-keep-winning-2025-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/poodles-mac-curlskie-shell-put-all-them-dogs-under-the-table-shirt/",
-    "https://teehandus.com/product/pope-leo-xiv-habemus-papam-shirt/",
-    "https://teehandus.com/product/power-vers-witch-shirt/",
-    "https://teehandus.com/product/pumpkin-ghost-game-halloween-shirt/",
-    "https://teehandus.com/product/quit-your-job-go-on-tour-bang-a-wook-sell-grilled-cheese-boof-a-crystal-live-in-a-van-never-return-shirt/",
-    "https://teehandus.com/product/radiohead-what-a-clean-city-shirt/",
-    "https://teehandus.com/product/ratchet-and-clank-shirt/",
-    "https://teehandus.com/product/real-girls-rock-shirt/",
-    "https://teehandus.com/product/read-books-your-brain-will-thank-you-shirt/",
-    "https://teehandus.com/product/rey-mysterio-booyaka-wwe-gritty-shirt/"
+    "https://teehandus.com/product/bobby-roode-victorious-i-am-glorious-2-sided-shirt/",
+    "https://teehandus.com/product/charlotte-flair-if-youre-gonna-do-it-2-sided-shirt/",
+    "https://teehandus.com/product/gamecock-bourbon-society-carolina-born-and-bred-2-sided-shirt/",
+    "https://teehandus.com/product/hank-walker-we-hit-first-we-hit-last-2-sided-shirt/",
+    "https://teehandus.com/product/johnny-gargano-wrestling-the-whole-shebang-2-sided-shirt/",
+    "https://teehandus.com/product/ross-chastain-support-your-local-farmers-and-ranchers-nascar-2-sided-shirt/",
+    "https://teehandus.com/product/profits-are-up-street-profits-2-sided-shirt/",
+    "https://teehandus.com/product/tiffany-stratton-im-hot-tiffany-stratton-toodles-2-sided-shirt/",
+    "https://teehandus.com/product/tyler-breeze-just-a-pretty-face-poser-2-sided-shirt/",
+    "https://teehandus.com/product/sami-zayn-in-zayn-2-sided-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -241,16 +241,16 @@
     "https://lovingsquad.com/product/texas-tech-red-raiders-university-athletics-logo-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/aryna-sabalenka-statue-of-liberty-queen-of-new-york-city-signature-shirt/",
-    "https://designatshop.com/product/baltimore-ravens-30-seasons-i-can-do-all-things-through-christ-who-strengthens-me-shirt/",
-    "https://designatshop.com/product/baltimore-ravens-yes-im-old-but-i-saw-ravens-greatness-city-skyline-signatures-shirt/",
-    "https://designatshop.com/product/buffalo-bills-football-nfl-bisons-lets-go-buffalo-asl-language-shirt/",
-    "https://designatshop.com/product/buffalo-bills-football-nfl-some-grandmas-play-bingo-real-grandmas-watch-shirt/",
-    "https://designatshop.com/product/candace-owens-i-stand-with-candace-shirt/",
-    "https://designatshop.com/product/charles-woodson-miguel-cabrera-barry-sanders-isiah-thomas-and-steve-yzerman-abbey-road-michigan-legends-way-shirt/",
-    "https://designatshop.com/product/dallas-burn-dallas-mavericks-dallas-cowboys-dallas-stars-and-texas-rangers-abbey-road-legends-way-signatures-shirt/",
-    "https://designatshop.com/product/dallas-cowboys-football-yes-im-old-but-i-saw-cowboys-greatness-signatures-shirt/",
-    "https://designatshop.com/product/denver-broncos-football-yes-im-old-but-i-saw-broncos-greatness-signatures-shirt/"
+    "https://designatshop.com/product/chobani-put-chobani-on-my-jeans-shirt/",
+    "https://designatshop.com/product/chickens-i-am-sweet-lovable-kind-shy-and-innocent-oh-for-heavens-sake-stop-laughing-shirt/",
+    "https://designatshop.com/product/charlie-kirk-who-shot-ya-the-2nd-amendment-shirt/",
+    "https://designatshop.com/product/chicken-let-me-check-my-giveashitometer-nope-nothing-shirt/",
+    "https://designatshop.com/product/cat-japan-sitting-still-plotting-chaos-shirt/",
+    "https://designatshop.com/product/aryna-sabalenka-tennis-back-to-back-stripes-signature-shirt/",
+    "https://designatshop.com/product/aryna-sabalenka-tennis-back-to-back-signature-shirt/",
+    "https://designatshop.com/product/baby-yoda-dang-it-today-i-was-really-hoping-to-wake-up-rich-and-full-of-energy-shirt/",
+    "https://designatshop.com/product/baseball-coquette-bow-red-october-philadelphia-baseball-nl-east-division-champs-shirt/",
+    "https://designatshop.com/product/bird-my-give-a-fuck-broken-but-my-go-fuck-yourself-is-fully-functional-shirt/"
   ],
   "arjomany.com": [
     "https://arjomany.com/product/michael-seyer-bug-dew-t-shirt/",
