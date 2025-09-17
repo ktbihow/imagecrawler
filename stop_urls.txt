@@ -233,16 +233,7 @@
     "https://dalatshirt.com/product/charlie-kirk-we-are-kirk-army-now-1993-2025-usa-flag-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/yuri-ravens-wild-shirt/",
-    "https://lovingsquad.com/product/wnba-official-new-york-liberty-2025-playoffs-above-the-rim-shirt/",
-    "https://lovingsquad.com/product/wnba-official-indiana-fever-2025-playoffs-shirt/",
-    "https://lovingsquad.com/product/warning-beware-ice-rats-shirt/",
-    "https://lovingsquad.com/product/vampire-weekend-tour-2025-shirt/",
-    "https://lovingsquad.com/product/trump-in-loving-memory-of-iryna-zarutska-shirt/",
-    "https://lovingsquad.com/product/ting-auto-parts-shirt/",
-    "https://lovingsquad.com/product/this-is-the-turning-point-patriot-american-flag-vintage-shirt/",
-    "https://lovingsquad.com/product/the-growlers-feel-my-funk-shirt/",
-    "https://lovingsquad.com/product/that-s-showbiz-baby-it-girl-shirt/"
+    "https://lovingsquad.com/product/patriot-usa-charlie-kirk-white-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/yuri-ravens-tailgate-sunday-with-a-wild-shirt/"
