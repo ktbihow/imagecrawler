@@ -43,27 +43,22 @@
     "https://meredpremium.com/product/official-snoopy-fist-bump-charlie-brown-lsu-on-saturdays-and-saints-on-sundays-shirt/"
   ],
   "berrylittles.com": [
-    "https://berrylittles.com/product/official-espn-college-gameday-florida-gators-vs-miami-hurricanes-live-from-miami-fl-september-20-2025-helmet-t-shirt/",
-    "https://berrylittles.com/product/official-georgia-tech-yellow-jackets-football-whiteout-knockout-september-13-2025-24-21-t-shirt/",
-    "https://berrylittles.com/product/official-college-gameday-miami-hurricanes-live-from-miami-fl-september-20-2025-t-shirt/",
-    "https://berrylittles.com/product/official-salvador-perez-300-homers-1000-rbi-1-salvy-perez-kansas-city-royals-signature-t-shirt/",
-    "https://berrylittles.com/product/official-poster-alabama-shakes-mgm-music-hall-at-fenway-park-boston-ma-tour-september-15-2025-t-shirt/",
-    "https://berrylittles.com/product/official-poster-screeching-weasel-september-21-2025-chicago-il-in-riot-fest-2025-t-shirt/",
-    "https://berrylittles.com/product/official-new-york-giants-vs-dallas-cowboys-victory-monday-everythings-bigger-in-texas-even-our-giants-poster-t-shirt/",
-    "https://berrylittles.com/product/official-poster-eric-church-free-the-machine-tour-september-18-2025-xfinity-mobile-arena-tour-t-shirt/",
-    "https://berrylittles.com/product/official-espn-college-gameday-florida-gators-vs-miami-hurricanes-miami-fl-september-20-2025-t-shirt/"
+    "https://berrylittles.com/product/official-rest-in-peace-hollywood-icon-robert-redford-has-sadly-passed-away-1936-2025-poster-t-shirt/",
+    "https://berrylittles.com/product/official-poster-blink-182-september-16-2025-riverbend-music-center-cincinnati-oh-t-shirt/",
+    "https://berrylittles.com/product/official-blink-182-cincinnati-ohio-at-riverbend-music-center-on-september-16-2025-t-shirt/",
+    "https://berrylittles.com/product/official-dion-dawkins-the-shnowman-buffalo-bills-nfl-football-signature-t-shirt/",
+    "https://berrylittles.com/product/official-philadelphia-philles-baseball-mlb-whatever-the-hell-it-takes-topper-t-shirt/",
+    "https://berrylittles.com/product/official-deandre-hopkins-baltimore-ravens-nfl-flash-features-week-2-september-14-2025-t-shirt/",
+    "https://berrylittles.com/product/official-amon-ra-st-brown-detroit-lions-nfl-flash-features-week-2-september-14-2025-t-shirt/",
+    "https://berrylittles.com/product/official-im-just-here-to-watch-oscar-delp-game-day-georgia-bulldogs-ncaa-t-shirt/",
+    "https://berrylittles.com/product/official-indiana-hoosiers-volleyball-candela-alonso-corcelles-1000-kills-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-auburn-tigers-football-jackson-arnold-superstar-pose-signature-t-shirt/",
-    "https://dreameshirt.com/product/official-ashton-jeanty-las-vegas-raiders-nfl-football-llustrative-pack-t-shirt/",
-    "https://dreameshirt.com/product/official-bobby-roode-victorious-i-am-glorious-nxt-debut-authentic-wwe-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-gabby-riley-first-collegiate-goal-9-4-2025-kent-state-golden-flashes-soccer-t-shirt/",
-    "https://dreameshirt.com/product/official-detroit-lions-aidan-hutchinson-hutch-rule-when-97-beats-his-man-for-a-sack-in-practice-t-shirt/",
-    "https://dreameshirt.com/product/official-indiana-fever-2025-wnba-playoffs-now-you-know-t-shirt/",
-    "https://dreameshirt.com/product/official-wwe-wrestlepalooza-indianapolis-espn-event-3-16-t-shirt/",
-    "https://dreameshirt.com/product/official-philadelphia-phillies-mlb-postseason-2025-national-league-east-division-champions-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-johnny-blue-skies-september-16-17-2025-red-rocks-amphitheater-morrison-co-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-the-hives-commodore-ballroom-in-vancouver-bc-september-16-2025-t-shirt/"
+    "https://dreameshirt.com/product/official-miami-dolphins-vs-buffalo-bills-bills-mafia-welcome-to-buffalo-new-york-2025-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-ufc-322-erin-blanchfield-vs-tracy-cortez-flyweight-bout-saturday-november-15th-2025-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-the-guardian-rip-robert-redford-has-died-aged-89-1936-2025-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-new-york-rangers-in-memoriam-giacomin-1939-2025-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-angry-runs-2025-green-bay-packers-jordan-love-nfl-graphic-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/well-done-good-and-faithful-servant-we-are-charlie-kirk-two-side-shirt/",
@@ -78,16 +73,16 @@
     "https://teeextra.com/product/official-wch-tokyo-25-mascot-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/philadelphia-phillies-nike-we-are-so-back-2025-nl-east-champions-t-shirt/",
-    "https://teespix.com/product/philadelphia-phillies-nike-2025-nl-east-division-champions-t-shirt/",
-    "https://teespix.com/product/philadelphia-eagles-philly-goose-shirt/",
-    "https://teespix.com/product/chicago-cubs-cubbie-here-for-the-snacks-shirt/",
-    "https://teespix.com/product/charlie-kirk-the-american-comeback-tour-usa-2025-shirt-2/",
-    "https://teespix.com/product/charlie-kirk-american-comeback-the-future-belongs-to-the-brave-t-shirt/",
-    "https://teespix.com/product/american-comeback-tour-justice-for-charlie-kirk-shirt/",
-    "https://teespix.com/product/justice-for-charlie-kirk-assassinated-2025-t-shirt/",
-    "https://teespix.com/product/he-did-not-spread-hate-you-just-hated-what-he-said-rip-charlie-kirk-t-shirt/",
-    "https://teespix.com/product/chicken-f-caw-f-shirt/"
+    "https://teespix.com/product/you-cant-fix-stupid-but-the-hats-sure-make-it-easy-to-identify-shirt/",
+    "https://teespix.com/product/toronto-power-company-molitor-carter-olerud-shirt/",
+    "https://teespix.com/product/the-golden-ghouls-shirt/",
+    "https://teespix.com/product/thats-showbiz-baby-it-girl-shirt/",
+    "https://teespix.com/product/philadelphia-eagles-we-won-the-fucking-game-shirt/",
+    "https://teespix.com/product/ohio-state-buckle-up-shirt/",
+    "https://teespix.com/product/nope-trump-not-my-president-not-my-emperor-shirt/",
+    "https://teespix.com/product/micah-drop-1-shirt/",
+    "https://teespix.com/product/meowy-catmas-tree-christmas-shirt/",
+    "https://teespix.com/product/mein-hund-ist-nicht-nur-hund-er-ist-familie-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/philadelphia-phillies-2025-nl-east-divison-champions-shirt/",
@@ -269,11 +264,16 @@
     "https://neoteeco.com/product/philadelphia-phillies-team-nl-east-champions-major-league-baseball-baseball-2025-poster-team-spirit-artwork-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/you-aint-getting-shit-ugly-holiday-christmas-t-shirt/",
-    "https://newshirtstore.com/product/you-will-pay-thats-all-earth-gave-you-shirt/",
-    "https://newshirtstore.com/product/yoda-its-officially-wear-a-sweater-in-the-morning-shirt/",
-    "https://newshirtstore.com/product/yoda-ive-talked-the-talk-and-walked-the-walk-shirt/",
-    "https://newshirtstore.com/product/yao-ming-money-houston-rockets-basketball-sitting-tall-sarcastic-shirt/"
+    "https://newshirtstore.com/product/halloween-cute-raccoon-pumpkin-spooky-season-retro-shirt/",
+    "https://newshirtstore.com/product/halloween-gnomes-and-cat-bat-pumpkin-shirt/",
+    "https://newshirtstore.com/product/goosebumps-halloween-funny-spooky-season-shirt/",
+    "https://newshirtstore.com/product/halloween-is-my-jam-all-about-halloween-vibes-shirt/",
+    "https://newshirtstore.com/product/ghost-philadelphia-phillies-red-october-halloween-shirt/",
+    "https://newshirtstore.com/product/green-bay-packers-in-pittsburgh-we-play-all-three-phases-shirt/",
+    "https://newshirtstore.com/product/grumpy-old-gits-club-founder-member-shirt/",
+    "https://newshirtstore.com/product/goose-what-if-im-not-silly-enough-t-shirt/",
+    "https://newshirtstore.com/product/dallas-texans-vs-san-diego-chargers-football-cotton-bowl-1961-retro-shirt/",
+    "https://newshirtstore.com/product/ghost-raccoon-trick-or-trash-halloween-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/youth-is-the-gift-of-nature-but-age-is-a-work-of-art-shirt/",
