@@ -233,7 +233,16 @@
     "https://dalatshirt.com/product/charlie-kirk-we-are-kirk-army-now-1993-2025-usa-flag-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/patriot-usa-charlie-kirk-white-shirt/"
+    "https://lovingsquad.com/product/yuri-ravens-wild-graphic-shirt/",
+    "https://lovingsquad.com/product/yes-baby-high-heeled-shoes-poster-shirt/",
+    "https://lovingsquad.com/product/usf-bulls-south-florida-tampa-fl-helmet-logo-shirt/",
+    "https://lovingsquad.com/product/university-of-alabamas-crimson-tide-crimson-runs-deeper-shirt/",
+    "https://lovingsquad.com/product/trick-or-treatment-nurse-ghost-halloween-shirt/",
+    "https://lovingsquad.com/product/transgender-pride-flag-printed-what-if-i-told-u-that-i-was-from-this-country-shirt/",
+    "https://lovingsquad.com/product/the-grateful-dead-and-san-francisco-49ers-logo-chrismas-shirt/",
+    "https://lovingsquad.com/product/tennessee-titans-nfl-thank-you-jesus-shirt/",
+    "https://lovingsquad.com/product/switch-im-at-that-age-where-my-mind-still-thinks-im-29-my-humor-suggests-im-12-shirt/",
+    "https://lovingsquad.com/product/sol-gym-never-relent-graphic-design-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/yuri-ravens-tailgate-sunday-with-a-wild-shirt/"
@@ -275,16 +284,16 @@
     "https://neoteeco.com/product/nicolas-maduro-enemigo-de-los-venezolanos-political-protest-poster-venezuela-opposition-artwork-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/honkus-ponkus-witches-goose-silly-happy-halloween-shirt/",
-    "https://newshirtstore.com/product/justice-for-charlie-kirk-freedom-legend-never-die-great-american-patriot-shirt/",
-    "https://newshirtstore.com/product/ivoryton-pumpkin-chase-hosted-by-the-ivoryton-library-t-rex-skeleton-shirt/",
-    "https://newshirtstore.com/product/just-sauce-its-ok-its-just-bbq-cowboy-skeleton-graphic-shirt/",
-    "https://newshirtstore.com/product/johnny-cupcakes-the-great-cupcake-halloween-shirt/",
-    "https://newshirtstore.com/product/im-your-pusha-shirt/",
-    "https://newshirtstore.com/product/im-a-teacher-who-just-loves-the-penn-state-nittany-lions-logo-shirt/",
-    "https://newshirtstore.com/product/im-overburdened-with-mitochondria-challenges-shirt/",
-    "https://newshirtstore.com/product/i-get-money-50-cent-shirt/",
-    "https://newshirtstore.com/product/its-always-better-to-piss-in-the-sink-than-sink-in-the-piss-shirt/"
+    "https://newshirtstore.com/product/mercy-to-the-guilty-is-cruelty-to-the-innocent-shirt/",
+    "https://newshirtstore.com/product/morgan-rielly-toronto-maple-leafs-player-hockey-king-motorious-shirt/",
+    "https://newshirtstore.com/product/maga-hat-america-cant-spell-hatred-without-red-hat-shirt/",
+    "https://newshirtstore.com/product/make-america-think-lying-wrong-people-kind-humans-matter-again-t-shirt/",
+    "https://newshirtstore.com/product/may-charlie-be-received-into-the-merciful-arms-of-jesus-our-loving-savior-shirt/",
+    "https://newshirtstore.com/product/los-bicampeon-reyes-2025-diablos-rojos-del-mexico-baseball-logo-shirt/",
+    "https://newshirtstore.com/product/laufey-a-matter-of-time-tour-september-2025-shirt/",
+    "https://newshirtstore.com/product/legends-never-die-robert-redford-hollywood-star-1936-2025-shirt/",
+    "https://newshirtstore.com/product/kempire-after-dark-the-villain-era-shirt/",
+    "https://newshirtstore.com/product/kpop-musical-fantasy-movies-saja-boys-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/when-we-were-younger-we-didnt-have-to-be-told-not-to-try-this-at-home-shirt/",
