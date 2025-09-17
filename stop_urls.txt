@@ -61,16 +61,14 @@
     "https://dreameshirt.com/product/official-angry-runs-2025-green-bay-packers-jordan-love-nfl-graphic-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/well-done-good-and-faithful-servant-we-are-charlie-kirk-two-side-shirt/",
-    "https://teeextra.com/product/rip-warrior-of-christ-may-god-receive-you-in-his-loving-army-charlie-kirk-two-side-shirt/",
-    "https://teeextra.com/product/this-is-our-turning-point-09-10-2025-charlie-kirk-two-side-shirt/",
-    "https://teeextra.com/product/rest-in-peace-45-47-we-the-people-charlie-kirk-two-side-shirt/",
-    "https://teeextra.com/product/penn-state-nittany-lions-special-new-cream-for-the-glory-2-sided-shirt/",
-    "https://teeextra.com/product/oakland-athletics-tim-hudson-mark-mulder-barry-zito-big-three-2-sided-shirt/",
-    "https://teeextra.com/product/keep-the-faith-he-fought-the-good-fight-we-will-finish-the-race-2-timothy-4/",
-    "https://teeextra.com/product/god-family-country-in-that-order-charlie-kirk-two-side-shirt/",
-    "https://teeextra.com/product/official-your-love-drags-me-down-2025-shirt/",
-    "https://teeextra.com/product/official-wch-tokyo-25-mascot-shirt/"
+    "https://teeextra.com/product/official-liberal-normalize-political-violence-shirt/",
+    "https://teeextra.com/product/official-just-stu-it-shirt/",
+    "https://teeextra.com/product/official-jade-glitch-shirt/",
+    "https://teeextra.com/product/official-its-science-bromine-uranium-hydrogen-shirt/",
+    "https://teeextra.com/product/official-indiana-football-fernando-mendoza-magic-shirt/",
+    "https://teeextra.com/product/official-hard-hungry-accountable-relentless-determined-cleveland-browns-shirt/",
+    "https://teeextra.com/product/official-georgia-bulldogs-mascot-otx-shirt/",
+    "https://teeextra.com/product/official-fruitgravy-the-interview-san-francisco-1973-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/you-cant-fix-stupid-but-the-hats-sure-make-it-easy-to-identify-shirt/",
@@ -97,12 +95,16 @@
     "https://nowbestshirt.com/product/phillies-red-october-2025-back-2-back-nl-east-division-champions-shirt/"
   ],
   "serenashirt.com": [
-    "https://serenashirt.com/product/deviled-eggs-you-know-why-im-here-thanksgiving-shirt/",
-    "https://serenashirt.com/product/just-stu-it-shirt/",
-    "https://serenashirt.com/product/deviled-eggs-daddy-shirt/",
-    "https://serenashirt.com/product/angry-runs-cam-skattebo-nfl-new-york-giants-shirt/",
-    "https://serenashirt.com/product/angry-runs-jordan-love-nfl-green-bay-packers-shirt/",
-    "https://serenashirt.com/product/angry-runs-2025-nfl-tour-helmet-fire-shirt/"
+    "https://serenashirt.com/product/i-wanna-know-your-name-shirt/",
+    "https://serenashirt.com/product/the-growlers-feel-my-funk-shirt/",
+    "https://serenashirt.com/product/wizard-frog-do-not-speak-to-me-of-procrastination-deadlines-are-a-construct-of-the-mortal-realm-shirt/",
+    "https://serenashirt.com/product/sbe-suburb-baby-entertainment-shirt/",
+    "https://serenashirt.com/product/wizard-frog-if-i-come-off-a-little-strange-and-hard-to-understand-shirt/",
+    "https://serenashirt.com/product/smosh-detention-degenerates-shirt/",
+    "https://serenashirt.com/product/ride-wild-do-it-with-passion-or-not-at-all-shirt/",
+    "https://serenashirt.com/product/when-the-news-is-silent-the-streets-speak-the-truth-shirt/",
+    "https://serenashirt.com/product/john-harbaugh-x-ben-laden-baltimore-ravens-funny-shirt/",
+    "https://serenashirt.com/product/jade-glitch-shirt/"
   ],
   "fanaticity.com": [
     "https://fanaticity.com/product/aja-riyadh-wilson-las-vegas-aces-signature-shirt/",
@@ -147,16 +149,16 @@
     "https://uscraftedtees.com/product/official-marina-im-a-star-2025-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/usa-liberty-or-death-dont-tread-on-me-shirt/",
-    "https://capitoneshirt.com/product/the-tree-of-liberty-must-be-refreshed-from-time-to-time-with-the-blood-of-tyrants-shirt/",
-    "https://capitoneshirt.com/product/the-rifle-is-the-weapon-of-democracy-i-intend-to-be-among-the-outlaws-shirt/",
-    "https://capitoneshirt.com/product/the-oligarchs-toast-while-families-starve-shirt/",
-    "https://capitoneshirt.com/product/tampa-bay-buccaneers-we-sail-with-6-shirt/",
-    "https://capitoneshirt.com/product/tampa-bay-buccaneers-the-original-pirate-shirt/",
-    "https://capitoneshirt.com/product/tampa-bay-buccaneers-light-the-fuse-shirt/",
-    "https://capitoneshirt.com/product/tampa-bay-buccaneers-sunday-funday-for-the-bay-shirt/",
-    "https://capitoneshirt.com/product/tampa-bay-buccaneers-1976-50-years-shirt/",
-    "https://capitoneshirt.com/product/molon-labe-coyote-spartan-warrior-shirt/"
+    "https://capitoneshirt.com/product/jurickson-profar-atlanta-smile-snow-shirt/",
+    "https://capitoneshirt.com/product/jon-heyman-tweet-arson-judge-appears-headed-to-giants-shirt/",
+    "https://capitoneshirt.com/product/johnny-damon-boston-skyline-celebration-shirt/",
+    "https://capitoneshirt.com/product/john-olerud-toronto-skyline-swing-shirt/",
+    "https://capitoneshirt.com/product/joe-carter-toronto-skyline-swing-shirt/",
+    "https://capitoneshirt.com/product/jey-uso-yeet-gritty-shirt/",
+    "https://capitoneshirt.com/product/jeff-conine-swing-signature-miami-marlins-shirt/",
+    "https://capitoneshirt.com/product/jd-mcdonagh-the-irish-ace-shirt/",
+    "https://capitoneshirt.com/product/jade-cargill-the-storm-is-coming-shirt/",
+    "https://capitoneshirt.com/product/jacob-fatu-scream-gritty-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/wyatt-flores-flagstaff-az-shirt/",
@@ -259,33 +261,40 @@
     "https://collectionpostertour.com/product/nine-inch-nails-september-16-2025-phoenix-az-concert-poster/"
   ],
   "neoteeco.com": [
-    "https://neoteeco.com/product/philadelphia-phillies-x-nike-2025-national-league-east-champions-mlb-unisex-t-shirt/",
-    "https://neoteeco.com/product/philadelphia-phillies-we-own-the-east-tee-national-league-baseball-2025-fan-apparel-red-graphic-unisex-t-shirt/",
-    "https://neoteeco.com/product/philadelphia-phillies-team-nl-east-champions-major-league-baseball-baseball-2025-poster-team-spirit-artwork-unisex-t-shirt/"
+    "https://neoteeco.com/product/the-witcher-season-4-new-poster-revealed-on-netflix-releasing-october-30-2025-fantasy-series-home-decor-poster-canvas/",
+    "https://neoteeco.com/product/rookie-of-the-year-2025-wnba-basketball-title-goes-to-paige-bueckers-of-dallas-wings-home-decor-poster-canvas/",
+    "https://neoteeco.com/product/paige-bueckers-secures-rookie-of-the-year-award-for-dallas-wings-in-wnba-basketball-2025-home-decor-poster-canvas/",
+    "https://neoteeco.com/product/paige-bueckers-dallas-wings-star-has-been-named-rookie-of-the-year-wnba-2025-basketball-season-home-decor-poster-canvas/",
+    "https://neoteeco.com/product/paige-bueckers-dallas-wings-rookie-of-the-year-wnba-basketball-2025-team-pride-classic-artwork-home-decor-poster-canvas/",
+    "https://neoteeco.com/product/paige-bueckers-dallas-wings-rookie-of-the-year-wnba-basketball-2025-court-vision-artwork-home-decor-poster-canvas/",
+    "https://neoteeco.com/product/paige-bueckers-dallas-wings-rookie-of-the-year-wnba-basketball-2025-breaking-news-headline-home-decor-poster-canvas/",
+    "https://neoteeco.com/product/paige-bueckers-dallas-wings-rookie-of-the-year-wnba-basketball-2025-bold-modern-graphic-home-decor-poster-canvas/",
+    "https://neoteeco.com/product/paige-bueckers-dallas-wings-historic-rookie-of-the-year-wnba-basketball-2025-bright-spotlight-design-home-decor-poster-canvas/",
+    "https://neoteeco.com/product/nicolas-maduro-enemigo-de-los-venezolanos-political-protest-poster-venezuela-opposition-artwork-home-decor-poster-canvas/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/halloween-cute-raccoon-pumpkin-spooky-season-retro-shirt/",
-    "https://newshirtstore.com/product/halloween-gnomes-and-cat-bat-pumpkin-shirt/",
-    "https://newshirtstore.com/product/goosebumps-halloween-funny-spooky-season-shirt/",
-    "https://newshirtstore.com/product/halloween-is-my-jam-all-about-halloween-vibes-shirt/",
-    "https://newshirtstore.com/product/ghost-philadelphia-phillies-red-october-halloween-shirt/",
-    "https://newshirtstore.com/product/green-bay-packers-in-pittsburgh-we-play-all-three-phases-shirt/",
-    "https://newshirtstore.com/product/grumpy-old-gits-club-founder-member-shirt/",
-    "https://newshirtstore.com/product/goose-what-if-im-not-silly-enough-t-shirt/",
-    "https://newshirtstore.com/product/dallas-texans-vs-san-diego-chargers-football-cotton-bowl-1961-retro-shirt/",
-    "https://newshirtstore.com/product/ghost-raccoon-trick-or-trash-halloween-shirt/"
+    "https://newshirtstore.com/product/scooby-doo-x-houston-texans-football-go-texans-shirt/",
+    "https://newshirtstore.com/product/san-francisco-49ers-nwa-niners-with-attitude-shirt/",
+    "https://newshirtstore.com/product/shiba-inu-dog-pure-joy-graphic-shirt/",
+    "https://newshirtstore.com/product/rest-in-pace-robert-redford-1936-2025-light-fades-legacy-shines-shirt/",
+    "https://newshirtstore.com/product/robert-redford-vintage-western-movie-american-flag-shirt/",
+    "https://newshirtstore.com/product/pumpkin-skeleton-drinking-coffee-happy-halloween-shirt/",
+    "https://newshirtstore.com/product/pray-for-charlie-kirk-tribute-support-t-shirt/",
+    "https://newshirtstore.com/product/on-wednesday-we-wear-pink-ghost-halloween-shirt/",
+    "https://newshirtstore.com/product/read-book-drink-coffee-fight-evil/",
+    "https://newshirtstore.com/product/paulo-dybala-la-joya-as-roma-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/youth-is-the-gift-of-nature-but-age-is-a-work-of-art-shirt/",
-    "https://eteeclothing.com/product/you-dont-get-to-tell-me-what-to-do-youre-not-my-dog-shirt/",
-    "https://eteeclothing.com/product/you-dont-get-to-tell-me-what-to-do-youre-not-my-cat-shirt/",
-    "https://eteeclothing.com/product/whoever-said-theres-no-rest-for-the-wicked-was-lying-i-love-sleep-cat-shirt/",
-    "https://eteeclothing.com/product/when-i-say-the-other-day-it-could-be-anytime-between-yesterday-and-my-birth-shirt/",
-    "https://eteeclothing.com/product/this-exercise-is-bullshit-toilet-shirt/",
-    "https://eteeclothing.com/product/this-exercise-is-banana-shirt/",
-    "https://eteeclothing.com/product/the-secret-of-staying-young-is-to-live-honestly-eat-slowly-and-lie-about-your-age-shirt/",
-    "https://eteeclothing.com/product/the-pug-life-gym-shirt/",
-    "https://eteeclothing.com/product/tampa-bay-buccaneers-50-seasons-of-the-krewe-pirate-shirt/"
+    "https://eteeclothing.com/product/back-to-back-diablos-rojos-del-mexico-campeon-2-sided-t-shirt/",
+    "https://eteeclothing.com/product/baby-yoda-there-is-no-such-thing-as-a-grouchy-old-person-the-truth-is-once-you-get-old-you-stop-being-polite-shirt/",
+    "https://eteeclothing.com/product/baby-yoda-im-a-bitch-beautiful-intelligent-thoughtful-caring-honest-with-a-low-bullshit-tolerance-shirt/",
+    "https://eteeclothing.com/product/baby-yoda-i-do-not-need-a-sign-that-says-do-not-disturb-need-one-that-says-shirt/",
+    "https://eteeclothing.com/product/auburn-tigers-football-jackson-arnold-superstar-pose-signature-shirt/",
+    "https://eteeclothing.com/product/apple-heartbeat-teacher-teach-love-inspire-kansas-city-chiefs-shirt/",
+    "https://eteeclothing.com/product/atlanta-falcon-darnell-mooney-enterprises-world-2-sided-t-shirt/",
+    "https://eteeclothing.com/product/a-true-patriot-1993-2025-american-hero-charlie-kirk-us-flag-shirt/",
+    "https://eteeclothing.com/product/2025-wnba-playoffs-run-it-back-new-york-liberty-2-sided-t-shirt/",
+    "https://eteeclothing.com/product/2025-wnba-playoffs-new-york-liberty-all-players-2-sided-t-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/official-marilyn-manson-impaled-double-cross-black-shirt/",
