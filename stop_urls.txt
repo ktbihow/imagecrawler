@@ -18,16 +18,15 @@
     "https://orionshirt.com/product/official-thanks-for-memories-robert-redford-1936-2025-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/im-not-old-im-vintage-shirt/",
-    "https://techteesusa.com/product/oh-the-ocean-shirt/",
-    "https://techteesusa.com/product/sam-bennett-florida-panthers-the-menace-shirt/",
-    "https://techteesusa.com/product/i-came-i-saw-i-left-early-shirt/",
-    "https://techteesusa.com/product/mega-man-brothers-in-arm-cannons-shirt/",
-    "https://techteesusa.com/product/fuck-trump-pride-shirt/",
-    "https://techteesusa.com/product/mw-stars-and-stripes-usa-flag-shirt/",
-    "https://techteesusa.com/product/sunflower-kentucky-state-shirt/",
-    "https://techteesusa.com/product/mike-piazza-new-york-mets-slugger-swing-shirt/",
-    "https://techteesusa.com/product/let-the-pirate-shenanigans-begin-shirt/"
+    "https://techteesusa.com/product/freedom-is-only-found-in-jesus-charlie-kirk-signature-shirt/",
+    "https://techteesusa.com/product/alpacalypse-alpaca-shirt/",
+    "https://techteesusa.com/product/do-not-talk-to-me-about-ai-i-will-kill-myself-shirt-shirt/",
+    "https://techteesusa.com/product/buffalo-bills-josh-allen-ice-cold-signature-shirt/",
+    "https://techteesusa.com/product/brandon-boyd-incubus-shirt/",
+    "https://techteesusa.com/product/chobani-put-chobani-on-my-jeans-shirt/",
+    "https://techteesusa.com/product/atlanta-braves-jurickson-profar-players-weekend-shirt/",
+    "https://techteesusa.com/product/fightertown-beach-volleyball-top-gun-shirt/",
+    "https://techteesusa.com/product/workshop-hero-logo-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/rest-in-peace-robert-redford-shirt/",
@@ -135,16 +134,9 @@
     "https://legendusashirt.com/product/woodhave-homecoming-just-keep-winning-2025-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/advisors-ready-2-roll-stu-helmet-shirt/",
-    "https://teehandus.com/product/aidan-birr-georgia-tech-yellow-jackets-celebrate-the-moment-shirt/",
-    "https://teehandus.com/product/all-followed-and-reposted-shirt/",
-    "https://teehandus.com/product/bloodhound-gang-shirt/",
-    "https://teehandus.com/product/anthony-rizzo-forever-chicago-cubs-baseball-shirt/",
-    "https://teehandus.com/product/boiler-room-teletech-london-2024-shirt/",
-    "https://teehandus.com/product/born-to-nug-world-is-a-happy-meal-nuggets-eaten-shirt/",
-    "https://teehandus.com/product/brent-venables-sooner-service-oklahoma-sooners-shirt/",
-    "https://teehandus.com/product/brandon-aubrey-fn-dallas-cowboys-shirt/",
-    "https://teehandus.com/product/bruning-bears-1988-girls-basketball-state-champs-shirt/"
+    "https://teehandus.com/product/freedom-forever-in-our-hearts-charlie-kirk-2-sided-shirt/",
+    "https://teehandus.com/product/owen-larson-83-racing-2-sided-shirt/",
+    "https://teehandus.com/product/todd-gillland-34-pitt-stop-at-loves-2-sided-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -162,11 +154,16 @@
     "https://uscraftedtees.com/product/official-marina-im-a-star-2025-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/jackson-arnold-superstar-pose-auburn-tigers-shirt/",
-    "https://capitoneshirt.com/product/drake-maye-nfl-flash-features-week-2-patriots-shirt/",
-    "https://capitoneshirt.com/product/don-buford-bird-baltimore-swing-signature-shirt/",
-    "https://capitoneshirt.com/product/arizona-wildcats-vintage-cactus-court-shirt/",
-    "https://capitoneshirt.com/product/amon-ra-st-brown-nfl-flash-features-week-2-lions-shirt/"
+    "https://capitoneshirt.com/product/altoona-curve-2025-eastern-league-playoffs-shirt/",
+    "https://capitoneshirt.com/product/american-flag-im-into-fitness-fitness-deer-in-my-freezer-shirt/",
+    "https://capitoneshirt.com/product/ball-state-cardinals-chirp-chirp-helmet-shirt/",
+    "https://capitoneshirt.com/product/american-eagle-give-me-liberty-or-give-me-death-est-1776-shirt/",
+    "https://capitoneshirt.com/product/alle-meine-freunde-hassen-die-afd-shirt/",
+    "https://capitoneshirt.com/product/american-flag-deer-hunting-and-arrows-shirt/",
+    "https://capitoneshirt.com/product/philadelphia-phillies-2025-built-for-fall-2-sided-shirt/",
+    "https://capitoneshirt.com/product/william-regal-made-in-england-2-sided-shirt/",
+    "https://capitoneshirt.com/product/tyler-breeze-just-a-pretty-face-2-sided-shirt/",
+    "https://capitoneshirt.com/product/true-crime-junkie-blood-stains-are-red-2-sided-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/wyatt-flores-flagstaff-az-shirt/",
@@ -241,16 +238,16 @@
     "https://lovingsquad.com/product/texas-tech-red-raiders-university-athletics-logo-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/philadelphia-phillies-baseball-whatever-it-takes-red-october-2025-shirt/",
-    "https://designatshop.com/product/philadelphia-phillies-baseball-phillies-red-october-im-hammered-shirt/",
-    "https://designatshop.com/product/wnba-rookie-of-the-year-paige-bueckers-shirt/",
-    "https://designatshop.com/product/rat-faking-my-own-death-to-avoid-small-talk-shirt/",
-    "https://designatshop.com/product/philadelphia-phillies-baseball-phanatic-red-october-mlb-2025-shirt/",
-    "https://designatshop.com/product/philadelphia-phillies-baseball-phanatic-ice-cream-helmet-shirt/",
-    "https://designatshop.com/product/philadelphia-baseball-whatever-it-takes-topper-1980-2008-shirt/",
-    "https://designatshop.com/product/peace-robert-1936-2025-true-legends-always-live-i-work-because-i-want-to-work-shirt/",
-    "https://designatshop.com/product/paige-bueckers-2025-wnba-rookie-of-the-year-this-was-only-her-first-rodeo-roty-nike-logo-shirt/",
-    "https://designatshop.com/product/paige-bueckers-dallas-wings-2025-wnba-rookie-of-the-year-shirt/"
+    "https://designatshop.com/product/walk-away-grateful-dead-alabama-crimson-tide-football-vintage-shirt/",
+    "https://designatshop.com/product/terence-crawford-welterweight-champions-graphic-shirt/",
+    "https://designatshop.com/product/terence-crawford-boxing-the-legend-hope-art-shirt/",
+    "https://designatshop.com/product/turtle-i-got-that-dog-in-me-vintage-shirt/",
+    "https://designatshop.com/product/robert-redford-quiet-is-greater-than-noise-1936-2025-memorial-shirt/",
+    "https://designatshop.com/product/robert-redford-cowboy-hollywood-star-oscar-winner-card-memorial-shirt/",
+    "https://designatshop.com/product/terence-crawford-boxing-pound-for-pound-king-art-shirt/",
+    "https://designatshop.com/product/rip-robert-redford-angel-1936-2025-memorial-shirt/",
+    "https://designatshop.com/product/robert-redford-always-in-our-hearts-1936-2025-memorial-shirt/",
+    "https://designatshop.com/product/rip-charlie-kirk-big-head-maga-red-hat-political-signature-shirt/"
   ],
   "arjomany.com": [
     "https://arjomany.com/product/michael-seyer-bug-dew-t-shirt/",
@@ -301,16 +298,16 @@
     "https://newshirtstore.com/product/skeleton-with-pumpkin-just-waiting-for-halloween-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/wake-up-and-smell-the-crunch-berries-cedar-rapids-iowa-shirt/",
-    "https://eteeclothing.com/product/south-florida-bulls-tampa-fl-helmet-grid-shirt/",
-    "https://eteeclothing.com/product/red-lobster-fresh-fish-live-lobster-x-black-cat-witch-halloween-shirt/",
-    "https://eteeclothing.com/product/philadelphia-phillies-grateful-dead-night-2-sided-t-shirt/",
-    "https://eteeclothing.com/product/patriots-gillette-world-cup-usa-94-shirt/",
-    "https://eteeclothing.com/product/oakland-athletics-tim-hudson-mark-mulder-barry-zito-big-three-2-sided-t-shirt/",
-    "https://eteeclothing.com/product/new-york-atlas-champions-pll-u-s-bank-2-sided-t-shirt/",
-    "https://eteeclothing.com/product/nate-frazier-georgia-bulldogs-football-elevated-caricature-shirt/",
-    "https://eteeclothing.com/product/minions-my-husband-is-my-favorite-pain-in-the-ass-cartoon-shirt/",
-    "https://eteeclothing.com/product/minions-dang-it-today-i-was-really-hoping-to-wake-up-rich-and-full-of-energy-shirt/"
+    "https://eteeclothing.com/product/i-may-live-in-new-jersey-but-im-a-minnesota-vikings-fan-forever-shirt/",
+    "https://eteeclothing.com/product/i-may-live-in-nevada-but-im-a-minnesota-vikings-fan-forever-shirt/",
+    "https://eteeclothing.com/product/i-may-live-in-nebraska-but-im-a-minnesota-vikings-fan-forever-shirt/",
+    "https://eteeclothing.com/product/i-may-live-in-missouri-but-im-a-minnesota-vikings-fan-forever-shirt/",
+    "https://eteeclothing.com/product/i-may-live-in-mississippi-but-im-a-minnesota-vikings-fan-forever-shirt/",
+    "https://eteeclothing.com/product/i-may-live-in-michigan-but-im-a-minnesota-vikings-fan-forever-shirt/",
+    "https://eteeclothing.com/product/i-may-live-in-massachusetts-but-im-a-minnesota-vikings-fan-forever-shirt/",
+    "https://eteeclothing.com/product/i-may-live-in-maryland-but-im-a-minnesota-vikings-fan-forever-shirt/",
+    "https://eteeclothing.com/product/i-may-live-in-kentucky-but-im-a-minnesota-vikings-fan-forever-shirt/",
+    "https://eteeclothing.com/product/i-may-live-in-louisiana-but-im-a-minnesota-vikings-fan-forever-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/official-marilyn-manson-impaled-double-cross-black-shirt/",
