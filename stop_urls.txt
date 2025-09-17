@@ -22,16 +22,16 @@
     "https://techteesusa.com/product/the-terence-crawford-era-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/logotipo-deportivo-de-beartooth-shirt/",
-    "https://teeworksusa.com/product/johnny-gargano-nxt-the-whole-shebang-boom-shirt/",
-    "https://teeworksusa.com/product/i-want-william-afton-cartoon-shirt/",
-    "https://teeworksusa.com/product/d-you-betta-grumpy-betta-shirt/",
-    "https://teeworksusa.com/product/chicago-pride-ringer-shirt/",
-    "https://teeworksusa.com/product/bourbon-beyond-logo-text-2025-shirt/",
-    "https://teeworksusa.com/product/buffalo-bills-josh-allen-ice-cold-signature-shirt/",
-    "https://teeworksusa.com/product/supreme-supreme-devotion-forever-new-york-girls-sexy-shirt/",
-    "https://teeworksusa.com/product/san-francisco-giants-run-like-the-wind-magnet-shirt/",
-    "https://teeworksusa.com/product/san-francisco-giants-la-beat-shirt/"
+    "https://teeworksusa.com/product/yes-im-old-but-i-saw-steelers-greatness-signature-shirt/",
+    "https://teeworksusa.com/product/yes-im-old-but-i-saw-redskins-greatness-signature-shirt/",
+    "https://teeworksusa.com/product/yes-im-old-but-i-saw-ravens-greatness-signature-shirt/",
+    "https://teeworksusa.com/product/yes-im-old-but-i-saw-philadelphia-greatness-signature-shirt/",
+    "https://teeworksusa.com/product/yes-im-old-but-i-saw-pittsburgh-greatness-signature-shirt/",
+    "https://teeworksusa.com/product/yes-im-old-but-i-saw-packers-greatness-signature-shirt/",
+    "https://teeworksusa.com/product/yes-im-old-but-i-saw-giants-greatness-signature-shirt/",
+    "https://teeworksusa.com/product/yes-im-old-but-i-saw-dolphins-greatness-signature-shirt/",
+    "https://teeworksusa.com/product/yes-im-old-but-i-saw-cowboys-greatness-signature-shirt/",
+    "https://teeworksusa.com/product/yes-im-old-but-i-saw-chicago-greatness-signature-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/mlb-october-baseball-2025-toronto-blue-jays-t-shirt/",
@@ -173,28 +173,28 @@
     "https://capitoneshirt.com/product/frog-and-toad-bones-crayon-drawing-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/wyatt-flores-flagstaff-az-shirt/",
-    "https://clickoneshirt.com/product/who-shot-ya-the-2nd-amendment-shirt/",
-    "https://clickoneshirt.com/product/witch-holding-black-cat-feelin-cute-might-curse-you-later-halloween-shirt/",
-    "https://clickoneshirt.com/product/we-love-you-in-california-shirt/",
-    "https://clickoneshirt.com/product/toronto-power-company-molitor-carter-olerud-shirt/",
-    "https://clickoneshirt.com/product/tony-the-tigga-tiger-parody-shirt/",
-    "https://clickoneshirt.com/product/the-last-guardian-shirt/",
-    "https://clickoneshirt.com/product/the-tiger-and-the-magpie-sumie-shirt/",
-    "https://clickoneshirt.com/product/tasmanian-devil-atlanta-falcons-sack-em-shirt/",
-    "https://clickoneshirt.com/product/thats-showbiz-baby-it-girl-shirt/"
+    "https://clickoneshirt.com/product/the-mock-ups-monkey-shirt/",
+    "https://clickoneshirt.com/product/the-minnesota-vikings-football-thank-for-the-memorial-cross-the-street-signature-shirt/",
+    "https://clickoneshirt.com/product/the-interview-san-francisco-1973-shirt/",
+    "https://clickoneshirt.com/product/the-green-bay-packers-football-thank-for-the-memorial-cross-the-street-signature-shirt/",
+    "https://clickoneshirt.com/product/terence-crawford-bud-world-super-middleweight-champion-logo-shirt/",
+    "https://clickoneshirt.com/product/sydney-sweeney-turning-point-usa-logo-shirt/",
+    "https://clickoneshirt.com/product/super-mo-baller-blast-shirt/",
+    "https://clickoneshirt.com/product/stitch-riding-broomstick-im-the-walmart-witch-halloween-shirt/",
+    "https://clickoneshirt.com/product/stitch-riding-broomstick-im-the-tyson-witch-halloween-shirt/",
+    "https://clickoneshirt.com/product/stitch-riding-broomstick-im-the-publix-witch-halloween-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/yes-im-old-but-i-saw-baltimore-ravens-greatness-signatures-t-shirts/",
-    "https://teleteeshirt.com/product/wu-tang-clan-project-x-paris-change-the-game-t-shirts/",
-    "https://teleteeshirt.com/product/wilco-pursuit-of-happiness-rainbow-t-shirts/",
-    "https://teleteeshirt.com/product/this-is-the-turning-point-american-flags-t-shirts/",
-    "https://teleteeshirt.com/product/the-witcher-season-4-new-revealed-on-netflix-releasing-october-30-2025-fantasy-series-t-shirts/",
-    "https://teleteeshirt.com/product/the-movement-redwoodz-were-among-the-greatest-things-that-live-upon-this-land-t-shirts/",
-    "https://teleteeshirt.com/product/the-kooks-european-2026-tour-dates-t-shirts/",
-    "https://teleteeshirt.com/product/the-interview-san-francisco-1973-t-shirts/",
-    "https://teleteeshirt.com/product/the-growlers-feel-my-funk-t-shirts/",
-    "https://teleteeshirt.com/product/team-mcfly-logo-t-shirts/"
+    "https://teleteeshirt.com/product/miley-cyrus-secrets-t-shirts/",
+    "https://teleteeshirt.com/product/micah-parsons-micah-fucking-parsons-green-bay-packers-t-shirts/",
+    "https://teleteeshirt.com/product/maddie-tae-love-light-t-shirts-2/",
+    "https://teleteeshirt.com/product/kassi-ashton-shes-got-an-attitude-t-shirts-2/",
+    "https://teleteeshirt.com/product/jake-minch-logo-t-shirts/",
+    "https://teleteeshirt.com/product/i-stand-with-candace-owens-t-shirts/",
+    "https://teleteeshirt.com/product/hot-mulligan-death-disco-t-shirts-2/",
+    "https://teleteeshirt.com/product/george-town-together-t-shirts/",
+    "https://teleteeshirt.com/product/farm-aid-40-festival-logo-september-20-2025-minneapolis-mn-t-shirts/",
+    "https://teleteeshirt.com/product/you-know-why-im-here-deviled-egg-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/were-back-booster-club-cartoon-shirt/",
@@ -221,16 +221,16 @@
     "https://melonashirt.com/product/official-tough-times-make-tough-mfs-make-tough-combat-iron-shirts/"
   ],
   "dalatshirt.com": [
-    "https://dalatshirt.com/product/20-years-together-t-shirts/",
-    "https://dalatshirt.com/product/americas-tribune-we-from-here-native-american-t-shirts/",
-    "https://dalatshirt.com/product/bane-mustangs-doodle-together-we-can-t-shirts/",
-    "https://dalatshirt.com/product/bob-belcher-okay-fine-but-im-gonna-complain-the-whole-time-t-shirts/",
-    "https://dalatshirt.com/product/brandon-boyd-incubus-t-shirts/",
-    "https://dalatshirt.com/product/camila-cabello-but-daddy-i-love-her-t-shirts/",
-    "https://dalatshirt.com/product/charlie-kirk-martyr-portrait-t-shirts/",
-    "https://dalatshirt.com/product/charlie-kirk-usa-freedom-t-shirts/",
-    "https://dalatshirt.com/product/chuck-norris-vs-bruce-lee-t-shirts/",
-    "https://dalatshirt.com/product/charlie-kirk-we-are-kirk-army-now-1993-2025-usa-flag-t-shirts/"
+    "https://dalatshirt.com/product/back-2-back-nl-east-division-philadelphia-phillies-champions-2025-t-shirts/",
+    "https://dalatshirt.com/product/alex-palou-ntt-indycar-series-champion-2025-signature-t-shirts/",
+    "https://dalatshirt.com/product/baking-bread-style-breaking-bad-t-shirts/",
+    "https://dalatshirt.com/product/back-to-back-philadelphia-phillies-nl-east-division-champions-2024-2025-signatures-t-shirts/",
+    "https://dalatshirt.com/product/back-to-red-october-philadelphia-phillies-postseason-2025-signatures-t-shirts/",
+    "https://dalatshirt.com/product/bat-x-pumpkin-i-dont-beg-for-friends-so-whether-you-speak-to-me-or-not-i-dont-give-a-flying-fck-t-shirts/",
+    "https://dalatshirt.com/product/batman-shadow-vengeance-comics-t-shirts/",
+    "https://dalatshirt.com/product/bitter-so-sweet-louis-lemonade-a-little-taste-is-all-you-need-t-shirts/",
+    "https://dalatshirt.com/product/canberra-raiders-logo-x-flag-t-shirts/",
+    "https://dalatshirt.com/product/brian-potter-phoenix-nights-t-shirts/"
   ],
   "lovingsquad.com": [
     "https://lovingsquad.com/product/yuri-ravens-wild-graphic-shirt/",
@@ -284,16 +284,16 @@
     "https://neoteeco.com/product/nicolas-maduro-enemigo-de-los-venezolanos-political-protest-poster-venezuela-opposition-artwork-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/mercy-to-the-guilty-is-cruelty-to-the-innocent-shirt/",
-    "https://newshirtstore.com/product/morgan-rielly-toronto-maple-leafs-player-hockey-king-motorious-shirt/",
-    "https://newshirtstore.com/product/maga-hat-america-cant-spell-hatred-without-red-hat-shirt/",
-    "https://newshirtstore.com/product/make-america-think-lying-wrong-people-kind-humans-matter-again-t-shirt/",
-    "https://newshirtstore.com/product/may-charlie-be-received-into-the-merciful-arms-of-jesus-our-loving-savior-shirt/",
-    "https://newshirtstore.com/product/los-bicampeon-reyes-2025-diablos-rojos-del-mexico-baseball-logo-shirt/",
-    "https://newshirtstore.com/product/laufey-a-matter-of-time-tour-september-2025-shirt/",
-    "https://newshirtstore.com/product/legends-never-die-robert-redford-hollywood-star-1936-2025-shirt/",
-    "https://newshirtstore.com/product/kempire-after-dark-the-villain-era-shirt/",
-    "https://newshirtstore.com/product/kpop-musical-fantasy-movies-saja-boys-shirt/"
+    "https://newshirtstore.com/product/the-minotaur-is-my-spirit-animal-shirt/",
+    "https://newshirtstore.com/product/the-penguin-smoking-shirt/",
+    "https://newshirtstore.com/product/the-te-la-louisiane-tavern-est-1944-nadine-france-logo-shirt/",
+    "https://newshirtstore.com/product/the-nightmare-before-christmas-jack-face-shirt/",
+    "https://newshirtstore.com/product/terence-crawford-is-one-of-the-greatest-boxers-of-all-time-superfight-2025-shirt/",
+    "https://newshirtstore.com/product/the-owls-sheffield-wednesday-football-club-est-1867-sheffield-united-kingdom-shirt/",
+    "https://newshirtstore.com/product/the-horrors-of-halloween-goosebumps-haunted-mask-ii-new-face-old-nightmare-poster-shirt/",
+    "https://newshirtstore.com/product/the-pencrimes-of-tewkesbury-abbey-shirt/",
+    "https://newshirtstore.com/product/statue-of-liberty-charlie-kirk-republican-prove-me-wrong-rip-1993-2025-shirt/",
+    "https://newshirtstore.com/product/sophia-im-the-tough-one-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/when-we-were-younger-we-didnt-have-to-be-told-not-to-try-this-at-home-shirt/",
