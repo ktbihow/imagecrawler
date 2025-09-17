@@ -192,16 +192,16 @@
     "https://teleteeshirt.com/product/chicago-cubs-world-series-2016-world-series-champions-mlb-t-shirts/"
   ],
   "teeslocal.com": [
-    "https://teeslocal.com/product/philadelphia-phillies-2025-national-league-east-division-champs-mlb-shirt/",
-    "https://teeslocal.com/product/dallas-cowboys-jerry-makes-me-drink-shirt/",
-    "https://teeslocal.com/product/philadelphia-phillies-2025-national-league-east-division-champions-we-are-so-back-shirt/",
-    "https://teeslocal.com/product/golden-state-valkyries-basketball-wnba-playoffs-2025-logo-shirt/",
-    "https://teeslocal.com/product/high-hopes-ant-philadelphia-phillies-baseball-mlb-shirt/",
-    "https://teeslocal.com/product/derpy-the-tiger-kpop-demon-hunters-anime-gift-fan-shirt/",
-    "https://teeslocal.com/product/ghost-baseball-red-october-philadelphia-phillies-mlb-baseball-champions-shirt/",
-    "https://teeslocal.com/product/family-guy-it-seems-today-birthday-card-that-all-you-see-is-violence-in-movie-t-shirt/",
-    "https://teeslocal.com/product/parrot-tampa-bay-buccaneers-50-seasons-of-the-krewe-parrot-in-collaboration-vintage-shirt/",
-    "https://teeslocal.com/product/phillie-phanatic-its-philly-thing-1980-world-champion-philadelphia-phillies-mlb-baseball-shirt/"
+    "https://teeslocal.com/product/official-robert-redford-hollywood-star-rest-in-peace-1936-2025-shirt/",
+    "https://teeslocal.com/product/official-legends-never-die-robert-redford-t-shirt/",
+    "https://teeslocal.com/product/official-robert-redford-vintage-typewriter-1936-2025-i-work-because-i-want-to-work-it-keeps-me-going-shirt/",
+    "https://teeslocal.com/product/official-robert-redford-quote-not-taking-a-risk-inspirational-shirt/",
+    "https://teeslocal.com/product/official-legends-never-die-robert-redford-hollywood-star-1936-2025-shirt/",
+    "https://teeslocal.com/product/official-retro-robert-redford-16-9-2025-shirt/",
+    "https://teeslocal.com/product/official-rip-robert-redford-rest-in-peace-legends-live-forever-shirt/",
+    "https://teeslocal.com/product/official-robert-redford-vintage-western-movie-american-flag-shirt/",
+    "https://teeslocal.com/product/official-legends-never-die-robert-redford-rest-in-peace-1936-2025-shirt/",
+    "https://teeslocal.com/product/official-rest-in-pace-robert-redford-1936-2025-light-fades-legacy-shines-shirt/"
   ],
   "melonashirt.com": [
     "https://melonashirt.com/product/official-slick-stevie-poor-mans-yacht-club-floridas-least-exclusive-yacht-club-bradenton-florida-shirts/",
@@ -240,16 +240,16 @@
     "https://lovingsquad.com/product/texas-tech-red-raiders-university-athletics-logo-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/rothschilds-sewage-and-septic-sucking-services-distressed-est-1991-shirt/",
-    "https://designatshop.com/product/yeah-im-trans-transporting-this-beer-to-my-mouth-so-i-can-drink-it-yea-im-pan-shirt/",
-    "https://designatshop.com/product/stick-men-philadelphia-phillies-2025-division-champions-baseball-mlb-shirt/",
-    "https://designatshop.com/product/skull-3-things-i-dont-like-when-talking-to-me-dont-talk-to-me-like-im-your-child-dont-talk-like-im-supposed-shirt/",
-    "https://designatshop.com/product/snoopy-and-charlie-brown-philadelphia-phillies-mlb-baseball-champions-shirt/",
-    "https://designatshop.com/product/seattle-storm-basketball-wnba-playoffs-2025-logo-shirt/",
-    "https://designatshop.com/product/roberto-clemente-pittsburgh-pirates-when-i-put-on-my-uniform-i-feel-i-am-proudest-man-on-earth-shirt/",
-    "https://designatshop.com/product/phillie-phanatic-holding-phillies-flag-philadelphia-phillies-mlb-baseball-champions-2025-shirt/",
-    "https://designatshop.com/product/phoenix-mercury-basketball-wnba-playoffs-2025-logo-shirt/",
-    "https://designatshop.com/product/phillie-phanatic-holding-flag-philadelphia-phillies-mlb-baseball-champions-2025-shirt/"
+    "https://designatshop.com/product/robert-redford-quote-not-taking-a-risk-inspirational-shirt/",
+    "https://designatshop.com/product/robert-redford-hollywood-star-rest-in-peace-1936-2025-shirt/",
+    "https://designatshop.com/product/retro-robert-redford-16-9-2025-shirt/",
+    "https://designatshop.com/product/robert-redford-vintage-typewriter-1936-2025-i-work-because-i-want-to-work-it-keeps-me-going-shirt/",
+    "https://designatshop.com/product/rip-robert-redford-rest-in-peace-legends-live-forever-shirt/",
+    "https://designatshop.com/product/legends-never-die-robert-redford-hollywood-star-1936-2025-shirt/",
+    "https://designatshop.com/product/legends-never-die-robert-redford-t-shirt/",
+    "https://designatshop.com/product/robert-redford-vintage-western-movie-american-flag-shirt/",
+    "https://designatshop.com/product/robert-redford-vintage-1936-2025-i-work-because-i-want-to-work-it-keeps-me-going-shirt/",
+    "https://designatshop.com/product/robert-redford-rest-in-peace-tribute-shirt/"
   ],
   "arjomany.com": [
     "https://arjomany.com/product/michael-seyer-bug-dew-t-shirt/",
