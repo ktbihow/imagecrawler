@@ -135,16 +135,16 @@
     "https://legendusashirt.com/product/woodhave-homecoming-just-keep-winning-2025-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/ronald-reagan-one-they-will-limit-your-freedoms-shirt/",
-    "https://teehandus.com/product/saltiness-only-seasons-my-sauce-shirt/",
-    "https://teehandus.com/product/ryder-cup-2025-new-york-bethpage-black-shirt/",
-    "https://teehandus.com/product/seattle-mariners-10-straight-wins-shirt/",
-    "https://teehandus.com/product/smash-ice-stick-to-your-guns-terror-knocked-loose-and-year-of-the-knife-shirt/",
-    "https://teehandus.com/product/stayc-i-want-it-july-comeback-shirt/",
-    "https://teehandus.com/product/the-og-eb-ebjunkies-est-1996-shirt/",
-    "https://teehandus.com/product/the-night-the-reindeer-died-shirt/",
-    "https://teehandus.com/product/tna-wrestling-bound-for-glory-shirt/",
-    "https://teehandus.com/product/torchys-tacos-taco-love-for-all-shirt/"
+    "https://teehandus.com/product/advisors-ready-2-roll-stu-helmet-shirt/",
+    "https://teehandus.com/product/aidan-birr-georgia-tech-yellow-jackets-celebrate-the-moment-shirt/",
+    "https://teehandus.com/product/all-followed-and-reposted-shirt/",
+    "https://teehandus.com/product/bloodhound-gang-shirt/",
+    "https://teehandus.com/product/anthony-rizzo-forever-chicago-cubs-baseball-shirt/",
+    "https://teehandus.com/product/boiler-room-teletech-london-2024-shirt/",
+    "https://teehandus.com/product/born-to-nug-world-is-a-happy-meal-nuggets-eaten-shirt/",
+    "https://teehandus.com/product/brent-venables-sooner-service-oklahoma-sooners-shirt/",
+    "https://teehandus.com/product/brandon-aubrey-fn-dallas-cowboys-shirt/",
+    "https://teehandus.com/product/bruning-bears-1988-girls-basketball-state-champs-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
