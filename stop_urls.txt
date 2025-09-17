@@ -22,16 +22,9 @@
     "https://techteesusa.com/product/the-terence-crawford-era-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/yes-im-old-but-i-saw-steelers-greatness-signature-shirt/",
-    "https://teeworksusa.com/product/yes-im-old-but-i-saw-redskins-greatness-signature-shirt/",
-    "https://teeworksusa.com/product/yes-im-old-but-i-saw-ravens-greatness-signature-shirt/",
-    "https://teeworksusa.com/product/yes-im-old-but-i-saw-philadelphia-greatness-signature-shirt/",
-    "https://teeworksusa.com/product/yes-im-old-but-i-saw-pittsburgh-greatness-signature-shirt/",
-    "https://teeworksusa.com/product/yes-im-old-but-i-saw-packers-greatness-signature-shirt/",
-    "https://teeworksusa.com/product/yes-im-old-but-i-saw-giants-greatness-signature-shirt/",
-    "https://teeworksusa.com/product/yes-im-old-but-i-saw-dolphins-greatness-signature-shirt/",
-    "https://teeworksusa.com/product/yes-im-old-but-i-saw-cowboys-greatness-signature-shirt/",
-    "https://teeworksusa.com/product/yes-im-old-but-i-saw-chicago-greatness-signature-shirt/"
+    "https://teeworksusa.com/product/news-silent-streets-speak-truth-2025-shirt/",
+    "https://teeworksusa.com/product/sbe-suburb-baby-entertainment-shirt/",
+    "https://teeworksusa.com/product/selena-gomez-spring-breakers-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/mlb-october-baseball-2025-toronto-blue-jays-t-shirt/",
@@ -173,28 +166,28 @@
     "https://capitoneshirt.com/product/frog-and-toad-bones-crayon-drawing-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/the-mock-ups-monkey-shirt/",
-    "https://clickoneshirt.com/product/the-minnesota-vikings-football-thank-for-the-memorial-cross-the-street-signature-shirt/",
-    "https://clickoneshirt.com/product/the-interview-san-francisco-1973-shirt/",
-    "https://clickoneshirt.com/product/the-green-bay-packers-football-thank-for-the-memorial-cross-the-street-signature-shirt/",
-    "https://clickoneshirt.com/product/terence-crawford-bud-world-super-middleweight-champion-logo-shirt/",
-    "https://clickoneshirt.com/product/sydney-sweeney-turning-point-usa-logo-shirt/",
-    "https://clickoneshirt.com/product/super-mo-baller-blast-shirt/",
-    "https://clickoneshirt.com/product/stitch-riding-broomstick-im-the-walmart-witch-halloween-shirt/",
-    "https://clickoneshirt.com/product/stitch-riding-broomstick-im-the-tyson-witch-halloween-shirt/",
-    "https://clickoneshirt.com/product/stitch-riding-broomstick-im-the-publix-witch-halloween-shirt/"
+    "https://clickoneshirt.com/product/witch-this-coffee-tastes-like-you-should-shut-the-fuck-up-until-i-finish-it-shirt/",
+    "https://clickoneshirt.com/product/tottenham-hotspur-vs-villarreal-uefa-champions-league-2025-kick-off-shirt/",
+    "https://clickoneshirt.com/product/to-hell-with-flags-shirt/",
+    "https://clickoneshirt.com/product/the-stop-and-supermarket-black-cat-witch-pumpkin-haunted-house-halloween-shirt/",
+    "https://clickoneshirt.com/product/the-growlers-feel-my-funk-shirt/",
+    "https://clickoneshirt.com/product/tampa-bay-buccaneers-vs-houston-texans-nfl-2025-dog-in-a-pile-shirt/",
+    "https://clickoneshirt.com/product/strong-teddy-bear-wheel-with-me-shirt/",
+    "https://clickoneshirt.com/product/speedway-x-snoopy-im-the-witch-halloween-shirt/",
+    "https://clickoneshirt.com/product/skateboard-skate-like-a-girl-bone-street-style-shirt/",
+    "https://clickoneshirt.com/product/skate-darkslide-combustion-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/miley-cyrus-secrets-t-shirts/",
-    "https://teleteeshirt.com/product/micah-parsons-micah-fucking-parsons-green-bay-packers-t-shirts/",
-    "https://teleteeshirt.com/product/maddie-tae-love-light-t-shirts-2/",
-    "https://teleteeshirt.com/product/kassi-ashton-shes-got-an-attitude-t-shirts-2/",
-    "https://teleteeshirt.com/product/jake-minch-logo-t-shirts/",
-    "https://teleteeshirt.com/product/i-stand-with-candace-owens-t-shirts/",
-    "https://teleteeshirt.com/product/hot-mulligan-death-disco-t-shirts-2/",
-    "https://teleteeshirt.com/product/george-town-together-t-shirts/",
-    "https://teleteeshirt.com/product/farm-aid-40-festival-logo-september-20-2025-minneapolis-mn-t-shirts/",
-    "https://teleteeshirt.com/product/you-know-why-im-here-deviled-egg-t-shirts/"
+    "https://teleteeshirt.com/product/trumpkin-spice-and-everything-ice-ghost-maga-halloween-t-shirts/",
+    "https://teleteeshirt.com/product/the-american-dream-is-not-a-guarantee-its-an-opportunity-eagle-flag-t-shirts/",
+    "https://teleteeshirt.com/product/thats-a-awful-lot-of-harlem-world-eagle-t-shirts/",
+    "https://teleteeshirt.com/product/teenage-mutant-ninja-turtles-1990-this-is-no-cartoon-t-shirts/",
+    "https://teleteeshirt.com/product/drinkin-bros-charlie-donation-to-turning-point-usa-t-shirts/",
+    "https://teleteeshirt.com/product/chez-kane-reckless-t-shirts/",
+    "https://teleteeshirt.com/product/teenage-mutant-ninja-turtles-1990-sketchy-streets-t-shirts/",
+    "https://teleteeshirt.com/product/minilla-express-yourself-t-shirts/",
+    "https://teleteeshirt.com/product/rabbit-candy-t-shirts/",
+    "https://teleteeshirt.com/product/ariel-posen-future-present-tense-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/were-back-booster-club-cartoon-shirt/",
@@ -221,16 +214,16 @@
     "https://melonashirt.com/product/official-tough-times-make-tough-mfs-make-tough-combat-iron-shirts/"
   ],
   "dalatshirt.com": [
-    "https://dalatshirt.com/product/back-2-back-nl-east-division-philadelphia-phillies-champions-2025-t-shirts/",
-    "https://dalatshirt.com/product/alex-palou-ntt-indycar-series-champion-2025-signature-t-shirts/",
-    "https://dalatshirt.com/product/baking-bread-style-breaking-bad-t-shirts/",
-    "https://dalatshirt.com/product/back-to-back-philadelphia-phillies-nl-east-division-champions-2024-2025-signatures-t-shirts/",
-    "https://dalatshirt.com/product/back-to-red-october-philadelphia-phillies-postseason-2025-signatures-t-shirts/",
-    "https://dalatshirt.com/product/bat-x-pumpkin-i-dont-beg-for-friends-so-whether-you-speak-to-me-or-not-i-dont-give-a-flying-fck-t-shirts/",
-    "https://dalatshirt.com/product/batman-shadow-vengeance-comics-t-shirts/",
-    "https://dalatshirt.com/product/bitter-so-sweet-louis-lemonade-a-little-taste-is-all-you-need-t-shirts/",
-    "https://dalatshirt.com/product/canberra-raiders-logo-x-flag-t-shirts/",
-    "https://dalatshirt.com/product/brian-potter-phoenix-nights-t-shirts/"
+    "https://dalatshirt.com/product/auroras-whole-realm-catalogue-est-1357-logo-vintage-t-shirts/",
+    "https://dalatshirt.com/product/bay-harbor-butcher-since-miami-fl-2006-t-shirts/",
+    "https://dalatshirt.com/product/bird-drink-coffee-3-things-i-dont-like-when-talking-to-me-dont-talk-to-me-like-im-your-child-t-shirts/",
+    "https://dalatshirt.com/product/blink-182-september-16-2025-anime-t-shirts/",
+    "https://dalatshirt.com/product/bluey-driving-car-philadelphia-phillies-baseball-t-shirts/",
+    "https://dalatshirt.com/product/daddys-autistic-meatball-t-shirts/",
+    "https://dalatshirt.com/product/crimson-runs-deeper-oklahoma-sooners-t-shirts-2/",
+    "https://dalatshirt.com/product/detones-private-music-2025-t-shirts/",
+    "https://dalatshirt.com/product/dead-island-2-zombie-t-shirts/",
+    "https://dalatshirt.com/product/dont-be-jealous-t-shirts-2/"
   ],
   "lovingsquad.com": [
     "https://lovingsquad.com/product/yuri-ravens-wild-graphic-shirt/",
