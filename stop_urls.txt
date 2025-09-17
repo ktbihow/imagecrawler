@@ -54,16 +54,16 @@
     "https://berrylittles.com/product/official-espn-college-gameday-florida-gators-vs-miami-hurricanes-miami-fl-september-20-2025-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-boise-state-broncos-football-air-force-september-20-2025-at-usafa-co-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-emeka-egbuka-tampa-bay-buccaneers-vs-c-j-stroud-houston-texans-espn-monday-night-football-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-charlotte-49ers-vs-rice-owls-the-gold-rush-game-the-rush-for-gold-september-18-2025-charlotte-nc-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-palm-tree-music-festival-rio-grande-park-aspen-colorado-february-20-21-2026-new-t-shirt/",
-    "https://dreameshirt.com/product/official-philadelphia-phillies-mlb-2025-nl-east-division-back-to-back-national-league-east-division-titles-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-philadelphia-phillies-win-los-angeles-dodgers-2025-national-league-east-division-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-philadelphia-phillies-win-los-angeles-dodgers-2025-back-to-back-nl-east-division-champions-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-philadelphia-phillies-win-los-angeles-dodgers-2025-nl-east-division-champs-postseason-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-philadelphia-phillies-b2b-back-to-back-2025-nl-east-division-champs-graphic-t-shirt/",
-    "https://dreameshirt.com/product/official-philadelphia-phillies-2025-mlb-national-league-east-division-champions-fan-gear-logo-t-shirt/"
+    "https://dreameshirt.com/product/official-auburn-tigers-football-jackson-arnold-superstar-pose-signature-t-shirt/",
+    "https://dreameshirt.com/product/official-ashton-jeanty-las-vegas-raiders-nfl-football-llustrative-pack-t-shirt/",
+    "https://dreameshirt.com/product/official-bobby-roode-victorious-i-am-glorious-nxt-debut-authentic-wwe-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-gabby-riley-first-collegiate-goal-9-4-2025-kent-state-golden-flashes-soccer-t-shirt/",
+    "https://dreameshirt.com/product/official-detroit-lions-aidan-hutchinson-hutch-rule-when-97-beats-his-man-for-a-sack-in-practice-t-shirt/",
+    "https://dreameshirt.com/product/official-indiana-fever-2025-wnba-playoffs-now-you-know-t-shirt/",
+    "https://dreameshirt.com/product/official-wwe-wrestlepalooza-indianapolis-espn-event-3-16-t-shirt/",
+    "https://dreameshirt.com/product/official-philadelphia-phillies-mlb-postseason-2025-national-league-east-division-champions-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-johnny-blue-skies-september-16-17-2025-red-rocks-amphitheater-morrison-co-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-the-hives-commodore-ballroom-in-vancouver-bc-september-16-2025-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/well-done-good-and-faithful-servant-we-are-charlie-kirk-two-side-shirt/",
@@ -102,9 +102,12 @@
     "https://nowbestshirt.com/product/phillies-red-october-2025-back-2-back-nl-east-division-champions-shirt/"
   ],
   "serenashirt.com": [
-    "https://serenashirt.com/product/quit-your-job-go-on-tour-bang-a-wook-shirt/",
-    "https://serenashirt.com/product/sonia-citron-22-washington-mystics-wnba-elite-shirt/",
-    "https://serenashirt.com/product/satou-sabally-0-phoenix-mercury-wnba-elite-shirt/"
+    "https://serenashirt.com/product/deviled-eggs-you-know-why-im-here-thanksgiving-shirt/",
+    "https://serenashirt.com/product/just-stu-it-shirt/",
+    "https://serenashirt.com/product/deviled-eggs-daddy-shirt/",
+    "https://serenashirt.com/product/angry-runs-cam-skattebo-nfl-new-york-giants-shirt/",
+    "https://serenashirt.com/product/angry-runs-jordan-love-nfl-green-bay-packers-shirt/",
+    "https://serenashirt.com/product/angry-runs-2025-nfl-tour-helmet-fire-shirt/"
   ],
   "fanaticity.com": [
     "https://fanaticity.com/product/aja-riyadh-wilson-las-vegas-aces-signature-shirt/",
@@ -261,16 +264,9 @@
     "https://collectionpostertour.com/product/nine-inch-nails-september-16-2025-phoenix-az-concert-poster/"
   ],
   "neoteeco.com": [
-    "https://neoteeco.com/product/philadelphia-phillies-nl-east-division-champions-major-league-baseball-baseball-2025-postseason-poster-playoff-energy-artwork-unisex-t-shirt/",
-    "https://neoteeco.com/product/philadelphia-phillies-lineup-nl-east-champions-major-league-baseball-baseball-2025-poster-stadium-celebration-artwork-unisex-t-shirt/",
-    "https://neoteeco.com/product/philadelphia-phillies-core-players-nl-east-division-champions-major-league-baseball-baseball-2025-poster-fierce-unity-artwork-unisex-t-shirt/",
-    "https://neoteeco.com/product/philadelphia-phillies-2025-postseason-authentic-collection-legend-mlb-unisex-t-shirt/",
-    "https://neoteeco.com/product/paige-bueckers-x-nike-wnba-2025-rookie-of-the-year-from-indiana-fever-two-sides-unisex-t-shirt/",
-    "https://neoteeco.com/product/marvel-zombies-animation-series-poster-disney-plus-september-2024-horror-artwork-unisex-t-shirt/",
-    "https://neoteeco.com/product/lionel-messi-inter-miami-goal-celebration-poster-mls-soccer-2025-minimal-pink-artwork-unisex-t-shirt/",
-    "https://neoteeco.com/product/kyle-schwarber-philadelphia-phillies-nl-east-champions-major-league-baseball-baseball-2025-poster-intense-celebration-artwork-unisex-t-shirt/",
-    "https://neoteeco.com/product/christopher-bell-checkered-flag-sports-2025-bass-pro-shops-night-race-race-winner-unisex-t-shirt/",
-    "https://neoteeco.com/product/cal-raleigh-seattle-mariners-single-season-home-run-record-mlb-baseball-2025-unisex-t-shirt/"
+    "https://neoteeco.com/product/philadelphia-phillies-x-nike-2025-national-league-east-champions-mlb-unisex-t-shirt/",
+    "https://neoteeco.com/product/philadelphia-phillies-we-own-the-east-tee-national-league-baseball-2025-fan-apparel-red-graphic-unisex-t-shirt/",
+    "https://neoteeco.com/product/philadelphia-phillies-team-nl-east-champions-major-league-baseball-baseball-2025-poster-team-spirit-artwork-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
     "https://newshirtstore.com/product/you-aint-getting-shit-ugly-holiday-christmas-t-shirt/",
