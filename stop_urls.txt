@@ -61,16 +61,16 @@
     "https://dreameshirt.com/product/official-angry-runs-2025-green-bay-packers-jordan-love-nfl-graphic-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-poppy-jean-crawford-west-coast-tour-2025-shirt/",
-    "https://teeextra.com/product/official-nicky-diamonds-poster-texas-2025-shirt/",
-    "https://teeextra.com/product/official-ministry-of-love-thought-police-ingsoc-shirt/",
-    "https://teeextra.com/product/official-josh-allen-ice-cold-signature-shirt/",
-    "https://teeextra.com/product/official-johnny-blue-skies-red-rocks-amphitheatre-2025-gig-in-morrison-colorado-on-september-16-17-2025-skeletons-cyber-punk-shirt/",
-    "https://teeextra.com/product/official-i-think-ive-done-enough-mariah-carey-shirt/",
-    "https://teeextra.com/product/official-i-saw-foo-fighters-play-their-15th-show-shirt/",
-    "https://teeextra.com/product/official-houndmouth-nashville-9-19-2025-event-shirt/",
-    "https://teeextra.com/product/official-halloween-world-tour-huntrix-shirt/",
-    "https://teeextra.com/product/official-gold-star-chili-estd-1965-shirt/"
+    "https://teeextra.com/product/official-whatever-it-takes-phila-shirt/",
+    "https://teeextra.com/product/official-whatever-the-hell-it-takes-topper-phillies-shirt/",
+    "https://teeextra.com/product/official-wake-up-and-smell-the-crunch-berries-max-collegiate-heavyweight-shirt/",
+    "https://teeextra.com/product/official-week-one-is-a-liar-detroit-lions-shirt/",
+    "https://teeextra.com/product/official-the-bronx-goes-savannah-bananas-new-york-yankees-the-stadium-september-13-and-14-2025-shirt/",
+    "https://teeextra.com/product/official-san-francisco-49ers-nwa-niners-with-attitude-shirt/",
+    "https://teeextra.com/product/official-radio-city-music-hall-jason-isbell-feb-20-21-2026-shirt/",
+    "https://teeextra.com/product/official-sturgill-simpson-red-rocks-shows-on-sep-16-17-2025-shirt/",
+    "https://teeextra.com/product/official-wolverine-dont-tread-on-me-michigan-shirt/",
+    "https://teeextra.com/product/official-willie-nelson-willies-high-peaks-ski-resort-winter-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/you-cant-fix-stupid-but-the-hats-sure-make-it-easy-to-identify-shirt/",
@@ -115,16 +115,16 @@
     "https://fanaticity.com/product/charlie-kick-freedom-red-signature-red-1993-2025-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/wolverine-dont-tread-on-me-michigan-t-shirt/",
-    "https://legendusashirt.com/product/willie-nelson-willies-high-peaks-ski-resort-winter-t-shirt/",
-    "https://legendusashirt.com/product/whatever-the-hell-it-takes-topper-phillies-t-shirt/",
-    "https://legendusashirt.com/product/whatever-it-takes-phila-t-shirt/",
-    "https://legendusashirt.com/product/week-one-is-a-liar-detroit-lions-t-shirt/",
-    "https://legendusashirt.com/product/the-sampsons-family-parody-t-shirt/",
-    "https://legendusashirt.com/product/wake-up-and-smell-the-crunch-berries-max-collegiate-heavyweight-t-shirt/",
-    "https://legendusashirt.com/product/toronto-power-company-molitor-carter-olerud-t-shirt/",
-    "https://legendusashirt.com/product/the-hives-commodore-ballroom-in-vancouver-bc-sep-16-2025-t-shirt/",
-    "https://legendusashirt.com/product/the-bronx-goes-savannah-bananas-new-york-yankees-the-stadium-september-13-and-14-2025-t-shirt/"
+    "https://legendusashirt.com/product/indiana-football-fernando-mendoza-magic-t-shirt/",
+    "https://legendusashirt.com/product/hard-hungry-accountable-relentless-determined-cleveland-browns-t-shirt/",
+    "https://legendusashirt.com/product/fruitgravy-the-interview-san-francisco-1973-t-shirt/",
+    "https://legendusashirt.com/product/georgia-bulldogs-mascot-otx-t-shirt/",
+    "https://legendusashirt.com/product/end-it-empire-underground-albany-ny-oct-21-2025-t-shirt/",
+    "https://legendusashirt.com/product/feiner-advisors-ready-2-roll-stu-helmet-t-shirt/",
+    "https://legendusashirt.com/product/drake-maye-new-england-patriots-nfl-flash-features-week-2-t-shirt/",
+    "https://legendusashirt.com/product/blink-182-cincinnati-tour-on-sep-16-2025-t-shirt/",
+    "https://legendusashirt.com/product/auburn-football-jackson-arnold-superstar-pose-signature-t-shirt/",
+    "https://legendusashirt.com/product/angry-runs-2025-packers-jordan-love-2025-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/ravens-tailgate-sunday-with-a-wild-2-sided-shirt/"
@@ -283,16 +283,16 @@
     "https://newshirtstore.com/product/paulo-dybala-la-joya-as-roma-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/snoopy-and-charlie-brown-minnesota-sports-twins-x-vikings-skyline-shirt/",
-    "https://eteeclothing.com/product/snoopy-and-charlie-brown-indiana-sports-notre-dame-fighting-irish-x-indianapolis-colts-skyline-shirt/",
-    "https://eteeclothing.com/product/jaylen-carey-tennessee-basketball-illustrated-shirt/",
-    "https://eteeclothing.com/product/las-vegas-aces-aja-wilson-new-logo-2-sided-t-shirt/",
-    "https://eteeclothing.com/product/yes-im-old-but-i-saw-greatness-washington-redskins-legends-skyline-signatures-shirt/",
-    "https://eteeclothing.com/product/yes-im-old-but-i-saw-greatness-pittsburgh-steelers-legends-skyline-signatures-shirt/",
-    "https://eteeclothing.com/product/yes-im-old-but-i-saw-greatness-new-york-giants-legends-skyline-signatures-shirt/",
-    "https://eteeclothing.com/product/yes-im-old-but-i-saw-greatness-miami-dolphins-legends-skyline-signatures-shirt/",
-    "https://eteeclothing.com/product/yes-im-old-but-i-saw-greatness-green-bay-packers-legends-skyline-signatures-shirt/",
-    "https://eteeclothing.com/product/yes-im-old-but-i-saw-greatness-baltimore-ravens-legends-skyline-signatures-shirt/"
+    "https://eteeclothing.com/product/wake-up-and-smell-the-crunch-berries-cedar-rapids-iowa-shirt/",
+    "https://eteeclothing.com/product/south-florida-bulls-tampa-fl-helmet-grid-shirt/",
+    "https://eteeclothing.com/product/red-lobster-fresh-fish-live-lobster-x-black-cat-witch-halloween-shirt/",
+    "https://eteeclothing.com/product/philadelphia-phillies-grateful-dead-night-2-sided-t-shirt/",
+    "https://eteeclothing.com/product/patriots-gillette-world-cup-usa-94-shirt/",
+    "https://eteeclothing.com/product/oakland-athletics-tim-hudson-mark-mulder-barry-zito-big-three-2-sided-t-shirt/",
+    "https://eteeclothing.com/product/new-york-atlas-champions-pll-u-s-bank-2-sided-t-shirt/",
+    "https://eteeclothing.com/product/nate-frazier-georgia-bulldogs-football-elevated-caricature-shirt/",
+    "https://eteeclothing.com/product/minions-my-husband-is-my-favorite-pain-in-the-ass-cartoon-shirt/",
+    "https://eteeclothing.com/product/minions-dang-it-today-i-was-really-hoping-to-wake-up-rich-and-full-of-energy-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/official-marilyn-manson-impaled-double-cross-black-shirt/",
