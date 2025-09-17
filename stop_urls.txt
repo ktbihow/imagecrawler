@@ -154,16 +154,8 @@
     "https://uscraftedtees.com/product/original-brandon-boyd-incubus-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/paige-bueckers-another-off-the-bucket-list-shirt/",
-    "https://capitoneshirt.com/product/liberty-flames-run-it-back-shirt/",
-    "https://capitoneshirt.com/product/liberty-flames-athletics-mascot-shirt/",
-    "https://capitoneshirt.com/product/knight-dost-thou-even-hoist-shirt/",
-    "https://capitoneshirt.com/product/im-everton-fc-till-i-die-shirt/",
-    "https://capitoneshirt.com/product/grumpy-old-gits-club-founder-member-shirt/",
-    "https://capitoneshirt.com/product/frog-magical-girl-transformation-but-i-turn-into-this-shirt/",
-    "https://capitoneshirt.com/product/frog-and-toad-fly-the-kite-shirt/",
-    "https://capitoneshirt.com/product/frog-and-toad-eating-noodle-japanese-shirt/",
-    "https://capitoneshirt.com/product/frog-and-toad-bones-crayon-drawing-shirt/"
+    "https://capitoneshirt.com/product/toad-said-time-is-just-the-thing-that-happens-between-snacks-shirt/",
+    "https://capitoneshirt.com/product/ve-day-80th-anniversary-1945-2025-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/witch-this-coffee-tastes-like-you-should-shut-the-fuck-up-until-i-finish-it-shirt/",
