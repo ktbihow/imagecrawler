@@ -1,15 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/baltimore-orioles-2025-october-ready-mlb-postseason-logo-shirt/",
-    "https://geekteesus.com/product/atlanta-braves-2025-october-ready-mlb-postseason-logo-shirt/",
-    "https://geekteesus.com/product/athletics-2025-built-for-fall-mlb-postseason-shirt/",
-    "https://geekteesus.com/product/arizona-state-sun-devils-vs-tcu-horned-frogs-football-2025-helmet-shirt/",
-    "https://geekteesus.com/product/arizona-diamondbacks-2025-october-ready-mlb-postseason-logo-shirt/",
-    "https://geekteesus.com/product/arizona-diamondbacks-2025-mlb-postseason-own-october-shirt/",
-    "https://geekteesus.com/product/4-million-subscribers-shirt/",
-    "https://geekteesus.com/product/andy-pettitte-46-player-new-york-yankees-mlb-gritty-signature-shirt/",
-    "https://geekteesus.com/product/6-or-9-were-all-having-fun-cincinnati-bengals-nfl-shirt/",
-    "https://geekteesus.com/product/a-true-patriot-charlie-kirk-1993-2025-if-you-believe-in-something-shirt/"
+    "https://geekteesus.com/product/there-is-no-finish-line-oregon-duck-shoe-duck-signature-shirt/",
+    "https://geekteesus.com/product/built-for-all-clinched-philadelphia-phillies-2025-mlb-postseason-shirt/",
+    "https://geekteesus.com/product/built-for-all-clinched-milwaukee-brewers-2025-mlb-postseason-shirt/",
+    "https://geekteesus.com/product/amarillo-sod-poodles-2025-2nd-half-texas-league-champions-shirt/",
+    "https://geekteesus.com/product/now-you-know-2025-play-offs-indiana-fever-wnba-shirt/",
+    "https://geekteesus.com/product/sergio-perez-number-11-los-angeles-dodgers-mlb-signature-shirt/",
+    "https://geekteesus.com/product/western-kentucky-vs-lsu-tigers-death-valley-2025-mascot-shirt/",
+    "https://geekteesus.com/product/wonder-wharf-classic-shirt/",
+    "https://geekteesus.com/product/whoop-dee-doo-shirt/",
+    "https://geekteesus.com/product/whiteout-knockout-georgia-tech-yellow-jackets-football-2025-score-shirt/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-chiefs-kingdom-kansas-city-chiefs-born-x-raised-2025-nfl-football-fan-gear-t-shirt/"
@@ -175,14 +175,16 @@
     "https://clickoneshirt.com/product/thats-showbiz-baby-it-girl-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/troye-sivan-translate-your-vibration-let-your-body-talk-to-me-t-shirts/",
-    "https://teleteeshirt.com/product/troye-sivan-rush-sports-silhouette-95-t-shirts/",
-    "https://teleteeshirt.com/product/troye-sivan-photo-t-shirts/",
-    "https://teleteeshirt.com/product/the-hermit-a-messenger-of-peace-t-shirts/",
-    "https://teleteeshirt.com/product/san-francisco-giants-world-series-2010-champions-mlb-t-shirts/",
-    "https://teleteeshirt.com/product/pop-culture-wizard-bird-and-cat-t-shirts/",
-    "https://teleteeshirt.com/product/atlanta-braves-world-series-1995-world-series-champions-mlb-t-shirts/",
-    "https://teleteeshirt.com/product/chicago-cubs-world-series-2016-world-series-champions-mlb-t-shirts/"
+    "https://teleteeshirt.com/product/vampire-weekend-2025-the-wellmont-theater-montclair-nj-t-shirts/",
+    "https://teleteeshirt.com/product/blink-182-sep-16-2025-riverbend-music-center-cincinnati-oh-anime-eyes-t-shirts/",
+    "https://teleteeshirt.com/product/the-mock-ups-monkey-t-shirts/",
+    "https://teleteeshirt.com/product/the-avett-brothers-sep-16-2025-southern-kentucky-performing-arts-center-in-bowling-green-ky-t-shirts/",
+    "https://teleteeshirt.com/product/stu-feiner-advisors-ready-2-roll-helmet-t-shirts/",
+    "https://teleteeshirt.com/product/saba-pivot-the-big-picture-2026-tour-dates-t-shirts/",
+    "https://teleteeshirt.com/product/s-no-la-heritage-t-shirts/",
+    "https://teleteeshirt.com/product/ride-wild-do-it-with-passion-or-not-at-all-t-shirts/",
+    "https://teleteeshirt.com/product/philadelphia-phillies-whatever-the-hell-it-takes-topper-t-shirts/",
+    "https://teleteeshirt.com/product/official-we-are-all-charlie-kirk-turning-point-usa-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/official-robert-redford-hollywood-star-rest-in-peace-1936-2025-shirt/",
