@@ -298,7 +298,15 @@
     "https://milkywayshirt.com/product/official-leftover-salmon-dec-30-31-2025-fernandina-beach-fl-posters-shirt/"
   ],
   "mercuryshirt.com": [
-    "https://mercuryshirt.com/product/official-when-the-news-is-silent-the-streets-speak-the-truth-shirt/",
-    "https://mercuryshirt.com/product/official-we-stand-with-charlie-kirk-true-patriot-shirt/"
+    "https://mercuryshirt.com/product/official-you-memory-live-on-robert-redford-1936-2025-shirt/",
+    "https://mercuryshirt.com/product/official-you-know-why-im-here-deviled-egg-shirt/",
+    "https://mercuryshirt.com/product/official-wanted-legend-robert-redford-shirt/",
+    "https://mercuryshirt.com/product/official-vintage-robert-redford-tribute-legend-never-dies-shirt/",
+    "https://mercuryshirt.com/product/official-trump-in-loving-memory-of-iryna-zarutska-shirt/",
+    "https://mercuryshirt.com/product/official-this-man-never-dies-a-legend-forever-robert-redford-shirt/",
+    "https://mercuryshirt.com/product/official-the-golden-era-never-dies-robert-redford-1976-2025-shirt/",
+    "https://mercuryshirt.com/product/official-thank-you-robert-redford-1936-2025-for-the-stories-shirt/",
+    "https://mercuryshirt.com/product/official-robert-redford-tribute-legends-never-die-shirt/",
+    "https://mercuryshirt.com/product/official-robert-redford-the-legend-shirt/"
   ]
 }
