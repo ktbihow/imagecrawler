@@ -1,7 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/playoffs-2025-first-of-a-lifetime-golden-state-valkyries-wnba-shirt/",
-    "https://geekteesus.com/product/2025-wnba-rookie-of-the-year-paige-bueckers-dallas-wings-wnba-shirt/"
+    "https://geekteesus.com/product/salvador-perez-300-homers-and-1000-rbi-and-1-salvy-perez-kansas-city-royals-baseball-signature-shirt/",
+    "https://geekteesus.com/product/ryan-reynolds-canada-toronto-international-film-festival-shirt/",
+    "https://geekteesus.com/product/roll-on-the-weeknd-parody-shirt/",
+    "https://geekteesus.com/product/operation-alert-operation-alert-schwarbombs-philadelphia-phillies-baseball-2025-shirt/",
+    "https://geekteesus.com/product/ole-miss-rebels-sec-football-2025-gameday-graphic-shirt/",
+    "https://geekteesus.com/product/no-diggity-bout-to-bag-it-up-halloween-2025-shirt/",
+    "https://geekteesus.com/product/new-york-knicks-diplomats-shirt/",
+    "https://geekteesus.com/product/my-heart-burns-for-thee-if-thou-dost-even-care-shirt/",
+    "https://geekteesus.com/product/mau-p-hard-drugs-cafe-you-must-pop-a-tesla-parody-logo-shirt/",
+    "https://geekteesus.com/product/malia-baker-portrait-signature-shirt/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-i-work-because-i-want-to-work-it-keeps-me-going-robert-redford-1936-2025-t-shirt/",
@@ -163,12 +171,14 @@
     "https://clickoneshirt.com/product/skate-darkslide-combustion-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/cal-raleigh-history-for-big-dumper-most-home-runs-in-a-season-for-a-catcher-a-switch-hitter-and-a-seattle-slugger-t-shirts/",
-    "https://teleteeshirt.com/product/psychopoly-hieroglyphics-t-shirts/",
-    "https://teleteeshirt.com/product/christian-yelich-and-jake-bauers-the-power-of-friendship-milwaukee-brewers-t-shirts/",
-    "https://teleteeshirt.com/product/im-seasonally-depressed-for-halloween-t-shirts/",
-    "https://teleteeshirt.com/product/hocus-pocus-witches-grwm-iphone-apple-t-shirts/",
-    "https://teleteeshirt.com/product/psychopoly-explore-the-mysteries-americas-national-parks-bigfoot-ufo-t-shirts/"
+    "https://teleteeshirt.com/product/blink-182-9-17-2025-ruoff-music-center-in-noblesville-in-cat-t-shirts/",
+    "https://teleteeshirt.com/product/the-who-sep-17-2025-hollywood-bowl-in-hollywood-ca-head-t-shirts/",
+    "https://teleteeshirt.com/product/wisconsin-needs-public-schools-t-shirts/",
+    "https://teleteeshirt.com/product/ugk-underground-kingz-ridin-dirty-fsg-t-shirts/",
+    "https://teleteeshirt.com/product/the-outsiders-scrim-t-shirts/",
+    "https://teleteeshirt.com/product/south-park-x-charlie-kirk-jesus-is-the-answer-t-shirts/",
+    "https://teleteeshirt.com/product/shinazugawa-genya-american-breath-first-form-kimetsu-no-yaiba-demon-slayer-t-shirts/",
+    "https://teleteeshirt.com/product/senses-fail-life-is-not-a-waiting-room-live-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/hello-camelia-la-tejana-shirt/",
@@ -234,16 +244,16 @@
     "https://arjomany.com/product/screeching-weasel-september-21-2025-riot-fest-chicago-il-poster/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/the-kooks-european-tour-2026-poster/",
-    "https://collectionpostertour.com/product/state-champs-november-2025-poster/",
-    "https://collectionpostertour.com/product/state-champs-live-in-november-2025-poster/",
-    "https://collectionpostertour.com/product/poster-the-kooks-european-2026/",
-    "https://collectionpostertour.com/product/poster-nuovo-testamento-tour-2025/",
-    "https://collectionpostertour.com/product/poster-lovebites-eternal-phenomenon-us-2025/",
-    "https://collectionpostertour.com/product/poster-kanii-europe-february-2026/",
-    "https://collectionpostertour.com/product/poster-daffo-band-where-the-earth-bends-2025/",
-    "https://collectionpostertour.com/product/nuovo-testamento-live-tour-2025-poster/",
-    "https://collectionpostertour.com/product/nine-inch-nails-september-16-2025-phoenix-az-concert-poster/"
+    "https://collectionpostertour.com/product/laufey-a-matter-of-time-fall-tour-2025-poster/",
+    "https://collectionpostertour.com/product/la-yein-fonda-september-17-20-2025-huechuraba-official-concert-poster/",
+    "https://collectionpostertour.com/product/la-yein-fonda-parque-ciudad-empresarial-huechuraba-concert-poster-2025/",
+    "https://collectionpostertour.com/product/katy-perry-the-lifetimes-tour-brazil-september-2025-poster/",
+    "https://collectionpostertour.com/product/katy-perry-september-16-19-the-lifetimes-tour-2025-brazil-poster/",
+    "https://collectionpostertour.com/product/johnny-blue-skies-september-16-17-2025-morrison-co-official-concert-poster/",
+    "https://collectionpostertour.com/product/johnny-blue-skies-sept-16-17-2025-morrison-co-official-concert-poster/",
+    "https://collectionpostertour.com/product/johnny-blue-skies-red-rocks-morrison-co-concert-poster-2025/",
+    "https://collectionpostertour.com/product/johnny-blue-skies-red-rocks-amphitheatre-morrison-co-concert-poster-2025/",
+    "https://collectionpostertour.com/product/jason-isbell-radio-city-music-hall-new-york-city-concert-poster-2026/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/the-witcher-season-4-new-poster-revealed-on-netflix-releasing-october-30-2025-fantasy-series-unisex-t-shirt/",
