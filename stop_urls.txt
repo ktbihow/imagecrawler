@@ -37,16 +37,16 @@
     "https://teeworksusa.com/product/houston-astros-jose-altuve-27-caricature-cartoon-shirt/"
   ],
   "meredpremium.com": [
-    "https://meredpremium.com/product/mlb-october-baseball-2025-toronto-blue-jays-t-shirt/",
-    "https://meredpremium.com/product/toronto-blue-jays-october-baseball-2025-mlb-postseason-t-shirt/",
-    "https://meredpremium.com/product/toronto-blue-jays-2025-mlb-postseason-locker-room-t-shirt/",
-    "https://meredpremium.com/product/official-zack-wheeler-philadelphia-phillies-gritty-shirt/",
-    "https://meredpremium.com/product/official-when-the-news-is-silent-the-streets-speak-the-truth-t-shirt/",
-    "https://meredpremium.com/product/official-whatever-the-hell-it-takes-topper-phillies-october-t-shirt/",
-    "https://meredpremium.com/product/official-vintage-2024-2025-back-2-back-nl-east-division-champions-philadelphia-phillies-shirt/",
-    "https://meredpremium.com/product/official-under-siege-my-familys-fight-to-save-our-nation-eric-trump-shirt/",
-    "https://meredpremium.com/product/official-turning-point-usa-we-are-all-charlie-kirk-t-shirt/",
-    "https://meredpremium.com/product/official-toronto-blue-jays-nike-built-for-fall-2025-mlb-postseason-t-shirt/"
+    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-seattle-mariners-greatness-team-shirt/",
+    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-detroit-tigers-greatness-team-shirt/",
+    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-chicago-cubs-greatness-team-shirt/",
+    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-boston-red-sox-greatness-team-shirt/",
+    "https://meredpremium.com/product/official-washington-snoopy-fist-bump-charlie-brown-capitals-and-nationals-shirt/",
+    "https://meredpremium.com/product/official-trey-yesavage-uno-dos-trey-shirt/",
+    "https://meredpremium.com/product/official-toronto-blue-jays-nike-2025-mlb-postseason-built-for-fall-t-shirt/",
+    "https://meredpremium.com/product/official-toronto-blue-jays-2025-mlb-postseason-october-baseball-t-shirt/",
+    "https://meredpremium.com/product/official-this-team-makes-me-drink-minnesota-vikings-shirt/",
+    "https://meredpremium.com/product/official-the-man-the-myth-the-legend-robert-redford-89-years-1936-2025-thank-you-for-the-memories-shirt/"
   ],
   "berrylittles.com": [
     "https://berrylittles.com/product/official-poster-the-who-september-17-2025-hollywood-bowl-in-hollywood-ca-t-shirt/",
@@ -91,16 +91,7 @@
     "https://teespix.com/product/mcfly-vs-busted-shirt/"
   ],
   "nowbestshirt.com": [
-    "https://nowbestshirt.com/product/the-simpsons-bart-x-san-francisco-49ers-nfl-2025-shirt/",
-    "https://nowbestshirt.com/product/the-simpsons-bart-x-new-york-giants-nfl-2025-shirt/",
-    "https://nowbestshirt.com/product/official-we-are-charlie-kirk-photo-meme-shirt/",
-    "https://nowbestshirt.com/product/official-we-are-charlie-kirk-american-flag-shirt/",
-    "https://nowbestshirt.com/product/official-pope-charlie-kirk-photo-shirt/",
-    "https://nowbestshirt.com/product/the-simpsons-bart-x-new-york-jets-nfl-2025-shirt/",
-    "https://nowbestshirt.com/product/the-simpsons-bart-x-new-orleans-saints-nfl-2025-shirt/",
-    "https://nowbestshirt.com/product/the-simpsons-bart-x-new-england-patriots-nfl-2025-shirt/",
-    "https://nowbestshirt.com/product/the-simpsons-bart-x-minnesota-vikings-nfl-2025-shirt/",
-    "https://nowbestshirt.com/product/the-simpsons-bart-x-los-angeles-rams-nfl-2025-shirt/"
+    "https://nowbestshirt.com/product/the-simpsons-bart-x-washington-commanders-nfl-2025-shirt/"
   ],
   "serenashirt.com": [
     "https://serenashirt.com/product/georgia-tech-yellow-jackets-rambling-wreck-retro-shirt/",
@@ -151,16 +142,11 @@
     "https://uscraftedtees.com/product/original-brandon-boyd-incubus-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/washington-huskies-u-of-w-football-shirt/",
-    "https://capitoneshirt.com/product/ve-day-let-us-strive-to-make-peace-permanent-shirt/",
-    "https://capitoneshirt.com/product/toad-he-thought-about-talk-oak-trees-high-mountains-covered-with-snow-shirt/",
-    "https://capitoneshirt.com/product/toad-did-not-answer-he-had-fallen-asleep-shirt/",
-    "https://capitoneshirt.com/product/shohei-ohtani-50-home-run-seasons-shirt/",
-    "https://capitoneshirt.com/product/paige-bueckers-this-was-only-her-first-rodeo-wnba-roty-2025-shirt/",
-    "https://capitoneshirt.com/product/paige-bueckers-screaming-wnba-rookie-of-the-year-shirt/",
-    "https://capitoneshirt.com/product/paige-bueckers-rookie-of-the-year-shirt/",
-    "https://capitoneshirt.com/product/newscum-is-gay-and-retarded-shirt/",
-    "https://capitoneshirt.com/product/harvey-weinstein-fucked-my-wife-shirt/"
+    "https://capitoneshirt.com/product/solo-sikoa-grunge-celebration-signature-shirt/",
+    "https://capitoneshirt.com/product/malik-nabers-love-thy-nabers-shirt/",
+    "https://capitoneshirt.com/product/keenan-allen-say-hello-to-the-bad-guy-chargers-shirt/",
+    "https://capitoneshirt.com/product/im-just-here-to-watch-nayelis-cabello-louisville-cardinals-shirt/",
+    "https://capitoneshirt.com/product/aleksandar-vukovic-90s-triple-player-duke-blue-devil-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/witch-this-coffee-tastes-like-you-should-shut-the-fuck-up-until-i-finish-it-shirt/",
@@ -214,35 +200,33 @@
     "https://dalatshirt.com/product/dont-be-jealous-t-shirts-2/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/hoshis-american-breath-first-form-shirt/",
-    "https://lovingsquad.com/product/this-was-only-her-first-rodeo-shirt/",
-    "https://lovingsquad.com/product/the-north-side-is-back-in-october-chicago-cubs-shirt/",
-    "https://lovingsquad.com/product/red-white-and-blueberries-charlie-kirk-retro-shirt/",
-    "https://lovingsquad.com/product/mcfly-vs-busted-shirt/",
-    "https://lovingsquad.com/product/jerome-powell-nuking-the-market-again-shirt/",
-    "https://lovingsquad.com/product/i-may-not-be-young-but-im-turnt-mao-photo-shirt/",
-    "https://lovingsquad.com/product/chicago-white-sox-live-from-the-108-shirt/",
-    "https://lovingsquad.com/product/freedom-live-like-charlie-red-white-and-blueberries-shirt/",
-    "https://lovingsquad.com/product/boys-like-girls-who-eat-arbys-shirt/"
+    "https://lovingsquad.com/product/you-ll-float-too-halloween-joker-graphic-shirt/",
+    "https://lovingsquad.com/product/wolf-if-you-see-me-talking-to-myself-d-not-disturb-im-having-a-staff-meeting-shirt/",
+    "https://lovingsquad.com/product/skunk-my-five-moods-1-im-too-old-for-this-shit-2-im-too-tired-for-this-shit-shirt/",
+    "https://lovingsquad.com/product/skeleton-pumpkin-halloween-my-favorite-season-is-the-fall-of-fascism-shirt/",
+    "https://lovingsquad.com/product/skeleton-i-suffer-from-chs-cant-hear-shit-i-will-huh-the-crap-out-of-you-shirt/",
+    "https://lovingsquad.com/product/raccoon-halloween-nobody-told-me-that-when-you-get-a-husband-his-ears-are-sold-separately-shirt/",
+    "https://lovingsquad.com/product/raccoon-behind-every-husband-who-thinks-he-wears-the-pants-is-a-wife-who-told-him-which-pants-to-wear-shirt/",
+    "https://lovingsquad.com/product/phillie-phanatic-philadelphia-phillies-mascot-red-october-slut-for-october-halloween-shirt/",
+    "https://lovingsquad.com/product/philadelphia-phillies-baseball-team-red-october-shirt/",
+    "https://lovingsquad.com/product/paige-bueckers-wnba-rookie-of-the-year-2025-this-was-only-her-first-rodeo-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/official-akutagawa-ryunosuke-if-i-fumble-this-mentally-ill-puppy-girl-shirt/",
-    "https://designatshop.com/product/official-f-caw-f-funny-raven-skull-gothic-shirt/",
-    "https://designatshop.com/product/official-movie-brad-pitt-f1-pioneer-dakar-vintage-shirt/",
-    "https://designatshop.com/product/official-f-caw-f-chicken-funny-viral-meme-shirt/",
-    "https://designatshop.com/product/witches-i-suffer-from-chs-cant-hear-shit-i-will-huh-the-crap-out-of-you-shirt/",
-    "https://designatshop.com/product/ualbany-albany-great-danes-mens-basketball-reimer-logo-shirt/",
-    "https://designatshop.com/product/turtle-3-things-i-dont-like-when-talking-to-me-dont-talk-to-me-like-im-your-child-shirt/",
-    "https://designatshop.com/product/this-is-the-turning-point-usa-charlie-kirk-remembrance-flag-shirt/",
-    "https://designatshop.com/product/turkey-im-not-old-i-just-need-some-wd-40-and-a-little-duct-tape-shirt/",
-    "https://designatshop.com/product/stitch-i-think-im-emotionally-constipated-i-havent-given-a-shit-in-years-shirt/"
+    "https://designatshop.com/product/team-kimmel-jimmy-kimmel-late-night-tv-supporter-shirt/",
+    "https://designatshop.com/product/i-stand-with-jimmy-kimmel-shirt/",
+    "https://designatshop.com/product/japanese-breakfast-us-tour-2025-poster-shirt/"
   ],
   "arjomany.com": [
-    "https://arjomany.com/product/goose-the-kohl-center-madison-wisconsin-sep-17-2025-t-shirt/",
-    "https://arjomany.com/product/goose-show-at-kohl-center-in-madison-wi-sep-17-2025-shirt/",
-    "https://arjomany.com/product/goose-sep-17-2025-the-kohl-center-madison-wisconsin-shirt/",
-    "https://arjomany.com/product/goose-sep-17-2025-kohl-center-in-madison-wi-shirt/",
-    "https://arjomany.com/product/goose-at-kohl-center-in-madison-wi-on-sep-17-2025-tour-shirt/"
+    "https://arjomany.com/product/college-gameday-florida-vs-miami-t-shirt/",
+    "https://arjomany.com/product/college-gameday-florida-vs-miami-merch/",
+    "https://arjomany.com/product/the-black-dahlia-murder-worcester-ma-tour-2025-shirt/",
+    "https://arjomany.com/product/the-black-dahlia-murder-louisville-ky-2025-t-shirt/",
+    "https://arjomany.com/product/jesus-saves-whispers-of-winners-t-shirt/",
+    "https://arjomany.com/product/ho-ho-hot-mulligan-dec-7-2025-the-fillmore-detroit-mi-shirt/",
+    "https://arjomany.com/product/ho-ho-hot-mulligan-dec-6-2025-the-fillmore-detroit-mi-t-shirt/",
+    "https://arjomany.com/product/creator-minutetech-t-shirt/",
+    "https://arjomany.com/product/atreyu-dead-t-shirt/",
+    "https://arjomany.com/product/travis-barker-run-travis-run-chicago-sep-20-2025-poster/"
   ],
   "collectionpostertour.com": [
     "https://collectionpostertour.com/product/mcfly-vs-busted-t-shirt/",
@@ -305,7 +289,15 @@
     "https://milkywayshirt.com/product/official-blink-182-at-the-riverbend-music-center-on-september-16-2025-in-cincinnati-oh-shirt/"
   ],
   "mercuryshirt.com": [
-    "https://mercuryshirt.com/product/chicago-cubs-2025-mlb-postseason-locker-room-shirt/",
-    "https://mercuryshirt.com/product/chicago-cubs-royal-mlb-october-baseball-2025-shirt/"
+    "https://mercuryshirt.com/product/trey-yesavage-uno-dos-trey-shirt/",
+    "https://mercuryshirt.com/product/this-team-makes-me-drink-vikings-shirt/",
+    "https://mercuryshirt.com/product/the-many-moods-of-kash-patel-shirt/",
+    "https://mercuryshirt.com/product/swing-of-sadness-sos-shirt/",
+    "https://mercuryshirt.com/product/slam-jalen-williams-they-gon-learn-shirt/",
+    "https://mercuryshirt.com/product/slam-jalen-williams-remix-shirt/",
+    "https://mercuryshirt.com/product/slam-jalen-williams-celly-remix-shirt/",
+    "https://mercuryshirt.com/product/say-no-to-cruise-shirt/",
+    "https://mercuryshirt.com/product/samay-raina-say-no-to-cruise-shirt/",
+    "https://mercuryshirt.com/product/red-white-and-blueberries-shirt/"
   ]
 }
