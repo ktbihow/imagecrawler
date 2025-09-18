@@ -42,10 +42,10 @@
     "https://meredpremium.com/product/official-toronto-blue-jays-nike-built-for-fall-2025-mlb-postseason-t-shirt/"
   ],
   "berrylittles.com": [
-    "https://berrylittles.com/product/official-slam-258-jalen-williams-magazine-they-gon-learn-oklahoma-city-thunder-basketball-poster-t-shirt/",
-    "https://berrylittles.com/product/official-ho-ho-hot-mulligan-microwave-piebald-charmer-and-footballhead-december-7-2025-detroit-mi-poster-t-shirt/",
-    "https://berrylittles.com/product/official-georgia-tech-yellow-jackets-football-the-goalposts-have-left-the-building-september-13th-2025-t-shirt/",
-    "https://berrylittles.com/product/official-georgia-tech-yellow-jackets-one-helluva-pool-party-2025-painting-t-shirt/"
+    "https://berrylittles.com/product/official-poster-the-who-september-17-2025-hollywood-bowl-in-hollywood-ca-t-shirt/",
+    "https://berrylittles.com/product/official-seattle-mariners-cal-raleigh-history-for-big-dumper-most-home-runs-in-a-season-for-a-catcher-a-switch-hitter-t-shirt/",
+    "https://berrylittles.com/product/official-slam-jalen-williams-celly-remix-oklahoma-city-thunder-basketball-painting-t-shirt/",
+    "https://berrylittles.com/product/official-poster-the-who-september-19-2025-hollywood-bowl-in-hollywood-ca-t-shirt/"
   ],
   "dreameshirt.com": [
     "https://dreameshirt.com/product/official-byron-murphy-ii-seattle-seahawks-vs-new-orleans-saints-navy-x-navy-week-3-nfl-game-poster-t-shirt/",
@@ -72,16 +72,16 @@
     "https://teeextra.com/product/official-robert-redford-i-work-because-i-want-to-work-it-keeps-me-going-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/freedom-is-only-found-in-jesus-christ-king-christian-charlie-kirk-signature-shirt/",
-    "https://teespix.com/product/black-cat-red-robin-halloween-shirt/",
-    "https://teespix.com/product/black-cat-red-lobster-halloween-shirt/",
-    "https://teespix.com/product/jesus-is-freedom-charlie-kirk-christian-cross-tribute-christ-is-king-usa-t-shirt/",
-    "https://teespix.com/product/phila-whatever-it-takes-philadelphia-baseball-t-shirt/",
-    "https://teespix.com/product/josh-allen-ice-cold-rivalries-shirt/",
-    "https://teespix.com/product/nick-kurtz-big-amish-hit-em-where-it-kurtz-shirt/",
-    "https://teespix.com/product/buffalo-bills-dolphins-suck-rivalry-t-shirt/",
-    "https://teespix.com/product/bussin-bowl-showdown-2025-nebraska-vs-michigan-t-shirt/",
-    "https://teespix.com/product/arkansas-razorbacks-texas-sucks-rivalry-t-shirt/"
+    "https://teespix.com/product/zohran-mamdani-vintage-poster-design-shirt-2/",
+    "https://teespix.com/product/zohran-mamdani-for-new-york-city-shirt-2/",
+    "https://teespix.com/product/zohran-mamdani-a-city-we-can-afford-shirt/",
+    "https://teespix.com/product/yes-im-old-but-i-saw-red-sox-greatness-player-signature-shirt/",
+    "https://teespix.com/product/yes-im-old-but-i-saw-mariners-greatness-player-signature-shirt/",
+    "https://teespix.com/product/yes-im-old-but-i-saw-detroit-greatness-player-signature-shirt/",
+    "https://teespix.com/product/yes-im-old-but-i-saw-cubs-greatness-player-shirt/",
+    "https://teespix.com/product/why-v8-because-2-liter-isnt-enough-to-be-called-an-engine-shirt/",
+    "https://teespix.com/product/when-the-news-is-silent-the-streets-speak-the-truth-shirt-2/",
+    "https://teespix.com/product/we-are-all-charlie-kirk-shirt-4/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/philadelphia-phillies-red-october-nike-2025-mlb-postseason-shirt/",
@@ -207,43 +207,47 @@
     "https://dalatshirt.com/product/dont-be-jealous-t-shirts-2/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/yuri-ravens-wild-graphic-shirt/",
-    "https://lovingsquad.com/product/yes-baby-high-heeled-shoes-poster-shirt/",
-    "https://lovingsquad.com/product/usf-bulls-south-florida-tampa-fl-helmet-logo-shirt/",
-    "https://lovingsquad.com/product/university-of-alabamas-crimson-tide-crimson-runs-deeper-shirt/",
-    "https://lovingsquad.com/product/trick-or-treatment-nurse-ghost-halloween-shirt/",
-    "https://lovingsquad.com/product/transgender-pride-flag-printed-what-if-i-told-u-that-i-was-from-this-country-shirt/",
-    "https://lovingsquad.com/product/the-grateful-dead-and-san-francisco-49ers-logo-chrismas-shirt/",
-    "https://lovingsquad.com/product/tennessee-titans-nfl-thank-you-jesus-shirt/",
-    "https://lovingsquad.com/product/switch-im-at-that-age-where-my-mind-still-thinks-im-29-my-humor-suggests-im-12-shirt/",
-    "https://lovingsquad.com/product/sol-gym-never-relent-graphic-design-shirt/"
+    "https://lovingsquad.com/product/hoshis-american-breath-first-form-shirt/",
+    "https://lovingsquad.com/product/this-was-only-her-first-rodeo-shirt/",
+    "https://lovingsquad.com/product/the-north-side-is-back-in-october-chicago-cubs-shirt/",
+    "https://lovingsquad.com/product/red-white-and-blueberries-charlie-kirk-retro-shirt/",
+    "https://lovingsquad.com/product/mcfly-vs-busted-shirt/",
+    "https://lovingsquad.com/product/jerome-powell-nuking-the-market-again-shirt/",
+    "https://lovingsquad.com/product/i-may-not-be-young-but-im-turnt-mao-photo-shirt/",
+    "https://lovingsquad.com/product/chicago-white-sox-live-from-the-108-shirt/",
+    "https://lovingsquad.com/product/freedom-live-like-charlie-red-white-and-blueberries-shirt/",
+    "https://lovingsquad.com/product/boys-like-girls-who-eat-arbys-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/yuri-ravens-tailgate-sunday-with-a-wild-shirt/"
+    "https://designatshop.com/product/chicago-cubs-october-mlb-baseball-2025-postseason-legend-shirt/",
+    "https://designatshop.com/product/chicago-cubs-nike-built-for-fall-mlb-baseball-postseason-shirt/",
+    "https://designatshop.com/product/2025-free-luigi-luigi-mangione-shirt/",
+    "https://designatshop.com/product/cal-raleigh-seattle-mariners-baseball-mlb-55-home-runs-shirt/",
+    "https://designatshop.com/product/big-dumper-cal-raleigh-seattle-mariners-baseball-mlb-55-home-runs-shirt/",
+    "https://designatshop.com/product/bryce-harper-and-kyle-schwarber-philadelphia-phillies-mlb-baseball-player-shirt/",
+    "https://designatshop.com/product/charlie-kirk-1993-2025-all-death-can-do-to-the-believer-is-deliver-him-to-jesus-american-flag-shirt/",
+    "https://designatshop.com/product/charlie-kirk-signature-resist-the-left-shirt/",
+    "https://designatshop.com/product/cal-raleigh-seattle-mariners-history-for-big-dumper-most-home-runs-in-a-season-for-a-catcher-shirt/",
+    "https://designatshop.com/product/charlie-kirk-fighting-white-boy-summer-rip-2025-memorial-political-shirt/"
   ],
   "arjomany.com": [
-    "https://arjomany.com/product/speed-gear-for-the-turnstile-us-tour-2025-shirt/",
-    "https://arjomany.com/product/return-to-dust-speak-like-the-dead-tee/",
-    "https://arjomany.com/product/return-to-dust-photo-speak-tee/",
-    "https://arjomany.com/product/johnny-blue-skies-red-rocks-2025-event-shirt/",
-    "https://arjomany.com/product/jelusick-apolitical-ecstasy-shirt/",
-    "https://arjomany.com/product/gumball3000-2025-tour-shirt/",
-    "https://arjomany.com/product/gumball3000-2025-tour-merch/",
-    "https://arjomany.com/product/fletcher-hi-everyone-leave-please-tee/",
-    "https://arjomany.com/product/circle-jerks-sept-19-2025-los-angeles-ca-t-shirt/",
-    "https://arjomany.com/product/circle-jerks-north-american-tour-2025-t-shirt/"
+    "https://arjomany.com/product/goose-the-kohl-center-madison-wisconsin-sep-17-2025-t-shirt/",
+    "https://arjomany.com/product/goose-show-at-kohl-center-in-madison-wi-sep-17-2025-shirt/",
+    "https://arjomany.com/product/goose-sep-17-2025-the-kohl-center-madison-wisconsin-shirt/",
+    "https://arjomany.com/product/goose-sep-17-2025-kohl-center-in-madison-wi-shirt/",
+    "https://arjomany.com/product/goose-at-kohl-center-in-madison-wi-on-sep-17-2025-tour-shirt/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/head-in-the-clouds-festival-under-the-k-bridge-park-brooklyn-ny-concert-t-shirt-2025/",
-    "https://collectionpostertour.com/product/head-in-the-clouds-festival-under-the-k-bridge-new-york-concert-t-shirt-2025/",
-    "https://collectionpostertour.com/product/head-in-the-clouds-festival-september-20-2025-under-the-k-bridge-official-concert-t-shirt/",
-    "https://collectionpostertour.com/product/head-in-the-clouds-festival-september-20-2025-brooklyn-ny-official-concert-t-shirt/",
-    "https://collectionpostertour.com/product/circle-jerks-september-19-2025-los-angeles-ca-official-concert-t-shirt/",
-    "https://collectionpostertour.com/product/circle-jerks-north-american-tour-25-t-shirt/",
-    "https://collectionpostertour.com/product/circle-jerks-north-american-tour-25-t-shirt-limited-edition/",
-    "https://collectionpostertour.com/product/circle-jerks-keith-morris-70th-birthday-t-shirt/",
-    "https://collectionpostertour.com/product/circle-jerks-keith-morris-70th-birthday-bash-september-19-2025-t-shirt/",
-    "https://collectionpostertour.com/product/circle-jerks-hollywood-palladium-los-angeles-ca-concert-t-shirt-2025/"
+    "https://collectionpostertour.com/product/mcfly-vs-busted-t-shirt/",
+    "https://collectionpostertour.com/product/mcfly-vs-busted-t-shirt-limited-edition/",
+    "https://collectionpostertour.com/product/i-saw-foo-fighters-play-their-1570th-show-and-all-i-got-was-this-stupid-fucking-t-shirt/",
+    "https://collectionpostertour.com/product/i-saw-foo-fighters-play-their-1570th-show-and-all-i-got-was-this-stupid-fucking-t-shirt-limited-edition/",
+    "https://collectionpostertour.com/product/wilco-pursuit-of-happiness-t-shirt-limited-edition/",
+    "https://collectionpostertour.com/product/wilco-band-pursuit-of-happiness-t-shirt/",
+    "https://collectionpostertour.com/product/team-mcfly-t-shirt/",
+    "https://collectionpostertour.com/product/team-mcfly-t-shirt-limited-edition/",
+    "https://collectionpostertour.com/product/team-mcfly-black-t-shirt/",
+    "https://collectionpostertour.com/product/team-mcfly-black-t-shirt-limited-edition/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/the-witcher-season-4-new-poster-revealed-on-netflix-releasing-october-30-2025-fantasy-series-unisex-t-shirt/",
@@ -258,16 +262,16 @@
     "https://neoteeco.com/product/nicolas-maduro-enemigo-de-los-venezolanos-political-protest-poster-venezuela-opposition-artwork-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/in-memory-of-charlie-kirk-pumpkin-spooky-season-happy-halloween-2025-political-shirt/",
-    "https://newshirtstore.com/product/mcfly-vs-busted-t-shirt/",
-    "https://newshirtstore.com/product/indiana-hoosiers-vs-illinois-fighting-illini-gameday-showdown-bloomington-in-sept-20-2025-t-shirt/",
-    "https://newshirtstore.com/product/max-and-harvey-just-trying-shit-and-hoping-it-works-t-shirt/",
-    "https://newshirtstore.com/product/logotipo-deportivo-de-beartooth-shirt/",
-    "https://newshirtstore.com/product/max-and-harvey-im-a-bit-loud-t-shirt/",
-    "https://newshirtstore.com/product/max-and-harvey-mh-christmas-t-shirt/",
-    "https://newshirtstore.com/product/indianapolis-colts-logo-t-shirt/",
-    "https://newshirtstore.com/product/legends-never-die-robert-redford-shirt-2/",
-    "https://newshirtstore.com/product/johnny-gargano-nxt-the-whole-shebang-boom-shirt/"
+    "https://newshirtstore.com/product/paige-bueckers-wnba-rookie-of-the-year-2025-this-was-only-her-first-rodeo-x-nike-swoosh-t-shirt/",
+    "https://newshirtstore.com/product/philadelphia-phillies-baseball-philly-spooky-ghost-in-october-we-wear-red-shirt/",
+    "https://newshirtstore.com/product/nelly-rapper-signature-graphic-shirt/",
+    "https://newshirtstore.com/product/operation-goettafest-local-love-pork-onions-spices-oats-2025-t-shirt/",
+    "https://newshirtstore.com/product/minnesota-vikings-logo-t-shirt/",
+    "https://newshirtstore.com/product/micah-parsons-1-green-bay-packers-football-nfl-game-days-signature-shirt/",
+    "https://newshirtstore.com/product/mickey-mouse-and-minnie-mouse-donald-duck-walt-disney-world-halloween-t-shirt/",
+    "https://newshirtstore.com/product/micah-parsons-fighting-green-bay-packers-football-nfl-2025-for-fan-shirt/",
+    "https://newshirtstore.com/product/micah-drop-t-shirt/",
+    "https://newshirtstore.com/product/new-england-patriots-logo-t-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/us-battle-tested-battle-born-shirt/",
