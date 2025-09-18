@@ -85,16 +85,16 @@
     "https://teespix.com/product/keenan-allen-los-angeles-chargers-hello-goodnight-shirt/"
   ],
   "nowbestshirt.com": [
-    "https://nowbestshirt.com/product/official-i-stand-with-jimmy-kimmel-t-shirt/",
-    "https://nowbestshirt.com/product/official-free-kimmel-shirt/",
-    "https://nowbestshirt.com/product/official-free-jimmy-shirt/",
-    "https://nowbestshirt.com/product/official-cody-rhodes-showcase-classic-shirt/",
-    "https://nowbestshirt.com/product/official-chicago-cubs-2025-nl-central-division-champions-shirt/",
-    "https://nowbestshirt.com/product/official-aj-lee-love-bites-back-shirt/",
-    "https://nowbestshirt.com/product/official-2026-indy-500-ghost-blackhawk-shirt/",
-    "https://nowbestshirt.com/product/new-york-sports-teams-giants-yankees-mets-and-jets-aint-no-boo-sheet-halloween-shirt/",
-    "https://nowbestshirt.com/product/mookie-betts-los-angeles-dodgers-graffiti-shirt/",
-    "https://nowbestshirt.com/product/malik-nabers-new-york-giants-love-thy-nabers-signature-shirt/"
+    "https://nowbestshirt.com/product/kentucky-bluegrass-and-black-cats-halloween-shirt/",
+    "https://nowbestshirt.com/product/liberty-cannot-be-silenced-shirt/",
+    "https://nowbestshirt.com/product/wisconsin-needs-public-schools-shirt/",
+    "https://nowbestshirt.com/product/vulfpeck-vulfansa-logo-shirt/",
+    "https://nowbestshirt.com/product/trick-or-treat-kentucky-pumpkin-halloween-shirt/",
+    "https://nowbestshirt.com/product/the-stay-golden-kentucky-bluegrass-state-halloween-shirt/",
+    "https://nowbestshirt.com/product/the-gates-of-hell-on-my-way-to-visit-my-dad-shirt/",
+    "https://nowbestshirt.com/product/the-fuck-did-you-just-say-to-me-shirt/",
+    "https://nowbestshirt.com/product/the-boograss-state-kentucky-cat-pumpkin-shirt/",
+    "https://nowbestshirt.com/product/stitch-bitch-i-will-throw-your-ass-in-the-trunk-and-help-them-search-for-you-dont-test-me-shirt/"
   ],
   "serenashirt.com": [
     "https://serenashirt.com/product/of-course-im-in-love-with-you-darling-shirt/",
