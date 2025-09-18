@@ -105,7 +105,7 @@
     },
     {
         "url": "https://capitoneshirt.com/",
-        "replacements": {"-classictshirt.webp": ["-ornament.webp", "-sweater.webp"], "-shirt.webp": ["-sweater.webp", "-ornament.webp"]},
+        "replacements": {"-classictshirt.webp": ["-ornament.webp", "-sweater.webp"], "-shirt.webp": ["-sweater.webp", "-ornament.webp"], "-hoodie.webp": ["-sweater.webp", "-ornament.webp"]},
         "source_type": "api",
         "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.capitoneshirt.com", "prefix_length": 9 }
     },
