@@ -23,16 +23,9 @@
     "https://techteesusa.com/product/let-the-pirate-shenanigans-begin-halloween-skull-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/my-chemical-romance-newark-nj-2001-shirt/",
-    "https://teeworksusa.com/product/monsters-inc-we-scare-because-we-care-shirt/",
-    "https://teeworksusa.com/product/maximum-fun-tour-a-day-to-remember-shirt/",
-    "https://teeworksusa.com/product/mannys-the-spirit-of-mexico-shirt/",
-    "https://teeworksusa.com/product/magic-the-gathering-gaeas-cradle-shirt/",
-    "https://teeworksusa.com/product/kiss-me-im-sheet-faced-ghost-shirt/",
-    "https://teeworksusa.com/product/its-the-most-wonderful-time-of-the-year-2021-shirt/",
-    "https://teeworksusa.com/product/i-was-raised-on-the-streets-shirt/",
-    "https://teeworksusa.com/product/i-was-a-guest-at-tiny-tims-spooky-world-wedding-oct-31-1994-shirt/",
-    "https://teeworksusa.com/product/i-love-a-debate-shirt/"
+    "https://teeworksusa.com/product/cthulhu-city-destruction-funny-graphic-shirt/",
+    "https://teeworksusa.com/product/crime-relative-funny-retro-shirt/",
+    "https://teeworksusa.com/product/house-1000-corpses-halloween-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-yes-im-old-but-i-saw-seattle-mariners-greatness-team-shirt/",
@@ -184,26 +177,28 @@
     "https://clickoneshirt.com/product/slogan-protect-the-dolls-2025-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/minnesota-timberwolves-dead-threads-skeleton-t-shirts/",
-    "https://teleteeshirt.com/product/kodansha-house-nyc-2025-wotakoi-t-shirts/",
-    "https://teleteeshirt.com/product/kodansha-house-a-sign-of-affection-nyc-2025-t-shirts/",
-    "https://teleteeshirt.com/product/jake-owen-them-old-love-songs-t-shirts/",
-    "https://teleteeshirt.com/product/georgia-tech-yellow-jackets-techs-golden-tornadoes-1915-t-shirts/",
-    "https://teleteeshirt.com/product/jake-owen-fringe-rose-t-shirts/",
-    "https://teleteeshirt.com/product/georgia-tech-yellow-jackets-on-to-denver-1990-t-shirts/",
-    "https://teleteeshirt.com/product/georgia-tech-yellow-jackets-four-time-national-champs-t-shirts/"
+    "https://teleteeshirt.com/product/polaris-lifes-a-beach-festival-saturday-14th-february-riviera-beach-club-melbourne-skeleton-t-shirts/",
+    "https://teleteeshirt.com/product/official-born-to-nap-forced-to-be-awake-otter-t-shirts/",
+    "https://teleteeshirt.com/product/neurosparkly-unicorn-t-shirts/",
+    "https://teleteeshirt.com/product/lil-fantasy-vol-1-x-chaeyoung-heart-t-shirts/",
+    "https://teleteeshirt.com/product/joseph-slow-dance-to-disco-t-shirts/",
+    "https://teleteeshirt.com/product/jay-first-offense-t-shirts/",
+    "https://teleteeshirt.com/product/im-not-gay-but-50-cents-is-50-cents-t-shirts/",
+    "https://teleteeshirt.com/product/if-this-is-living-the-dream-whats-the-nightmare-frog-t-shirts/",
+    "https://teleteeshirt.com/product/violent-gentlemen-check-on-your-teammates-help-is-available-t-shirts/",
+    "https://teleteeshirt.com/product/the-teaches-of-peaches-anniversary-tour-vip-face-t-shirts/"
   ],
   "teeslocal.com": [
-    "https://teeslocal.com/product/what-if-i-told-u-that-i-was-from-this-country-transgender-flag-shirt/",
-    "https://teeslocal.com/product/pennywise-the-dancing-clown-it-the-movie-shirt/",
-    "https://teeslocal.com/product/ive-got-a-potive-message-sometomes-i-cant-get-it-out-shirt/",
-    "https://teeslocal.com/product/i-survived-boob-lagoon-shirt/",
-    "https://teeslocal.com/product/fear-and-loathing-by-ralph-steadman-movie-promo-shirt/",
-    "https://teeslocal.com/product/horror-comics-you-can-not-escape-the-terror-2025-shirt/",
-    "https://teeslocal.com/product/captain-freedom-haunted-hood-comic-vintage-shirt/",
-    "https://teeslocal.com/product/car-what-a-clean-city-im-kinda-sleep-ee-call-an-ambulance-shirt/",
-    "https://teeslocal.com/product/friends-dont-let-friends-talk-to-ugly-guys-shirt/",
-    "https://teeslocal.com/product/fish-f-you-betta-shirt/"
+    "https://teeslocal.com/product/aerosmith-and-yungblud-one-more-time-shirt/",
+    "https://teeslocal.com/product/antifa-hooligan-shirt/",
+    "https://teeslocal.com/product/angry-runs-2025-green-bay-packers-jordan-love-football-shirt/",
+    "https://teeslocal.com/product/auburn-tigers-legends-thank-you-for-the-memories-shirt/",
+    "https://teeslocal.com/product/auburn-tigers-jackson-arnold-football-signature-shirt/",
+    "https://teeslocal.com/product/arson-judge-dont-let-him-get-hot-shirt/",
+    "https://teeslocal.com/product/back-to-red-october-philadelphia-phillies-2025-postseason-signatures-shirt/",
+    "https://teeslocal.com/product/bianca-belair-nxt-debut-authentic-shirt/",
+    "https://teeslocal.com/product/baltimore-ravens-derrick-henry-2025-nfl-football-shirt/",
+    "https://teeslocal.com/product/billy-strings-winter-tour-2026-shirt/"
   ],
   "melonashirt.com": [
     "https://melonashirt.com/product/official-great-american-ghost-torture-world-globe-shirts/",
@@ -223,16 +218,16 @@
     "https://dalatshirt.com/product/dont-be-jealous-t-shirts-2/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/zombie-skeleton-halloween-puppie-love-dog-shirt/",
-    "https://lovingsquad.com/product/zero-jack-skellington-nightmare-skeleton-halloween-puppie-love-dog-shirt/",
-    "https://lovingsquad.com/product/world-on-fire-text-vintage-shirt/",
-    "https://lovingsquad.com/product/wisconsin-needs-public-schools-shirt/",
-    "https://lovingsquad.com/product/white-boy-of-the-year-shirt-2/",
-    "https://lovingsquad.com/product/well-done-good-and-faithful-servant-shirt/",
-    "https://lovingsquad.com/product/we-know-ball-ball-state-cardinals-football-helmet-standee-mascot-logo-shirt/",
-    "https://lovingsquad.com/product/united-states-of-america-1776-2026-250th-anniversary-birthday-shirt/",
-    "https://lovingsquad.com/product/unemployed-and-beautiful-shirt/",
-    "https://lovingsquad.com/product/ubasani-proceed-proceed-2027-ubasaniproceed2027-shirt/"
+    "https://lovingsquad.com/product/you-know-why-im-here-deviled-eggs-thanksgiving-shirt/",
+    "https://lovingsquad.com/product/witch-please-halloween-raccoon-funny-shirt/",
+    "https://lovingsquad.com/product/west-virginia-football-backyard-brawl-champ-shirt/",
+    "https://lovingsquad.com/product/vulfansa-ringer-shirt/",
+    "https://lovingsquad.com/product/we-are-phillies-so-back-nl-east-champions-shirt/",
+    "https://lovingsquad.com/product/thank-god-for-punk-rock-shirt/",
+    "https://lovingsquad.com/product/snoopy-im-not-old-1-just-need-some-wd-40-and-a-little-duct-tape-shirt/",
+    "https://lovingsquad.com/product/smashing-pumpkins-asian-tour-japan-2025-shirt/",
+    "https://lovingsquad.com/product/shaky-knees-festival-2025-poster-shirt/",
+    "https://lovingsquad.com/product/san-bernardino-sheriffs-rodeo-2025-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/charlie-kirk-just-because-youre-offended-doesnt-mean-you-are-right-signature-rip-2025-shirt/",
@@ -319,15 +314,12 @@
     "https://milkywayshirt.com/product/official-blink-182-at-the-riverbend-music-center-on-september-16-2025-in-cincinnati-oh-shirt/"
   ],
   "mercuryshirt.com": [
-    "https://mercuryshirt.com/product/trey-yesavage-uno-dos-trey-shirt/",
-    "https://mercuryshirt.com/product/this-team-makes-me-drink-vikings-shirt/",
-    "https://mercuryshirt.com/product/the-many-moods-of-kash-patel-shirt/",
-    "https://mercuryshirt.com/product/swing-of-sadness-sos-shirt/",
-    "https://mercuryshirt.com/product/slam-jalen-williams-they-gon-learn-shirt/",
-    "https://mercuryshirt.com/product/slam-jalen-williams-remix-shirt/",
-    "https://mercuryshirt.com/product/slam-jalen-williams-celly-remix-shirt/",
-    "https://mercuryshirt.com/product/say-no-to-cruise-shirt/",
-    "https://mercuryshirt.com/product/samay-raina-say-no-to-cruise-shirt/",
-    "https://mercuryshirt.com/product/red-white-and-blueberries-shirt/"
+    "https://mercuryshirt.com/product/comedy-is-not-a-crime-support-jimmy-and-stephen-shirt/",
+    "https://mercuryshirt.com/product/defend-free-speech-support-stephen-and-jimmy-shirt/",
+    "https://mercuryshirt.com/product/charlie-kirk-31-years-1993-2025-legend-never-dies-shirt/",
+    "https://mercuryshirt.com/product/los-angeles-dodgers-october-baseball-mlb-2025-royal-shirt/",
+    "https://mercuryshirt.com/product/toronto-blue-jays-october-baseball-mlb-2025-royal-shirt/",
+    "https://mercuryshirt.com/product/los-angeles-dodgers-october-baseball-2025-shirt/",
+    "https://mercuryshirt.com/product/toronto-blue-jays-october-baseball-2025-shirt/"
   ]
 }
