@@ -58,12 +58,16 @@
     "https://dreameshirt.com/product/official-chicago-cubs-mlb-my-my-favorite-sport-is-october-baseball-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-senses-fail-mtd-linawr-broken-glass-shirt/",
-    "https://teeextra.com/product/official-selena-gomez-barney-x-selena-i-love-you-shirt/",
-    "https://teeextra.com/product/official-sam-fender-roadrunner-boston-ma-sep-17-2025-shirt/",
-    "https://teeextra.com/product/official-robert-redford-the-end-1936-2025-i-work-because-i-want-to-work-it-keeps-me-going-shirt/",
-    "https://teeextra.com/product/official-robert-redford-rest-now-brother-shirt/",
-    "https://teeextra.com/product/official-robert-and-witney-dancing-with-the-stars-shirt/"
+    "https://teeextra.com/product/official-vladimir-guerrero-montreal-skyline-swing-shirt/",
+    "https://teeextra.com/product/official-violent-gentlemen-transylvania-hc-garment-shirt/",
+    "https://teeextra.com/product/official-t-pain-tallahassee-block-party-on-t-pain-lane-on-october-17-2025-shirt/",
+    "https://teeextra.com/product/official-the-princess-posse-official-fan-club-member-shirt/",
+    "https://teeextra.com/product/official-the-paper-kites-black-album-shirt/",
+    "https://teeextra.com/product/official-the-home-depot-x-horror-characters-not-for-the-weak-halloween-2025-shirt/",
+    "https://teeextra.com/product/official-thats-a-awful-lot-of-cough-syrup-awful-lot-of-harlem-shirt/",
+    "https://teeextra.com/product/official-tampa-bay-buccaneers-peanuts-snoopy-forever-not-just-when-we-win-2025-shirt/",
+    "https://teeextra.com/product/official-senses-fail-live-shirt/",
+    "https://teeextra.com/product/official-seattle-seahawks-peanuts-snoopy-forever-not-just-when-we-win-2025-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/robert-redford-89-years-1936-2025-thank-you-for-the-memories-signature-shirt/",
