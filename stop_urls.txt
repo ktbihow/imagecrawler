@@ -65,28 +65,28 @@
     "https://dreameshirt.com/product/official-chicago-cubs-mlb-my-my-favorite-sport-is-october-baseball-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/yusuf-cat-stevens-the-bridgewater-hall-in-manchester-uk-9-16-2025-shirt/",
-    "https://teeextra.com/product/you-know-why-im-here-deviled-egg-shirt/",
-    "https://teeextra.com/product/wisconsin-needs-public-schools-shirt/",
-    "https://teeextra.com/product/walmart-x-black-cat-witch-halloween-2025-shirt/",
-    "https://teeextra.com/product/utsa-roadrunners-soccer-20-seasons-2025-logo-shirt/",
-    "https://teeextra.com/product/they-dont-know-the-guy-wearing-this-loves-memes-shirt/",
-    "https://teeextra.com/product/the-who-hollywood-bowl-in-hollywood-ca-sep-17-2025-shirt/",
-    "https://teeextra.com/product/the-stop-supermarket-x-black-cat-witch-halloween-2025-shirt/",
-    "https://teeextra.com/product/the-brian-jonestown-massacre-pappy-and-harriets-pioneertown-ca-november-1-2025-shirt/",
-    "https://teeextra.com/product/soft-play-riot-fest-in-chicago-il-sep-21-2025-shirt/"
+    "https://teeextra.com/product/official-rihanna-graces-the-cover-of-hommegirls-volume-14-2025-shirt/",
+    "https://teeextra.com/product/official-master-of-the-half-grab-michael-oku-shirt/",
+    "https://teeextra.com/product/official-katseye-x-toca-boca-shirt/",
+    "https://teeextra.com/product/official-kodansha-house-shirt/",
+    "https://teeextra.com/product/official-i-may-not-be-young-but-im-turnt-mao-shirt/",
+    "https://teeextra.com/product/official-hot-mulligan-wizard-white-shirt/",
+    "https://teeextra.com/product/official-harmony-of-the-spheres-musica-universalis-shirt/",
+    "https://teeextra.com/product/official-forever-in-our-hearts-robert-redford-when-the-sun-sets-the-story-lives-on-shirt/",
+    "https://teeextra.com/product/official-new-england-patriots-peanuts-snoopy-forever-not-just-when-we-win-2025-shirt/",
+    "https://teeextra.com/product/official-nebraska-huskers-terence-crawford-2025-signature-vintage-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/trey-yesavage-uno-dos-trey-shirt-2/",
-    "https://teespix.com/product/f-caw-f-quote-rooster-meme-t-shirt/",
-    "https://teespix.com/product/georgia-tech-yellow-jackets-ramblin-wreck-shirt-2/",
-    "https://teespix.com/product/cal-raleigh-history-for-big-dumper-shirt-2/",
-    "https://teespix.com/product/milwaukee-baseball-the-power-of-friendship-shirt-2/",
-    "https://teespix.com/product/slam-jalen-williams-dubs-nation-shirt/",
-    "https://teespix.com/product/robert-redford-1936-2025-t-shirt/",
-    "https://teespix.com/product/red-white-and-blueberries-charlie-kirk-1993-2025-shirt-2/",
-    "https://teespix.com/product/charlie-kirk-america-the-golden-age-is-upon-us-shirt-2/",
-    "https://teespix.com/product/skull-and-bones-illuminati-beer-pong-shirt/"
+    "https://teespix.com/product/robert-redford-89-years-1936-2025-thank-you-for-the-memories-signature-shirt/",
+    "https://teespix.com/product/duck-hunt-we-are-penn-state-2025-shirt/",
+    "https://teespix.com/product/cowboys-vs-eagles-september-14th-2025-nfl-season-fly-eagles-fly-shirt/",
+    "https://teespix.com/product/robert-redford-octothorpe-743-inside-coverage-shirt/",
+    "https://teespix.com/product/philadelphia-phillies-phanatic-slut-for-october-shirt/",
+    "https://teespix.com/product/philadelphia-phillies-phanatic-red-october-phillies-player-shirt/",
+    "https://teespix.com/product/robert-redford-the-legend-redford-shirt/",
+    "https://teespix.com/product/robert-redford-1936-2025-light-fades-legacy-shines-t-shirt/",
+    "https://teespix.com/product/philadelphia-phillies-phanatic-red-october-phillies-powder-blue-shirt/",
+    "https://teespix.com/product/keenan-allen-los-angeles-chargers-hello-goodnight-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/the-simpsons-bart-x-washington-commanders-nfl-2025-shirt/"
@@ -148,9 +148,16 @@
     "https://uscraftedtees.com/product/original-brandon-boyd-incubus-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/turtle-i-didnt-just-turn-into-a-grouchy-old-woman-overnight-shirt/",
-    "https://capitoneshirt.com/product/robert-redford-a-timeless-legend-inspired-by-the-golden-era-of-cinema-shirt/",
-    "https://capitoneshirt.com/product/peanuts-washington-capitals-and-washington-nationals-shirt/"
+    "https://capitoneshirt.com/product/i-love-magic-halloween-shirt/",
+    "https://capitoneshirt.com/product/i-love-la-fighting-for-paradise-shirt/",
+    "https://capitoneshirt.com/product/i-hate-halloween-shirt/",
+    "https://capitoneshirt.com/product/i-have-a-bad-relationship-with-my-dad-wanna-do-tequila-shots-shirt/",
+    "https://capitoneshirt.com/product/future-fakers-of-america-ghost-shirt/",
+    "https://capitoneshirt.com/product/fuck-ron-desantis-desycophantis-and-his-evil-overlord-too-shirt/",
+    "https://capitoneshirt.com/product/fuck-ice-protest-alligator-alcatraz-shirt/",
+    "https://capitoneshirt.com/product/community-melts-ice-shirt/",
+    "https://capitoneshirt.com/product/dragon-would-you-still-love-me-if-i-was-a-wyrm-shirt/",
+    "https://capitoneshirt.com/product/alligator-alcatraz-fuck-ice-protest-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/witch-this-coffee-tastes-like-you-should-shut-the-fuck-up-until-i-finish-it-shirt/",
@@ -165,16 +172,16 @@
     "https://clickoneshirt.com/product/skate-darkslide-combustion-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/circle-jerks-keith-morris-70th-birthday-bash-photo-by-naomi-petersen-t-shirts/",
-    "https://teleteeshirt.com/product/chicago-white-sox-108ing-t-shirts/",
-    "https://teleteeshirt.com/product/chicago-cubs-october-baseball-postseason-mlb-2025-t-shirts/",
-    "https://teleteeshirt.com/product/chicago-bears-meet-dick-dick-is-a-bears-fan-smack-antares-t-shirts/",
-    "https://teleteeshirt.com/product/charley-crockett-bad-company-recorded-at-sunset-sound-studio-in-los-angeles-california-dices-t-shirts/",
-    "https://teleteeshirt.com/product/carla-gallo-platonic-katie-ceo-t-shirts/",
-    "https://teleteeshirt.com/product/brooklyn-cyclones-south-atlantic-league-champions-minor-league-baseball-2025-t-shirts/",
-    "https://teleteeshirt.com/product/bloom-the-light-we-chase-space-t-shirts/",
-    "https://teleteeshirt.com/product/us-29th-annual-nationals-indianapolis-1983-racing-t-shirts/",
-    "https://teleteeshirt.com/product/winterfest-terrapin-dec-20-21-2025-in-menlo-park-ca-t-shirts/"
+    "https://teleteeshirt.com/product/chicago-cubs-built-for-fall-2025-mlb-postseason-t-shirts/",
+    "https://teleteeshirt.com/product/yes-im-old-but-i-saw-boston-seattle-mariners-signatures-t-shirts/",
+    "https://teleteeshirt.com/product/violent-gentlemen-transylvania-hockey-club-vampire-t-shirts/",
+    "https://teleteeshirt.com/product/trump-they-thought-they-won-but-they-fafo-t-shirts/",
+    "https://teleteeshirt.com/product/trivium-struck-dead-tour-north-american-2025-dates-t-shirts/",
+    "https://teleteeshirt.com/product/trevor-young-soja-the-jefferson-in-lounge-baton-rouge-la-sep-18-2025-t-shirts/",
+    "https://teleteeshirt.com/product/t-pain-tallahassee-block-party-save-the-date-on-t-pain-lane-on-october-17-2025-t-shirts/",
+    "https://teleteeshirt.com/product/the-celebrate-1890-2025-anniversary-135-years-of-colorado-buffaloes-signatures-t-shirts/",
+    "https://teleteeshirt.com/product/seattle-mariners-dawg-daze-t-shirts/",
+    "https://teleteeshirt.com/product/samay-raina-wearing-say-no-to-cruise-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/what-if-i-told-u-that-i-was-from-this-country-transgender-flag-shirt/",
