@@ -124,9 +124,16 @@
     "https://legendusashirt.com/product/yes-im-old-but-i-saw-boston-red-sox-greatness-boggs-rice-williams-yastrzemski-fisk-ortiz-and-martinez-signatures-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/chicago-cubs-october-2025-mlb-postseason-locker-shirt/",
-    "https://teehandus.com/product/chicago-cubs-built-for-fall-2025-mlb-postseason-shirt/",
-    "https://teehandus.com/product/carhartt-freedom-progress-looks-so-much-like-destruction-shirt/"
+    "https://teehandus.com/product/i-waited-for-deckard-and-all-i-got-was-fired-from-my-job-for-being-way-to-over-hyped-shirt/",
+    "https://teehandus.com/product/i-experienced-ot5-ggum-live-shirt/",
+    "https://teehandus.com/product/huskies-give-blood-university-of-washington-shirt/",
+    "https://teehandus.com/product/huskers-give-blood-university-of-nebraska-shirt/",
+    "https://teehandus.com/product/hoosiers-give-blood-indiana-university-shirt/",
+    "https://teehandus.com/product/hokkai-do-ace-shirt/",
+    "https://teehandus.com/product/hawkeyes-give-blood-university-of-iowa-shirt/",
+    "https://teehandus.com/product/harvey-wallbangers-forgotten-bar-milwaukee-brewers-shirt/",
+    "https://teehandus.com/product/halloween-homies-leatherface-ghostface-jason-voorhees-michael-myers-freddy-krueger-horror-shirt/",
+    "https://teehandus.com/product/haechan-wearing-battle-code-127-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -209,16 +216,16 @@
     "https://dalatshirt.com/product/dont-be-jealous-t-shirts-2/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/you-ll-float-too-halloween-joker-graphic-shirt/",
-    "https://lovingsquad.com/product/wolf-if-you-see-me-talking-to-myself-d-not-disturb-im-having-a-staff-meeting-shirt/",
-    "https://lovingsquad.com/product/skunk-my-five-moods-1-im-too-old-for-this-shit-2-im-too-tired-for-this-shit-shirt/",
-    "https://lovingsquad.com/product/skeleton-pumpkin-halloween-my-favorite-season-is-the-fall-of-fascism-shirt/",
-    "https://lovingsquad.com/product/skeleton-i-suffer-from-chs-cant-hear-shit-i-will-huh-the-crap-out-of-you-shirt/",
-    "https://lovingsquad.com/product/raccoon-halloween-nobody-told-me-that-when-you-get-a-husband-his-ears-are-sold-separately-shirt/",
-    "https://lovingsquad.com/product/raccoon-behind-every-husband-who-thinks-he-wears-the-pants-is-a-wife-who-told-him-which-pants-to-wear-shirt/",
-    "https://lovingsquad.com/product/phillie-phanatic-philadelphia-phillies-mascot-red-october-slut-for-october-halloween-shirt/",
-    "https://lovingsquad.com/product/philadelphia-phillies-baseball-team-red-october-shirt/",
-    "https://lovingsquad.com/product/paige-bueckers-wnba-rookie-of-the-year-2025-this-was-only-her-first-rodeo-shirt/"
+    "https://lovingsquad.com/product/zombie-skeleton-halloween-puppie-love-dog-shirt/",
+    "https://lovingsquad.com/product/zero-jack-skellington-nightmare-skeleton-halloween-puppie-love-dog-shirt/",
+    "https://lovingsquad.com/product/world-on-fire-text-vintage-shirt/",
+    "https://lovingsquad.com/product/wisconsin-needs-public-schools-shirt/",
+    "https://lovingsquad.com/product/white-boy-of-the-year-shirt-2/",
+    "https://lovingsquad.com/product/well-done-good-and-faithful-servant-shirt/",
+    "https://lovingsquad.com/product/we-know-ball-ball-state-cardinals-football-helmet-standee-mascot-logo-shirt/",
+    "https://lovingsquad.com/product/united-states-of-america-1776-2026-250th-anniversary-birthday-shirt/",
+    "https://lovingsquad.com/product/unemployed-and-beautiful-shirt/",
+    "https://lovingsquad.com/product/ubasani-proceed-proceed-2027-ubasaniproceed2027-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/charlie-kirk-just-because-youre-offended-doesnt-mean-you-are-right-signature-rip-2025-shirt/",
