@@ -195,16 +195,9 @@
     "https://teeslocal.com/product/kid-kd-kerry-wood-shirt/"
   ],
   "melonashirt.com": [
-    "https://melonashirt.com/product/official-dizgo-lotus-shirts/",
-    "https://melonashirt.com/product/official-dizgo-grid-logo-shirts/",
-    "https://melonashirt.com/product/official-vogelfrey-stahlhammer-shirts/",
-    "https://melonashirt.com/product/official-vitriol-wrest-demon-shirts/",
-    "https://melonashirt.com/product/official-vitriol-omega-olive-shirts/",
-    "https://melonashirt.com/product/official-the-black-dahlia-murder-the-remnant-shirts/",
-    "https://melonashirt.com/product/official-ruben-delivering-results-thats-his-job-shirts/",
-    "https://melonashirt.com/product/official-northern-soul-keep-the-faith-shirts/",
-    "https://melonashirt.com/product/official-love-is-noise-to-live-in-different-way-a-hand-shirts/",
-    "https://melonashirt.com/product/official-love-is-noise-to-live-in-a-different-way-shirts/"
+    "https://melonashirt.com/product/official-great-american-ghost-torture-world-globe-shirts/",
+    "https://melonashirt.com/product/official-grumpy-old-gits-club-founder-member-shirts/",
+    "https://melonashirt.com/product/official-kanonenfieber-der-offizier-shirts/"
   ],
   "dalatshirt.com": [
     "https://dalatshirt.com/product/auroras-whole-realm-catalogue-est-1357-logo-vintage-t-shirts/",
@@ -234,16 +227,16 @@
     "https://designatshop.com/product/yuri-ravens-tailgate-sunday-with-a-wild-shirt/"
   ],
   "arjomany.com": [
-    "https://arjomany.com/product/anne-wilson-stars-shirt/",
-    "https://arjomany.com/product/alabama-shakes-new-york-2025-t-shirt/",
-    "https://arjomany.com/product/aerosmith-yungblud-one-more-time-shirt-2025/",
-    "https://arjomany.com/product/this-team-makes-me-drinks-t-shirt/",
-    "https://arjomany.com/product/the-princess-posse-t-shirt/",
-    "https://arjomany.com/product/the-paper-kites-if-you-go-there-i-hope-you-find-it-shirt/",
-    "https://arjomany.com/product/kill-tony-monday-night-t-shirt/",
-    "https://arjomany.com/product/johnny-blue-skies-september-17-18-2025-red-rock-shirt/",
-    "https://arjomany.com/product/fletcher-wyslm-album-tee/",
-    "https://arjomany.com/product/fletcher-moon-tee/"
+    "https://arjomany.com/product/speed-gear-for-the-turnstile-us-tour-2025-shirt/",
+    "https://arjomany.com/product/return-to-dust-speak-like-the-dead-tee/",
+    "https://arjomany.com/product/return-to-dust-photo-speak-tee/",
+    "https://arjomany.com/product/johnny-blue-skies-red-rocks-2025-event-shirt/",
+    "https://arjomany.com/product/jelusick-apolitical-ecstasy-shirt/",
+    "https://arjomany.com/product/gumball3000-2025-tour-shirt/",
+    "https://arjomany.com/product/gumball3000-2025-tour-merch/",
+    "https://arjomany.com/product/fletcher-hi-everyone-leave-please-tee/",
+    "https://arjomany.com/product/circle-jerks-sept-19-2025-los-angeles-ca-t-shirt/",
+    "https://arjomany.com/product/circle-jerks-north-american-tour-2025-t-shirt/"
   ],
   "collectionpostertour.com": [
     "https://collectionpostertour.com/product/the-wonder-years-funeral-t-shirt/",
