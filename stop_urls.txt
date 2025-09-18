@@ -23,16 +23,16 @@
     "https://techteesusa.com/product/let-the-pirate-shenanigans-begin-halloween-skull-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/mariah-carey-i-think-ive-done-enough-shirt/",
-    "https://teeworksusa.com/product/merry-christmas-santa-wink-funny-shirt/",
-    "https://teeworksusa.com/product/on-my-way-to-visit-my-dad-shirt/",
-    "https://teeworksusa.com/product/you-cant-scare-me-im-a-911-dispatcher-skeleton-halloween-shirt/",
-    "https://teeworksusa.com/product/karns-beavers-dam-proud-to-be-a-beaver-mascot-shirt/",
-    "https://teeworksusa.com/product/the-american-legions-celebration-of-americas-250th-shirt/",
-    "https://teeworksusa.com/product/the-goalposts-have-left-the-building-georgia-tech-football-poster-shirt/",
-    "https://teeworksusa.com/product/pink-and-teal-nutcracker-patchwork-print-shirt/",
-    "https://teeworksusa.com/product/pouya-its-pouya-hoe-shirt/",
-    "https://teeworksusa.com/product/houston-astros-jose-altuve-27-caricature-cartoon-shirt/"
+    "https://teeworksusa.com/product/my-chemical-romance-newark-nj-2001-shirt/",
+    "https://teeworksusa.com/product/monsters-inc-we-scare-because-we-care-shirt/",
+    "https://teeworksusa.com/product/maximum-fun-tour-a-day-to-remember-shirt/",
+    "https://teeworksusa.com/product/mannys-the-spirit-of-mexico-shirt/",
+    "https://teeworksusa.com/product/magic-the-gathering-gaeas-cradle-shirt/",
+    "https://teeworksusa.com/product/kiss-me-im-sheet-faced-ghost-shirt/",
+    "https://teeworksusa.com/product/its-the-most-wonderful-time-of-the-year-2021-shirt/",
+    "https://teeworksusa.com/product/i-was-raised-on-the-streets-shirt/",
+    "https://teeworksusa.com/product/i-was-a-guest-at-tiny-tims-spooky-world-wedding-oct-31-1994-shirt/",
+    "https://teeworksusa.com/product/i-love-a-debate-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-yes-im-old-but-i-saw-seattle-mariners-greatness-team-shirt/",
@@ -184,16 +184,14 @@
     "https://clickoneshirt.com/product/slogan-protect-the-dolls-2025-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/chicago-cubs-built-for-fall-2025-mlb-postseason-t-shirts/",
-    "https://teleteeshirt.com/product/yes-im-old-but-i-saw-boston-seattle-mariners-signatures-t-shirts/",
-    "https://teleteeshirt.com/product/violent-gentlemen-transylvania-hockey-club-vampire-t-shirts/",
-    "https://teleteeshirt.com/product/trump-they-thought-they-won-but-they-fafo-t-shirts/",
-    "https://teleteeshirt.com/product/trivium-struck-dead-tour-north-american-2025-dates-t-shirts/",
-    "https://teleteeshirt.com/product/trevor-young-soja-the-jefferson-in-lounge-baton-rouge-la-sep-18-2025-t-shirts/",
-    "https://teleteeshirt.com/product/t-pain-tallahassee-block-party-save-the-date-on-t-pain-lane-on-october-17-2025-t-shirts/",
-    "https://teleteeshirt.com/product/the-celebrate-1890-2025-anniversary-135-years-of-colorado-buffaloes-signatures-t-shirts/",
-    "https://teleteeshirt.com/product/seattle-mariners-dawg-daze-t-shirts/",
-    "https://teleteeshirt.com/product/samay-raina-wearing-say-no-to-cruise-t-shirts/"
+    "https://teleteeshirt.com/product/minnesota-timberwolves-dead-threads-skeleton-t-shirts/",
+    "https://teleteeshirt.com/product/kodansha-house-nyc-2025-wotakoi-t-shirts/",
+    "https://teleteeshirt.com/product/kodansha-house-a-sign-of-affection-nyc-2025-t-shirts/",
+    "https://teleteeshirt.com/product/jake-owen-them-old-love-songs-t-shirts/",
+    "https://teleteeshirt.com/product/georgia-tech-yellow-jackets-techs-golden-tornadoes-1915-t-shirts/",
+    "https://teleteeshirt.com/product/jake-owen-fringe-rose-t-shirts/",
+    "https://teleteeshirt.com/product/georgia-tech-yellow-jackets-on-to-denver-1990-t-shirts/",
+    "https://teleteeshirt.com/product/georgia-tech-yellow-jackets-four-time-national-champs-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/what-if-i-told-u-that-i-was-from-this-country-transgender-flag-shirt/",
