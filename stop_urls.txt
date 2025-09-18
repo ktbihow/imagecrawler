@@ -12,10 +12,14 @@
     "https://geekteesus.com/product/malia-baker-portrait-signature-shirt/"
   ],
   "orionshirt.com": [
-    "https://orionshirt.com/product/official-i-work-because-i-want-to-work-it-keeps-me-going-robert-redford-1936-2025-t-shirt/",
-    "https://orionshirt.com/product/official-thank-you-robert-redford-89-the-golden-boy-of-hollywood-1936-2025-signature-t-shirt/",
-    "https://orionshirt.com/product/official-speedway-the-worlds-greatest-dirt-track-rossburg-ohio-est-1954-t-shirt/",
-    "https://orionshirt.com/product/official-thanks-for-memories-robert-redford-1936-2025-t-shirt/"
+    "https://orionshirt.com/product/official-poster-pittsburgh-steelers-rest-in-peace-dale-lolley-1968-2025-t-shirt/",
+    "https://orionshirt.com/product/official-oklahoma-sooners-for-life-100-anniversary-1925-2025-varsity-o-association-logo-t-shirt/",
+    "https://orionshirt.com/product/official-chicago-cubs-mlb-the-north-is-back-in-october-players-fan-gear-t-shirt/",
+    "https://orionshirt.com/product/official-chicago-cubs-chicago-style-2025-mlb-postseason-national-league-legend-fan-gear-t-shirt/",
+    "https://orionshirt.com/product/official-philadelphia-phillies-mlb-bryce-harper-and-kyle-schwarber-players-duo-caricatures-painting-t-shirt/",
+    "https://orionshirt.com/product/official-milwaukee-brewers-mlb-jackson-chourio-and-christian-yelich-players-duo-caricatures-painting-t-shirt/",
+    "https://orionshirt.com/product/official-los-angeles-dodgers-mlb-mookie-betts-and-shohei-ohtani-players-duo-caricatures-painting-t-shirt/",
+    "https://orionshirt.com/product/official-boston-red-sox-mlb-roman-anthony-and-alex-bregman-players-duo-caricatures-painting-t-shirt/"
   ],
   "techteesusa.com": [
     "https://techteesusa.com/product/south-philly-surf-club-t-shirt/",
@@ -270,16 +274,16 @@
     "https://newshirtstore.com/product/tommy-robinson-texas-flag-t-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/wisconsin-needs-public-schools-shirt/",
-    "https://eteeclothing.com/product/vandegrift-crown-trio-theater-company-typography-shirt/",
-    "https://eteeclothing.com/product/vandegrift-crown-trio-theatre-company-masks-logo-shirt/",
-    "https://eteeclothing.com/product/superman-2025-movie-big-belly-burger-logo-shirt/",
-    "https://eteeclothing.com/product/shohei-ohtani-los-angeles-dodgers-baseball-comic-shirt/",
-    "https://eteeclothing.com/product/pittsburgh-pirates-x-clemente-number-21-2-sided-t-shirt/",
-    "https://eteeclothing.com/product/pittsburgh-pirates-x-clemente-2-sided-t-shirt/",
-    "https://eteeclothing.com/product/not-my-circus-but-ive-grown-quite-fond-of-its-monkeys-shirt/",
-    "https://eteeclothing.com/product/mcfly-vs-busted-shirt/",
-    "https://eteeclothing.com/product/madison-needs-public-schools-shirt/"
+    "https://eteeclothing.com/product/shopping-wont-fix-my-problems-but-it-will-put-me-in-a-better-mood-shirt/",
+    "https://eteeclothing.com/product/senses-fail-live-retro-shirt/",
+    "https://eteeclothing.com/product/racism-is-the-only-invention-white-people-wont-take-credit-for-shirt/",
+    "https://eteeclothing.com/product/racism-isnt-a-difference-of-opinion-text-shirt/",
+    "https://eteeclothing.com/product/my-city-my-team-new-york-sports-yankees-x-giants-the-city-that-never-sleeps-shirt/",
+    "https://eteeclothing.com/product/michael-myers-and-jason-voorhees-step-brothers-movie-halloween-shirt/",
+    "https://eteeclothing.com/product/lsu-tigers-football-coach-corey-raymond-2-sided-t-shirt/",
+    "https://eteeclothing.com/product/lobster-patriotic-american-flag-shirt/",
+    "https://eteeclothing.com/product/light-the-city-2025-playoffs-seattle-storm-shirt/",
+    "https://eteeclothing.com/product/justice-for-charlie-kirk-americas-hero-1993-2025-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/official-tate-mcrae-miss-possessive-2025-world-tour-on-my-hands-so-close-to-what-shirt/",
