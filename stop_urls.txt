@@ -42,27 +42,22 @@
     "https://meredpremium.com/product/official-toronto-blue-jays-nike-built-for-fall-2025-mlb-postseason-t-shirt/"
   ],
   "berrylittles.com": [
-    "https://berrylittles.com/product/official-rest-in-peace-hollywood-icon-robert-redford-has-sadly-passed-away-1936-2025-poster-t-shirt/",
-    "https://berrylittles.com/product/official-poster-blink-182-september-16-2025-riverbend-music-center-cincinnati-oh-t-shirt/",
-    "https://berrylittles.com/product/official-blink-182-cincinnati-ohio-at-riverbend-music-center-on-september-16-2025-t-shirt/",
-    "https://berrylittles.com/product/official-dion-dawkins-the-shnowman-buffalo-bills-nfl-football-signature-t-shirt/",
-    "https://berrylittles.com/product/official-philadelphia-philles-baseball-mlb-whatever-the-hell-it-takes-topper-t-shirt/",
-    "https://berrylittles.com/product/official-deandre-hopkins-baltimore-ravens-nfl-flash-features-week-2-september-14-2025-t-shirt/",
-    "https://berrylittles.com/product/official-amon-ra-st-brown-detroit-lions-nfl-flash-features-week-2-september-14-2025-t-shirt/",
-    "https://berrylittles.com/product/official-im-just-here-to-watch-oscar-delp-game-day-georgia-bulldogs-ncaa-t-shirt/",
-    "https://berrylittles.com/product/official-indiana-hoosiers-volleyball-candela-alonso-corcelles-1000-kills-t-shirt/"
+    "https://berrylittles.com/product/official-slam-258-jalen-williams-magazine-they-gon-learn-oklahoma-city-thunder-basketball-poster-t-shirt/",
+    "https://berrylittles.com/product/official-ho-ho-hot-mulligan-microwave-piebald-charmer-and-footballhead-december-7-2025-detroit-mi-poster-t-shirt/",
+    "https://berrylittles.com/product/official-georgia-tech-yellow-jackets-football-the-goalposts-have-left-the-building-september-13th-2025-t-shirt/",
+    "https://berrylittles.com/product/official-georgia-tech-yellow-jackets-one-helluva-pool-party-2025-painting-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-philadelphia-phillies-mlb-for-the-4th-straight-year-red-october-is-back-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-cleveland-browns-high-school-game-of-the-week-logo-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-fruitgravy-the-interview-san-francisco-1973-painting-t-shirt/",
-    "https://dreameshirt.com/product/official-indiana-fever-now-you-know-2025-playoffs-t-shirt/",
-    "https://dreameshirt.com/product/official-luis-robert-jr-la-pantera-para-siempre-chicago-white-sox-mlb-painting-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-sturgill-simpson-red-rocks-amphitheatre-morrison-co-shows-on-september-16-17-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-deep-sea-diver-november-28-2025-paramount-theater-seattle-wa-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-poppy-jean-crawford-tour-supporting-the-raveonettes-september-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-phish-september-16-2025-ameris-bank-amphitheater-alpharetta-ga-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-an-evening-with-cake-december-9-2025-the-sylvee-madison-wi-t-shirt/"
+    "https://dreameshirt.com/product/official-byron-murphy-ii-seattle-seahawks-vs-new-orleans-saints-navy-x-navy-week-3-nfl-game-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-from-the-buffalo-bills-the-season-i-turned-mafia-everybody-eats-2025-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-paul-rudd-and-jack-black-its-the-movie-theyre-dying-to-remake-anaconda-in-theatres-christmas-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-chicago-cubs-have-clinched-mlb-2025-postseason-fly-the-w-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-dogs-in-a-pile-troubadour-in-west-hollywood-ca-september-18-19-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-aew-all-out-2025-welcome-to-copeland-toronto-september-20-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-aew-all-out-2025-matchup-cope-and-christian-cage-vs-ftr-toronto-september-20-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-georgia-tech-yellow-jackets-ncaa-football-ramblin-wreck-painting-t-shirt/",
+    "https://dreameshirt.com/product/official-blink-182-at-ruoff-music-center-noblesville-in-september-17-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-i-was-a-mafia-boss-with-bipolar-until-i-got-thrown-in-an-infinite-death-loop-in-rome-italy-in-2001-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/official-y-la-bamba-san-luis-obispo-ca-11-9-2025-shirt/",
@@ -239,16 +234,16 @@
     "https://arjomany.com/product/circle-jerks-north-american-tour-2025-t-shirt/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/the-wonder-years-funeral-t-shirt/",
-    "https://collectionpostertour.com/product/the-wonder-years-funeral-t-shirt-limited-edition/",
-    "https://collectionpostertour.com/product/the-wonder-years-black-hole-t-shirt/",
-    "https://collectionpostertour.com/product/the-wonder-years-black-hole-t-shirt-limited-edition/",
-    "https://collectionpostertour.com/product/magnolia-electric-co-songs-ohia-fawn-t-shirt/",
-    "https://collectionpostertour.com/product/magnolia-electric-co-songs-ohia-fawn-t-shirt-limited-edition/",
-    "https://collectionpostertour.com/product/just-south-of-boston-illustration-t-shirt/",
-    "https://collectionpostertour.com/product/just-south-of-boston-illustration-t-shirt-limited-edition/",
-    "https://collectionpostertour.com/product/emo-nite-road-to-warped-florida-2025-t-shirt/",
-    "https://collectionpostertour.com/product/emo-nite-road-to-warped-florida-2025-t-shirt-limited-edition/"
+    "https://collectionpostertour.com/product/head-in-the-clouds-festival-under-the-k-bridge-park-brooklyn-ny-concert-t-shirt-2025/",
+    "https://collectionpostertour.com/product/head-in-the-clouds-festival-under-the-k-bridge-new-york-concert-t-shirt-2025/",
+    "https://collectionpostertour.com/product/head-in-the-clouds-festival-september-20-2025-under-the-k-bridge-official-concert-t-shirt/",
+    "https://collectionpostertour.com/product/head-in-the-clouds-festival-september-20-2025-brooklyn-ny-official-concert-t-shirt/",
+    "https://collectionpostertour.com/product/circle-jerks-september-19-2025-los-angeles-ca-official-concert-t-shirt/",
+    "https://collectionpostertour.com/product/circle-jerks-north-american-tour-25-t-shirt/",
+    "https://collectionpostertour.com/product/circle-jerks-north-american-tour-25-t-shirt-limited-edition/",
+    "https://collectionpostertour.com/product/circle-jerks-keith-morris-70th-birthday-t-shirt/",
+    "https://collectionpostertour.com/product/circle-jerks-keith-morris-70th-birthday-bash-september-19-2025-t-shirt/",
+    "https://collectionpostertour.com/product/circle-jerks-hollywood-palladium-los-angeles-ca-concert-t-shirt-2025/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/the-witcher-season-4-new-poster-revealed-on-netflix-releasing-october-30-2025-fantasy-series-unisex-t-shirt/",
@@ -263,16 +258,16 @@
     "https://neoteeco.com/product/nicolas-maduro-enemigo-de-los-venezolanos-political-protest-poster-venezuela-opposition-artwork-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/youth-is-the-gift-of-nature-but-age-is-a-work-of-art-text-shirt/",
-    "https://newshirtstore.com/product/which-one-do-you-prefer-oasis-or-blur-shirt/",
-    "https://newshirtstore.com/product/wolf-moon-fright-shift-dispatch-crew-shirt/",
-    "https://newshirtstore.com/product/yes-i-support-beer-lingling-money-shirt/",
-    "https://newshirtstore.com/product/yeah-im-trans-transporting-this-beer-to-my-mouth-so-i-can-drink-it-beer-shirt/",
-    "https://newshirtstore.com/product/yes-im-a-pirate-est-1932-shirt/",
-    "https://newshirtstore.com/product/veni-vidi-vici-julius-caesar-graphic-shirt/",
-    "https://newshirtstore.com/product/wnba-official-golden-state-valkyries-2025-playoffs-worlds-shirt/",
-    "https://newshirtstore.com/product/whosoever-shall-call-on-the-name-of-the-lord-shall-be-saved-shirt/",
-    "https://newshirtstore.com/product/university-of-illinois-urbana-gies-memorial-stadium-logo-home-of-the-fighting-illini-shirt/"
+    "https://newshirtstore.com/product/in-memory-of-charlie-kirk-pumpkin-spooky-season-happy-halloween-2025-political-shirt/",
+    "https://newshirtstore.com/product/mcfly-vs-busted-t-shirt/",
+    "https://newshirtstore.com/product/indiana-hoosiers-vs-illinois-fighting-illini-gameday-showdown-bloomington-in-sept-20-2025-t-shirt/",
+    "https://newshirtstore.com/product/max-and-harvey-just-trying-shit-and-hoping-it-works-t-shirt/",
+    "https://newshirtstore.com/product/logotipo-deportivo-de-beartooth-shirt/",
+    "https://newshirtstore.com/product/max-and-harvey-im-a-bit-loud-t-shirt/",
+    "https://newshirtstore.com/product/max-and-harvey-mh-christmas-t-shirt/",
+    "https://newshirtstore.com/product/indianapolis-colts-logo-t-shirt/",
+    "https://newshirtstore.com/product/legends-never-die-robert-redford-shirt-2/",
+    "https://newshirtstore.com/product/johnny-gargano-nxt-the-whole-shebang-boom-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/us-battle-tested-battle-born-shirt/",
