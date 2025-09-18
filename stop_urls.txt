@@ -18,11 +18,16 @@
     "https://orionshirt.com/product/official-thanks-for-memories-robert-redford-1936-2025-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/i-like-trams-i-like-riding-them-shirt/",
-    "https://techteesusa.com/product/indiana-fever-2025-playoffs-now-you-know-two-sided-shirt/",
-    "https://techteesusa.com/product/law-enforcement-appreciation-lead-philadelphia-phillies-shirt/",
-    "https://techteesusa.com/product/its-dumb-as-hell-that-daves-hot-chicken-charge-you-for-a-fountain-drink-shirt/",
-    "https://techteesusa.com/product/i-am-unconcerned-about-the-question-of-free-will-shirt/"
+    "https://techteesusa.com/product/south-philly-surf-club-t-shirt/",
+    "https://techteesusa.com/product/mom-raised-a-depressed-anxious-wreck-not-a-bitch-t-shirt/",
+    "https://techteesusa.com/product/bbq-stains-grape-snow-cones-strawberry-wine-shirt/",
+    "https://techteesusa.com/product/pride-mary-shirt/",
+    "https://techteesusa.com/product/team-trump-team-musk-team-popcorn-shirt/",
+    "https://techteesusa.com/product/we-deserve-better-psyops-shirt/",
+    "https://techteesusa.com/product/vulfpeck-at-the-garden-shirt/",
+    "https://techteesusa.com/product/trey-yesavage-toronto-blue-jays-uno-dos-trey-shirt/",
+    "https://techteesusa.com/product/this-team-makes-me-drink-minnesota-vikings-funny-logo-shirt/",
+    "https://techteesusa.com/product/seattle-mariners-cal-raleigh-history-for-big-dumper-most-home-runs-in-a-season-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/mariah-carey-i-think-ive-done-enough-shirt/",
