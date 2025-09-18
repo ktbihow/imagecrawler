@@ -156,16 +156,16 @@
     "https://capitoneshirt.com/product/stomp-out-every-transphobe-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/colbert-and-jimmy-kimmel-free-speech-matters-shirt/",
-    "https://clickoneshirt.com/product/clemson-tigers-i-aint-going-to-the-beach-shirt/",
-    "https://clickoneshirt.com/product/claude-giroux-senators-hockey-graphic-shirt/",
-    "https://clickoneshirt.com/product/classic-game-fest-the-biggest-retro-gaming-event-in-texas-shirt/",
-    "https://clickoneshirt.com/product/chicago-cubs-world-champions-north-side-shirt/",
-    "https://clickoneshirt.com/product/chicago-cubs-october-baseball-2025-mlb-postseason-shirt/",
-    "https://clickoneshirt.com/product/ben-and-jerrys-phish-ice-cream-vintage-graphic-shirt/",
-    "https://clickoneshirt.com/product/bayern-munich-beats-chelsea-uefa-champion-league-this-is-my-kingdom-shirt/",
-    "https://clickoneshirt.com/product/alabama-crimson-tide-bama-soccer-crimson-out-shirt/",
-    "https://clickoneshirt.com/product/cam-bynum-indianapolis-colts-nfl-pump-it-dance-funny-shirt/"
+    "https://clickoneshirt.com/product/warning-beware-ice-rats-shirt/",
+    "https://clickoneshirt.com/product/trump-shot-fight-evil-together-pennsylvania-rally-shooting-shirt/",
+    "https://clickoneshirt.com/product/the-summer-i-turned-pretty-team-conrad-team-jeremiah-cousins-beach-shirt/",
+    "https://clickoneshirt.com/product/this-was-only-her-first-rodeo-paige-bueckers-shirt/",
+    "https://clickoneshirt.com/product/the-summer-i-turned-pretty-season-2-movie-characters-shirt/",
+    "https://clickoneshirt.com/product/the-summer-i-turned-pretty-jeremiah-fisher-team-jeremiah-jelly-shirt/",
+    "https://clickoneshirt.com/product/stefon-diggs-new-england-patriots-football-player-collage-shirt/",
+    "https://clickoneshirt.com/product/steelheads-hockey-club-2025-home-opener-shirt/",
+    "https://clickoneshirt.com/product/sorry-i-am-cranky-im-going-through-my-terrible-seventies-shirt/",
+    "https://clickoneshirt.com/product/slogan-protect-the-dolls-2025-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/chicago-cubs-built-for-fall-2025-mlb-postseason-t-shirts/",
