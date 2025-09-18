@@ -60,16 +60,16 @@
     "https://berrylittles.com/product/official-poster-the-who-september-19-2025-hollywood-bowl-in-hollywood-ca-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-byron-murphy-ii-seattle-seahawks-vs-new-orleans-saints-navy-x-navy-week-3-nfl-game-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-from-the-buffalo-bills-the-season-i-turned-mafia-everybody-eats-2025-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-paul-rudd-and-jack-black-its-the-movie-theyre-dying-to-remake-anaconda-in-theatres-christmas-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-chicago-cubs-have-clinched-mlb-2025-postseason-fly-the-w-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-dogs-in-a-pile-troubadour-in-west-hollywood-ca-september-18-19-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-aew-all-out-2025-welcome-to-copeland-toronto-september-20-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-aew-all-out-2025-matchup-cope-and-christian-cage-vs-ftr-toronto-september-20-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-georgia-tech-yellow-jackets-ncaa-football-ramblin-wreck-painting-t-shirt/",
-    "https://dreameshirt.com/product/official-blink-182-at-ruoff-music-center-noblesville-in-september-17-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-i-was-a-mafia-boss-with-bipolar-until-i-got-thrown-in-an-infinite-death-loop-in-rome-italy-in-2001-t-shirt/"
+    "https://dreameshirt.com/product/official-chicago-cubs-have-clinched-2025-playoff-mlb-postseason-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-brooklyn-cyclones-south-atlantic-league-champions-amazin-starts-here-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-milb-2025-champions-california-league-san-jose-giants-logo-t-shirt/",
+    "https://dreameshirt.com/product/official-milb-2025-champions-pacific-coast-league-tacoma-rainiers-logo-t-shirt/",
+    "https://dreameshirt.com/product/official-milb-2025-champions-midwest-league-west-michigan-whitecaps-logo-t-shirt/",
+    "https://dreameshirt.com/product/official-milb-2025-champions-florida-state-league-lakeland-flying-tigers-logo-t-shirt/",
+    "https://dreameshirt.com/product/official-milb-2025-florida-state-league-champions-series-daytona-tortugas-logo-t-shirt/",
+    "https://dreameshirt.com/product/official-milb-2025-champions-northwest-league-everett-aquasox-logo-t-shirt/",
+    "https://dreameshirt.com/product/official-milb-2025-champions-south-atlantic-league-brooklyn-cyclones-logo-t-shirt/",
+    "https://dreameshirt.com/product/official-chicago-cubs-mlb-my-my-favorite-sport-is-october-baseball-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/yusuf-cat-stevens-the-bridgewater-hall-in-manchester-uk-9-16-2025-shirt/",
@@ -234,16 +234,16 @@
     "https://arjomany.com/product/travis-barker-run-travis-run-chicago-sep-20-2025-poster/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/mcfly-vs-busted-t-shirt/",
-    "https://collectionpostertour.com/product/mcfly-vs-busted-t-shirt-limited-edition/",
-    "https://collectionpostertour.com/product/i-saw-foo-fighters-play-their-1570th-show-and-all-i-got-was-this-stupid-fucking-t-shirt/",
-    "https://collectionpostertour.com/product/i-saw-foo-fighters-play-their-1570th-show-and-all-i-got-was-this-stupid-fucking-t-shirt-limited-edition/",
-    "https://collectionpostertour.com/product/wilco-pursuit-of-happiness-t-shirt-limited-edition/",
-    "https://collectionpostertour.com/product/wilco-band-pursuit-of-happiness-t-shirt/",
-    "https://collectionpostertour.com/product/team-mcfly-t-shirt/",
-    "https://collectionpostertour.com/product/team-mcfly-t-shirt-limited-edition/",
-    "https://collectionpostertour.com/product/team-mcfly-black-t-shirt/",
-    "https://collectionpostertour.com/product/team-mcfly-black-t-shirt-limited-edition/"
+    "https://collectionpostertour.com/product/the-paper-kites-black-album-t-shirt/",
+    "https://collectionpostertour.com/product/the-paper-kites-black-album-t-shirt-limited-edition/",
+    "https://collectionpostertour.com/product/hot-mulligan-skull-pile-t-shirt/",
+    "https://collectionpostertour.com/product/hot-mulligan-skull-pile-t-shirt-limited-edition/",
+    "https://collectionpostertour.com/product/hot-mulligan-death-disco-t-shirt/",
+    "https://collectionpostertour.com/product/hot-mulligan-death-disco-t-shirt-limited-edition/",
+    "https://collectionpostertour.com/product/blackcraft-cult-witch-cauldron-t-shirt/",
+    "https://collectionpostertour.com/product/blackcraft-cult-witch-cauldron-t-shirt-limited-edition/",
+    "https://collectionpostertour.com/product/blackcraft-cult-were-haunted-t-shirt/",
+    "https://collectionpostertour.com/product/blackcraft-cult-were-haunted-t-shirt-limited-edition/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/the-witcher-season-4-new-poster-revealed-on-netflix-releasing-october-30-2025-fantasy-series-unisex-t-shirt/",
