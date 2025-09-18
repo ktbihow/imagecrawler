@@ -60,28 +60,21 @@
     "https://dreameshirt.com/product/official-i-was-a-mafia-boss-with-bipolar-until-i-got-thrown-in-an-infinite-death-loop-in-rome-italy-in-2001-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-y-la-bamba-san-luis-obispo-ca-11-9-2025-shirt/",
-    "https://teeextra.com/product/official-the-story-lives-forever-robert-redford-mount-timpanogos-shirt/",
-    "https://teeextra.com/product/official-the-legend-forever-in-utahs-heart-robert-redford-1936-2025-shirt/",
-    "https://teeextra.com/product/official-seattle-wa-deep-sea-diver-11-28-2025-shirt/",
-    "https://teeextra.com/product/official-robert-redford-usa-flag-rip-1936-2025-shirt/",
-    "https://teeextra.com/product/official-robert-redford-the-legend-star-shirt/",
-    "https://teeextra.com/product/official-robert-redford-the-legend-shirt/",
-    "https://teeextra.com/product/official-robert-redford-memory-era-tour-vintage-1936-2025-shirt/",
-    "https://teeextra.com/product/official-robert-redford-legends-never-die-shirt/",
-    "https://teeextra.com/product/official-robert-redford-i-work-because-i-want-to-work-it-keeps-me-going-shirt/"
+    "https://teeextra.com/product/breaking-bad-aaron-paul-mr-pinkman-shirt/",
+    "https://teeextra.com/product/official-blink-182-welcome-to-noblesville-indiana-2025-venue-poster-at-ruoff-music-center-on-september-17-2025-shirt/",
+    "https://teeextra.com/product/official-bitter-so-sweet-louis-lemonade-a-little-taste-is-all-you-need-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/zohran-mamdani-vintage-poster-design-shirt-2/",
-    "https://teespix.com/product/zohran-mamdani-for-new-york-city-shirt-2/",
-    "https://teespix.com/product/zohran-mamdani-a-city-we-can-afford-shirt/",
-    "https://teespix.com/product/yes-im-old-but-i-saw-red-sox-greatness-player-signature-shirt/",
-    "https://teespix.com/product/yes-im-old-but-i-saw-mariners-greatness-player-signature-shirt/",
-    "https://teespix.com/product/yes-im-old-but-i-saw-detroit-greatness-player-signature-shirt/",
-    "https://teespix.com/product/yes-im-old-but-i-saw-cubs-greatness-player-shirt/",
-    "https://teespix.com/product/why-v8-because-2-liter-isnt-enough-to-be-called-an-engine-shirt/",
-    "https://teespix.com/product/when-the-news-is-silent-the-streets-speak-the-truth-shirt-2/",
-    "https://teespix.com/product/we-are-all-charlie-kirk-shirt-4/"
+    "https://teespix.com/product/wisconsin-needs-public-schools-shirt/",
+    "https://teespix.com/product/vatos-locos-forever-carnal-shirt/",
+    "https://teespix.com/product/tres-leches-lexie-hull-sophie-cunningham-caitlin-clark-step-sisters-indiana-fever-shirt/",
+    "https://teespix.com/product/top-my-girlfriend-beats-me-shirt/",
+    "https://teespix.com/product/the-growlers-feel-my-funk-shirt/",
+    "https://teespix.com/product/sophie-cunningham-caitlin-clark-and-lexie-hull-tres-leches-shirt/",
+    "https://teespix.com/product/red-white-and-blueberries-charlie-kirk-shirt/",
+    "https://teespix.com/product/not-taking-a-risk-is-a-risk-thats-how-i-see-it-shirt/",
+    "https://teespix.com/product/my-hero-is-robert-redford-shirt/",
+    "https://teespix.com/product/mcfly-vs-busted-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/philadelphia-phillies-red-october-nike-2025-mlb-postseason-shirt/",
@@ -96,16 +89,16 @@
     "https://nowbestshirt.com/product/when-did-noah-build-the-ark-gladys-before-it-rained-robert-redford-1936-2025-shirt/"
   ],
   "serenashirt.com": [
-    "https://serenashirt.com/product/philadelphia-eagles-jalen-hurts-how-bout-them-birds-ornament/",
-    "https://serenashirt.com/product/these-pretzels-are-making-me-thirsty-ornament/",
-    "https://serenashirt.com/product/auburn-tigers-jackson-arnold-11-stripe-ornament/",
-    "https://serenashirt.com/product/teair-tart-smacks-travis-kelce-ornament/",
-    "https://serenashirt.com/product/we-are-all-trembling-chihuahuas-in-gods-designer-handbag-ornament/",
-    "https://serenashirt.com/product/travis-kelce-smacked-by-teair-tart-ornament/",
-    "https://serenashirt.com/product/queers-for-israel-ornament/",
-    "https://serenashirt.com/product/the-way-you-tune-it-out-ornament/",
-    "https://serenashirt.com/product/indiana-fever-basketball-est-2000-retro-ornament/",
-    "https://serenashirt.com/product/couldnt-be-me-ornament/"
+    "https://serenashirt.com/product/claude-giroux-ottawa-senators-nhl-graphic-shirt/",
+    "https://serenashirt.com/product/lets-go-buffalo-bisons-shirt/",
+    "https://serenashirt.com/product/this-team-makes-me-drink-minnesota-vikings-shirt/",
+    "https://serenashirt.com/product/milwaukee-brewers-the-power-of-friendship-shirt/",
+    "https://serenashirt.com/product/philadelphia-phillies-2025-choke-in-october-mlb-postseason-locker-room-shirt/",
+    "https://serenashirt.com/product/cal-raleigh-mlb-cal-raleigh-mlb-seattle-marinershistory-for-big-dumper-shirt-history-for-big-dumper-shirt/",
+    "https://serenashirt.com/product/toronto-blue-jays-trey-yesavage-uno-dos-trey-shirt/",
+    "https://serenashirt.com/product/atlanta-braves-2025-back-to-october-mlb-postseason-locker-room-shirt/",
+    "https://serenashirt.com/product/cleveland-guardians-2025-choke-in-october-mlb-postseason-locker-room-shirt/",
+    "https://serenashirt.com/product/detroit-tigers-2025-choke-in-october-mlb-postseason-locker-room-shirt/"
   ],
   "fanaticity.com": [
     "https://fanaticity.com/product/aja-riyadh-wilson-las-vegas-aces-signature-shirt/",
@@ -120,16 +113,16 @@
     "https://fanaticity.com/product/charlie-kick-freedom-red-signature-red-1993-2025-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/rest-in-peace-robert-redford-light-fades-legacy-shines-1936-2025-shirt/",
-    "https://legendusashirt.com/product/robert-redford-legend-never-die-gum-balloon-shirt/",
-    "https://legendusashirt.com/product/yes-im-old-but-i-saw-steelers-greatness-greene-harris-lambert-bradshaw-polamalu-signatures-t-shirt/",
-    "https://legendusashirt.com/product/yes-im-old-but-i-saw-redskins-greatness-jurgensen-green-monk-riggins-and-theismann-signatures-t-shirt/",
-    "https://legendusashirt.com/product/yes-im-old-but-i-saw-ravens-greatness-ogden-lewis-reed-and-suggs-signatures-t-shirt/",
-    "https://legendusashirt.com/product/yes-im-old-but-i-saw-packers-greatness-nitschke-starr-favre-white-and-woodson-signatures-t-shirt/",
-    "https://legendusashirt.com/product/yes-im-old-but-i-saw-giants-greatness-taylor-simms-manning-and-strahan-signatures-t-shirt/",
-    "https://legendusashirt.com/product/yes-im-old-but-i-saw-dolphins-greatness-warfield-griese-csonka-and-marind-signatures-t-shirt/",
-    "https://legendusashirt.com/product/yes-im-old-but-i-saw-cowboys-greatness-lilly-staubach-white-smith-aikman-irvin-and-allen-signatures-t-shirt/",
-    "https://legendusashirt.com/product/yes-im-old-but-i-saw-broncos-greatness-sharpe-davis-little-elway-bailey-manning-signatures-t-shirt/"
+    "https://legendusashirt.com/product/surgeons-with-faith-the-surgeons-trust-t-shirt/",
+    "https://legendusashirt.com/product/sloth-dont-hurry-be-slothy-bootleg-parody-vintage-t-shirt/",
+    "https://legendusashirt.com/product/sleep-token-the-even-in-arcadia-tour-2025-north-america-t-shirt/",
+    "https://legendusashirt.com/product/selena-gomez-spring-breakers-good-girls-gone-bad-t-shirt/",
+    "https://legendusashirt.com/product/radiohead-ok-computer-t-shirt/",
+    "https://legendusashirt.com/product/psychedelic-porn-crumpets-world-tour-2026-t-shirt/",
+    "https://legendusashirt.com/product/mo-baller-blast-t-shirt/",
+    "https://legendusashirt.com/product/madison-needs-public-school-teachers-t-shirt/",
+    "https://legendusashirt.com/product/i-was-a-mafia-boss-with-bipolar-until-i-got-thrown-in-an-infinite-death-loop-in-rome-italy-in-2001-t-shirt/",
+    "https://legendusashirt.com/product/i-heart-wisconsin-public-schools-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/chicago-cubs-october-2025-mlb-postseason-locker-shirt/",
@@ -152,8 +145,16 @@
     "https://uscraftedtees.com/product/original-brandon-boyd-incubus-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/toad-said-time-is-just-the-thing-that-happens-between-snacks-shirt/",
-    "https://capitoneshirt.com/product/ve-day-80th-anniversary-1945-2025-shirt/"
+    "https://capitoneshirt.com/product/wwe-stomping-grounds-shirt/",
+    "https://capitoneshirt.com/product/vandegrift-viper-choir-2025-2026-rainbow-shirt/",
+    "https://capitoneshirt.com/product/trey-yesavage-uno-dos-trey-toronto-blue-jays-shirt/",
+    "https://capitoneshirt.com/product/tiffany-stratton-its-champion-time-shirt/",
+    "https://capitoneshirt.com/product/roman-anthony-and-alex-bregman-player-duo-boston-red-sox-shirt/",
+    "https://capitoneshirt.com/product/robert-redford-quiet-is-greater-than-noise-shirt/",
+    "https://capitoneshirt.com/product/robert-redford-legends-are-born-but-never-die-shirt/",
+    "https://capitoneshirt.com/product/rico-watson-illustrated-usf-bulls-football-shirt/",
+    "https://capitoneshirt.com/product/robert-redford-i-work-because-i-want-to-work-shirt/",
+    "https://capitoneshirt.com/product/myles-johnson-90s-triple-player-florida-gators-football-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/witch-this-coffee-tastes-like-you-should-shut-the-fuck-up-until-i-finish-it-shirt/",
@@ -178,16 +179,16 @@
     "https://teleteeshirt.com/product/official-philadelphia-red-october-baseball-postseason-mlb-2025-t-shirts/"
   ],
   "teeslocal.com": [
-    "https://teeslocal.com/product/hello-camelia-la-tejana-shirt/",
-    "https://teeslocal.com/product/halloween-huntrix-takedown-panel-poster-shirt/",
-    "https://teeslocal.com/product/i-know-now-why-you-lose-but-its-something-i-could-never-do-shirt/",
-    "https://teeslocal.com/product/i-stand-with-candace-shirt/",
-    "https://teeslocal.com/product/indiana-fever-now-you-know-2025-playoffs-shirt/",
-    "https://teeslocal.com/product/jade-glitch-shirt/",
-    "https://teeslocal.com/product/in-my-vice-principal-era-school-shirt/",
-    "https://teeslocal.com/product/katseye-beautiful-chaos-shirt/",
-    "https://teeslocal.com/product/jesus-defeated-death-so-you-can-live-15-55-57-shirt/",
-    "https://teeslocal.com/product/kid-kd-kerry-wood-shirt/"
+    "https://teeslocal.com/product/what-if-i-told-u-that-i-was-from-this-country-transgender-flag-shirt/",
+    "https://teeslocal.com/product/pennywise-the-dancing-clown-it-the-movie-shirt/",
+    "https://teeslocal.com/product/ive-got-a-potive-message-sometomes-i-cant-get-it-out-shirt/",
+    "https://teeslocal.com/product/i-survived-boob-lagoon-shirt/",
+    "https://teeslocal.com/product/fear-and-loathing-by-ralph-steadman-movie-promo-shirt/",
+    "https://teeslocal.com/product/horror-comics-you-can-not-escape-the-terror-2025-shirt/",
+    "https://teeslocal.com/product/captain-freedom-haunted-hood-comic-vintage-shirt/",
+    "https://teeslocal.com/product/car-what-a-clean-city-im-kinda-sleep-ee-call-an-ambulance-shirt/",
+    "https://teeslocal.com/product/friends-dont-let-friends-talk-to-ugly-guys-shirt/",
+    "https://teeslocal.com/product/fish-f-you-betta-shirt/"
   ],
   "melonashirt.com": [
     "https://melonashirt.com/product/official-great-american-ghost-torture-world-globe-shirts/",
@@ -219,16 +220,16 @@
     "https://lovingsquad.com/product/boys-like-girls-who-eat-arbys-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/chicago-cubs-october-mlb-baseball-2025-postseason-legend-shirt/",
-    "https://designatshop.com/product/chicago-cubs-nike-built-for-fall-mlb-baseball-postseason-shirt/",
-    "https://designatshop.com/product/2025-free-luigi-luigi-mangione-shirt/",
-    "https://designatshop.com/product/cal-raleigh-seattle-mariners-baseball-mlb-55-home-runs-shirt/",
-    "https://designatshop.com/product/big-dumper-cal-raleigh-seattle-mariners-baseball-mlb-55-home-runs-shirt/",
-    "https://designatshop.com/product/bryce-harper-and-kyle-schwarber-philadelphia-phillies-mlb-baseball-player-shirt/",
-    "https://designatshop.com/product/charlie-kirk-1993-2025-all-death-can-do-to-the-believer-is-deliver-him-to-jesus-american-flag-shirt/",
-    "https://designatshop.com/product/charlie-kirk-signature-resist-the-left-shirt/",
-    "https://designatshop.com/product/cal-raleigh-seattle-mariners-history-for-big-dumper-most-home-runs-in-a-season-for-a-catcher-shirt/",
-    "https://designatshop.com/product/charlie-kirk-fighting-white-boy-summer-rip-2025-memorial-political-shirt/"
+    "https://designatshop.com/product/official-akutagawa-ryunosuke-if-i-fumble-this-mentally-ill-puppy-girl-shirt/",
+    "https://designatshop.com/product/official-f-caw-f-funny-raven-skull-gothic-shirt/",
+    "https://designatshop.com/product/official-movie-brad-pitt-f1-pioneer-dakar-vintage-shirt/",
+    "https://designatshop.com/product/official-f-caw-f-chicken-funny-viral-meme-shirt/",
+    "https://designatshop.com/product/witches-i-suffer-from-chs-cant-hear-shit-i-will-huh-the-crap-out-of-you-shirt/",
+    "https://designatshop.com/product/ualbany-albany-great-danes-mens-basketball-reimer-logo-shirt/",
+    "https://designatshop.com/product/turtle-3-things-i-dont-like-when-talking-to-me-dont-talk-to-me-like-im-your-child-shirt/",
+    "https://designatshop.com/product/this-is-the-turning-point-usa-charlie-kirk-remembrance-flag-shirt/",
+    "https://designatshop.com/product/turkey-im-not-old-i-just-need-some-wd-40-and-a-little-duct-tape-shirt/",
+    "https://designatshop.com/product/stitch-i-think-im-emotionally-constipated-i-havent-given-a-shit-in-years-shirt/"
   ],
   "arjomany.com": [
     "https://arjomany.com/product/goose-the-kohl-center-madison-wisconsin-sep-17-2025-t-shirt/",
