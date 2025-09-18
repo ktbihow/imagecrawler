@@ -177,16 +177,14 @@
     "https://clickoneshirt.com/product/slogan-protect-the-dolls-2025-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/polaris-lifes-a-beach-festival-saturday-14th-february-riviera-beach-club-melbourne-skeleton-t-shirts/",
-    "https://teleteeshirt.com/product/official-born-to-nap-forced-to-be-awake-otter-t-shirts/",
-    "https://teleteeshirt.com/product/neurosparkly-unicorn-t-shirts/",
-    "https://teleteeshirt.com/product/lil-fantasy-vol-1-x-chaeyoung-heart-t-shirts/",
-    "https://teleteeshirt.com/product/joseph-slow-dance-to-disco-t-shirts/",
-    "https://teleteeshirt.com/product/jay-first-offense-t-shirts/",
-    "https://teleteeshirt.com/product/im-not-gay-but-50-cents-is-50-cents-t-shirts/",
-    "https://teleteeshirt.com/product/if-this-is-living-the-dream-whats-the-nightmare-frog-t-shirts/",
-    "https://teleteeshirt.com/product/violent-gentlemen-check-on-your-teammates-help-is-available-t-shirts/",
-    "https://teleteeshirt.com/product/the-teaches-of-peaches-anniversary-tour-vip-face-t-shirts/"
+    "https://teleteeshirt.com/product/the-white-cat-pigboom-t-shirts/",
+    "https://teleteeshirt.com/product/mannys-the-spirit-of-mexico-1980-t-shirts/",
+    "https://teleteeshirt.com/product/le-sserafim-easy-crazy-hot-tour-2025-dates-t-shirts/",
+    "https://teleteeshirt.com/product/fletcher-i-need-a-little-space-and-time-maybe-like-out-on-the-moon-t-shirts-2/",
+    "https://teleteeshirt.com/product/kentucky-hellraiser-ill-tear-your-soul-apart-t-shirts/",
+    "https://teleteeshirt.com/product/buffalo-bills-built-different-ten-toes-down-t-shirts/",
+    "https://teleteeshirt.com/product/copenhagen-vs-leverkusen-parken-stadium-09-18-2025-t-shirts/",
+    "https://teleteeshirt.com/product/beloved-maneki-neko-cat-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/aerosmith-and-yungblud-one-more-time-shirt/",
@@ -314,12 +312,15 @@
     "https://milkywayshirt.com/product/official-blink-182-at-the-riverbend-music-center-on-september-16-2025-in-cincinnati-oh-shirt/"
   ],
   "mercuryshirt.com": [
-    "https://mercuryshirt.com/product/comedy-is-not-a-crime-support-jimmy-and-stephen-shirt/",
-    "https://mercuryshirt.com/product/defend-free-speech-support-stephen-and-jimmy-shirt/",
-    "https://mercuryshirt.com/product/charlie-kirk-31-years-1993-2025-legend-never-dies-shirt/",
-    "https://mercuryshirt.com/product/los-angeles-dodgers-october-baseball-mlb-2025-royal-shirt/",
-    "https://mercuryshirt.com/product/toronto-blue-jays-october-baseball-mlb-2025-royal-shirt/",
-    "https://mercuryshirt.com/product/los-angeles-dodgers-october-baseball-2025-shirt/",
-    "https://mercuryshirt.com/product/toronto-blue-jays-october-baseball-2025-shirt/"
+    "https://mercuryshirt.com/product/when-will-america-have-free-speech-again-team-jimmy-kimmel-shirt/",
+    "https://mercuryshirt.com/product/what-happened-to-freedom-of-speech-in-america-i-stand-with-jimmy-kimmel-shirt/",
+    "https://mercuryshirt.com/product/we-stand-with-kimmel-shirt/",
+    "https://mercuryshirt.com/product/this-isnt-grief-its-performance-jimmy-kimmel-shirt/",
+    "https://mercuryshirt.com/product/team-kimmel-support-anti-trump-shirt/",
+    "https://mercuryshirt.com/product/team-kimmel-lifetime-member-shirt/",
+    "https://mercuryshirt.com/product/team-jimmy-kimmel-shirt/",
+    "https://mercuryshirt.com/product/support-late-night-comedy-jimmy-kimmel-shirt/",
+    "https://mercuryshirt.com/product/stay-strong-be-brave-and-if-the-elevator-tries-to-bring-you-down-go-crazy-and-punch-a-higher-floor-jimmy-kimmel-shirt/",
+    "https://mercuryshirt.com/product/stand-tall-jimmy-storms-cant-silence-the-truth-jimmy-kimmel-shirt/"
   ]
 }
