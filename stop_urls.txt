@@ -10,16 +10,11 @@
     "https://orionshirt.com/product/official-thanks-for-memories-robert-redford-1936-2025-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/yungblud-idols-wings-shirt/",
-    "https://techteesusa.com/product/white-lives-matter-its-ok-to-be-white-shirt/",
-    "https://techteesusa.com/product/when-the-news-is-silent-the-streets-speak-the-truth-shirt/",
-    "https://techteesusa.com/product/youre-killin-me-smalls-st-louis-cardinals-x-the-sandlot-shirt/",
-    "https://techteesusa.com/product/i-must-be-a-dog-on-the-fourth-of-july-the-way-i-dont-feel-comfortable-celebrating-america-shirt/",
-    "https://techteesusa.com/product/whos-gonna-stop-me-rest-in-peace-definitely-not-my-dad-shirt/",
-    "https://techteesusa.com/product/yea-dawgies-ride-the-tide-shirt/",
-    "https://techteesusa.com/product/automatic-noodle-shirt/",
-    "https://techteesusa.com/product/we-are-all-charlie-kirk-shirt/",
-    "https://techteesusa.com/product/the-terence-crawford-era-shirt/"
+    "https://techteesusa.com/product/indiana-fever-2025-wnba-playoffs-now-you-know-shirt/",
+    "https://techteesusa.com/product/sorry-she-was-hooping-indiana-fever-2025-wnba-playoffs-shirt/",
+    "https://techteesusa.com/product/now-you-know-indiana-fever-2025-wnba-playoffs-shirt/",
+    "https://techteesusa.com/product/now-you-know-2025-playoffs-indiana-fever-shirt/",
+    "https://techteesusa.com/product/wnba-jam-atlanta-dream-brittney-griner-and-rhyne-howard-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/news-silent-streets-speak-truth-2025-shirt/",
@@ -62,16 +57,16 @@
     "https://dreameshirt.com/product/official-poster-an-evening-with-cake-december-9-2025-the-sylvee-madison-wi-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-womens-liver-cancer-warrior-awareness-ribbon-green-shirt/",
-    "https://teeextra.com/product/official-trump-they-thought-they-won-but-they-fafo-shirt/",
-    "https://teeextra.com/product/official-the-electric-company-abbey-road-thank-you-for-the-memories-signatures-shirt/",
-    "https://teeextra.com/product/official-the-americas-team-abbey-road-thank-you-for-the-memories-signatures-shirt/",
-    "https://teeextra.com/product/official-thank-you-robert-redford-89-the-golden-boy-of-hollywood-1936-2025-signature-shirt/",
-    "https://teeextra.com/product/official-support-your-local-insurgency-shirt/",
-    "https://teeextra.com/product/official-stars-the-danforth-music-hall-in-toronto-on-12-5-2025-shirt/",
-    "https://teeextra.com/product/official-snoopy-and-charlie-browns-back-to-red-october-postseason-2025-philadelphia-phillies-shirt/",
-    "https://teeextra.com/product/official-robert-redford-in-remembrance-the-golden-boy-shirt/",
-    "https://teeextra.com/product/official-robert-redford-in-memory-1936-2025-shirt/"
+    "https://teeextra.com/product/official-y-la-bamba-san-luis-obispo-ca-11-9-2025-shirt/",
+    "https://teeextra.com/product/official-the-story-lives-forever-robert-redford-mount-timpanogos-shirt/",
+    "https://teeextra.com/product/official-the-legend-forever-in-utahs-heart-robert-redford-1936-2025-shirt/",
+    "https://teeextra.com/product/official-seattle-wa-deep-sea-diver-11-28-2025-shirt/",
+    "https://teeextra.com/product/official-robert-redford-usa-flag-rip-1936-2025-shirt/",
+    "https://teeextra.com/product/official-robert-redford-the-legend-star-shirt/",
+    "https://teeextra.com/product/official-robert-redford-the-legend-shirt/",
+    "https://teeextra.com/product/official-robert-redford-memory-era-tour-vintage-1936-2025-shirt/",
+    "https://teeextra.com/product/official-robert-redford-legends-never-die-shirt/",
+    "https://teeextra.com/product/official-robert-redford-i-work-because-i-want-to-work-it-keeps-me-going-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/freedom-is-only-found-in-jesus-christ-king-christian-charlie-kirk-signature-shirt/",
@@ -122,21 +117,19 @@
     "https://fanaticity.com/product/charlie-kick-freedom-red-signature-red-1993-2025-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/a-matter-of-time-laufey-fall-tour-2025-t-shirt/",
-    "https://legendusashirt.com/product/a-timeless-legend-inspired-by-the-golden-era-of-cinema-robert-redford-t-shirt/",
-    "https://legendusashirt.com/product/y-la-bamba-san-luis-obispo-ca-11-9-2025-t-shirt/",
-    "https://legendusashirt.com/product/the-story-lives-forever-robert-redford-mount-timpanogos-t-shirt/",
-    "https://legendusashirt.com/product/the-legend-forever-in-utahs-heart-robert-redford-1936-2025-t-shirt/",
-    "https://legendusashirt.com/product/seattle-wa-deep-sea-diver-11-28-2025-t-shirt/",
-    "https://legendusashirt.com/product/robert-redford-usa-flag-rip-1936-2025-t-shirt/",
-    "https://legendusashirt.com/product/robert-redford-the-legend-t-shirt/",
-    "https://legendusashirt.com/product/robert-redford-the-legend-star-t-shirt/",
-    "https://legendusashirt.com/product/robert-redford-memory-era-tour-vintage-1936-2025-t-shirt/"
+    "https://legendusashirt.com/product/rest-in-peace-robert-redford-light-fades-legacy-shines-1936-2025-shirt/",
+    "https://legendusashirt.com/product/robert-redford-legend-never-die-gum-balloon-shirt/",
+    "https://legendusashirt.com/product/yes-im-old-but-i-saw-steelers-greatness-greene-harris-lambert-bradshaw-polamalu-signatures-t-shirt/",
+    "https://legendusashirt.com/product/yes-im-old-but-i-saw-redskins-greatness-jurgensen-green-monk-riggins-and-theismann-signatures-t-shirt/",
+    "https://legendusashirt.com/product/yes-im-old-but-i-saw-ravens-greatness-ogden-lewis-reed-and-suggs-signatures-t-shirt/",
+    "https://legendusashirt.com/product/yes-im-old-but-i-saw-packers-greatness-nitschke-starr-favre-white-and-woodson-signatures-t-shirt/",
+    "https://legendusashirt.com/product/yes-im-old-but-i-saw-giants-greatness-taylor-simms-manning-and-strahan-signatures-t-shirt/",
+    "https://legendusashirt.com/product/yes-im-old-but-i-saw-dolphins-greatness-warfield-griese-csonka-and-marind-signatures-t-shirt/",
+    "https://legendusashirt.com/product/yes-im-old-but-i-saw-cowboys-greatness-lilly-staubach-white-smith-aikman-irvin-and-allen-signatures-t-shirt/",
+    "https://legendusashirt.com/product/yes-im-old-but-i-saw-broncos-greatness-sharpe-davis-little-elway-bailey-manning-signatures-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/freedom-forever-in-our-hearts-charlie-kirk-2-sided-shirt/",
-    "https://teehandus.com/product/owen-larson-83-racing-2-sided-shirt/",
-    "https://teehandus.com/product/todd-gillland-34-pitt-stop-at-loves-2-sided-shirt/"
+    "https://teehandus.com/product/wife-beater-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -265,28 +258,28 @@
     "https://neoteeco.com/product/nicolas-maduro-enemigo-de-los-venezolanos-political-protest-poster-venezuela-opposition-artwork-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/the-minotaur-is-my-spirit-animal-shirt/",
-    "https://newshirtstore.com/product/the-penguin-smoking-shirt/",
-    "https://newshirtstore.com/product/the-te-la-louisiane-tavern-est-1944-nadine-france-logo-shirt/",
-    "https://newshirtstore.com/product/the-nightmare-before-christmas-jack-face-shirt/",
-    "https://newshirtstore.com/product/terence-crawford-is-one-of-the-greatest-boxers-of-all-time-superfight-2025-shirt/",
-    "https://newshirtstore.com/product/the-owls-sheffield-wednesday-football-club-est-1867-sheffield-united-kingdom-shirt/",
-    "https://newshirtstore.com/product/the-horrors-of-halloween-goosebumps-haunted-mask-ii-new-face-old-nightmare-poster-shirt/",
-    "https://newshirtstore.com/product/the-pencrimes-of-tewkesbury-abbey-shirt/",
-    "https://newshirtstore.com/product/statue-of-liberty-charlie-kirk-republican-prove-me-wrong-rip-1993-2025-shirt/",
-    "https://newshirtstore.com/product/sophia-im-the-tough-one-shirt/"
+    "https://newshirtstore.com/product/youth-is-the-gift-of-nature-but-age-is-a-work-of-art-text-shirt/",
+    "https://newshirtstore.com/product/which-one-do-you-prefer-oasis-or-blur-shirt/",
+    "https://newshirtstore.com/product/wolf-moon-fright-shift-dispatch-crew-shirt/",
+    "https://newshirtstore.com/product/yes-i-support-beer-lingling-money-shirt/",
+    "https://newshirtstore.com/product/yeah-im-trans-transporting-this-beer-to-my-mouth-so-i-can-drink-it-beer-shirt/",
+    "https://newshirtstore.com/product/yes-im-a-pirate-est-1932-shirt/",
+    "https://newshirtstore.com/product/veni-vidi-vici-julius-caesar-graphic-shirt/",
+    "https://newshirtstore.com/product/wnba-official-golden-state-valkyries-2025-playoffs-worlds-shirt/",
+    "https://newshirtstore.com/product/whosoever-shall-call-on-the-name-of-the-lord-shall-be-saved-shirt/",
+    "https://newshirtstore.com/product/university-of-illinois-urbana-gies-memorial-stadium-logo-home-of-the-fighting-illini-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/when-we-were-younger-we-didnt-have-to-be-told-not-to-try-this-at-home-shirt/",
-    "https://eteeclothing.com/product/whatever-it-takes-philadelphia-phillies-shirt/",
-    "https://eteeclothing.com/product/we-should-all-be-in-therapy-shirt/",
-    "https://eteeclothing.com/product/the-next-time-someone-upsets-you-just-tell-them-to-f-o-c-u-s-shirt/",
-    "https://eteeclothing.com/product/the-growlers-feel-my-funk-shirt/",
-    "https://eteeclothing.com/product/the-amazing-spider-man-marvel-shirt/",
-    "https://eteeclothing.com/product/stand-with-charlie-kirk-freedom-us-flag-shirt/",
-    "https://eteeclothing.com/product/squirrel-people-call-me-rude-i-prefer-to-call-it-direct-plus-fuck-people-shirt/",
-    "https://eteeclothing.com/product/sometimes-i-look-around-and-think-im-too-sober-for-this-shit-shirt/",
-    "https://eteeclothing.com/product/rabbit-im-not-much-of-a-rise-and-shine-person-shirt/"
+    "https://eteeclothing.com/product/us-battle-tested-battle-born-shirt/",
+    "https://eteeclothing.com/product/philadelphia-phillies-red-october-halloween-baseball-shirt/",
+    "https://eteeclothing.com/product/jesus-loves-everybody-republicans-hate-shirt/",
+    "https://eteeclothing.com/product/immigrants-make-america-great-pumpkins-shirt/",
+    "https://eteeclothing.com/product/gulf-of-fragile-masculinity-shirt/",
+    "https://eteeclothing.com/product/georgia-tech-goalposts-have-left-the-building-shirt/",
+    "https://eteeclothing.com/product/america-will-never-be-the-same-chirlie-krik-quote-signature-shirt/",
+    "https://eteeclothing.com/product/charlie-kirk-great-american-patriot-hero-floral-flowers-shirt/",
+    "https://eteeclothing.com/product/charlie-kirk-debate-dont-hate-us-flag-shirt/",
+    "https://eteeclothing.com/product/freddy-flakes-free-glove-inside-a-nightmare-you-can-crunnch-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/official-marilyn-manson-impaled-double-cross-black-shirt/",
@@ -301,15 +294,7 @@
     "https://milkywayshirt.com/product/official-leftover-salmon-dec-30-31-2025-fernandina-beach-fl-posters-shirt/"
   ],
   "mercuryshirt.com": [
-    "https://mercuryshirt.com/product/official-white-sox-the-108-baseball-beer-bullshot-shirt/",
-    "https://mercuryshirt.com/product/official-the-egg-bar-is-coveted-as-fuck-shirt/",
-    "https://mercuryshirt.com/product/official-truth-legacy-is-how-you-die-does-not-redeem-how-you-lived-shirt/",
-    "https://mercuryshirt.com/product/official-thanks-for-memories-robert-redford-shirt/",
-    "https://mercuryshirt.com/product/official-storytelling-is-what-inhts-my-fire-robert-redford-1936-2025-shirt/",
-    "https://mercuryshirt.com/product/official-see-you-handsome-robert-redford-1936-2025-shirt/",
-    "https://mercuryshirt.com/product/official-seattle-mariners-dawg-daze-shirt/",
-    "https://mercuryshirt.com/product/official-robert-redford-memorial-rip-shirt/",
-    "https://mercuryshirt.com/product/official-robert-redford-tribute-in-memory-of-a-legend-shirt/",
-    "https://mercuryshirt.com/product/official-robert-redford-the-golden-boy-of-hollywood-forever-in-our-hearts-shirt/"
+    "https://mercuryshirt.com/product/chicago-cubs-2025-mlb-postseason-locker-room-shirt/",
+    "https://mercuryshirt.com/product/chicago-cubs-royal-mlb-october-baseball-2025-shirt/"
   ]
 }
