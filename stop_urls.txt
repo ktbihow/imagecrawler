@@ -18,11 +18,11 @@
     "https://orionshirt.com/product/official-thanks-for-memories-robert-redford-1936-2025-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/indiana-fever-2025-wnba-playoffs-now-you-know-shirt/",
-    "https://techteesusa.com/product/sorry-she-was-hooping-indiana-fever-2025-wnba-playoffs-shirt/",
-    "https://techteesusa.com/product/now-you-know-indiana-fever-2025-wnba-playoffs-shirt/",
-    "https://techteesusa.com/product/now-you-know-2025-playoffs-indiana-fever-shirt/",
-    "https://techteesusa.com/product/wnba-jam-atlanta-dream-brittney-griner-and-rhyne-howard-shirt/"
+    "https://techteesusa.com/product/i-like-trams-i-like-riding-them-shirt/",
+    "https://techteesusa.com/product/indiana-fever-2025-playoffs-now-you-know-two-sided-shirt/",
+    "https://techteesusa.com/product/law-enforcement-appreciation-lead-philadelphia-phillies-shirt/",
+    "https://techteesusa.com/product/its-dumb-as-hell-that-daves-hot-chicken-charge-you-for-a-fountain-drink-shirt/",
+    "https://techteesusa.com/product/i-am-unconcerned-about-the-question-of-free-will-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/news-silent-streets-speak-truth-2025-shirt/",
@@ -171,14 +171,14 @@
     "https://clickoneshirt.com/product/skate-darkslide-combustion-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/blink-182-9-17-2025-ruoff-music-center-in-noblesville-in-cat-t-shirts/",
-    "https://teleteeshirt.com/product/the-who-sep-17-2025-hollywood-bowl-in-hollywood-ca-head-t-shirts/",
-    "https://teleteeshirt.com/product/wisconsin-needs-public-schools-t-shirts/",
-    "https://teleteeshirt.com/product/ugk-underground-kingz-ridin-dirty-fsg-t-shirts/",
-    "https://teleteeshirt.com/product/the-outsiders-scrim-t-shirts/",
-    "https://teleteeshirt.com/product/south-park-x-charlie-kirk-jesus-is-the-answer-t-shirts/",
-    "https://teleteeshirt.com/product/shinazugawa-genya-american-breath-first-form-kimetsu-no-yaiba-demon-slayer-t-shirts/",
-    "https://teleteeshirt.com/product/senses-fail-life-is-not-a-waiting-room-live-t-shirts/"
+    "https://teleteeshirt.com/product/yoda-ballin-brooklyn-nets-nba-star-wars-t-shirts/",
+    "https://teleteeshirt.com/product/vulfpeck-at-the-garden-t-shirts/",
+    "https://teleteeshirt.com/product/trey-yesavage-uno-dos-trey-t-shirts/",
+    "https://teleteeshirt.com/product/treat-the-wild-card-clown-t-shirts/",
+    "https://teleteeshirt.com/product/the-bouncing-souls-ecfu-tour-2025-t-shirts/",
+    "https://teleteeshirt.com/product/slam-jalen-williams-remix-t-shirts/",
+    "https://teleteeshirt.com/product/saul-goodman-better-call-saul-now-t-shirts/",
+    "https://teleteeshirt.com/product/official-philadelphia-red-october-baseball-postseason-mlb-2025-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/hello-camelia-la-tejana-shirt/",
@@ -232,28 +232,28 @@
     "https://designatshop.com/product/yuri-ravens-tailgate-sunday-with-a-wild-shirt/"
   ],
   "arjomany.com": [
-    "https://arjomany.com/product/michael-seyer-bug-dew-t-shirt/",
-    "https://arjomany.com/product/sad-boyz-x-warren-lotas-t-shirt/",
-    "https://arjomany.com/product/sad-boyz-junior-tee/",
-    "https://arjomany.com/product/michael-seyer-wolf-t-shirt/",
-    "https://arjomany.com/product/michael-seyer-mom-i-warned-u-shirt/",
-    "https://arjomany.com/product/michael-seyer-boylife-t-shirt/",
-    "https://arjomany.com/product/free-4-players-shirt/",
-    "https://arjomany.com/product/chiefs-players-free-4-shirt/",
-    "https://arjomany.com/product/boylife-new-t-shirt/",
-    "https://arjomany.com/product/screeching-weasel-september-21-2025-riot-fest-chicago-il-poster/"
+    "https://arjomany.com/product/yusuf-cat-stevens-sept-16-2025-uk-on-the-road-to-findout-tour-poster/",
+    "https://arjomany.com/product/yusuf-cat-stevens-manchester-2025-poster/",
+    "https://arjomany.com/product/will-varley-usa-concert-poster-2025/",
+    "https://arjomany.com/product/will-varley-uk-eu-usa-tour-2025-poster/",
+    "https://arjomany.com/product/the-who-sept-17-2025-hollywood-california-poster/",
+    "https://arjomany.com/product/the-who-live-hollywood-bowl-california-poster/",
+    "https://arjomany.com/product/the-who-hollywood-bowl-september-19-2025-poster/",
+    "https://arjomany.com/product/the-who-california-concert-poster-2025/",
+    "https://arjomany.com/product/the-bouncing-souls-sept-21-2025-chicago-poster/",
+    "https://arjomany.com/product/the-bouncing-souls-live-chicago-concert-poster/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/laufey-a-matter-of-time-fall-tour-2025-poster/",
-    "https://collectionpostertour.com/product/la-yein-fonda-september-17-20-2025-huechuraba-official-concert-poster/",
-    "https://collectionpostertour.com/product/la-yein-fonda-parque-ciudad-empresarial-huechuraba-concert-poster-2025/",
-    "https://collectionpostertour.com/product/katy-perry-the-lifetimes-tour-brazil-september-2025-poster/",
-    "https://collectionpostertour.com/product/katy-perry-september-16-19-the-lifetimes-tour-2025-brazil-poster/",
-    "https://collectionpostertour.com/product/johnny-blue-skies-september-16-17-2025-morrison-co-official-concert-poster/",
-    "https://collectionpostertour.com/product/johnny-blue-skies-sept-16-17-2025-morrison-co-official-concert-poster/",
-    "https://collectionpostertour.com/product/johnny-blue-skies-red-rocks-morrison-co-concert-poster-2025/",
-    "https://collectionpostertour.com/product/johnny-blue-skies-red-rocks-amphitheatre-morrison-co-concert-poster-2025/",
-    "https://collectionpostertour.com/product/jason-isbell-radio-city-music-hall-new-york-city-concert-poster-2026/"
+    "https://collectionpostertour.com/product/yusuf-cat-stevens-september-16-2025-manchester-uk-official-concert-poster/",
+    "https://collectionpostertour.com/product/yusuf-cat-stevens-bridgewater-hall-manchester-uk-concert-poster-2025/",
+    "https://collectionpostertour.com/product/the-who-september-19-2025-los-angeles-ca-official-concert-poster/",
+    "https://collectionpostertour.com/product/the-who-september-17-2025-los-angeles-ca-official-concert-postercopy/",
+    "https://collectionpostertour.com/product/the-who-hollywood-bowl-los-angeles-ca-concert-poster-2025/",
+    "https://collectionpostertour.com/product/the-who-hollywood-bowl-los-angeles-concert-poster-2025/",
+    "https://collectionpostertour.com/product/stand-atlantic-live-in-the-usa-2025-poster/",
+    "https://collectionpostertour.com/product/psychedelic-porn-crumpets-world-tour-2026-poster/",
+    "https://collectionpostertour.com/product/poster-stand-atlantic-live-in-the-usa-2025/",
+    "https://collectionpostertour.com/product/poster-psychedelic-porn-crumpets-world-tour-2026/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/the-witcher-season-4-new-poster-revealed-on-netflix-releasing-october-30-2025-fantasy-series-unisex-t-shirt/",
