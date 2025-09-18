@@ -171,16 +171,16 @@
     "https://teleteeshirt.com/product/psychopoly-explore-the-mysteries-americas-national-parks-bigfoot-ufo-t-shirts/"
   ],
   "teeslocal.com": [
-    "https://teeslocal.com/product/were-back-booster-club-cartoon-shirt/",
-    "https://teeslocal.com/product/washington-commanders-annunciation-be-kind-be-respectful-be-inclusive-shirt/",
-    "https://teeslocal.com/product/turi-ravens-wild-portrait-shirt/",
-    "https://teeslocal.com/product/the-hundreds-x-taco-crawl-el-ruso-tacos-y-birria-shirt/",
-    "https://teeslocal.com/product/the-crawford-era-photo-bands-shirt/",
-    "https://teeslocal.com/product/texas-tech-red-raiders-on-gamedays-we-wear-red-paper-dolls-shirt/",
-    "https://teeslocal.com/product/tennessee-titans-thank-you-jesus-2025-art-shirt/",
-    "https://teeslocal.com/product/tampa-bay-buccaneers-annunciation-be-kind-be-respectful-be-inclusive-shirt/",
-    "https://teeslocal.com/product/tampa-bay-buccaneers-50-seasons-of-the-krewe-pirate-skeletons-est-1976-shirt/",
-    "https://teeslocal.com/product/san-francisco-49ers-annunciation-be-kind-be-respectful-be-inclusive-shirt/"
+    "https://teeslocal.com/product/hello-camelia-la-tejana-shirt/",
+    "https://teeslocal.com/product/halloween-huntrix-takedown-panel-poster-shirt/",
+    "https://teeslocal.com/product/i-know-now-why-you-lose-but-its-something-i-could-never-do-shirt/",
+    "https://teeslocal.com/product/i-stand-with-candace-shirt/",
+    "https://teeslocal.com/product/indiana-fever-now-you-know-2025-playoffs-shirt/",
+    "https://teeslocal.com/product/jade-glitch-shirt/",
+    "https://teeslocal.com/product/in-my-vice-principal-era-school-shirt/",
+    "https://teeslocal.com/product/katseye-beautiful-chaos-shirt/",
+    "https://teeslocal.com/product/jesus-defeated-death-so-you-can-live-15-55-57-shirt/",
+    "https://teeslocal.com/product/kid-kd-kerry-wood-shirt/"
   ],
   "melonashirt.com": [
     "https://melonashirt.com/product/official-uprisers-we-see-you-therefore-for-we-love-you-floral-shirts/",
