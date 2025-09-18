@@ -25,16 +25,16 @@
     "https://techteesusa.com/product/i-am-unconcerned-about-the-question-of-free-will-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/10-13-6-justin-herbert-and-keenan-allen-shirt/",
-    "https://teeworksusa.com/product/halloween-you-cant-sit-with-us-girls-shirt/",
-    "https://teeworksusa.com/product/pizza-king-crewneck-logo-shirt/",
-    "https://teeworksusa.com/product/ramblin-wreck-georgia-tech-yellow-jackets-shirt/",
-    "https://teeworksusa.com/product/kentucky-the-bluegrass-state-sunset-shirt/",
-    "https://teeworksusa.com/product/land-of-the-rizz-american-shirt/",
-    "https://teeworksusa.com/product/red-white-and-blueberries-charlie-kirk-1993-2025-shirt/",
-    "https://teeworksusa.com/product/leonardo-dicaprio-django-unchained-laughing-meme-shirt/",
-    "https://teeworksusa.com/product/sean-connery-forever-signature-head-shirt/",
-    "https://teeworksusa.com/product/sleigh-all-day-funny-shirt/"
+    "https://teeworksusa.com/product/mariah-carey-i-think-ive-done-enough-shirt/",
+    "https://teeworksusa.com/product/merry-christmas-santa-wink-funny-shirt/",
+    "https://teeworksusa.com/product/on-my-way-to-visit-my-dad-shirt/",
+    "https://teeworksusa.com/product/you-cant-scare-me-im-a-911-dispatcher-skeleton-halloween-shirt/",
+    "https://teeworksusa.com/product/karns-beavers-dam-proud-to-be-a-beaver-mascot-shirt/",
+    "https://teeworksusa.com/product/the-american-legions-celebration-of-americas-250th-shirt/",
+    "https://teeworksusa.com/product/the-goalposts-have-left-the-building-georgia-tech-football-poster-shirt/",
+    "https://teeworksusa.com/product/pink-and-teal-nutcracker-patchwork-print-shirt/",
+    "https://teeworksusa.com/product/pouya-its-pouya-hoe-shirt/",
+    "https://teeworksusa.com/product/houston-astros-jose-altuve-27-caricature-cartoon-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/mlb-october-baseball-2025-toronto-blue-jays-t-shirt/",
@@ -281,16 +281,16 @@
     "https://newshirtstore.com/product/tommy-robinson-texas-flag-t-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/boys-like-girls-who-eat-arbys-shirt/",
-    "https://eteeclothing.com/product/beige-paige-bueckers-dallas-wings-this-was-only-her-first-rodeo-2-sided-t-shirt/",
-    "https://eteeclothing.com/product/2025-first-of-a-lifetime-golden-state-valkyries-mascot-2-sided-t-shirt/",
-    "https://eteeclothing.com/product/and-if-all-else-fails-punch-him-in-the-balls-graham-linehan-shirt/",
-    "https://eteeclothing.com/product/2026-vandegrift-crown-trio-baseball-script-shirt/",
-    "https://eteeclothing.com/product/2025-first-of-a-lifetime-golden-state-valkyries-2-sided-t-shirt/",
-    "https://eteeclothing.com/product/boise-state-broncos-built-different-shirt/",
-    "https://eteeclothing.com/product/a-true-patriot-freedom-1993-2025-usa-printed-charlie-kirk-shirt/",
-    "https://eteeclothing.com/product/yes-im-old-but-i-saw-greatness-chicago-cubs-legends-skyline-shirt/",
-    "https://eteeclothing.com/product/yes-im-old-but-i-saw-greatness-boston-red-sox-legends-skyline-shirt/"
+    "https://eteeclothing.com/product/wisconsin-needs-public-schools-shirt/",
+    "https://eteeclothing.com/product/vandegrift-crown-trio-theater-company-typography-shirt/",
+    "https://eteeclothing.com/product/vandegrift-crown-trio-theatre-company-masks-logo-shirt/",
+    "https://eteeclothing.com/product/superman-2025-movie-big-belly-burger-logo-shirt/",
+    "https://eteeclothing.com/product/shohei-ohtani-los-angeles-dodgers-baseball-comic-shirt/",
+    "https://eteeclothing.com/product/pittsburgh-pirates-x-clemente-number-21-2-sided-t-shirt/",
+    "https://eteeclothing.com/product/pittsburgh-pirates-x-clemente-2-sided-t-shirt/",
+    "https://eteeclothing.com/product/not-my-circus-but-ive-grown-quite-fond-of-its-monkeys-shirt/",
+    "https://eteeclothing.com/product/mcfly-vs-busted-shirt/",
+    "https://eteeclothing.com/product/madison-needs-public-schools-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/official-tate-mcrae-miss-possessive-2025-world-tour-on-my-hands-so-close-to-what-shirt/",
