@@ -137,7 +137,9 @@
     "https://legendusashirt.com/product/yes-im-old-but-i-saw-broncos-greatness-sharpe-davis-little-elway-bailey-manning-signatures-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/wife-beater-shirt/"
+    "https://teehandus.com/product/chicago-cubs-october-2025-mlb-postseason-locker-shirt/",
+    "https://teehandus.com/product/chicago-cubs-built-for-fall-2025-mlb-postseason-shirt/",
+    "https://teehandus.com/product/carhartt-freedom-progress-looks-so-much-like-destruction-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -193,16 +195,16 @@
     "https://teeslocal.com/product/kid-kd-kerry-wood-shirt/"
   ],
   "melonashirt.com": [
-    "https://melonashirt.com/product/official-milwaukee-baseball-the-power-of-friendship-shirts/",
-    "https://melonashirt.com/product/official-mcfly-lightning-black-photo-shirts/",
-    "https://melonashirt.com/product/official-madison-needs-public-school-teachers-shirts/",
-    "https://melonashirt.com/product/official-kid-kd-horton-cade-horton-chicago-cubs-shirts/",
-    "https://melonashirt.com/product/official-katseye-beautiful-chaos-2025-gap-shirts/",
-    "https://melonashirt.com/product/official-jonas-brothers-red-dress-tour-2025-shirts/",
-    "https://melonashirt.com/product/official-jonas-brothers-greetings-admat-event-shirts/",
-    "https://melonashirt.com/product/official-johnny-blue-skies-red-rocks-amphitheatre-september-16-17-morrison-2025-event-shirts/",
-    "https://melonashirt.com/product/official-jaylen-carey-tennessee-basketball-shirts/",
-    "https://melonashirt.com/product/official-indiana-fever-now-you-know-2025-playoffs-wnba-shirts/"
+    "https://melonashirt.com/product/official-dizgo-lotus-shirts/",
+    "https://melonashirt.com/product/official-dizgo-grid-logo-shirts/",
+    "https://melonashirt.com/product/official-vogelfrey-stahlhammer-shirts/",
+    "https://melonashirt.com/product/official-vitriol-wrest-demon-shirts/",
+    "https://melonashirt.com/product/official-vitriol-omega-olive-shirts/",
+    "https://melonashirt.com/product/official-the-black-dahlia-murder-the-remnant-shirts/",
+    "https://melonashirt.com/product/official-ruben-delivering-results-thats-his-job-shirts/",
+    "https://melonashirt.com/product/official-northern-soul-keep-the-faith-shirts/",
+    "https://melonashirt.com/product/official-love-is-noise-to-live-in-different-way-a-hand-shirts/",
+    "https://melonashirt.com/product/official-love-is-noise-to-live-in-a-different-way-shirts/"
   ],
   "dalatshirt.com": [
     "https://dalatshirt.com/product/auroras-whole-realm-catalogue-est-1357-logo-vintage-t-shirts/",
@@ -232,17 +234,28 @@
     "https://designatshop.com/product/yuri-ravens-tailgate-sunday-with-a-wild-shirt/"
   ],
   "arjomany.com": [
-    "https://arjomany.com/product/the-avett-brothers-september-16-2025-skypac-bowling-green-ky-poster/",
-    "https://arjomany.com/product/the-avett-brothers-bowling-green-september-16-2025-poster/",
-    "https://arjomany.com/product/johnny-blue-skies-september-17-18-2025-red-rock-poster/",
-    "https://arjomany.com/product/johnny-blue-skies-red-rock-morrison-co-sept-17-18-2025-poster/"
+    "https://arjomany.com/product/anne-wilson-stars-shirt/",
+    "https://arjomany.com/product/alabama-shakes-new-york-2025-t-shirt/",
+    "https://arjomany.com/product/aerosmith-yungblud-one-more-time-shirt-2025/",
+    "https://arjomany.com/product/this-team-makes-me-drinks-t-shirt/",
+    "https://arjomany.com/product/the-princess-posse-t-shirt/",
+    "https://arjomany.com/product/the-paper-kites-if-you-go-there-i-hope-you-find-it-shirt/",
+    "https://arjomany.com/product/kill-tony-monday-night-t-shirt/",
+    "https://arjomany.com/product/johnny-blue-skies-september-17-18-2025-red-rock-shirt/",
+    "https://arjomany.com/product/fletcher-wyslm-album-tee/",
+    "https://arjomany.com/product/fletcher-moon-tee/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/the-who-september-17-2025-los-angeles-ca-official-concert-poster/",
-    "https://collectionpostertour.com/product/the-avett-brothers-skypac-bowling-green-ky-concert-poster-2025/",
-    "https://collectionpostertour.com/product/the-avett-brothers-september-16-2025-bowling-green-ky-official-concert-poster/",
-    "https://collectionpostertour.com/product/johnny-blue-skies-september-16-17-2025-red-rocks-morrison-co-tour-poster/",
-    "https://collectionpostertour.com/product/johnny-blue-skies-september-16-17-2025-red-rocks-morrison-co-concert-poster/"
+    "https://collectionpostertour.com/product/the-wonder-years-funeral-t-shirt/",
+    "https://collectionpostertour.com/product/the-wonder-years-funeral-t-shirt-limited-edition/",
+    "https://collectionpostertour.com/product/the-wonder-years-black-hole-t-shirt/",
+    "https://collectionpostertour.com/product/the-wonder-years-black-hole-t-shirt-limited-edition/",
+    "https://collectionpostertour.com/product/magnolia-electric-co-songs-ohia-fawn-t-shirt/",
+    "https://collectionpostertour.com/product/magnolia-electric-co-songs-ohia-fawn-t-shirt-limited-edition/",
+    "https://collectionpostertour.com/product/just-south-of-boston-illustration-t-shirt/",
+    "https://collectionpostertour.com/product/just-south-of-boston-illustration-t-shirt-limited-edition/",
+    "https://collectionpostertour.com/product/emo-nite-road-to-warped-florida-2025-t-shirt/",
+    "https://collectionpostertour.com/product/emo-nite-road-to-warped-florida-2025-t-shirt-limited-edition/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/the-witcher-season-4-new-poster-revealed-on-netflix-releasing-october-30-2025-fantasy-series-unisex-t-shirt/",
