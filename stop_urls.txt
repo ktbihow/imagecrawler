@@ -65,16 +65,12 @@
     "https://dreameshirt.com/product/official-chicago-cubs-mlb-my-my-favorite-sport-is-october-baseball-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-rihanna-graces-the-cover-of-hommegirls-volume-14-2025-shirt/",
-    "https://teeextra.com/product/official-master-of-the-half-grab-michael-oku-shirt/",
-    "https://teeextra.com/product/official-katseye-x-toca-boca-shirt/",
-    "https://teeextra.com/product/official-kodansha-house-shirt/",
-    "https://teeextra.com/product/official-i-may-not-be-young-but-im-turnt-mao-shirt/",
-    "https://teeextra.com/product/official-hot-mulligan-wizard-white-shirt/",
-    "https://teeextra.com/product/official-harmony-of-the-spheres-musica-universalis-shirt/",
-    "https://teeextra.com/product/official-forever-in-our-hearts-robert-redford-when-the-sun-sets-the-story-lives-on-shirt/",
-    "https://teeextra.com/product/official-new-england-patriots-peanuts-snoopy-forever-not-just-when-we-win-2025-shirt/",
-    "https://teeextra.com/product/official-nebraska-huskers-terence-crawford-2025-signature-vintage-shirt/"
+    "https://teeextra.com/product/official-senses-fail-mtd-linawr-broken-glass-shirt/",
+    "https://teeextra.com/product/official-selena-gomez-barney-x-selena-i-love-you-shirt/",
+    "https://teeextra.com/product/official-sam-fender-roadrunner-boston-ma-sep-17-2025-shirt/",
+    "https://teeextra.com/product/official-robert-redford-the-end-1936-2025-i-work-because-i-want-to-work-it-keeps-me-going-shirt/",
+    "https://teeextra.com/product/official-robert-redford-rest-now-brother-shirt/",
+    "https://teeextra.com/product/official-robert-and-witney-dancing-with-the-stars-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/robert-redford-89-years-1936-2025-thank-you-for-the-memories-signature-shirt/",
@@ -148,28 +144,28 @@
     "https://uscraftedtees.com/product/original-brandon-boyd-incubus-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/i-love-magic-halloween-shirt/",
-    "https://capitoneshirt.com/product/i-love-la-fighting-for-paradise-shirt/",
-    "https://capitoneshirt.com/product/i-hate-halloween-shirt/",
-    "https://capitoneshirt.com/product/i-have-a-bad-relationship-with-my-dad-wanna-do-tequila-shots-shirt/",
-    "https://capitoneshirt.com/product/future-fakers-of-america-ghost-shirt/",
-    "https://capitoneshirt.com/product/fuck-ron-desantis-desycophantis-and-his-evil-overlord-too-shirt/",
-    "https://capitoneshirt.com/product/fuck-ice-protest-alligator-alcatraz-shirt/",
-    "https://capitoneshirt.com/product/community-melts-ice-shirt/",
-    "https://capitoneshirt.com/product/dragon-would-you-still-love-me-if-i-was-a-wyrm-shirt/",
-    "https://capitoneshirt.com/product/alligator-alcatraz-fuck-ice-protest-shirt/"
+    "https://capitoneshirt.com/product/ye-olde-shithole-shirt/",
+    "https://capitoneshirt.com/product/worm-read-a-banned-books-celebrate-read-freadom-shirt/",
+    "https://capitoneshirt.com/product/ts12-showgirl-your-energy-is-a-luxury-item-not-everyone-can-afford-it-shirt/",
+    "https://capitoneshirt.com/product/the-substance-remember-you-are-one-shirt/",
+    "https://capitoneshirt.com/product/the-life-of-a-show-cat-and-baby-thats-show-business-for-you-shirt/",
+    "https://capitoneshirt.com/product/the-human-world-its-a-mess-shirt/",
+    "https://capitoneshirt.com/product/the-best-way-to-crush-ice-is-with-others-fight-back-shirt/",
+    "https://capitoneshirt.com/product/talking-shit-together-is-a-love-language-shirt/",
+    "https://capitoneshirt.com/product/strong-communities-prove-police-obsolete-shirt/",
+    "https://capitoneshirt.com/product/stomp-out-every-transphobe-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/witch-this-coffee-tastes-like-you-should-shut-the-fuck-up-until-i-finish-it-shirt/",
-    "https://clickoneshirt.com/product/tottenham-hotspur-vs-villarreal-uefa-champions-league-2025-kick-off-shirt/",
-    "https://clickoneshirt.com/product/to-hell-with-flags-shirt/",
-    "https://clickoneshirt.com/product/the-stop-and-supermarket-black-cat-witch-pumpkin-haunted-house-halloween-shirt/",
-    "https://clickoneshirt.com/product/the-growlers-feel-my-funk-shirt/",
-    "https://clickoneshirt.com/product/tampa-bay-buccaneers-vs-houston-texans-nfl-2025-dog-in-a-pile-shirt/",
-    "https://clickoneshirt.com/product/strong-teddy-bear-wheel-with-me-shirt/",
-    "https://clickoneshirt.com/product/speedway-x-snoopy-im-the-witch-halloween-shirt/",
-    "https://clickoneshirt.com/product/skateboard-skate-like-a-girl-bone-street-style-shirt/",
-    "https://clickoneshirt.com/product/skate-darkslide-combustion-shirt/"
+    "https://clickoneshirt.com/product/colbert-and-jimmy-kimmel-free-speech-matters-shirt/",
+    "https://clickoneshirt.com/product/clemson-tigers-i-aint-going-to-the-beach-shirt/",
+    "https://clickoneshirt.com/product/claude-giroux-senators-hockey-graphic-shirt/",
+    "https://clickoneshirt.com/product/classic-game-fest-the-biggest-retro-gaming-event-in-texas-shirt/",
+    "https://clickoneshirt.com/product/chicago-cubs-world-champions-north-side-shirt/",
+    "https://clickoneshirt.com/product/chicago-cubs-october-baseball-2025-mlb-postseason-shirt/",
+    "https://clickoneshirt.com/product/ben-and-jerrys-phish-ice-cream-vintage-graphic-shirt/",
+    "https://clickoneshirt.com/product/bayern-munich-beats-chelsea-uefa-champion-league-this-is-my-kingdom-shirt/",
+    "https://clickoneshirt.com/product/alabama-crimson-tide-bama-soccer-crimson-out-shirt/",
+    "https://clickoneshirt.com/product/cam-bynum-indianapolis-colts-nfl-pump-it-dance-funny-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/chicago-cubs-built-for-fall-2025-mlb-postseason-t-shirts/",
