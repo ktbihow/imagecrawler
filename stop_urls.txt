@@ -85,7 +85,16 @@
     "https://teespix.com/product/keenan-allen-los-angeles-chargers-hello-goodnight-shirt/"
   ],
   "nowbestshirt.com": [
-    "https://nowbestshirt.com/product/the-simpsons-bart-x-washington-commanders-nfl-2025-shirt/"
+    "https://nowbestshirt.com/product/official-i-stand-with-jimmy-kimmel-t-shirt/",
+    "https://nowbestshirt.com/product/official-free-kimmel-shirt/",
+    "https://nowbestshirt.com/product/official-free-jimmy-shirt/",
+    "https://nowbestshirt.com/product/official-cody-rhodes-showcase-classic-shirt/",
+    "https://nowbestshirt.com/product/official-chicago-cubs-2025-nl-central-division-champions-shirt/",
+    "https://nowbestshirt.com/product/official-aj-lee-love-bites-back-shirt/",
+    "https://nowbestshirt.com/product/official-2026-indy-500-ghost-blackhawk-shirt/",
+    "https://nowbestshirt.com/product/new-york-sports-teams-giants-yankees-mets-and-jets-aint-no-boo-sheet-halloween-shirt/",
+    "https://nowbestshirt.com/product/mookie-betts-los-angeles-dodgers-graffiti-shirt/",
+    "https://nowbestshirt.com/product/malik-nabers-new-york-giants-love-thy-nabers-signature-shirt/"
   ],
   "serenashirt.com": [
     "https://serenashirt.com/product/of-course-im-in-love-with-you-darling-shirt/",
@@ -124,31 +133,31 @@
     "https://legendusashirt.com/product/yes-im-old-but-i-saw-boston-red-sox-greatness-boggs-rice-williams-yastrzemski-fisk-ortiz-and-martinez-signatures-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/i-waited-for-deckard-and-all-i-got-was-fired-from-my-job-for-being-way-to-over-hyped-shirt/",
-    "https://teehandus.com/product/i-experienced-ot5-ggum-live-shirt/",
-    "https://teehandus.com/product/huskies-give-blood-university-of-washington-shirt/",
-    "https://teehandus.com/product/huskers-give-blood-university-of-nebraska-shirt/",
-    "https://teehandus.com/product/hoosiers-give-blood-indiana-university-shirt/",
-    "https://teehandus.com/product/hokkai-do-ace-shirt/",
-    "https://teehandus.com/product/hawkeyes-give-blood-university-of-iowa-shirt/",
-    "https://teehandus.com/product/harvey-wallbangers-forgotten-bar-milwaukee-brewers-shirt/",
-    "https://teehandus.com/product/halloween-homies-leatherface-ghostface-jason-voorhees-michael-myers-freddy-krueger-horror-shirt/",
-    "https://teehandus.com/product/haechan-wearing-battle-code-127-shirt/"
+    "https://teehandus.com/product/you-matter-until-you-multiply-yourself-times-the-speed-of-light-squared-shirt/",
+    "https://teehandus.com/product/wildcats-give-blood-northwestern-university-shirt/",
+    "https://teehandus.com/product/white-shark-summer-25-shirt/",
+    "https://teehandus.com/product/white-hair-and-a-hopeful-smile-shirt/",
+    "https://teehandus.com/product/west-virginia-mountaineers-lets-get-phat-shirt/",
+    "https://teehandus.com/product/vulfpeck-at-the-garden-shirt/",
+    "https://teehandus.com/product/vulfansa-ringer-logo-shirt/",
+    "https://teehandus.com/product/viva-la-lucha-shirt/",
+    "https://teehandus.com/product/unemployed-and-beautiful-shirt/",
+    "https://teehandus.com/product/ubasani-proceed-proceed-2027-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/original-billy-strings-chattanooga-tn-sep-16-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-blink-182-sep-16-2025-riverbend-music-center-cincinnati-oh-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-the-hives-commodore-ballroom-in-vancouver-bc-sept-16-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-billy-strings-winter-tour-25-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-deafheaven-lincoln-theatre-in-raleigh-nc-sep-23-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-jason-isbell-radio-city-music-hall-nyc-feb-20-21-2026-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-fruit-bats-oct-16-17-2025-ojai-ca-and-los-angeles-ca-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-bob-belcher-okay-fine-but-im-gonna-complain-the-whole-time-t-shirts/",
-    "https://uscraftedtees.com/product/original-fire-mike-mcdaniel-miami-dolphins-t-shirts/",
-    "https://uscraftedtees.com/product/original-brandon-boyd-incubus-t-shirts/"
+    "https://uscraftedtees.com/product/official-the-bouncing-souls-chicago-shows-on-sep-21-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-bus-49-winchesters-and-wyatt-flores-welcome-to-the-holler-eu-and-uk-tour-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-trevor-young-soja-the-jefferson-in-lounge-baton-rouge-la-sep-18-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-terrapin-winterfest-dec-20-21-2025-in-menlo-park-ca-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-psychedelic-porn-crumpets-2026-tour-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-new-laufey-a-matter-of-time-fall-tour-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-the-even-in-arcadia-tour-2025-sleep-token-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-what-if-i-told-u-that-i-was-from-this-country-t-shirts/",
+    "https://uscraftedtees.com/product/official-be-like-charlie-american-flag-t-shirts/",
+    "https://uscraftedtees.com/product/official-micah-drop-2025-t-shirts/"
   ],
   "capitoneshirt.com": [
     "https://capitoneshirt.com/product/ye-olde-shithole-shirt/",
