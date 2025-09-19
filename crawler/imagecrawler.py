@@ -73,7 +73,6 @@ def is_image_recent(url):
     return metadata['status'] == 200 and metadata['is_recent']
 
 # --- Các hàm phụ (Telegram, Git, Config, ...) ---
-# ... (Toàn bộ các hàm này được giữ nguyên như phiên bản hoạt động tốt trước đó) ...
 def send_telegram_message(message):
     bot_token, chat_id = os.getenv('TELEGRAM_BOT_TOKEN'), os.getenv('TELEGRAM_CHAT_ID')
     if not bot_token or not chat_id: return
@@ -167,7 +166,7 @@ def save_urls(domain, new_urls):
     return len(unique_new_urls), len(all_urls)
 
 # ----------------------------------------------------------------------------------------------------------------------
-# GIAI ĐOẠN 1: CÁC HÀM THU THẬP (LOGIC STOP URL ĐÃ ĐƯỢC SỬA LẠI CHÍNH XÁC)
+# GIAI ĐOẠN 1: CÁC HÀM THU THẬP
 # ----------------------------------------------------------------------------------------------------------------------
 
 def fetch_image_urls_from_api(url_data, stop_urls_list):
@@ -180,6 +179,7 @@ def fetch_image_urls_from_api(url_data, stop_urls_list):
             if not data: break
             for item in data:
                 product_url = item.get('link')
+                # SỬA LỖI: So sánh chuỗi trực tiếp
                 if product_url in stop_urls_list:
                     print(f"[{domain}] Dừng API vì gặp stop URL: {product_url}")
                     should_stop = True; break
@@ -205,6 +205,7 @@ def fetch_image_urls_from_prevnext(url_data, stop_urls_list):
     except requests.exceptions.RequestException: return [], []
     count = 0
     while count < MAX_PREVNEXT_URLS:
+        # SỬA LỖI: So sánh chuỗi trực tiếp
         if current_product_url in stop_urls_list:
             print(f"[{domain}] Dừng prev/next vì gặp stop URL: {current_product_url}")
             break
@@ -239,6 +240,7 @@ def fetch_image_urls_from_product_list(url_data, stop_urls_list):
     if stop_urls_list:
         found_stop_point = False
         for product_url in product_urls:
+            # SỬA LỖI: So sánh chuỗi trực tiếp
             if product_url in stop_urls_list:
                 print(f"[{domain}] Dừng product-list vì gặp stop URL: {product_url}")
                 found_stop_point = True
@@ -278,7 +280,7 @@ if __name__ == "__main__":
     for url_data in configs:
         domain = urlparse(url_data['url']).netloc
         
-        # KHÔNG chuẩn hóa ở đây, giữ nguyên dữ liệu gốc
+        # SỬA LỖI: Tạo set trực tiếp từ dữ liệu gốc, không chuẩn hóa
         domain_stop_urls_list = set(stop_urls_data.get(domain, []))
         
         # GIAI ĐOẠN 1: THU THẬP
