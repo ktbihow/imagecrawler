@@ -42,16 +42,16 @@
     "https://teeworksusa.com/product/florida-state-league-champions-2025-shirt/"
   ],
   "meredpremium.com": [
-    "https://meredpremium.com/product/official-the-zoological-society-toons-cincinnati-shirt/",
-    "https://meredpremium.com/product/official-the-summer-of-connie-baby-shirt/",
-    "https://meredpremium.com/product/official-the-potato-in-the-back-of-my-pantry-t-shirt/",
-    "https://meredpremium.com/product/official-texas-tech-red-raiders-100-years-of-football-1925-2025-shirt/",
-    "https://meredpremium.com/product/official-shohei-ohtani-los-angeles-dodgers-50-strikeouts-50-home-runs-t-shirt/",
-    "https://meredpremium.com/product/official-paige-bueckers-dallas-wings-2025-wnba-rookie-of-the-year-t-shirt/",
-    "https://meredpremium.com/product/official-no-not-jimmy-when-will-america-have-free-speech-again-shirt/",
-    "https://meredpremium.com/product/official-never-forget-remember-her-iryna-zarutska-t-shirt/",
-    "https://meredpremium.com/product/official-mizzou-vs-south-carolina-mayors-cup-head-to-head-t-shirt/",
-    "https://meredpremium.com/product/official-mizzou-tigers-2025-football-white-helmet-t-shirt/"
+    "https://meredpremium.com/product/official-west-virginia-football-almost-heaven-shirt/",
+    "https://meredpremium.com/product/official-washington-free-speech-under-siege-t-shirt/",
+    "https://meredpremium.com/product/official-trump-youre-fired-jimmy-kimmel-t-shirt/",
+    "https://meredpremium.com/product/official-the-zoological-society-of-cincinnati-seal-t-shirt/",
+    "https://meredpremium.com/product/official-the-peanuts-scary-good-defense-this-halloween-texas-longhorns-shirt/",
+    "https://meredpremium.com/product/official-the-peanuts-scary-good-defense-this-halloween-san-francisco-49ers-shirt/",
+    "https://meredpremium.com/product/official-the-peanuts-scary-good-defense-this-halloween-nebraska-cornhuskers-shirt/",
+    "https://meredpremium.com/product/official-the-peanuts-scary-good-defense-this-halloween-green-bay-packers-shirt/",
+    "https://meredpremium.com/product/official-the-peanuts-scary-good-defense-this-halloween-georgia-bulldogs-shirt/",
+    "https://meredpremium.com/product/official-the-peanuts-scary-good-defense-this-halloween-florida-state-seminoles-shirt/"
   ],
   "berrylittles.com": [
     "https://berrylittles.com/product/official-battle-in-the-wild-midwest-tremaine-edmunds-dallas-cowboys-vs-cole-kmet-chicago-bears-september-21-2025-poster-t-shirt/",
@@ -264,16 +264,16 @@
     "https://designatshop.com/product/money-mike-evans-tampa-bay-buccaneers-player-football-raise-the-flags-shirt/"
   ],
   "arjomany.com": [
-    "https://arjomany.com/product/the-serious-goose-poster/",
-    "https://arjomany.com/product/the-serious-goose-jimmy-kimmel-2025-poster/",
-    "https://arjomany.com/product/rezz-tour-2025-as-the-pendulum-swings-poster/",
-    "https://arjomany.com/product/rezz-live-tour-as-the-pendulum-swings-poster/",
-    "https://arjomany.com/product/ocean-alley-south-america-tour-2025-poster/",
-    "https://arjomany.com/product/ocean-alley-september-27-2025-london-uk-poster/",
-    "https://arjomany.com/product/ocean-alley-september-27-2025-alexandra-palace-london-poster/",
-    "https://arjomany.com/product/ocean-alley-north-american-2025-concert-poster/",
-    "https://arjomany.com/product/ocean-alley-north-america-tour-2025-poster/",
-    "https://arjomany.com/product/ocean-alley-new-zealand-australia-2026-concert-poster/"
+    "https://arjomany.com/product/zack-baun-x-philly-sports-shirts/",
+    "https://arjomany.com/product/welcome-to-derry-always-the-eyes-t-shirt/",
+    "https://arjomany.com/product/the-pretty-wild-sphynx-tee/",
+    "https://arjomany.com/product/the-pretty-wild-scream-tee/",
+    "https://arjomany.com/product/the-pretty-wild-half-alive-tee/",
+    "https://arjomany.com/product/the-pretty-wild-button-eyes-shirt/",
+    "https://arjomany.com/product/rsq-x-peanuts-together-halloween-2025-shirt/",
+    "https://arjomany.com/product/rsq-x-peanuts-squad-scary-movie-club-2025-shirt/",
+    "https://arjomany.com/product/rsq-x-peanuts-pumpkins-2025-shirt/",
+    "https://arjomany.com/product/rsq-x-peanuts-pumpkin-club-halloween-2025-shirt/"
   ],
   "collectionpostertour.com": [
     "https://collectionpostertour.com/product/vinyl-williams-the-moroccan-lounge-los-angeles-ca-concert-poster-2025/",
@@ -300,7 +300,16 @@
     "https://neoteeco.com/product/nicolas-maduro-enemigo-de-los-venezolanos-political-protest-poster-venezuela-opposition-artwork-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/abc-teddy-bear-cute-shirt/"
+    "https://newshirtstore.com/product/missouri-tigers-vs-kansas-university-football-border-showdown-champs-mizzou-2025-t-shirt/",
+    "https://newshirtstore.com/product/oasis-band-snoopy-funny-cartoon-live-reunion-25-shirt/",
+    "https://newshirtstore.com/product/karns-beavers-dam-proud-to-be-a-beaver-mascot-shirt/",
+    "https://newshirtstore.com/product/merry-christmas-santa-wink-funny-shirt/",
+    "https://newshirtstore.com/product/lazy-squirrel-nut-today-nvt-tomorrow-either-shirt/",
+    "https://newshirtstore.com/product/never-underestimate-a-public-school-teacher-shirt/",
+    "https://newshirtstore.com/product/illinois-the-prairie-state-sunset-shirt/",
+    "https://newshirtstore.com/product/mark-mcgwire-oakland-athletics-baseball-mlb-2025-big-mac-shirt/",
+    "https://newshirtstore.com/product/magic-spell-funny-witch-spooky-hocus-croakus-shirt/",
+    "https://newshirtstore.com/product/jake-owen-them-old-love-songs-t-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/philadelphia-eagles-football-no-one-likes-us-we-dont-care-shirt/",
