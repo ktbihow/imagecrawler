@@ -9,6 +9,7 @@
         "url": "https://techteesusa.com/",
         "selector": "div.product-images img",
         "source_type": "product-list",
+		"check_recency": true,
         "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.techteesusa.com", "prefix_length": 9 }
     },
     {
