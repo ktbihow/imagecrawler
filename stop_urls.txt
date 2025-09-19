@@ -22,10 +22,16 @@
     "https://orionshirt.com/product/official-boston-red-sox-mlb-roman-anthony-and-alex-bregman-players-duo-caricatures-painting-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/do-a-flip-dolphin-shirt/",
-    "https://techteesusa.com/product/zack-wickham-wearing-daddy-daddycita-shirt/",
-    "https://techteesusa.com/product/nimby-nuclear-in-my-backyard-shirt/",
-    "https://techteesusa.com/product/let-the-pirate-shenanigans-begin-halloween-skull-shirt/"
+    "https://techteesusa.com/product/wisconsin-needs-public-schools-shirt/",
+    "https://techteesusa.com/product/win-lose-dominate-shirt/",
+    "https://techteesusa.com/product/wake-up-and-smell-the-crunchberries-cedar-rapids-iowa-shirt/",
+    "https://techteesusa.com/product/vulfansa-ringer-logo-shirt/",
+    "https://techteesusa.com/product/the-summer-of-connie-baby-shirt/",
+    "https://techteesusa.com/product/the-first-amendment-congress-shall-make-no-law-respecting-an-establishment-of-religion-1791-shirt/",
+    "https://techteesusa.com/product/micah-drop-green-bay-packers-micah-parsons-shirt/",
+    "https://techteesusa.com/product/madison-needs-public-schools-shirt/",
+    "https://techteesusa.com/product/kyle-konrardy-kicks-ass-97-shirt/",
+    "https://techteesusa.com/product/shred80-cypress-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/home-of-the-original-danish-mafia-solvang-california-shirt/",
@@ -213,16 +219,16 @@
     "https://teeslocal.com/product/billy-strings-winter-tour-2026-shirt/"
   ],
   "melonashirt.com": [
-    "https://melonashirt.com/product/official-im-not-gay-but-50-cents-is-50-cents-shirts/",
-    "https://melonashirt.com/product/official-how-many-grams-of-protein-are-in-a-kiss-from-my-beautiful-girlfriend-shirts/",
-    "https://melonashirt.com/product/official-goose-the-kohl-center-madison-wisconsin-9-17-2025-event-shirts/",
-    "https://melonashirt.com/product/official-free-jimmy-kimmel-shirts/",
-    "https://melonashirt.com/product/official-football-fans-for-a-free-palestine-shirts/",
-    "https://melonashirt.com/product/official-fernando-mendoza-fear-the-calm-shirts/",
-    "https://melonashirt.com/product/official-dont-tread-on-me-well-except-for-jimmy-kimmel-shirts/",
-    "https://melonashirt.com/product/official-die-ayliva-tour-berlin-sep-16-2025-shirts/",
-    "https://melonashirt.com/product/official-conan-gray-mexico-wishbone-picnic-27-septiembre-shirts/",
-    "https://melonashirt.com/product/official-college-gameday-florida-vs-miami-september-20-2025-live-from-miami-fl-shirts/"
+    "https://melonashirt.com/product/official-mercy-costs-extra-combat-iron-shirts/",
+    "https://melonashirt.com/product/official-the-price-of-freedom-isnt-free-skull-american-flag-shirts/",
+    "https://melonashirt.com/product/official-we-dont-promise-you-a-rose-garden-the-marines-are-looking-for-a-few-good-men-shirts/",
+    "https://melonashirt.com/product/official-usmc-a-brotherhood-few-will-know-and-even-fewer-will-understand-shirts/",
+    "https://melonashirt.com/product/official-us-marines-corps-first-to-fight-join-now-and-test-your-courage-real-fighting-with-real-fighters-shirts/",
+    "https://melonashirt.com/product/official-these-colors-dont-run-they-reload-since-1776-american-flag-shirts/",
+    "https://melonashirt.com/product/official-the-only-easy-day-was-yesterday-skull-combat-iron-skull-shirts/",
+    "https://melonashirt.com/product/official-support-blue-collar-work-hard-play-harder-combat-iron-skull-shirts/",
+    "https://melonashirt.com/product/official-only-here-for-the-dogs-combat-iron-shirts/",
+    "https://melonashirt.com/product/official-marines-the-few-the-proud-shirts/"
   ],
   "dalatshirt.com": [
     "https://dalatshirt.com/product/cowboy-h-town-hold-it-down-estd-2022-t-shirts/",
@@ -273,16 +279,16 @@
     "https://arjomany.com/product/cattle-decapitation-oct-2-2025-aftershock-festival-sacramento-ca-shirt/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/wyatt-flores-september-19-2025-austin-tx-official-concert-poster/",
-    "https://collectionpostertour.com/product/wyatt-flores-moody-center-austin-tx-concert-poster-2025/",
-    "https://collectionpostertour.com/product/the-bouncing-souls-september-21-2025-chicago-il-official-concert-poster/",
-    "https://collectionpostertour.com/product/the-bouncing-souls-riot-fest-chicago-il-concert-poster-2025/",
-    "https://collectionpostertour.com/product/soft-play-september-21-2025-chicago-il-official-concert-poster/",
-    "https://collectionpostertour.com/product/soft-play-riot-fest-chicago-il-concert-poster-2025/",
-    "https://collectionpostertour.com/product/screeching-weasel-september-21-2025-chicago-il-official-concert-poster/",
-    "https://collectionpostertour.com/product/screeching-weasel-riot-fest-chicago-il-concert-poster-2025/",
-    "https://collectionpostertour.com/product/marcus-king-band-tour-2025-poster/",
-    "https://collectionpostertour.com/product/jawbreaker-september-21-2025-chicago-il-official-concert-poster/"
+    "https://collectionpostertour.com/product/the-raveonettes-us-tour-september-october-2025-poster/",
+    "https://collectionpostertour.com/product/the-mountain-goats-september-october-2025-poster/",
+    "https://collectionpostertour.com/product/the-gems-spring-tour-2026-poster/",
+    "https://collectionpostertour.com/product/the-avett-brothers-september-18-2025-newport-ky-official-concert-poster/",
+    "https://collectionpostertour.com/product/the-avett-brothers-megacorp-pavilion-newport-ky-concert-poster-2025/",
+    "https://collectionpostertour.com/product/son-rompe-pera-september-tour-2025-poster/",
+    "https://collectionpostertour.com/product/sleep-token-the-even-in-arcadia-tour-2025-poster/",
+    "https://collectionpostertour.com/product/sleep-token-september-17-2025-orlando-fl-official-concert-poster/",
+    "https://collectionpostertour.com/product/sleep-token-kia-center-orlando-fl-concert-poster-2025/",
+    "https://collectionpostertour.com/product/shaky-knees-festival-september-19-21-2025-atlanta-ga-official-concert-poster/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/the-witcher-season-4-new-poster-revealed-on-netflix-releasing-october-30-2025-fantasy-series-unisex-t-shirt/",
