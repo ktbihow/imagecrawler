@@ -140,27 +140,28 @@
     "https://fanaticity.com/product/charlie-kick-freedom-red-signature-red-1993-2025-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/pauls-books-logo-t-shirt/",
-    "https://legendusashirt.com/product/pasquatch-alternate-aka-we-believe-t-shirt/",
-    "https://legendusashirt.com/product/my-favorite-sport-is-october-baseball-chicago-cubs-t-shirt/",
-    "https://legendusashirt.com/product/my-chemical-romance-shaky-knees-festival-on-sep-20-2025-in-atlanta-ga-t-shirt/",
-    "https://legendusashirt.com/product/monsters-of-the-mountain-t-shirt/",
-    "https://legendusashirt.com/product/michigan-and-detroit-sports-wolverines-tigers-red-wings-and-lions-signatures-t-shirt/",
-    "https://legendusashirt.com/product/miami-hurricanes-2025-college-gameday-live-from-miami-fl-t-shirt/",
-    "https://legendusashirt.com/product/marc-andre-fleury-flower-power-pittsburgh-t-shirt/",
-    "https://legendusashirt.com/product/linus-ullmark-claude-giroux-t-shirt/",
-    "https://legendusashirt.com/product/lena-nitro-penis-t-shirt/"
+    "https://legendusashirt.com/product/yes-im-old-but-i-saw-new-york-greatness-new-york-yankees-and-new-york-giants-t-shirt/",
+    "https://legendusashirt.com/product/yes-im-old-but-i-saw-new-york-greatness-legends-babe-ruth-taylor-frazier-and-messier-signatures-t-shirt/",
+    "https://legendusashirt.com/product/yes-im-old-but-i-saw-buffalo-greatness-kelly-and-hasek-signatures-t-shirt/",
+    "https://legendusashirt.com/product/yes-im-old-but-i-saw-philadelphia-phillies-greatness-bowa-carlton-schmidt-boone-luzinski-mcgram-and-maddox-signatures-t-shirt/",
+    "https://legendusashirt.com/product/wyatt-flores-moody-center-austin-tx-09-19-2025-poster-t-shirt/",
+    "https://legendusashirt.com/product/wilmington-north-carolina-live-show-oct-3-2025-t-shirt/",
+    "https://legendusashirt.com/product/west-virginia-football-almost-heaven-t-shirt/",
+    "https://legendusashirt.com/product/watcher-ghoul-boys-new-t-shirt/",
+    "https://legendusashirt.com/product/this-is-the-turning-point-american-flags-t-shirt/",
+    "https://legendusashirt.com/product/the-zoological-society-of-cincinnati-seal-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/uk-need-its-own-social-network-for-free-speech-shirt/",
-    "https://teehandus.com/product/the-free-speech-club-shirt/",
-    "https://teehandus.com/product/stand-with-colbert-and-kimmel-free-speech-matters-shirt/",
-    "https://teehandus.com/product/protect-free-speech-usa-flag-shirt/",
-    "https://teehandus.com/product/no-not-jimmy-when-will-america-have-free-speech-again-shirt/",
-    "https://teehandus.com/product/make-speech-free-again-shirt/",
-    "https://teehandus.com/product/free-speech-shirt/",
-    "https://teehandus.com/product/free-speech-forever-shirt/",
-    "https://teehandus.com/product/free-speech-makes-free-people-shirt-2/"
+    "https://teehandus.com/product/scarecrow-boat-shirt/",
+    "https://teehandus.com/product/seattle-mariners-randy-arozarena-randyland-tridents-up-2025-shirt/",
+    "https://teehandus.com/product/shohei-ohtani-los-angeles-dodgers-comic-shirt/",
+    "https://teehandus.com/product/start-by-starting-shirt-2/",
+    "https://teehandus.com/product/the-potato-in-the-back-of-my-pantry-shirt/",
+    "https://teehandus.com/product/the-tucc-classic-shirt/",
+    "https://teehandus.com/product/washington-huskies-football-1991-national-champs-vintage-shirt/",
+    "https://teehandus.com/product/well-except-for-jimmy-kimmel-shirt/",
+    "https://teehandus.com/product/all-that-remains-skeleton-chains-shirt/",
+    "https://teehandus.com/product/americas-detroit-team-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -339,15 +340,15 @@
     "https://milkywayshirt.com/product/official-the-who-tour-hollywood-ca-09-17-2025-poster-shirt/"
   ],
   "mercuryshirt.com": [
-    "https://mercuryshirt.com/product/erin-go-bragh-charlie-kirk-shirt/",
-    "https://mercuryshirt.com/product/booters-butch-bar-diner-shirt/",
-    "https://mercuryshirt.com/product/fafo-jimmy-kimmels-wake-up-call-shirt/",
-    "https://mercuryshirt.com/product/dont-tread-on-me-except-for-jimmy-kimmel-shirt/",
-    "https://mercuryshirt.com/product/toronto-blue-jays-october-ready-2025-mlb-postseason-shirt/",
-    "https://mercuryshirt.com/product/toronto-blue-jays-we-own-the-2025-al-east-champions-shirt/",
-    "https://mercuryshirt.com/product/toronto-blue-jays-2025-al-east-division-champions-shirt/",
-    "https://mercuryshirt.com/product/texas-rangers-october-ready-2025-mlb-postseason-shirt/",
-    "https://mercuryshirt.com/product/seattle-mariners-october-ready-2025-mlb-postseason-shirt/",
-    "https://mercuryshirt.com/product/seattle-mariners-2025-al-west-division-champions-shirt/"
+    "https://mercuryshirt.com/product/west-virginia-mountaineers-almost-heaven-shirt/",
+    "https://mercuryshirt.com/product/watcher-ghoul-boys-shirt/",
+    "https://mercuryshirt.com/product/the-simpsons-x-pittsburgh-steelers-shirt/",
+    "https://mercuryshirt.com/product/the-simpsons-x-houston-texans-shirt/",
+    "https://mercuryshirt.com/product/the-simpsons-x-dallas-cowboys-shirt/",
+    "https://mercuryshirt.com/product/the-simpsons-x-chicago-bears-shirt/",
+    "https://mercuryshirt.com/product/taking-back-son-day-ransom-shirt/",
+    "https://mercuryshirt.com/product/philadelphia-eagles-no-one-likes-us-we-dont-care-shirt/",
+    "https://mercuryshirt.com/product/nine-in-a-are-row-shirt/",
+    "https://mercuryshirt.com/product/marc-andre-fleury-flower-power-pittsburgh-shirt/"
   ]
 }
