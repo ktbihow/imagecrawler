@@ -22,16 +22,16 @@
     "https://orionshirt.com/product/official-boston-red-sox-mlb-roman-anthony-and-alex-bregman-players-duo-caricatures-painting-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/wisconsin-needs-public-schools-shirt/",
-    "https://techteesusa.com/product/win-lose-dominate-shirt/",
-    "https://techteesusa.com/product/wake-up-and-smell-the-crunchberries-cedar-rapids-iowa-shirt/",
-    "https://techteesusa.com/product/vulfansa-ringer-logo-shirt/",
-    "https://techteesusa.com/product/the-summer-of-connie-baby-shirt/",
-    "https://techteesusa.com/product/the-first-amendment-congress-shall-make-no-law-respecting-an-establishment-of-religion-1791-shirt/",
-    "https://techteesusa.com/product/micah-drop-green-bay-packers-micah-parsons-shirt/",
-    "https://techteesusa.com/product/madison-needs-public-schools-shirt/",
-    "https://techteesusa.com/product/kyle-konrardy-kicks-ass-97-shirt/",
-    "https://techteesusa.com/product/shred80-cypress-shirt/"
+    "https://techteesusa.com/product/monsters-of-the-mountain-x-mount-rushmore-shirt/",
+    "https://techteesusa.com/product/melissa-waelchli-antifa-employee-of-the-month-shirt/",
+    "https://techteesusa.com/product/marc-andre-fleury-flower-power-pittsburgh-penguins-signature-shirt/",
+    "https://techteesusa.com/product/manny-machado-san-diego-padres-mr-slam-diego-shirt/",
+    "https://techteesusa.com/product/madison-needs-public-school-teachers-shirt/",
+    "https://techteesusa.com/product/life-is-sweet-shirt/",
+    "https://techteesusa.com/product/letterboxd-stars-heart-shirt/",
+    "https://techteesusa.com/product/jimmy-kimmel-live-shirt/",
+    "https://techteesusa.com/product/im-everton-till-i-die-shirt/",
+    "https://techteesusa.com/product/i-love-wisconsin-public-schools-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/home-of-the-original-danish-mafia-solvang-california-shirt/",
@@ -58,22 +58,26 @@
     "https://meredpremium.com/product/official-the-man-the-myth-the-legend-robert-redford-89-years-1936-2025-thank-you-for-the-memories-shirt/"
   ],
   "berrylittles.com": [
-    "https://berrylittles.com/product/official-poster-the-who-september-17-2025-hollywood-bowl-in-hollywood-ca-t-shirt/",
-    "https://berrylittles.com/product/official-seattle-mariners-cal-raleigh-history-for-big-dumper-most-home-runs-in-a-season-for-a-catcher-a-switch-hitter-t-shirt/",
-    "https://berrylittles.com/product/official-slam-jalen-williams-celly-remix-oklahoma-city-thunder-basketball-painting-t-shirt/",
-    "https://berrylittles.com/product/official-poster-the-who-september-19-2025-hollywood-bowl-in-hollywood-ca-t-shirt/"
+    "https://berrylittles.com/product/official-battle-in-the-wild-midwest-tremaine-edmunds-dallas-cowboys-vs-cole-kmet-chicago-bears-september-21-2025-poster-t-shirt/",
+    "https://berrylittles.com/product/official-the-ring-v-night-of-the-samurai-naoya-inoue-vs-alan-picasso-27-december-2025-mohammed-abdo-arena-riyadh-poster-t-shirt/",
+    "https://berrylittles.com/product/official-baker-mayfield-built-different-10-toes-down-tampa-bay-buccaneers-nfl-t-shirt/",
+    "https://berrylittles.com/product/official-marc-andre-fleury-flower-power-pittsburgh-penguins-hockey-signature-t-shirt/",
+    "https://berrylittles.com/product/official-clayton-kershaw-thanks-kersh-los-angeles-dodgers-mlb-t-shirt/",
+    "https://berrylittles.com/product/official-texas-tech-red-raiders-football-100-years-of-red-raider-player-retro-1925-2025-t-shirt/",
+    "https://berrylittles.com/product/official-poster-goose-huntington-bank-pavilion-at-northerly-island-in-chicago-il-september-20-2025-t-shirt/",
+    "https://berrylittles.com/product/official-haymakers-for-hope-beltway-brawl-at-the-anthem-fighting-for-a-cure-thur-night-painting-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-chicago-cubs-have-clinched-2025-playoff-mlb-postseason-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-brooklyn-cyclones-south-atlantic-league-champions-amazin-starts-here-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-milb-2025-champions-california-league-san-jose-giants-logo-t-shirt/",
-    "https://dreameshirt.com/product/official-milb-2025-champions-pacific-coast-league-tacoma-rainiers-logo-t-shirt/",
-    "https://dreameshirt.com/product/official-milb-2025-champions-midwest-league-west-michigan-whitecaps-logo-t-shirt/",
-    "https://dreameshirt.com/product/official-milb-2025-champions-florida-state-league-lakeland-flying-tigers-logo-t-shirt/",
-    "https://dreameshirt.com/product/official-milb-2025-florida-state-league-champions-series-daytona-tortugas-logo-t-shirt/",
-    "https://dreameshirt.com/product/official-milb-2025-champions-northwest-league-everett-aquasox-logo-t-shirt/",
-    "https://dreameshirt.com/product/official-milb-2025-champions-south-atlantic-league-brooklyn-cyclones-logo-t-shirt/",
-    "https://dreameshirt.com/product/official-chicago-cubs-mlb-my-my-favorite-sport-is-october-baseball-t-shirt/"
+    "https://dreameshirt.com/product/official-michael-penix-jr-on-bijan-robinson-atlanta-falcons-hes-the-best-running-back-in-the-league-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-starring-josh-allen-buffalo-bills-run-with-the-buffalo-highmark-stadium-2025-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-notre-dame-vs-michigan-2025-shamrock-classic-womens-basketball-november-15-2025-wayne-state-fieldhouse-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-springfield-thunderbirds-rip-former-springfield-falcons-forward-wade-macleod-1986-2025-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-celebrating-150-wild-years-cincinnati-zoo-and-botanical-garden-t-shirt/",
+    "https://dreameshirt.com/product/official-delaware-blue-hens-ncaa-football-nicholas-minicucci-called-game-painting-t-shirt/",
+    "https://dreameshirt.com/product/official-manny-machado-mr-slam-diego-san-diego-padres-mlb-t-shirt/",
+    "https://dreameshirt.com/product/official-detroit-lions-football-we-dont-kick-field-goals-signatures-t-shirt/",
+    "https://dreameshirt.com/product/official-new-chicken-f-caw-f-what-the-heli-painting-t-shirt/",
+    "https://dreameshirt.com/product/official-west-virginia-mountaineers-football-ncaa-almost-heaven-stadium-painting-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/robert-redford-1936-2025-thank-you-for-the-memories-whatever-it-takes-2-sided-shirt/",
