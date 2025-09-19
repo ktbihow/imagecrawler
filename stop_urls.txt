@@ -161,16 +161,16 @@
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/official-the-bouncing-souls-chicago-shows-on-sep-21-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-bus-49-winchesters-and-wyatt-flores-welcome-to-the-holler-eu-and-uk-tour-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-trevor-young-soja-the-jefferson-in-lounge-baton-rouge-la-sep-18-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-terrapin-winterfest-dec-20-21-2025-in-menlo-park-ca-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-psychedelic-porn-crumpets-2026-tour-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-new-laufey-a-matter-of-time-fall-tour-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-the-even-in-arcadia-tour-2025-sleep-token-poster-t-shirts/",
-    "https://uscraftedtees.com/product/official-what-if-i-told-u-that-i-was-from-this-country-t-shirts/",
-    "https://uscraftedtees.com/product/official-be-like-charlie-american-flag-t-shirts/",
-    "https://uscraftedtees.com/product/official-micah-drop-2025-t-shirts/"
+    "https://uscraftedtees.com/product/original-ajj-band-tour-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/original-trans-rights-dragon-t-shirts/",
+    "https://uscraftedtees.com/product/original-the-chemical-brothers-life-is-sweet-the-chemical-brothers-t-shirts/",
+    "https://uscraftedtees.com/product/original-smashing-pumpkins-line-in-japan-japan-tour-2025-t-shirts/",
+    "https://uscraftedtees.com/product/original-sept-19-2025-chicago-il-agnostic-front-victim-in-pain-t-shirts/",
+    "https://uscraftedtees.com/product/original-rome-odunze-all-routes-lead-to-rome-t-shirts/",
+    "https://uscraftedtees.com/product/original-samay-raina-wearing-say-no-to-cruise-t-shirts/",
+    "https://uscraftedtees.com/product/original-richy-mitch-the-coal-miners-laser-2025-t-shirts/",
+    "https://uscraftedtees.com/product/original-riot-fest-victim-in-pain-25-years-tour-chicago-il-2025-agnostic-front-t-shirts/",
+    "https://uscraftedtees.com/product/original-philadelphia-flyers-brick-by-brick-2025-t-shirts/"
   ],
   "capitoneshirt.com": [
     "https://capitoneshirt.com/product/umbrella-god-makes-me-wet-shirt/",
@@ -197,16 +197,16 @@
     "https://clickoneshirt.com/product/the-original-antifa-since-1941-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/daniel-donato-cosmic-country-horizons-fall-tour-2025-t-shirts/",
-    "https://teleteeshirt.com/product/ajj-pacing-murder-by-death-fall-tour-2025-dates-t-shirts/",
-    "https://teleteeshirt.com/product/son-rompe-pera-latin-ska-tour-2025-t-shirts/",
-    "https://teleteeshirt.com/product/will-varley-machines-will-never-learn-to-make-mistakes-like-me-uk-eu-and-usa-world-tour-2025-dates-t-shirts/",
-    "https://teleteeshirt.com/product/hineni-here-i-am-christians-hebrew-word-t-shirts/",
-    "https://teleteeshirt.com/product/youth-fountain-dearly-beloved-acoustic-tour-2026-dates-t-shirts/",
-    "https://teleteeshirt.com/product/yes-im-old-but-i-saw-milwaukee-brewers-signatures-t-shirts/",
-    "https://teleteeshirt.com/product/the-pretty-wild-sphynx-3-eyes-t-shirts/",
-    "https://teleteeshirt.com/product/super-troopers-broken-lizard-ram-rod-racing-spurbury-international-speedway-the-24th-annual-demolition-derby-t-shirts/",
-    "https://teleteeshirt.com/product/the-beach-boys-vega-tables-what-they-are-where-they-are-why-they-look-that-way-how-they-may-change-your-life-t-shirts/"
+    "https://teleteeshirt.com/product/will-varley-king-for-a-king-t-shirts/",
+    "https://teleteeshirt.com/product/will-varley-folk-singer-ahead-t-shirts/",
+    "https://teleteeshirt.com/product/the-southern-river-band-easier-said-than-done-t-shirts/",
+    "https://teleteeshirt.com/product/summer-dean-self-rising-country-music-bread-t-shirts/",
+    "https://teleteeshirt.com/product/summer-dean-horse-shoe-t-shirts/",
+    "https://teleteeshirt.com/product/summer-dean-armadillo-t-shirts/",
+    "https://teleteeshirt.com/product/steely-dan-street-viper-t-shirts/",
+    "https://teleteeshirt.com/product/steely-dan-i-crawl-like-a-viper-through-these-suburban-streets-make-love-to-these-women-languid-and-bittersweet-t-shirts/",
+    "https://teleteeshirt.com/product/marie-antoinette-suburban-outlaw-t-shirts/",
+    "https://teleteeshirt.com/product/marie-antoinette-mess-with-texas-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/official-robert-redford-hollywood-star-rest-in-peace-1936-2025-shirt/",
