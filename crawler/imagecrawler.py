@@ -11,15 +11,11 @@ import time
 from dotenv import load_dotenv
 from dateutil import parser
 
-# --- SỬA LỖI ĐƯỜNG DẪN TRIỆT ĐỂ ---
-# Lấy đường dẫn của chính file script này
+# --- Đường dẫn đã được sửa lỗi ---
 SCRIPT_PATH = os.path.abspath(__file__)
-# Lấy đường dẫn của thư mục chứa file script này (crawler/)
 CRAWLER_DIR = os.path.dirname(SCRIPT_PATH)
-# Lấy đường dẫn thư mục gốc của dự án (cao hơn một cấp so với crawler/)
 BASE_DIR = os.path.dirname(CRAWLER_DIR)
 
-# Các đường dẫn khác giờ đây sẽ được tính toán chính xác
 DOMAIN_DIR = os.path.join(BASE_DIR, 'domain')
 CONFIG_FILE = os.path.join(CRAWLER_DIR, 'config.json')
 STOP_URLS_FILE = os.path.join(BASE_DIR, 'stop_urls.txt')
@@ -36,7 +32,7 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 REPO_URL_PATTERN = "https://raw.githubusercontent.com/chanktb/productcrawler/main/domain/{domain}.txt"
 STOP_URLS_COUNT = 10
 
-# --- Cache để tối ưu hóa việc kiểm tra URL ---
+# --- Cache ---
 URL_METADATA_CACHE = {}
 
 # ----------------------------------------------------------------------------------------------------------------------
@@ -44,15 +40,13 @@ URL_METADATA_CACHE = {}
 # ----------------------------------------------------------------------------------------------------------------------
 
 def get_url_metadata(url):
-    """Gửi request HEAD một lần, lấy metadata (status, is_recent) và lưu vào cache."""
     if not url or not url.startswith('http'): return {'status': 0, 'is_recent': False}
     if url in URL_METADATA_CACHE: return URL_METADATA_CACHE[url]
     default_response = {'status': 0, 'is_recent': False}
     try:
         with requests.head(url, headers=HEADERS, timeout=10, allow_redirects=True) as r:
             if r.status_code != 200:
-                URL_METADATA_CACHE[url] = default_response
-                return default_response
+                URL_METADATA_CACHE[url] = default_response; return default_response
             is_recent = True
             last_modified_str = r.headers.get('Last-Modified')
             if last_modified_str:
@@ -60,26 +54,22 @@ def get_url_metadata(url):
                 if last_modified_date.tzinfo is None:
                     last_modified_date = last_modified_date.replace(tzinfo=timezone.utc)
                 now_utc = datetime.now(timezone.utc)
-                if (now_utc - last_modified_date) > timedelta(days=3): # Có thể thay đổi số ngày ở đây
+                if (now_utc - last_modified_date) > timedelta(days=3):
                     is_recent = False
             metadata = {'status': r.status_code, 'is_recent': is_recent}
-            URL_METADATA_CACHE[url] = metadata
-            return metadata
+            URL_METADATA_CACHE[url] = metadata; return metadata
     except (requests.exceptions.RequestException, parser.ParserError, ValueError):
-        URL_METADATA_CACHE[url] = default_response
-        return default_response
+        URL_METADATA_CACHE[url] = default_response; return default_response
 
 def check_url_exists(url):
-    """Nâng cấp hàm cũ: Chỉ kiểm tra sự tồn tại (status 200), có dùng cache."""
     return get_url_metadata(url)['status'] == 200
 
 def is_image_recent(url):
-    """Hàm mới: Kiểm tra URL có tồn tại VÀ mới hay không."""
     metadata = get_url_metadata(url)
     return metadata['status'] == 200 and metadata['is_recent']
 
 # ----------------------------------------------------------------------------------------------------------------------
-# Các hàm gốc của bạn (không thay đổi logic)
+# Các hàm tiện ích
 # ----------------------------------------------------------------------------------------------------------------------
 def send_telegram_message(message):
     bot_token, chat_id = os.getenv('TELEGRAM_BOT_TOKEN'), os.getenv('TELEGRAM_CHAT_ID')
@@ -91,8 +81,6 @@ def git_push_changes():
     if os.getenv('GITHUB_ACTIONS') == 'true': return
     try:
         os.chdir(BASE_DIR)
-        subprocess.run(['git', 'config', 'user.name', 'ktbihow'], check=True, capture_output=True)
-        subprocess.run(['git', 'config', 'user.email', '230660483+ktbihow@users.noreply.github.com'], check=True, capture_output=True)
         subprocess.run(['git', 'add', 'domain/', 'stop_urls.txt', 'imagecrawler.log'], check=True, capture_output=True)
         status_result = subprocess.run(['git', 'status', '--porcelain'], capture_output=True, text=True)
         if not status_result.stdout.strip(): return
@@ -113,34 +101,26 @@ def load_config():
     except FileNotFoundError: print(f"LỖI: Không tìm thấy file config tại: {CONFIG_FILE}"); return []
 
 def load_stop_urls():
-    print(f"Đang tải stop URLs từ: {STOP_URLS_FILE}")
     try:
-        with open(STOP_URLS_FILE, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            print("Tải file stop_urls.txt thành công.")
-            return data
-    except FileNotFoundError:
-        print("CẢNH BÁO: Không tìm thấy file stop_urls.txt. Sẽ chạy mà không có điểm dừng.")
-        return {}
-    except json.JSONDecodeError:
-        print("LỖI: File stop_urls.txt bị lỗi định dạng JSON.")
-        return {}
-        
+        with open(STOP_URLS_FILE, 'r', encoding='utf-8') as f: return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError): return {}
+
 def save_stop_urls(stop_urls):
     with open(STOP_URLS_FILE, 'w', encoding='utf-8') as f:
         json.dump(stop_urls, f, indent=2)
-        
+
 def apply_replacements(image_url, replacements, always_replace=False):
-    final_img_url = image_url
+    if not image_url: return image_url
     if replacements and isinstance(replacements, dict):
         for original, replacement_list in replacements.items():
             if original in image_url:
                 for replacement in replacement_list:
                     new_url = image_url.replace(original, replacement)
                     if always_replace or check_url_exists(new_url): return new_url
-    return final_img_url
+    return image_url
 
 def apply_fallback_logic(image_url, url_data):
+    if not image_url: return image_url
     fallback_rules = url_data.get('fallback_rules', {})
     if not fallback_rules or fallback_rules.get('type') != 'cut_filename_prefix': return image_url
     parsed_url = urlparse(image_url)
@@ -149,8 +129,7 @@ def apply_fallback_logic(image_url, url_data):
     filename = path_parts[-1]
     prefix_length = fallback_rules.get('prefix_length', 0)
     if len(filename) > prefix_length and filename[prefix_length - 1] == '-':
-        prefix = filename[:prefix_length-1]
-        if re.match(r'^[a-zA-Z0-9_-]+$', prefix):
+        if re.match(r'^[a-zA-Z0-9_-]+$', filename[:prefix_length-1]):
             new_filename = filename[prefix_length:]
             new_path = '/'.join(path_parts[:-1] + [new_filename])
             modified_url = parsed_url._replace(path=new_path).geturl()
@@ -174,20 +153,32 @@ def find_best_image_url(soup, url_data):
             if img_url: return urljoin(base_url, img_url)
     return None
 
-def save_urls(domain, new_urls):
+# --- SỬA ĐỔI HÀM NÀY ĐỂ THÊM BÁO CÁO CHI TIẾT RA CMD ---
+def save_urls(domain, new_urls, discarded_count=0):
     if not os.path.exists(DOMAIN_DIR): os.makedirs(DOMAIN_DIR)
     filename = os.path.join(DOMAIN_DIR, f"{domain}.txt")
     try:
         with open(filename, "r", encoding="utf-8") as f: existing_urls = [line.strip() for line in f]
     except FileNotFoundError: existing_urls = []
+    
     unique_new_urls = [u for u in new_urls if u not in existing_urls]
     all_urls = (unique_new_urls + existing_urls)[:MAX_URLS]
+    
     with open(filename, "w", encoding="utf-8") as f: f.write("\n".join(all_urls))
+    
+    # Tạo báo cáo chi tiết để in ra console
+    console_report = f"[{domain}] Added {len(unique_new_urls)} new URLs."
+    if discarded_count > 0:
+        console_report += f" Discarded {discarded_count} old URLs."
+    console_report += f" Total: {len(all_urls)}"
+    print(console_report)
+    
     return len(unique_new_urls), len(all_urls)
 
 def fetch_image_urls_from_api(url_data, stop_urls_list):
     all_image_urls, new_product_urls_found, page, domain = [], [], 1, urlparse(url_data['url']).netloc
-    while page <= MAX_API_PAGES:
+    stop_url_found = None
+    while page <= MAX_API_PAGES and not stop_url_found:
         api_url = DEFAULT_API_URL_PATTERN.format(domain=domain, page=page)
         try:
             r = requests.get(api_url, headers=HEADERS, timeout=30); r.raise_for_status(); data = r.json()
@@ -195,8 +186,7 @@ def fetch_image_urls_from_api(url_data, stop_urls_list):
             for item in data:
                 product_url = item.get('link')
                 if product_url and product_url in stop_urls_list:
-                    print(f"[{domain}] Dừng API vì gặp stop URL: {product_url}")
-                    return all_image_urls, new_product_urls_found
+                    stop_url_found = product_url; break
                 img_url = (item.get('yoast_head_json', {}).get('og_image', [{}])[0].get('url') or 
                          (img_tag.get('src') if (img_tag := BeautifulSoup(item.get('content', {}).get('rendered', ''), 'html.parser').find('img')) else None))
                 if img_url:
@@ -208,6 +198,7 @@ def fetch_image_urls_from_api(url_data, stop_urls_list):
                         if product_url: new_product_urls_found.append(product_url)
             page += 1
         except requests.exceptions.RequestException: break
+    if stop_url_found: print(f"[{domain}] Found {len(new_product_urls_found)} new URLs. Stopped at: {stop_url_found}")
     return all_image_urls, new_product_urls_found
 
 def fetch_image_urls_from_prevnext(url_data, stop_urls_list):
@@ -220,11 +211,10 @@ def fetch_image_urls_from_prevnext(url_data, stop_urls_list):
         current_product_url = urljoin(url_data['url'], first_product_tag.get('href'))
     except requests.exceptions.RequestException: return [], []
     count = 0
+    stop_url_found = None
     while count < MAX_PREVNEXT_URLS:
         if current_product_url in stop_urls_list:
-            print(f"[{domain}] Dừng prev/next vì gặp stop URL: {current_product_url}")
-            break
-        print(f"Crawling: {current_product_url}")
+            stop_url_found = current_product_url; break
         try:
             r = requests.get(current_product_url, headers=HEADERS, timeout=30); r.raise_for_status()
             soup = BeautifulSoup(r.text, "html.parser")
@@ -239,6 +229,7 @@ def fetch_image_urls_from_prevnext(url_data, stop_urls_list):
             current_product_url = urljoin(current_product_url, next_product_tag.get('href'))
             count += 1
         except requests.exceptions.RequestException: break
+    if stop_url_found: print(f"[{domain}] Found {len(new_product_urls_found)} new URLs. Stopped at: {stop_url_found}")
     return all_image_urls, new_product_urls_found
 
 def fetch_image_urls_from_product_list(url_data, stop_urls_list):
@@ -249,19 +240,16 @@ def fetch_image_urls_from_product_list(url_data, stop_urls_list):
         product_urls = [line.strip() for line in r.text.splitlines() if line.strip()]
     except requests.exceptions.RequestException: return [], []
     
-    urls_to_crawl = []
+    urls_to_crawl, stop_url_found = [], None
     if stop_urls_list:
-        found_stop_point = False
         for product_url in product_urls:
             if product_url in stop_urls_list:
-                print(f"[{domain}] Dừng product-list vì gặp stop URL: {product_url}")
-                found_stop_point = True; break
+                stop_url_found = product_url; break
             urls_to_crawl.append(product_url)
-        if not found_stop_point:
-            print(f"[{domain}] Không tìm thấy stop URL, crawl toàn bộ repo.")
-            urls_to_crawl = product_urls
-    else:
-        urls_to_crawl = product_urls
+        if not stop_url_found: urls_to_crawl = product_urls
+    else: urls_to_crawl = product_urls
+
+    if stop_url_found: print(f"[{domain}] Found {len(urls_to_crawl)} new URLs to crawl. Will stop at: {stop_url_found}")
 
     for product_url in urls_to_crawl:
         if len(all_image_urls) >= MAX_PREVNEXT_URLS: break
@@ -280,7 +268,7 @@ def fetch_image_urls_from_product_list(url_data, stop_urls_list):
     return all_image_urls, new_product_urls_found
 
 # ----------------------------------------------------------------------------------------------------------------------
-# Main Execution (Cấu trúc gốc của bạn + Logic sàng lọc mới)
+# Main Execution
 # ----------------------------------------------------------------------------------------------------------------------
 if __name__ == "__main__":
     start_time = time.time()
@@ -291,14 +279,11 @@ if __name__ == "__main__":
     for url_data in configs:
         domain = urlparse(url_data['url']).netloc
         source_type = url_data.get('source_type')
-        
-        # GIAI ĐOẠN 1: THU THẬP
         unfiltered_image_urls, new_product_urls_found = [], []
         domain_stop_urls_list = set(stop_urls_data.get(domain, []))
 
-        print(f"\n--- Bắt đầu xử lý domain: {domain} ({source_type}) ---")
-        print(f"Số lượng stop URLs đã tải cho domain này: {len(domain_stop_urls_list)}")
-
+        print(f"\n--- Processing domain: {domain} ({source_type}) ---")
+        
         if source_type == 'api':
             unfiltered_image_urls, new_product_urls_found = fetch_image_urls_from_api(url_data, domain_stop_urls_list)
         elif source_type == 'prevnext':
@@ -306,44 +291,50 @@ if __name__ == "__main__":
         elif source_type == 'product-list':
             unfiltered_image_urls, new_product_urls_found = fetch_image_urls_from_product_list(url_data, domain_stop_urls_list)
         
-        # GIAI ĐOẠN 2: SÀNG LỌC
-        final_image_urls = []
+        final_image_urls, discarded_count = [], 0
         if url_data.get("check_recency", False):
-            print(f"[{domain}] Sàng lọc {len(unfiltered_image_urls)} URLs để lấy ảnh mới...")
+            print(f"[{domain}] Filtering {len(unfiltered_image_urls)} found URLs for recency...")
             for img_url in unfiltered_image_urls:
-                if is_image_recent(img_url): final_image_urls.append(img_url)
+                if is_image_recent(img_url):
+                    final_image_urls.append(img_url)
+                else:
+                    discarded_count += 1
         else:
             final_image_urls = unfiltered_image_urls
         
-        # LƯU KẾT QUẢ
-        new_urls_count, total_urls_count = save_urls(domain, final_image_urls)
-        urls_summary[domain] = {'new_count': new_urls_count, 'total_count': total_urls_count}
+        # SỬA ĐỔI: Truyền discarded_count vào hàm save_urls
+        new_urls_count, total_urls_count = save_urls(domain, final_image_urls, discarded_count)
+        urls_summary[domain] = {
+            'new_count': new_urls_count, 
+            'total_count': total_urls_count,
+        }
         
         if new_product_urls_found:
             stop_urls_data[domain] = new_product_urls_found[:STOP_URLS_COUNT]
     
     save_stop_urls(stop_urls_data)
     
-    # TỔNG KẾT VÀ BÁO CÁO
     end_time = time.time()
     duration, now_vietnam = end_time - start_time, datetime.now(pytz.timezone('Asia/Ho_Chi_Minh'))
     log_lines = [f"--- Summary of Last Image Crawl ---", f"Generated at: {now_vietnam.strftime('%Y-%m-%d %H:%M:%S %z')}"]
     found_new_images = any(c['new_count'] > 0 for c in urls_summary.values())
 
-    reportable_lines = []
+    reportable_lines, full_log_lines = [], log_lines[:1]
     for domain, counts in urls_summary.items():
+        # SỬA ĐỔI: Giữ định dạng log file đơn giản
+        log_line = f"{domain}: {counts['new_count']} New Images. Total: {counts['total_count']}"
+        full_log_lines.append(log_line)
         if counts['new_count'] > 0:
-            reportable_lines.append(f"{domain}: {counts['new_count']} New Images: {counts['total_count']}")
+            reportable_lines.append(log_line)
     
-    full_log_lines = log_lines[:1]
-    for domain, counts in urls_summary.items():
-        full_log_lines.append(f"{domain}: {counts['new_count']} New Images: {counts['total_count']}")
-    full_log_lines.append(f"Crawl duration: {int(duration // 60)} min {int(duration % 60)} seconds.")
+    duration_line = f"Crawl duration: {int(duration // 60)} min {int(duration % 60)} seconds."
+    full_log_lines.append(duration_line)
     with open(LOG_FILE, "w", encoding="utf-8") as f: f.write("\n".join(full_log_lines))
-
+    print(f"\n--- Summary saved to {LOG_FILE} ---")
+    
     if found_new_images:
         final_report = log_lines[:1] + reportable_lines
-        final_report.append(f"Crawl duration: {int(duration // 60)} min {int(duration % 60)} seconds.")
+        final_report.append(duration_line)
         send_telegram_message("\n".join(final_report))
         trigger_workflow_dispatch()
     
