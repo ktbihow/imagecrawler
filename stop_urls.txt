@@ -152,16 +152,16 @@
     "https://legendusashirt.com/product/the-zoological-society-of-cincinnati-seal-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/scarecrow-boat-shirt/",
-    "https://teehandus.com/product/seattle-mariners-randy-arozarena-randyland-tridents-up-2025-shirt/",
-    "https://teehandus.com/product/shohei-ohtani-los-angeles-dodgers-comic-shirt/",
-    "https://teehandus.com/product/start-by-starting-shirt-2/",
-    "https://teehandus.com/product/the-potato-in-the-back-of-my-pantry-shirt/",
-    "https://teehandus.com/product/the-tucc-classic-shirt/",
-    "https://teehandus.com/product/washington-huskies-football-1991-national-champs-vintage-shirt/",
-    "https://teehandus.com/product/well-except-for-jimmy-kimmel-shirt/",
-    "https://teehandus.com/product/all-that-remains-skeleton-chains-shirt/",
-    "https://teehandus.com/product/americas-detroit-team-shirt/"
+    "https://teehandus.com/product/congress-shall-make-no-law-respecting-shirt/",
+    "https://teehandus.com/product/cooper-dejean-philadelphia-splatter-shirt/",
+    "https://teehandus.com/product/ever-since-i-was-a-young-serf-i-knew-i-wanted-to-yield-a-bountiful-harvest-for-my-lord-shirt/",
+    "https://teehandus.com/product/feel-the-buzz-georgia-tech-yellow-jackets-football-shirt/",
+    "https://teehandus.com/product/fifth-annual-burlington-brew-run-2025-shirt/",
+    "https://teehandus.com/product/georgia-tech-football-sting-em-helmet-shirt/",
+    "https://teehandus.com/product/georgia-tech-yellow-jackets-ramblin-wreck-from-georgia-tech-shirt/",
+    "https://teehandus.com/product/girl-the-fuck-did-you-just-say-to-me-shirt/",
+    "https://teehandus.com/product/how-many-grams-of-protein-are-in-a-kiss-from-my-beautiful-girlfriend-shirt/",
+    "https://teehandus.com/product/i-love-microplastics-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -179,16 +179,16 @@
     "https://uscraftedtees.com/product/official-micah-drop-2025-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/ye-olde-shithole-shirt/",
-    "https://capitoneshirt.com/product/worm-read-a-banned-books-celebrate-read-freadom-shirt/",
-    "https://capitoneshirt.com/product/ts12-showgirl-your-energy-is-a-luxury-item-not-everyone-can-afford-it-shirt/",
-    "https://capitoneshirt.com/product/the-substance-remember-you-are-one-shirt/",
-    "https://capitoneshirt.com/product/the-life-of-a-show-cat-and-baby-thats-show-business-for-you-shirt/",
-    "https://capitoneshirt.com/product/the-human-world-its-a-mess-shirt/",
-    "https://capitoneshirt.com/product/the-best-way-to-crush-ice-is-with-others-fight-back-shirt/",
-    "https://capitoneshirt.com/product/talking-shit-together-is-a-love-language-shirt/",
-    "https://capitoneshirt.com/product/strong-communities-prove-police-obsolete-shirt/",
-    "https://capitoneshirt.com/product/stomp-out-every-transphobe-shirt/"
+    "https://capitoneshirt.com/product/wnba-playoffs-2025-first-of-a-lifetime-shirt/",
+    "https://capitoneshirt.com/product/the-gop-cant-drag-us-down-protest-shirt/",
+    "https://capitoneshirt.com/product/only-you-can-protect-our-park-our-water-our-air-our-lands-our-future-shirt/",
+    "https://capitoneshirt.com/product/roe-is-the-floor-not-the-ceiling-shirt/",
+    "https://capitoneshirt.com/product/no-on-prop-50-defend-fair-elections-shirt/",
+    "https://capitoneshirt.com/product/mornings-are-better-after-a-la-dodgers-win-shirt/",
+    "https://capitoneshirt.com/product/monarch-butterfly-immigrants-belong-shirt/",
+    "https://capitoneshirt.com/product/miami-hurricanes-vs-florida-gators-the-battle-of-the-florida-man-shirt/",
+    "https://capitoneshirt.com/product/miami-hurricanes-305-college-caneday-shirt/",
+    "https://capitoneshirt.com/product/max-funky-muncy-blue-glue-la-dodgers-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/tiffany-hayes-golden-state-valkyries-15-signature-two-sided-t-shirt/",
