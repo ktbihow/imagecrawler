@@ -20,22 +20,22 @@
     "https://orionshirt.com/product/official-2025-riot-fest-stealing-hearts-since-2005-painting-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/running-art-shirt/",
-    "https://techteesusa.com/product/go-to-hell-shirt/",
-    "https://techteesusa.com/product/youre-killin-me-smalls-pittsburgh-pirates-x-the-sandlot-shirt/",
-    "https://techteesusa.com/product/surf-n-capy-capytendo-pixel-shirt/"
+    "https://techteesusa.com/product/the-e-x-men-shirt/",
+    "https://techteesusa.com/product/buy-a-man-eat-fish-he-day-teach-fish-man-to-a-lifetime-t-shirt/",
+    "https://techteesusa.com/product/youre-killin-me-smalls-san-francisco-giants-x-the-sandlot-shirt/",
+    "https://techteesusa.com/product/brent-burns-colorado-avalanche-lets-get-beard-colorado-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/the-summer-of-connie-baby-extremely-shirt/",
-    "https://teeworksusa.com/product/win-lose-dominate-classic-shirt/",
-    "https://teeworksusa.com/product/beltway-brawl-the-anthem-901-wharf-st-sw-washington-dc-shirt/",
-    "https://teeworksusa.com/product/becky-taylor-gill-football-fans-for-a-free-palestine-shirt/",
-    "https://teeworksusa.com/product/charlie-kirk-erin-go-bragh-shirt/",
-    "https://teeworksusa.com/product/castle-crashers-revive-roblox-shirt/",
-    "https://teeworksusa.com/product/cooper-dejean-philadelphia-splatter-33-vintage-shirt/",
-    "https://teeworksusa.com/product/funk-face-shirt/",
-    "https://teeworksusa.com/product/halloween-chibi-huntrix-relaxing-in-couch-cute-shirt/",
-    "https://teeworksusa.com/product/green-bay-packers-micah-parsons-cartoon-player-shirt/"
+    "https://teeworksusa.com/product/yoda-laughing-i-may-have-the-right-to-remain-silent-but-boy-oh-boy-do-i-lack-the-ability-shirt/",
+    "https://teeworksusa.com/product/yes-im-old-but-i-saw-red-sox-greatness-players-signature-shirt/",
+    "https://teeworksusa.com/product/yes-im-old-but-i-saw-phillies-greatness-players-signature-shirt/",
+    "https://teeworksusa.com/product/yes-im-old-but-i-saw-brewers-greatness-players-signature-shirt/",
+    "https://teeworksusa.com/product/x-men-25th-anniversary-2000-2025-thank-you-for-the-memories-shirt-2/",
+    "https://teeworksusa.com/product/whatever-the-hell-it-takes-topper-2025-back-to-back-nl-east-division-champs-shirt/",
+    "https://teeworksusa.com/product/undisputed-huskers-42-0-31-kos-terence-crawford-shirt/",
+    "https://teeworksusa.com/product/turbois-ghost-hunting-spirits-hate-to-see-him-comin-slut-shirt/",
+    "https://teeworksusa.com/product/trumbull-football-2025-shirt/",
+    "https://teeworksusa.com/product/toy-story-30th-anniversary-1995-2025-thank-you-for-the-memories-shirt-2/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-west-virginia-football-almost-heaven-shirt/",
@@ -231,16 +231,16 @@
     "https://melonashirt.com/product/official-marines-the-few-the-proud-shirts/"
   ],
   "dalatshirt.com": [
-    "https://dalatshirt.com/product/tom-petty-i-wont-back-down-florida-gators-t-shirts/",
-    "https://dalatshirt.com/product/texas-longhorns-vs-oklahoma-sooners-red-river-rivalry-t-shirts/",
-    "https://dalatshirt.com/product/tampa-bay-buccaneers-football-x-bart-dynamic-cartoon-t-shirts/",
-    "https://dalatshirt.com/product/shake-down-psychedelic-marketplace-1965-2025-t-shirts/",
-    "https://dalatshirt.com/product/seattle-seahawks-x-bart-comics-t-shirts/",
-    "https://dalatshirt.com/product/satisfy-off-road-spirit-of-the-wild-t-shirts/",
-    "https://dalatshirt.com/product/san-francisco-49ers-football-x-bart-dynamic-cartoon-t-shirts/",
-    "https://dalatshirt.com/product/red-river-rivalry-texas-longhorns-vs-oklahoma-sooners-cotton-bowl-stadium-t-shirts/",
-    "https://dalatshirt.com/product/poodles-mac-curiskie-shell-put-all-them-dogs-under-the-table-t-shirts/",
-    "https://dalatshirt.com/product/old-school-fisher-price-t-shirts/"
+    "https://dalatshirt.com/product/kid-kd-cade-horton-chicago-cubs-shirt/",
+    "https://dalatshirt.com/product/katseye-beautiful-chaos-shirt/",
+    "https://dalatshirt.com/product/live-like-charlie-i-love-jesus-shirt/",
+    "https://dalatshirt.com/product/life-is-sweet-the-chemical-brothers-shirt/",
+    "https://dalatshirt.com/product/lena-nitro-penis-shirt/",
+    "https://dalatshirt.com/product/katy-perry-the-lifetimes-tour-brazil-sept-16-19-2025-poster-shirt/",
+    "https://dalatshirt.com/product/love-miniatures-hate-fascism-shirt/",
+    "https://dalatshirt.com/product/manny-machado-mr-slam-diego-shirt/",
+    "https://dalatshirt.com/product/madison-needs-public-school-teachers-shirt/",
+    "https://dalatshirt.com/product/melissa-waelchli-wearing-antifa-employee-of-the-month-shirt/"
   ],
   "lovingsquad.com": [
     "https://lovingsquad.com/product/yes-i-can-drive-a-stick-funny-halloween-cat-witch-spooky-shirt/",
@@ -339,15 +339,15 @@
     "https://milkywayshirt.com/product/official-the-who-tour-hollywood-ca-09-17-2025-poster-shirt/"
   ],
   "mercuryshirt.com": [
-    "https://mercuryshirt.com/product/west-virginia-mountaineers-almost-heaven-shirt/",
-    "https://mercuryshirt.com/product/watcher-ghoul-boys-shirt/",
-    "https://mercuryshirt.com/product/the-simpsons-x-pittsburgh-steelers-shirt/",
-    "https://mercuryshirt.com/product/the-simpsons-x-houston-texans-shirt/",
-    "https://mercuryshirt.com/product/the-simpsons-x-dallas-cowboys-shirt/",
-    "https://mercuryshirt.com/product/the-simpsons-x-chicago-bears-shirt/",
-    "https://mercuryshirt.com/product/taking-back-son-day-ransom-shirt/",
-    "https://mercuryshirt.com/product/philadelphia-eagles-no-one-likes-us-we-dont-care-shirt/",
-    "https://mercuryshirt.com/product/nine-in-a-are-row-shirt/",
-    "https://mercuryshirt.com/product/marc-andre-fleury-flower-power-pittsburgh-shirt/"
+    "https://mercuryshirt.com/product/ontario-tower-buzzers-proud-affiliate-of-the-los-angeles-dodgers-shirt/",
+    "https://mercuryshirt.com/product/ontario-tower-buzzers-ontario-baseball-scoreboard-shirt/",
+    "https://mercuryshirt.com/product/nike-louisville-cardinals-point-guard-mascot-shirt/",
+    "https://mercuryshirt.com/product/my-favorite-murder-rewind-og-stay-sexy-shirt/",
+    "https://mercuryshirt.com/product/melissa-waelchli-antifa-employee-of-the-month-shirt/",
+    "https://mercuryshirt.com/product/los-angeles-dodgers-ontario-tower-buzzers-shirt/",
+    "https://mercuryshirt.com/product/los-angeles-dodgers-minor-league-shirt/",
+    "https://mercuryshirt.com/product/lena-nitro-penis-shirt/",
+    "https://mercuryshirt.com/product/farm-aid-40-tractor-amp-9-20-2025-minneapolis-shows-shirt/",
+    "https://mercuryshirt.com/product/goose-huntington-bank-pavilion-at-northerly-island-chicago-il-september-20-2025-poster-shirt/"
   ]
 }
