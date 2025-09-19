@@ -23,9 +23,8 @@
     "https://techteesusa.com/product/let-the-pirate-shenanigans-begin-halloween-skull-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/cthulhu-city-destruction-funny-graphic-shirt/",
-    "https://teeworksusa.com/product/crime-relative-funny-retro-shirt/",
-    "https://teeworksusa.com/product/house-1000-corpses-halloween-shirt/"
+    "https://teeworksusa.com/product/hakuna-digitata-cartoon-moon-shirt/",
+    "https://teeworksusa.com/product/i-survived-spooky-solvang-skeleton-halloween-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-yes-im-old-but-i-saw-seattle-mariners-greatness-team-shirt/",
