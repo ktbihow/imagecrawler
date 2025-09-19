@@ -12,14 +12,12 @@
     "https://geekteesus.com/product/snoopy-good-morning-buffalo-bills-shirt/"
   ],
   "orionshirt.com": [
-    "https://orionshirt.com/product/official-poster-pittsburgh-steelers-rest-in-peace-dale-lolley-1968-2025-t-shirt/",
-    "https://orionshirt.com/product/official-oklahoma-sooners-for-life-100-anniversary-1925-2025-varsity-o-association-logo-t-shirt/",
-    "https://orionshirt.com/product/official-chicago-cubs-mlb-the-north-is-back-in-october-players-fan-gear-t-shirt/",
-    "https://orionshirt.com/product/official-chicago-cubs-chicago-style-2025-mlb-postseason-national-league-legend-fan-gear-t-shirt/",
-    "https://orionshirt.com/product/official-philadelphia-phillies-mlb-bryce-harper-and-kyle-schwarber-players-duo-caricatures-painting-t-shirt/",
-    "https://orionshirt.com/product/official-milwaukee-brewers-mlb-jackson-chourio-and-christian-yelich-players-duo-caricatures-painting-t-shirt/",
-    "https://orionshirt.com/product/official-los-angeles-dodgers-mlb-mookie-betts-and-shohei-ohtani-players-duo-caricatures-painting-t-shirt/",
-    "https://orionshirt.com/product/official-boston-red-sox-mlb-roman-anthony-and-alex-bregman-players-duo-caricatures-painting-t-shirt/"
+    "https://orionshirt.com/product/official-the-amazing-devon-dampier-player-utah-utes-college-football-painting-t-shirt/",
+    "https://orionshirt.com/product/official-poster-josh-allen-buffalo-bills-13-2-career-vs-the-dolphins-nfl-2025-t-shirt/",
+    "https://orionshirt.com/product/official-chicago-bears-real-bears-fans-wear-pink-october-2025-painting-t-shirt/",
+    "https://orionshirt.com/product/official-poster-madball-friday-september-19th-2025-philadelphia-pa-first-unitarian-church-t-shirt/",
+    "https://orionshirt.com/product/official-ndhsaa-girls-swimming-diving-state-meet-qualifiers-performance-2025-logo-fan-gear-t-shirt/",
+    "https://orionshirt.com/product/official-2025-riot-fest-stealing-hearts-since-2005-painting-t-shirt/"
   ],
   "techteesusa.com": [
     "https://techteesusa.com/product/puro-pinche-party-t-shirt/",
@@ -64,16 +62,16 @@
     "https://berrylittles.com/product/official-haymakers-for-hope-beltway-brawl-at-the-anthem-fighting-for-a-cure-thur-night-painting-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-michael-penix-jr-on-bijan-robinson-atlanta-falcons-hes-the-best-running-back-in-the-league-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-starring-josh-allen-buffalo-bills-run-with-the-buffalo-highmark-stadium-2025-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-notre-dame-vs-michigan-2025-shamrock-classic-womens-basketball-november-15-2025-wayne-state-fieldhouse-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-springfield-thunderbirds-rip-former-springfield-falcons-forward-wade-macleod-1986-2025-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-celebrating-150-wild-years-cincinnati-zoo-and-botanical-garden-t-shirt/",
-    "https://dreameshirt.com/product/official-delaware-blue-hens-ncaa-football-nicholas-minicucci-called-game-painting-t-shirt/",
-    "https://dreameshirt.com/product/official-manny-machado-mr-slam-diego-san-diego-padres-mlb-t-shirt/",
-    "https://dreameshirt.com/product/official-detroit-lions-football-we-dont-kick-field-goals-signatures-t-shirt/",
-    "https://dreameshirt.com/product/official-new-chicken-f-caw-f-what-the-heli-painting-t-shirt/",
-    "https://dreameshirt.com/product/official-west-virginia-mountaineers-football-ncaa-almost-heaven-stadium-painting-t-shirt/"
+    "https://dreameshirt.com/product/official-sports-illustrated-clayton-kershaw-los-angeles-dodgers-and-anze-kopitar-los-angeles-kings-its-on-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-sports-illustrated-the-power-jayden-daniels-commanders-the-50-most-influential-figures-in-sports-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-tampa-bay-buccaneers-thats-our-streak-baker-tom-brady-bucs-5th-straight-division-title-hunt-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-horizons-daniel-donatos-cosmic-country-fall-tour-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-mexicos-marimba-cumbia-punk-monsters-son-rompe-pera-live-show-september-12-26-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-josh-allen-buffalo-bills-13-2-career-vs-the-dolphins-nfl-meme-t-shirt/",
+    "https://dreameshirt.com/product/official-richy-mitch-and-the-coal-miners-colorados-on-fire-again-laser-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-chicago-bears-real-bears-fans-wear-pink-october-2025-t-shirt/",
+    "https://dreameshirt.com/product/official-smashing-pumpkins-live-in-japan-tour-2025-painting-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-austin-city-limits-season-51-wyatt-flores-moody-theater-texas-september-19th-2025-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/official-wyatt-flores-austin-tx-official-concert-september-19-2025-shirt/",
@@ -276,16 +274,16 @@
     "https://arjomany.com/product/rsq-x-peanuts-pumpkin-club-halloween-2025-shirt/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/vinyl-williams-the-moroccan-lounge-los-angeles-ca-concert-poster-2025/",
-    "https://collectionpostertour.com/product/vinyl-williams-october-6-2025-los-angeles-ca-official-concert-poster/",
-    "https://collectionpostertour.com/product/rainbow-kitten-surprise-september-26-2025-los-angeles-ca-official-concert-poster/",
-    "https://collectionpostertour.com/product/rainbow-kitten-surprise-echoplex-los-angeles-ca-concert-poster-2025/",
-    "https://collectionpostertour.com/product/clutch-the-great-frederick-fair-frederick-md-concert-poster-2025/",
-    "https://collectionpostertour.com/product/clutch-september-20-2025-frederick-md-official-concert-poster/",
-    "https://collectionpostertour.com/product/the-lumineers-september-17-2025-charlotte-nc-official-concert-t-shirt/",
-    "https://collectionpostertour.com/product/the-lumineers-pnc-music-pavilion-charlotte-nc-concert-t-shirt-2025/",
-    "https://collectionpostertour.com/product/shaky-knees-festival-skeleton-punk-lineup-2025-t-shirt/",
-    "https://collectionpostertour.com/product/shaky-knees-festival-september-19-21-2025-atlanta-ga-official-concert-t-shirt/"
+    "https://collectionpostertour.com/product/my-favorite-murder-mothman-t-shirt/",
+    "https://collectionpostertour.com/product/my-favorite-murder-mothman-t-shirt-limited-edition/",
+    "https://collectionpostertour.com/product/mercyful-fate-time-t-shirt/",
+    "https://collectionpostertour.com/product/mercyful-fate-time-t-shirt-limited-edition/",
+    "https://collectionpostertour.com/product/mercyful-fate-dont-break-the-oath-t-shirt/",
+    "https://collectionpostertour.com/product/mercyful-fate-dont-break-the-oath-t-shirt-limited-edition/",
+    "https://collectionpostertour.com/product/destroy-lonely-pain-passion-audio-cyber-t-shirt/",
+    "https://collectionpostertour.com/product/destroy-lonely-pain-passion-audio-cyber-t-shirt-limited-edition/",
+    "https://collectionpostertour.com/product/destroy-lonely-logo-mania-t-shirt/",
+    "https://collectionpostertour.com/product/destroy-lonely-logo-mania-t-shirt-limited-edition/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/the-witcher-season-4-new-poster-revealed-on-netflix-releasing-october-30-2025-fantasy-series-unisex-t-shirt/",
@@ -300,16 +298,16 @@
     "https://neoteeco.com/product/nicolas-maduro-enemigo-de-los-venezolanos-political-protest-poster-venezuela-opposition-artwork-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/missouri-tigers-vs-kansas-university-football-border-showdown-champs-mizzou-2025-t-shirt/",
-    "https://newshirtstore.com/product/oasis-band-snoopy-funny-cartoon-live-reunion-25-shirt/",
-    "https://newshirtstore.com/product/karns-beavers-dam-proud-to-be-a-beaver-mascot-shirt/",
-    "https://newshirtstore.com/product/merry-christmas-santa-wink-funny-shirt/",
-    "https://newshirtstore.com/product/lazy-squirrel-nut-today-nvt-tomorrow-either-shirt/",
-    "https://newshirtstore.com/product/never-underestimate-a-public-school-teacher-shirt/",
-    "https://newshirtstore.com/product/illinois-the-prairie-state-sunset-shirt/",
-    "https://newshirtstore.com/product/mark-mcgwire-oakland-athletics-baseball-mlb-2025-big-mac-shirt/",
-    "https://newshirtstore.com/product/magic-spell-funny-witch-spooky-hocus-croakus-shirt/",
-    "https://newshirtstore.com/product/jake-owen-them-old-love-songs-t-shirt/"
+    "https://newshirtstore.com/product/cmll-chibi-stars/",
+    "https://newshirtstore.com/product/cleveland-browns-dead-threads-skeleton-bulldogs-t-shirt/",
+    "https://newshirtstore.com/product/citadel-miniatures-shirt/",
+    "https://newshirtstore.com/product/christian-yelich-and-jake-bauers-the-power-of-friendship-milwaukee-brewers-t-shirt/",
+    "https://newshirtstore.com/product/chez-kane-reckless-t-shirt/",
+    "https://newshirtstore.com/product/chainsaw-man-angel-devil-jumbo-t-shirt/",
+    "https://newshirtstore.com/product/christmas-merry-f-caw-f-raven-shirt/",
+    "https://newshirtstore.com/product/charlotte-flair-nxt-if-youre-gonna-do-it-shirt/",
+    "https://newshirtstore.com/product/chicago-cubs-playoff-baseball-t-shirt/",
+    "https://newshirtstore.com/product/candlebox-seattle-25th-anniversary-t-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/philadelphia-eagles-football-no-one-likes-us-we-dont-care-shirt/",
