@@ -213,9 +213,16 @@
     "https://teeslocal.com/product/billy-strings-winter-tour-2026-shirt/"
   ],
   "melonashirt.com": [
-    "https://melonashirt.com/product/official-great-american-ghost-torture-world-globe-shirts/",
-    "https://melonashirt.com/product/official-grumpy-old-gits-club-founder-member-shirts/",
-    "https://melonashirt.com/product/official-kanonenfieber-der-offizier-shirts/"
+    "https://melonashirt.com/product/official-im-not-gay-but-50-cents-is-50-cents-shirts/",
+    "https://melonashirt.com/product/official-how-many-grams-of-protein-are-in-a-kiss-from-my-beautiful-girlfriend-shirts/",
+    "https://melonashirt.com/product/official-goose-the-kohl-center-madison-wisconsin-9-17-2025-event-shirts/",
+    "https://melonashirt.com/product/official-free-jimmy-kimmel-shirts/",
+    "https://melonashirt.com/product/official-football-fans-for-a-free-palestine-shirts/",
+    "https://melonashirt.com/product/official-fernando-mendoza-fear-the-calm-shirts/",
+    "https://melonashirt.com/product/official-dont-tread-on-me-well-except-for-jimmy-kimmel-shirts/",
+    "https://melonashirt.com/product/official-die-ayliva-tour-berlin-sep-16-2025-shirts/",
+    "https://melonashirt.com/product/official-conan-gray-mexico-wishbone-picnic-27-septiembre-shirts/",
+    "https://melonashirt.com/product/official-college-gameday-florida-vs-miami-september-20-2025-live-from-miami-fl-shirts/"
   ],
   "dalatshirt.com": [
     "https://dalatshirt.com/product/cowboy-h-town-hold-it-down-estd-2022-t-shirts/",
@@ -266,16 +273,16 @@
     "https://arjomany.com/product/cattle-decapitation-oct-2-2025-aftershock-festival-sacramento-ca-shirt/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/scowl-100-angel-t-shirt/",
-    "https://collectionpostertour.com/product/scowl-100-angel-t-shirt-limited-edition/",
-    "https://collectionpostertour.com/product/riot-fest-merch/",
-    "https://collectionpostertour.com/product/riot-fest-2025-merch/",
-    "https://collectionpostertour.com/product/bad-omens-do-you-feel-love-t-shirt/",
-    "https://collectionpostertour.com/product/bad-omens-do-you-feel-love-t-shirt-limited-edition/",
-    "https://collectionpostertour.com/product/whiskey-myers-september-18-2025-jonesboro-ar-official-concert-t-shirt/",
-    "https://collectionpostertour.com/product/whiskey-myers-first-national-bank-arena-jonesboro-ar-concert-t-shirt-2025/",
-    "https://collectionpostertour.com/product/trampled-by-turtles-love-snake-t-shirt/",
-    "https://collectionpostertour.com/product/trampled-by-turtles-love-snake-t-shirt-limited-edition/"
+    "https://collectionpostertour.com/product/wyatt-flores-september-19-2025-austin-tx-official-concert-poster/",
+    "https://collectionpostertour.com/product/wyatt-flores-moody-center-austin-tx-concert-poster-2025/",
+    "https://collectionpostertour.com/product/the-bouncing-souls-september-21-2025-chicago-il-official-concert-poster/",
+    "https://collectionpostertour.com/product/the-bouncing-souls-riot-fest-chicago-il-concert-poster-2025/",
+    "https://collectionpostertour.com/product/soft-play-september-21-2025-chicago-il-official-concert-poster/",
+    "https://collectionpostertour.com/product/soft-play-riot-fest-chicago-il-concert-poster-2025/",
+    "https://collectionpostertour.com/product/screeching-weasel-september-21-2025-chicago-il-official-concert-poster/",
+    "https://collectionpostertour.com/product/screeching-weasel-riot-fest-chicago-il-concert-poster-2025/",
+    "https://collectionpostertour.com/product/marcus-king-band-tour-2025-poster/",
+    "https://collectionpostertour.com/product/jawbreaker-september-21-2025-chicago-il-official-concert-poster/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/the-witcher-season-4-new-poster-revealed-on-netflix-releasing-october-30-2025-fantasy-series-unisex-t-shirt/",
@@ -314,16 +321,16 @@
     "https://eteeclothing.com/product/happy-gilmore-mr-larson-guns-dont-kill-people-i-kill-people-shirt/"
   ],
   "milkywayshirt.com": [
-    "https://milkywayshirt.com/product/official-tate-mcrae-miss-possessive-2025-world-tour-on-my-hands-so-close-to-what-shirt/",
-    "https://milkywayshirt.com/product/official-paige-bueckers-nike-wnba-2025-rookie-of-the-year-shirt/",
-    "https://milkywayshirt.com/product/official-blink-182-cincinnati-show-at-riverbend-music-center-on-september-16-2025-cincinnati-oh-shirt/",
-    "https://milkywayshirt.com/product/official-sydney-sweeney-beauty-looks-at-emmys-2025-shirt/",
-    "https://milkywayshirt.com/product/official-sydney-sweeney-beauty-at-emmys-2025-jump-trailers-shirt/",
-    "https://milkywayshirt.com/product/official-cbgb-festival-2025-cbgb-of-omfug-home-of-underground-rock-shirt/",
-    "https://milkywayshirt.com/product/official-cardi-b-little-miss-drama-tour-2026-schedule-tour-dates-shirt/",
-    "https://milkywayshirt.com/product/official-red-white-and-blueberries-shirt/",
-    "https://milkywayshirt.com/product/official-thanksgiving-dinner-you-know-why-im-here-deviled-egg-shirt/",
-    "https://milkywayshirt.com/product/official-blink-182-at-the-riverbend-music-center-on-september-16-2025-in-cincinnati-oh-shirt/"
+    "https://milkywayshirt.com/product/official-the-paper-kites-if-you-go-there-i-hope-you-find-it-shirt/",
+    "https://milkywayshirt.com/product/official-kill-tony-monday-night-kt-shirt/",
+    "https://milkywayshirt.com/product/official-al-jokes-im-not-gay-but-50-cents-is-50-cents-shirt/",
+    "https://milkywayshirt.com/product/official-09-19-2025-red-rocks-atmosphere-friends-shirt/",
+    "https://milkywayshirt.com/product/official-this-team-makes-me-drinks-t-shirt/",
+    "https://milkywayshirt.com/product/official-ethel-cains-2025-willoughby-tucker-forever-tour-shirt/",
+    "https://milkywayshirt.com/product/official-circle-jerks-hollywood-palladium-sept-19-2025-keiths-70th-birthday-poster-shirt/",
+    "https://milkywayshirt.com/product/official-atlanta-georgia-2025-shaky-knees-festival-poster-shirt/",
+    "https://milkywayshirt.com/product/official-circle-jerks-north-american-tour-shirt/",
+    "https://milkywayshirt.com/product/official-the-who-tour-hollywood-ca-09-17-2025-poster-shirt/"
   ],
   "mercuryshirt.com": [
     "https://mercuryshirt.com/product/official-new-york-yankees-october-baseball-2025-shirt/",
