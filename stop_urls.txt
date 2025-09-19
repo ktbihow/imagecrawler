@@ -139,15 +139,15 @@
     "https://legendusashirt.com/product/new-york-jets-peanuts-snoopy-forever-not-just-when-we-win-2025-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/conrad-fisher-vintage-shirt/",
-    "https://teehandus.com/product/jimmy-kimmel-live-back-to-brooklyn-shirt/",
-    "https://teehandus.com/product/jiffy-shirts/",
-    "https://teehandus.com/product/jon-jimmy-seth-jimmy-stephen-shirt/",
-    "https://teehandus.com/product/jimmy-kimmel-live-hollywood-calif-shirt/",
-    "https://teehandus.com/product/nba-youngboy-hip-hop-vintage-shirt/",
-    "https://teehandus.com/product/vintage-conrad-fisher-shirt/",
-    "https://teehandus.com/product/youngboy-never-broke-again-flames-shirt/",
-    "https://teehandus.com/product/nba-youngboy-never-broke-again-shirt/"
+    "https://teehandus.com/product/uk-need-its-own-social-network-for-free-speech-shirt/",
+    "https://teehandus.com/product/the-free-speech-club-shirt/",
+    "https://teehandus.com/product/stand-with-colbert-and-kimmel-free-speech-matters-shirt/",
+    "https://teehandus.com/product/protect-free-speech-usa-flag-shirt/",
+    "https://teehandus.com/product/no-not-jimmy-when-will-america-have-free-speech-again-shirt/",
+    "https://teehandus.com/product/make-speech-free-again-shirt/",
+    "https://teehandus.com/product/free-speech-shirt/",
+    "https://teehandus.com/product/free-speech-forever-shirt/",
+    "https://teehandus.com/product/free-speech-makes-free-people-shirt-2/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -254,16 +254,16 @@
     "https://designatshop.com/product/this-is-the-turning-point-freedom-charlie-kirk-rip-2025-american-flag-shirt/"
   ],
   "arjomany.com": [
-    "https://arjomany.com/product/wyatt-flores-september-19-2025-austin-tx-poster/",
-    "https://arjomany.com/product/wyatt-flores-september-19-2025-acl-live-at-the-moody-theater-poster/",
-    "https://arjomany.com/product/the-hives-september-2025-portland-or-event-poster/",
-    "https://arjomany.com/product/the-hives-september-17-2025-revolution-hall-portland-or-poster/",
-    "https://arjomany.com/product/the-brian-jonestown-massacre-santa-cruz-california-2025-poster/",
-    "https://arjomany.com/product/the-brian-jonestown-massacre-rio-theatre-ca-nov-2025-poster/",
-    "https://arjomany.com/product/summer-dean-live-gruene-hall-jan-2026-poster/",
-    "https://arjomany.com/product/summer-dean-january-10-2026-gruene-hall-tx-poster/",
-    "https://arjomany.com/product/son-rompe-pera-tour-september-2025-poster/",
-    "https://arjomany.com/product/son-rompe-pera-tour-sept-2025-poster/"
+    "https://arjomany.com/product/sleep-theory-paralyzed-anime-t-shirt/",
+    "https://arjomany.com/product/sleep-theory-floral-t-shirt/",
+    "https://arjomany.com/product/sleep-theory-dual-skulls-shirt/",
+    "https://arjomany.com/product/ross-caliendo-show-at-night-gallery-in-los-angeles-ca-sep-20oct-25-2025-shirt/",
+    "https://arjomany.com/product/national-park-after-dark-haunted-merch/",
+    "https://arjomany.com/product/national-park-after-dark-cryptid-campfire-t-shirt/",
+    "https://arjomany.com/product/mfm-mothman-bye-bitches-t-shirt/",
+    "https://arjomany.com/product/linkin-park-la-sept-13-2025-t-shirt/",
+    "https://arjomany.com/product/differences-show-me-your-teeth-shirt/",
+    "https://arjomany.com/product/cattle-decapitation-oct-2-2025-aftershock-festival-sacramento-ca-shirt/"
   ],
   "collectionpostertour.com": [
     "https://collectionpostertour.com/product/scowl-100-angel-t-shirt/",
