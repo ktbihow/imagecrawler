@@ -125,7 +125,11 @@ def load_stop_urls():
     except json.JSONDecodeError:
         print("LỖI: File stop_urls.txt bị lỗi định dạng JSON.")
         return {}
-
+        
+def save_stop_urls(stop_urls):
+    with open(STOP_URLS_FILE, 'w', encoding='utf-8') as f:
+        json.dump(stop_urls, f, indent=2)
+        
 def apply_replacements(image_url, replacements, always_replace=False):
     final_img_url = image_url
     if replacements and isinstance(replacements, dict):
