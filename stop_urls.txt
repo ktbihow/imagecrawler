@@ -254,16 +254,16 @@
     "https://designatshop.com/product/this-is-the-turning-point-freedom-charlie-kirk-rip-2025-american-flag-shirt/"
   ],
   "arjomany.com": [
-    "https://arjomany.com/product/college-gameday-florida-vs-miami-t-shirt/",
-    "https://arjomany.com/product/college-gameday-florida-vs-miami-merch/",
-    "https://arjomany.com/product/the-black-dahlia-murder-worcester-ma-tour-2025-shirt/",
-    "https://arjomany.com/product/the-black-dahlia-murder-louisville-ky-2025-t-shirt/",
-    "https://arjomany.com/product/jesus-saves-whispers-of-winners-t-shirt/",
-    "https://arjomany.com/product/ho-ho-hot-mulligan-dec-7-2025-the-fillmore-detroit-mi-shirt/",
-    "https://arjomany.com/product/ho-ho-hot-mulligan-dec-6-2025-the-fillmore-detroit-mi-t-shirt/",
-    "https://arjomany.com/product/creator-minutetech-t-shirt/",
-    "https://arjomany.com/product/atreyu-dead-t-shirt/",
-    "https://arjomany.com/product/travis-barker-run-travis-run-chicago-sep-20-2025-poster/"
+    "https://arjomany.com/product/wyatt-flores-september-19-2025-austin-tx-poster/",
+    "https://arjomany.com/product/wyatt-flores-september-19-2025-acl-live-at-the-moody-theater-poster/",
+    "https://arjomany.com/product/the-hives-september-2025-portland-or-event-poster/",
+    "https://arjomany.com/product/the-hives-september-17-2025-revolution-hall-portland-or-poster/",
+    "https://arjomany.com/product/the-brian-jonestown-massacre-santa-cruz-california-2025-poster/",
+    "https://arjomany.com/product/the-brian-jonestown-massacre-rio-theatre-ca-nov-2025-poster/",
+    "https://arjomany.com/product/summer-dean-live-gruene-hall-jan-2026-poster/",
+    "https://arjomany.com/product/summer-dean-january-10-2026-gruene-hall-tx-poster/",
+    "https://arjomany.com/product/son-rompe-pera-tour-september-2025-poster/",
+    "https://arjomany.com/product/son-rompe-pera-tour-sept-2025-poster/"
   ],
   "collectionpostertour.com": [
     "https://collectionpostertour.com/product/scowl-100-angel-t-shirt/",
