@@ -82,10 +82,6 @@
         "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.serenashirt.com", "prefix_length": 9 }
     },
     {
-        "url": "https://fanaticity.com/",
-        "source_type": "product-list"
-    },
-    {
         "url": "https://legendusashirt.com/",
         "selector": "div.product-images img",
         "replacements": ["-Sweater.webp", "-Shirt.webp", "-Sweater.jpg"],
