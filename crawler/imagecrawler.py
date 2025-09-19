@@ -72,15 +72,8 @@ def is_image_recent(url):
     metadata = get_url_metadata(url)
     return metadata['status'] == 200 and metadata['is_recent']
 
-def normalize_url(url):
-    """Chuẩn hóa URL để so sánh một cách đáng tin cậy."""
-    if not url: return ""
-    url = url.strip().lower().replace('://www.', '://')
-    if url.endswith('/'): url = url[:-1]
-    return url
-
 # --- Các hàm phụ (Telegram, Git, Config, ...) ---
-# ... (Giữ nguyên toàn bộ các hàm này từ phiên bản trước) ...
+# ... (Toàn bộ các hàm này được giữ nguyên như phiên bản hoạt động tốt trước đó) ...
 def send_telegram_message(message):
     bot_token, chat_id = os.getenv('TELEGRAM_BOT_TOKEN'), os.getenv('TELEGRAM_CHAT_ID')
     if not bot_token or not chat_id: return
@@ -119,6 +112,7 @@ def save_stop_urls(stop_urls):
     with open(STOP_URLS_FILE, 'w', encoding='utf-8') as f: json.dump(stop_urls, f, indent=2)
 
 def apply_replacements(image_url, replacements, always_replace=False):
+    if not image_url: return image_url
     if replacements and isinstance(replacements, dict):
         for original, replacement_list in replacements.items():
             if original in image_url:
@@ -128,6 +122,7 @@ def apply_replacements(image_url, replacements, always_replace=False):
     return image_url
 
 def apply_fallback_logic(image_url, url_data):
+    if not image_url: return image_url
     fallback_rules = url_data.get('fallback_rules', {})
     if not fallback_rules or fallback_rules.get('type') != 'cut_filename_prefix': return image_url
     parsed_url = urlparse(image_url)
@@ -160,22 +155,34 @@ def find_best_image_url(soup, url_data):
             if img_url: return urljoin(base_url, img_url)
     return None
 
+def save_urls(domain, new_urls):
+    if not os.path.exists(DOMAIN_DIR): os.makedirs(DOMAIN_DIR)
+    filename = os.path.join(DOMAIN_DIR, f"{domain}.txt")
+    try:
+        with open(filename, "r", encoding="utf-8") as f: existing_urls = [line.strip() for line in f]
+    except FileNotFoundError: existing_urls = []
+    unique_new_urls = [u for u in new_urls if u not in existing_urls]
+    all_urls = (unique_new_urls + existing_urls)[:MAX_URLS]
+    with open(filename, "w", encoding="utf-8") as f: f.write("\n".join(all_urls))
+    return len(unique_new_urls), len(all_urls)
+
 # ----------------------------------------------------------------------------------------------------------------------
-# GIAI ĐOẠN 1: CÁC HÀM THU THẬP
+# GIAI ĐOẠN 1: CÁC HÀM THU THẬP (LOGIC STOP URL ĐÃ ĐƯỢC SỬA LẠI CHÍNH XÁC)
 # ----------------------------------------------------------------------------------------------------------------------
 
 def fetch_image_urls_from_api(url_data, stop_urls_list):
     all_image_urls, new_product_urls_found, page, domain = [], [], 1, urlparse(url_data['url']).netloc
-    while page <= MAX_API_PAGES:
+    should_stop = False
+    while page <= MAX_API_PAGES and not should_stop:
         api_url = DEFAULT_API_URL_PATTERN.format(domain=domain, page=page)
         try:
             r = requests.get(api_url, headers=HEADERS, timeout=30); r.raise_for_status(); data = r.json()
             if not data: break
             for item in data:
                 product_url = item.get('link')
-                if normalize_url(product_url) in stop_urls_list:
+                if product_url in stop_urls_list:
                     print(f"[{domain}] Dừng API vì gặp stop URL: {product_url}")
-                    return all_image_urls, new_product_urls_found
+                    should_stop = True; break
                 img_url = (item.get('yoast_head_json', {}).get('og_image', [{}])[0].get('url') or 
                          (img_tag.get('src') if (img_tag := BeautifulSoup(item.get('content', {}).get('rendered', ''), 'html.parser').find('img')) else None))
                 if img_url:
@@ -198,7 +205,7 @@ def fetch_image_urls_from_prevnext(url_data, stop_urls_list):
     except requests.exceptions.RequestException: return [], []
     count = 0
     while count < MAX_PREVNEXT_URLS:
-        if normalize_url(current_product_url) in stop_urls_list:
+        if current_product_url in stop_urls_list:
             print(f"[{domain}] Dừng prev/next vì gặp stop URL: {current_product_url}")
             break
         print(f"Crawling: {current_product_url}")
@@ -228,12 +235,11 @@ def fetch_image_urls_from_product_list(url_data, stop_urls_list):
         product_urls = [line.strip() for line in r.text.splitlines() if line.strip()]
     except requests.exceptions.RequestException: return [], []
     
-    # --- LOGIC STOP URL ĐƯỢC KHÔI PHỤC TỪ CODE GỐC ---
     urls_to_crawl = []
     if stop_urls_list:
         found_stop_point = False
         for product_url in product_urls:
-            if normalize_url(product_url) in stop_urls_list:
+            if product_url in stop_urls_list:
                 print(f"[{domain}] Dừng product-list vì gặp stop URL: {product_url}")
                 found_stop_point = True
                 break
@@ -243,7 +249,6 @@ def fetch_image_urls_from_product_list(url_data, stop_urls_list):
             urls_to_crawl = product_urls
     else:
         urls_to_crawl = product_urls
-    # --- KẾT THÚC LOGIC STOP URL ---
 
     for product_url in urls_to_crawl:
         if len(all_image_urls) >= MAX_PREVNEXT_URLS: break
@@ -262,17 +267,6 @@ def fetch_image_urls_from_product_list(url_data, stop_urls_list):
         except requests.exceptions.RequestException: continue
     return all_image_urls, new_product_urls_found
 
-def save_urls(domain, new_urls):
-    if not os.path.exists(DOMAIN_DIR): os.makedirs(DOMAIN_DIR)
-    filename = os.path.join(DOMAIN_DIR, f"{domain}.txt")
-    try:
-        with open(filename, "r", encoding="utf-8") as f: existing_urls = [line.strip() for line in f]
-    except FileNotFoundError: existing_urls = []
-    unique_new_urls = [u for u in new_urls if u not in existing_urls]
-    all_urls = (unique_new_urls + existing_urls)[:MAX_URLS]
-    with open(filename, "w", encoding="utf-8") as f: f.write("\n".join(all_urls))
-    return len(unique_new_urls), len(all_urls)
-
 # ----------------------------------------------------------------------------------------------------------------------
 # Main Execution
 # ----------------------------------------------------------------------------------------------------------------------
@@ -284,8 +278,8 @@ if __name__ == "__main__":
     for url_data in configs:
         domain = urlparse(url_data['url']).netloc
         
-        # Áp dụng chuẩn hóa cho stop URLs ngay từ đầu
-        domain_stop_urls_list = {normalize_url(u) for u in stop_urls_data.get(domain, [])}
+        # KHÔNG chuẩn hóa ở đây, giữ nguyên dữ liệu gốc
+        domain_stop_urls_list = set(stop_urls_data.get(domain, []))
         
         # GIAI ĐOẠN 1: THU THẬP
         unfiltered_image_urls, new_product_urls_found = [], []
