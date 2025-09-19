@@ -20,7 +20,11 @@
     "https://orionshirt.com/product/official-2025-riot-fest-stealing-hearts-since-2005-painting-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/watcher-ghoul-boys-got-ghosts-we-will-destroy-them-shirt/"
+    "https://techteesusa.com/product/airball-31-fastbreak-bomb-d-valentine-shirt/",
+    "https://techteesusa.com/product/mossack-fonseca-because-taxes-are-for-poor-people-shirt/",
+    "https://techteesusa.com/product/catch-fraud-and-hot-dogs-logo-shirt/",
+    "https://techteesusa.com/product/i-love-to-gamble-away-my-sons-college-tuition-shirt/",
+    "https://techteesusa.com/product/west-virginia-mountaineers-football-almost-heaven-stadium-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/yoda-laughing-i-may-have-the-right-to-remain-silent-but-boy-oh-boy-do-i-lack-the-ability-shirt/",
@@ -192,16 +196,14 @@
     "https://clickoneshirt.com/product/the-original-antifa-since-1941-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/yaya-bey-do-it-afraid-t-shirts/",
-    "https://teleteeshirt.com/product/will-varley-the-hole-around-my-head-adelaide-cafe-sketch-t-shirts/",
-    "https://teleteeshirt.com/product/will-varley-kingsdown-sundown-t-shirts/",
-    "https://teleteeshirt.com/product/the-pretty-wild-scream-cat-t-shirts/",
-    "https://teleteeshirt.com/product/the-pretty-wild-persephone-t-shirts/",
-    "https://teleteeshirt.com/product/the-pretty-wild-button-eyes-t-shirts/",
-    "https://teleteeshirt.com/product/the-pretty-wild-half-alive-t-shirts/",
-    "https://teleteeshirt.com/product/the-black-dahlia-murder-the-thing-t-shirts/",
-    "https://teleteeshirt.com/product/the-birthday-massacre-stained-glass-t-shirts/",
-    "https://teleteeshirt.com/product/official-im-not-jack-black-t-shirts/"
+    "https://teleteeshirt.com/product/zack-baun-bald-eagle-you-cant-be-great-without-the-greatness-of-others-philadelphia-eagles-philly-t-shirts/",
+    "https://teleteeshirt.com/product/w-kamau-bell-wearing-34-felonies-are-not-presidential-t-shirts/",
+    "https://teleteeshirt.com/product/the-promised-land-moses-t-shirts/",
+    "https://teleteeshirt.com/product/the-promised-land-dune-badge-t-shirts/",
+    "https://teleteeshirt.com/product/talking-heads-turn-like-a-wheel-inside-a-wheel-slippery-people-t-shirts/",
+    "https://teleteeshirt.com/product/steely-dan-steely-dan-bodhisattva-tour-2024-t-shirts/",
+    "https://teleteeshirt.com/product/steely-dan-negative-girl-film-t-shirts/",
+    "https://teleteeshirt.com/product/steely-dan-earth-after-hours-tour-2022-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/official-robert-redford-hollywood-star-rest-in-peace-1936-2025-shirt/",
