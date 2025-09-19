@@ -20,12 +20,10 @@
     "https://orionshirt.com/product/official-2025-riot-fest-stealing-hearts-since-2005-painting-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/puro-pinche-party-t-shirt/",
-    "https://techteesusa.com/product/katseye-x-toca-boca-t-shirt/",
-    "https://techteesusa.com/product/im-not-gay-but-20-bucks-is-an-insanely-low-amount-of-money-in-this-economy-t-shirt/",
-    "https://techteesusa.com/product/be-kind-to-the-earth-pierce-your-nipples-yell-at-your-landlord-t-shirt/",
-    "https://techteesusa.com/product/irreparably-damaged-no-returns-refunds-or-exchanges-shirt/",
-    "https://techteesusa.com/product/airball-31-fastbreak-bomb-d-valentine-shirt/"
+    "https://techteesusa.com/product/running-art-shirt/",
+    "https://techteesusa.com/product/go-to-hell-shirt/",
+    "https://techteesusa.com/product/youre-killin-me-smalls-pittsburgh-pirates-x-the-sandlot-shirt/",
+    "https://techteesusa.com/product/surf-n-capy-capytendo-pixel-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/the-summer-of-connie-baby-extremely-shirt/",
