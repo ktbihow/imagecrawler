@@ -22,16 +22,12 @@
     "https://orionshirt.com/product/official-boston-red-sox-mlb-roman-anthony-and-alex-bregman-players-duo-caricatures-painting-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/mossack-fonseca-because-taxes-are-for-poor-people-shirt/",
-    "https://techteesusa.com/product/catch-fraud-and-hot-dogs-logo-shirt/",
-    "https://techteesusa.com/product/i-love-to-gamble-away-my-sons-college-tuition-shirt/",
-    "https://techteesusa.com/product/west-virginia-mountaineers-football-almost-heaven-stadium-shirt/",
-    "https://techteesusa.com/product/watcher-ghoul-boys-got-ghosts-we-will-destroy-them-shirt/",
-    "https://techteesusa.com/product/trump-nope-not-my-president-not-my-emperor-shirt/",
-    "https://techteesusa.com/product/taking-back-son-day-ransom-shirt/",
-    "https://techteesusa.com/product/puro-pinche-party-shirt-2/",
-    "https://techteesusa.com/product/philadelphia-eagles-football-no-one-likes-us-we-dont-care-shirt/",
-    "https://techteesusa.com/product/pauls-books-madison-wisconsin-1954-2025-shirt/"
+    "https://techteesusa.com/product/puro-pinche-party-t-shirt/",
+    "https://techteesusa.com/product/katseye-x-toca-boca-t-shirt/",
+    "https://techteesusa.com/product/im-not-gay-but-20-bucks-is-an-insanely-low-amount-of-money-in-this-economy-t-shirt/",
+    "https://techteesusa.com/product/be-kind-to-the-earth-pierce-your-nipples-yell-at-your-landlord-t-shirt/",
+    "https://techteesusa.com/product/irreparably-damaged-no-returns-refunds-or-exchanges-shirt/",
+    "https://techteesusa.com/product/airball-31-fastbreak-bomb-d-valentine-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/home-of-the-original-danish-mafia-solvang-california-shirt/",
@@ -46,16 +42,16 @@
     "https://teeworksusa.com/product/florida-state-league-champions-2025-shirt/"
   ],
   "meredpremium.com": [
-    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-seattle-mariners-greatness-team-shirt/",
-    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-detroit-tigers-greatness-team-shirt/",
-    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-chicago-cubs-greatness-team-shirt/",
-    "https://meredpremium.com/product/official-yes-im-old-but-i-saw-boston-red-sox-greatness-team-shirt/",
-    "https://meredpremium.com/product/official-washington-snoopy-fist-bump-charlie-brown-capitals-and-nationals-shirt/",
-    "https://meredpremium.com/product/official-trey-yesavage-uno-dos-trey-shirt/",
-    "https://meredpremium.com/product/official-toronto-blue-jays-nike-2025-mlb-postseason-built-for-fall-t-shirt/",
-    "https://meredpremium.com/product/official-toronto-blue-jays-2025-mlb-postseason-october-baseball-t-shirt/",
-    "https://meredpremium.com/product/official-this-team-makes-me-drink-minnesota-vikings-shirt/",
-    "https://meredpremium.com/product/official-the-man-the-myth-the-legend-robert-redford-89-years-1936-2025-thank-you-for-the-memories-shirt/"
+    "https://meredpremium.com/product/official-the-zoological-society-toons-cincinnati-shirt/",
+    "https://meredpremium.com/product/official-the-summer-of-connie-baby-shirt/",
+    "https://meredpremium.com/product/official-the-potato-in-the-back-of-my-pantry-t-shirt/",
+    "https://meredpremium.com/product/official-texas-tech-red-raiders-100-years-of-football-1925-2025-shirt/",
+    "https://meredpremium.com/product/official-shohei-ohtani-los-angeles-dodgers-50-strikeouts-50-home-runs-t-shirt/",
+    "https://meredpremium.com/product/official-paige-bueckers-dallas-wings-2025-wnba-rookie-of-the-year-t-shirt/",
+    "https://meredpremium.com/product/official-no-not-jimmy-when-will-america-have-free-speech-again-shirt/",
+    "https://meredpremium.com/product/official-never-forget-remember-her-iryna-zarutska-t-shirt/",
+    "https://meredpremium.com/product/official-mizzou-vs-south-carolina-mayors-cup-head-to-head-t-shirt/",
+    "https://meredpremium.com/product/official-mizzou-tigers-2025-football-white-helmet-t-shirt/"
   ],
   "berrylittles.com": [
     "https://berrylittles.com/product/official-battle-in-the-wild-midwest-tremaine-edmunds-dallas-cowboys-vs-cole-kmet-chicago-bears-september-21-2025-poster-t-shirt/",
@@ -280,16 +276,16 @@
     "https://arjomany.com/product/ocean-alley-new-zealand-australia-2026-concert-poster/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/stateside-stars-and-clouds-t-shirt/",
-    "https://collectionpostertour.com/product/stateside-stars-and-clouds-t-shirt-limited-edition/",
-    "https://collectionpostertour.com/product/sorry-x-widow-t-shirt/",
-    "https://collectionpostertour.com/product/sorry-x-widow-t-shirt-limited-edition/",
-    "https://collectionpostertour.com/product/scowl-faces-t-shirt/",
-    "https://collectionpostertour.com/product/scowl-faces-t-shirt-limited-edition/",
-    "https://collectionpostertour.com/product/jeremy-zucker-is-for-lovers-t-shirt/",
-    "https://collectionpostertour.com/product/jeremy-zucker-is-for-lovers-t-shirt-limited-edition/",
-    "https://collectionpostertour.com/product/jeremy-zucker-garden-state-map-t-shirt/",
-    "https://collectionpostertour.com/product/jeremy-zucker-garden-state-map-t-shirt-limited-edition/"
+    "https://collectionpostertour.com/product/vinyl-williams-the-moroccan-lounge-los-angeles-ca-concert-poster-2025/",
+    "https://collectionpostertour.com/product/vinyl-williams-october-6-2025-los-angeles-ca-official-concert-poster/",
+    "https://collectionpostertour.com/product/rainbow-kitten-surprise-september-26-2025-los-angeles-ca-official-concert-poster/",
+    "https://collectionpostertour.com/product/rainbow-kitten-surprise-echoplex-los-angeles-ca-concert-poster-2025/",
+    "https://collectionpostertour.com/product/clutch-the-great-frederick-fair-frederick-md-concert-poster-2025/",
+    "https://collectionpostertour.com/product/clutch-september-20-2025-frederick-md-official-concert-poster/",
+    "https://collectionpostertour.com/product/the-lumineers-september-17-2025-charlotte-nc-official-concert-t-shirt/",
+    "https://collectionpostertour.com/product/the-lumineers-pnc-music-pavilion-charlotte-nc-concert-t-shirt-2025/",
+    "https://collectionpostertour.com/product/shaky-knees-festival-skeleton-punk-lineup-2025-t-shirt/",
+    "https://collectionpostertour.com/product/shaky-knees-festival-september-19-21-2025-atlanta-ga-official-concert-t-shirt/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/the-witcher-season-4-new-poster-revealed-on-netflix-releasing-october-30-2025-fantasy-series-unisex-t-shirt/",
@@ -304,16 +300,7 @@
     "https://neoteeco.com/product/nicolas-maduro-enemigo-de-los-venezolanos-political-protest-poster-venezuela-opposition-artwork-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/what-the-mallard-t-shirt/",
-    "https://newshirtstore.com/product/tpusa-par-tee-in-the-usa-golf-t-shirt/",
-    "https://newshirtstore.com/product/zolita-save-a-horse-ride-a-cowgirl-t-shirt/",
-    "https://newshirtstore.com/product/valuetainment-her-take-t-shirt/",
-    "https://newshirtstore.com/product/stitch-im-not-quite-sure-if-life-is-passing-me-by-or-trying-to-run-me-over-shirt/",
-    "https://newshirtstore.com/product/valuetainment-future-looks-bright-white-business-is-war-target-t-shirt/",
-    "https://newshirtstore.com/product/turning-point-usa-charlie-kirk-memorial-political-free-speech-shirt/",
-    "https://newshirtstore.com/product/terence-crawford-boxer-crawford-vs-bud-canelo-las-vegas-2025-shirt/",
-    "https://newshirtstore.com/product/the-movement-diamond-youre-a-diamond-baby-and-you-gave-your-light-to-me-t-shirt/",
-    "https://newshirtstore.com/product/tommy-robinson-texas-flag-t-shirt/"
+    "https://newshirtstore.com/product/abc-teddy-bear-cute-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/philadelphia-eagles-football-no-one-likes-us-we-dont-care-shirt/",
