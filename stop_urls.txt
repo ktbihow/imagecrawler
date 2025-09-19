@@ -20,10 +20,6 @@
     "https://orionshirt.com/product/official-2025-riot-fest-stealing-hearts-since-2005-painting-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/airball-31-fastbreak-bomb-d-valentine-shirt/",
-    "https://techteesusa.com/product/mossack-fonseca-because-taxes-are-for-poor-people-shirt/",
-    "https://techteesusa.com/product/catch-fraud-and-hot-dogs-logo-shirt/",
-    "https://techteesusa.com/product/i-love-to-gamble-away-my-sons-college-tuition-shirt/",
     "https://techteesusa.com/product/west-virginia-mountaineers-football-almost-heaven-stadium-shirt/"
   ],
   "teeworksusa.com": [
