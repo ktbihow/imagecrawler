@@ -20,16 +20,16 @@
     "https://orionshirt.com/product/official-2025-riot-fest-stealing-hearts-since-2005-painting-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/beavis-and-butt-head-freak-science-xperiments-shirt/",
-    "https://techteesusa.com/product/monkey-d-luffy-smiling-god-shirt/",
-    "https://techteesusa.com/product/the-pumpkin-halloween-jack-o-lantern-tarot-card-shirt/",
-    "https://techteesusa.com/product/money-fine-shyt-shirt/",
-    "https://techteesusa.com/product/feral-kentuckian-raccoon-shirt/",
-    "https://techteesusa.com/product/youre-killin-me-smalls-new-york-mets-x-the-sandlot-shirt/",
-    "https://techteesusa.com/product/i-got-my-hog-cranked-at-the-bilmuri-bonnaroo-hog-roast-2025-shirt/",
-    "https://techteesusa.com/product/henry-selicks-a-nightmare-in-other-world-shirt/",
-    "https://techteesusa.com/product/shred-eighty-dirt-race-shirt/",
-    "https://techteesusa.com/product/d-r-e-a-m-dice-rule-everything-around-me-shirt/"
+    "https://techteesusa.com/product/bikini-bottom-bunch-x-the-brady-bunch-shirt/",
+    "https://techteesusa.com/product/alligator-alcatraz-eat-the-rich-shirt/",
+    "https://techteesusa.com/product/alligator-alcatraz-experience-the-untamed-escape-shirt/",
+    "https://techteesusa.com/product/the-soldier-squid-game-tarot-card-shirt/",
+    "https://techteesusa.com/product/fetish-shibari-shirt/",
+    "https://techteesusa.com/product/elon-musk-when-and-where-should-we-hold-the-inaugural-american-party-congress-shirt/",
+    "https://techteesusa.com/product/youre-killin-me-smalls-cincinnati-reds-x-the-sandlot-shirt/",
+    "https://techteesusa.com/product/house-music-ghost-halloween-shirt/",
+    "https://techteesusa.com/product/greetings-from-lasagna-island-est-2024-shirt/",
+    "https://techteesusa.com/product/beyonce-washington-dc-cowboy-carter-logo-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/yoda-laughing-i-may-have-the-right-to-remain-silent-but-boy-oh-boy-do-i-lack-the-ability-shirt/",
