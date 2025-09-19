@@ -80,16 +80,15 @@
     "https://teespix.com/product/keenan-allen-los-angeles-chargers-hello-goodnight-shirt/"
   ],
   "nowbestshirt.com": [
-    "https://nowbestshirt.com/product/kentucky-bluegrass-and-black-cats-halloween-shirt/",
-    "https://nowbestshirt.com/product/liberty-cannot-be-silenced-shirt/",
-    "https://nowbestshirt.com/product/wisconsin-needs-public-schools-shirt/",
-    "https://nowbestshirt.com/product/vulfpeck-vulfansa-logo-shirt/",
-    "https://nowbestshirt.com/product/trick-or-treat-kentucky-pumpkin-halloween-shirt/",
-    "https://nowbestshirt.com/product/the-stay-golden-kentucky-bluegrass-state-halloween-shirt/",
-    "https://nowbestshirt.com/product/the-gates-of-hell-on-my-way-to-visit-my-dad-shirt/",
-    "https://nowbestshirt.com/product/the-fuck-did-you-just-say-to-me-shirt/",
-    "https://nowbestshirt.com/product/the-boograss-state-kentucky-cat-pumpkin-shirt/",
-    "https://nowbestshirt.com/product/stitch-bitch-i-will-throw-your-ass-in-the-trunk-and-help-them-search-for-you-dont-test-me-shirt/"
+    "https://nowbestshirt.com/product/jimmy-kimmels-wife-wearing-isnt-it-past-your-jail-time-shirt/",
+    "https://nowbestshirt.com/product/harris-dead-heads-for-kamala-shirt/",
+    "https://nowbestshirt.com/product/magic-johnson-and-jimmy-kimmel-vacation-2024-whaddya-say-shirt/",
+    "https://nowbestshirt.com/product/jimmy-kimmel-for-vice-president-shirt/",
+    "https://nowbestshirt.com/product/ncaa-2022-fresno-state-bulldogs-jimmy-kimmel-la-bowl-shirt/",
+    "https://nowbestshirt.com/product/jimmy-kimmel-la-bowl-washington-state-cougars-december-inglewood-california-shirt/",
+    "https://nowbestshirt.com/product/fresno-state-bulldogs-vs-washington-state-cougars-jimmy-kimmel-la-bowl-shirt/",
+    "https://nowbestshirt.com/product/jimmy-kimmel-live-austin-stars-texas-shirt/",
+    "https://nowbestshirt.com/product/jimmy-kimmel-live-shirt/"
   ],
   "serenashirt.com": [
     "https://serenashirt.com/product/of-course-im-in-love-with-you-darling-shirt/",
@@ -116,16 +115,16 @@
     "https://fanaticity.com/product/charlie-kick-freedom-red-signature-red-1993-2025-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/robert-redford-the-end-1936-2025-i-work-because-i-want-to-work-it-keeps-me-going-t-shirt/",
-    "https://legendusashirt.com/product/robert-redford-light-fades-legacy-shines-1936-2025-t-shirt/",
-    "https://legendusashirt.com/product/rip-robert-redford-freedom-t-shirt/",
-    "https://legendusashirt.com/product/alex-consani-face-t-shirt/",
-    "https://legendusashirt.com/product/robert-redford-rest-now-brother-t-shirt/",
-    "https://legendusashirt.com/product/yes-im-old-but-i-saw-seattle-mariners-greatness-martinez-griffey-jr-ichiro-hernandez-and-johnson-signatures-t-shirt/",
-    "https://legendusashirt.com/product/yes-im-old-but-i-saw-detroit-tigers-greatness-morris-whitaker-trammell-kaline-cabrera-frehan-and-parrish-signatures-t-shirt/",
-    "https://legendusashirt.com/product/yes-im-old-but-i-saw-dallas-cowboys-greatness-smith-irvin-and-aikman-signatures-t-shirt/",
-    "https://legendusashirt.com/product/yes-im-old-but-i-saw-chicago-cubs-greatness-santo-banks-sandberg-rizzo-williams-jenkins-and-sosa-signatures-t-shirt/",
-    "https://legendusashirt.com/product/yes-im-old-but-i-saw-boston-red-sox-greatness-boggs-rice-williams-yastrzemski-fisk-ortiz-and-martinez-signatures-t-shirt/"
+    "https://legendusashirt.com/product/charlie-kirk-and-nick-fuentes-lets-tread-on-each-other-like-dumb-motherfuckers-t-shirt/",
+    "https://legendusashirt.com/product/camron-seagraves-north-carolina-baseball-graphic-t-shirt/",
+    "https://legendusashirt.com/product/bryce-harper-kyle-schwarber-philadelphia-phillies-player-duo-2025-t-shirt/",
+    "https://legendusashirt.com/product/brooklyn-cyclones-south-atlantic-champions-2025-t-shirt/",
+    "https://legendusashirt.com/product/bjs-restaurant-x-horror-characters-not-for-the-weak-halloween-2025-t-shirt/",
+    "https://legendusashirt.com/product/baltimore-ravens-peanuts-snoopy-forever-not-just-when-we-win-2025-t-shirt/",
+    "https://legendusashirt.com/product/atreyu-merch-atreyu-is-dead-t-shirt/",
+    "https://legendusashirt.com/product/arizona-cardinals-peanuts-snoopy-forever-not-just-when-we-win-2025-t-shirt/",
+    "https://legendusashirt.com/product/only-sold-for-1-hour-starting-friday-cope-and-christian-cage-t-shirt/",
+    "https://legendusashirt.com/product/new-york-jets-peanuts-snoopy-forever-not-just-when-we-win-2025-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/conrad-fisher-vintage-shirt/",
@@ -283,16 +282,16 @@
     "https://newshirtstore.com/product/tommy-robinson-texas-flag-t-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/vulfansa-ringer-shirt/",
-    "https://eteeclothing.com/product/stand-with-colbert-kimmel-free-speech-matters-shirt/",
-    "https://eteeclothing.com/product/squirrel-im-not-weird-im-limited-edition-just-kidding-i-am-weird-shirt/",
-    "https://eteeclothing.com/product/sometimes-i-look-at-people-and-think-does-it-hurt-to-be-so-stupid-shirt/",
-    "https://eteeclothing.com/product/send-it-bullet-shirt/",
-    "https://eteeclothing.com/product/seattle-storm-out-cancer-shirt/",
-    "https://eteeclothing.com/product/rowdy-roddy-piper-im-all-out-of-bubblegum-shirt/",
-    "https://eteeclothing.com/product/pickle-kind-of-a-big-deal-shirt/",
-    "https://eteeclothing.com/product/nobody-told-me-that-when-you-get-a-wife-the-heats-are-sold-separately-shirt/",
-    "https://eteeclothing.com/product/my-life-is-just-a-series-of-awkward-moments-separated-by-coffee-and-muffins-shirt/"
+    "https://eteeclothing.com/product/well-take-it-from-here-charlie-for-the-blueberry-budget-shirt/",
+    "https://eteeclothing.com/product/team-charlie-kirk-life-time-memeber-man-myth-legend-shirt/",
+    "https://eteeclothing.com/product/sloth-theres-nothing-i-cant-do-except-reach-the-top-shelf-i-cant-do-that-shirt/",
+    "https://eteeclothing.com/product/praise-jesus-love-everyone-charlie-kirk-shirt/",
+    "https://eteeclothing.com/product/need-money-for-a-new-driver-shirt/",
+    "https://eteeclothing.com/product/political-correctness-is-the-deadliest-of-political-weaponry-charlie-kirk-shirt/",
+    "https://eteeclothing.com/product/i-love-jesus-i-love-family-charlie-kirk-us-flag-shirt/",
+    "https://eteeclothing.com/product/john-daly-quote-i-believe-nicotine-plus-caffeine-equals-protein-shirt/",
+    "https://eteeclothing.com/product/hello-kitty-uc-davis-aggies-shirt/",
+    "https://eteeclothing.com/product/happy-gilmore-mr-larson-guns-dont-kill-people-i-kill-people-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/official-tate-mcrae-miss-possessive-2025-world-tour-on-my-hands-so-close-to-what-shirt/",
