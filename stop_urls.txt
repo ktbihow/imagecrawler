@@ -280,16 +280,16 @@
     "https://arjomany.com/product/ocean-alley-new-zealand-australia-2026-concert-poster/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/the-raveonettes-us-tour-september-october-2025-poster/",
-    "https://collectionpostertour.com/product/the-mountain-goats-september-october-2025-poster/",
-    "https://collectionpostertour.com/product/the-gems-spring-tour-2026-poster/",
-    "https://collectionpostertour.com/product/the-avett-brothers-september-18-2025-newport-ky-official-concert-poster/",
-    "https://collectionpostertour.com/product/the-avett-brothers-megacorp-pavilion-newport-ky-concert-poster-2025/",
-    "https://collectionpostertour.com/product/son-rompe-pera-september-tour-2025-poster/",
-    "https://collectionpostertour.com/product/sleep-token-the-even-in-arcadia-tour-2025-poster/",
-    "https://collectionpostertour.com/product/sleep-token-september-17-2025-orlando-fl-official-concert-poster/",
-    "https://collectionpostertour.com/product/sleep-token-kia-center-orlando-fl-concert-poster-2025/",
-    "https://collectionpostertour.com/product/shaky-knees-festival-september-19-21-2025-atlanta-ga-official-concert-poster/"
+    "https://collectionpostertour.com/product/stateside-stars-and-clouds-t-shirt/",
+    "https://collectionpostertour.com/product/stateside-stars-and-clouds-t-shirt-limited-edition/",
+    "https://collectionpostertour.com/product/sorry-x-widow-t-shirt/",
+    "https://collectionpostertour.com/product/sorry-x-widow-t-shirt-limited-edition/",
+    "https://collectionpostertour.com/product/scowl-faces-t-shirt/",
+    "https://collectionpostertour.com/product/scowl-faces-t-shirt-limited-edition/",
+    "https://collectionpostertour.com/product/jeremy-zucker-is-for-lovers-t-shirt/",
+    "https://collectionpostertour.com/product/jeremy-zucker-is-for-lovers-t-shirt-limited-edition/",
+    "https://collectionpostertour.com/product/jeremy-zucker-garden-state-map-t-shirt/",
+    "https://collectionpostertour.com/product/jeremy-zucker-garden-state-map-t-shirt-limited-edition/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/the-witcher-season-4-new-poster-revealed-on-netflix-releasing-october-30-2025-fantasy-series-unisex-t-shirt/",
