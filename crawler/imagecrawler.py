@@ -10,7 +10,7 @@ import subprocess
 import time
 from dotenv import load_dotenv
 
-# --- START: Cấu hình đường dẫn ---
+# --- Cấu hình và các hằng số (Giữ nguyên như file gốc của bạn) ---
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 CRAWLER_DIR = os.path.join(BASE_DIR, 'crawler')
 DOMAIN_DIR = os.path.join(BASE_DIR, 'domain')
@@ -19,9 +19,6 @@ STOP_URLS_FILE = os.path.join(BASE_DIR, 'stop_urls.txt')
 LOG_FILE = os.path.join(BASE_DIR, 'imagecrawler.log')
 ENV_FILE = os.path.join(BASE_DIR, '.env')
 load_dotenv(dotenv_path=ENV_FILE)
-# --- END: Cấu hình đường dẫn ---
-
-# Constants
 MAX_URLS = 700
 MAX_PREVNEXT_URLS = 200
 MAX_API_PAGES = 1
@@ -30,57 +27,12 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 REPO_URL_PATTERN = "https://raw.githubusercontent.com/chanktb/productcrawler/main/domain/{domain}.txt"
 STOP_URLS_COUNT = 10
 
-# ----------------------------------------------------------------------------------------------------------------------
-# DEBUG FUNCTION: Hàm chẩn đoán lỗi so sánh
-# ----------------------------------------------------------------------------------------------------------------------
-def debug_stop_url_comparison(product_url, stop_urls_list, domain):
-    """
-    Hàm này không sửa lỗi, chỉ in ra thông tin chi tiết để tìm ra vấn đề.
-    """
-    print("\n--- DEBUGGING STOP URL ---")
-    print(f"Domain: {domain}")
-    print(f"URL từ Web      : '{product_url}'")
-    print(f"Loại dữ liệu    : {type(product_url)}")
-    print(f"Độ dài chuỗi    : {len(product_url)}")
-    print("-" * 20)
-    
-    found_match = False
-    if not stop_urls_list:
-        print("Danh sách Stop URLs đang rỗng.")
-    else:
-        print(f"Kiểm tra với {len(stop_urls_list)} Stop URLs:")
-        for i, stop_url in enumerate(stop_urls_list):
-            # Chỉ in chi tiết 5 URL đầu tiên và các URL có khả năng khớp để tránh làm loãng log
-            if i < 5 or len(product_url) == len(stop_url):
-                is_match = (product_url == stop_url)
-                if is_match:
-                    found_match = True
-                
-                print(f"  - So sánh với Stop URL: '{stop_url}'")
-                print(f"    -> Loại dữ liệu    : {type(stop_url)}")
-                print(f"    -> Độ dài chuỗi    : {len(stop_url)}")
-                print(f"    -> KẾT QUẢ SO SÁNH : {is_match}")
-                # Nếu không khớp, in ra ký tự khác biệt đầu tiên
-                if not is_match and len(product_url) == len(stop_url):
-                    for char_index, (c1, c2) in enumerate(zip(product_url, stop_url)):
-                        if c1 != c2:
-                            print(f"    -> Khác biệt đầu tiên ở vị trí {char_index}: Web='{c1}' (mã {ord(c1)}) vs File='{c2}' (mã {ord(c2)})")
-                            break
-
-    print(f"\n>>> KẾT LUẬN DEBUG: Script sẽ DỪNG? -> {product_url in stop_urls_list}")
-    print("--- END DEBUGGING ---\n")
-
-# ----------------------------------------------------------------------------------------------------------------------
-# Core Functions (Lấy từ code gốc của bạn)
-# ----------------------------------------------------------------------------------------------------------------------
-
+# --- Các hàm gốc của bạn (không thay đổi logic) ---
 def send_telegram_message(message):
     bot_token = os.getenv('TELEGRAM_BOT_TOKEN')
     chat_id = os.getenv('TELEGRAM_CHAT_ID')
     if not bot_token or not chat_id: return
-    api_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
-    payload = {'chat_id': chat_id, 'text': message, 'parse_mode': 'Markdown'}
-    try: requests.post(api_url, data=payload, timeout=10)
+    try: requests.post(f"https://api.telegram.org/bot{bot_token}/sendMessage", data={'chat_id': chat_id, 'text': message, 'parse_mode': 'Markdown'}, timeout=10)
     except requests.exceptions.RequestException: pass
 
 def git_push_changes():
@@ -100,11 +52,7 @@ def git_push_changes():
 def trigger_workflow_dispatch():
     pat = os.getenv('KTBHUB_PAT')
     if not pat: return
-    owner, repo_name, event_type = "ktbhub", "ktb-image", "new_image_available"
-    api_url = f"https://api.github.com/repos/{owner}/{repo_name}/dispatches"
-    headers = {"Accept": "application/vnd.github.v3+json", "Authorization": f"Bearer {pat}"}
-    data = {"event_type": event_type}
-    try: requests.post(api_url, headers=headers, json=data, timeout=15)
+    try: requests.post(f"https://api.github.com/repos/ktbhub/ktb-image/dispatches", headers={"Accept": "application/vnd.github.v3+json", "Authorization": f"Bearer {pat}"}, json={"event_type": "new_image_available"}, timeout=15)
     except requests.exceptions.RequestException: pass
 
 def load_config():
@@ -127,6 +75,7 @@ def check_url_exists(url):
     except requests.exceptions.RequestException: return False
 
 def apply_replacements(image_url, replacements, always_replace=False):
+    # ... (Giữ nguyên hàm gốc)
     final_img_url = image_url
     if replacements and isinstance(replacements, dict):
         for original, replacement_list in replacements.items():
@@ -138,6 +87,7 @@ def apply_replacements(image_url, replacements, always_replace=False):
     return final_img_url
 
 def apply_fallback_logic(image_url, url_data):
+    # ... (Giữ nguyên hàm gốc)
     fallback_rules = url_data.get('fallback_rules', {})
     if not fallback_rules or fallback_rules.get('type') != 'cut_filename_prefix': return image_url
     parsed_url = urlparse(image_url)
@@ -155,6 +105,7 @@ def apply_fallback_logic(image_url, url_data):
     return image_url
 
 def find_best_image_url(soup, url_data):
+    # ... (Giữ nguyên hàm gốc)
     replacements = url_data.get('replacements', {})
     selector = url_data.get('selector')
     if isinstance(replacements, list):
@@ -172,6 +123,7 @@ def find_best_image_url(soup, url_data):
     return None
 
 def fetch_image_urls_from_api(url_data, stop_urls_list):
+    # ... (Giữ nguyên hàm gốc)
     all_image_urls, new_product_urls_found, page, domain = [], [], 1, urlparse(url_data['url']).netloc
     while page <= MAX_API_PAGES:
         api_url = DEFAULT_API_URL_PATTERN.format(domain=domain, page=page)
@@ -180,12 +132,9 @@ def fetch_image_urls_from_api(url_data, stop_urls_list):
             if not data: break
             for item in data:
                 product_url = item.get('link')
-                if product_url:
-                    # GỌI HÀM CHẨN ĐOÁN
-                    debug_stop_url_comparison(product_url, stop_urls_list, domain)
-                    if product_url in stop_urls_list:
-                        print(f"==> SCRIPT ĐÃ DỪNG TẠI API <==")
-                        return all_image_urls, new_product_urls_found
+                if product_url and product_url in stop_urls_list:
+                    print(f"[{domain}] Dừng API vì gặp stop URL: {product_url}")
+                    return all_image_urls, new_product_urls_found
                 img_url = (item.get('yoast_head_json', {}).get('og_image', [{}])[0].get('url') or 
                          (img_tag.get('src') if (img_tag := BeautifulSoup(item.get('content', {}).get('rendered', ''), 'html.parser').find('img')) else None))
                 if img_url:
@@ -200,6 +149,7 @@ def fetch_image_urls_from_api(url_data, stop_urls_list):
     return all_image_urls, new_product_urls_found
 
 def fetch_image_urls_from_prevnext(url_data, stop_urls_list):
+    # ... (Giữ nguyên hàm gốc)
     all_image_urls, new_product_urls_found, domain = [], [], urlparse(url_data['url']).netloc
     try:
         r = requests.get(url_data['url'], headers=HEADERS, timeout=30); r.raise_for_status()
@@ -210,10 +160,8 @@ def fetch_image_urls_from_prevnext(url_data, stop_urls_list):
     except requests.exceptions.RequestException: return [], []
     count = 0
     while count < MAX_PREVNEXT_URLS:
-        # GỌI HÀM CHẨN ĐOÁN
-        debug_stop_url_comparison(current_product_url, stop_urls_list, domain)
         if current_product_url in stop_urls_list:
-            print(f"==> SCRIPT ĐÃ DỪNG TẠI PREVNEXT <==")
+            print(f"[{domain}] Dừng prev/next vì gặp stop URL: {current_product_url}")
             break
         print(f"Crawling: {current_product_url}")
         try:
@@ -232,33 +180,55 @@ def fetch_image_urls_from_prevnext(url_data, stop_urls_list):
         except requests.exceptions.RequestException: break
     return all_image_urls, new_product_urls_found
 
+# --- HÀM DUY NHẤT ĐƯỢC THAY ĐỔI ĐỂ CHẨN ĐOÁN ---
 def fetch_image_urls_from_product_list(url_data, stop_urls_list):
     all_image_urls, new_product_urls_found, domain = [], [], urlparse(url_data['url']).netloc
     repo_file_url = REPO_URL_PATTERN.format(domain=domain)
-    try:
-        r = requests.get(repo_file_url, headers=HEADERS, timeout=30); r.raise_for_status()
-        product_urls = [line.strip() for line in r.text.splitlines() if line.strip()]
-    except requests.exceptions.RequestException: return [], []
     
+    # --- START SUPER DEBUG BLOCK ---
+    print("\n" + "="*60)
+    print(f"BẮT ĐẦU CHẨN ĐOÁN CHO DOMAIN (product-list): {domain}")
+    print(f"Đang cố gắng tải danh sách sản phẩm từ : {repo_file_url}")
+    # --- END SUPER DEBUG BLOCK ---
+
+    product_urls = []
+    try:
+        r = requests.get(repo_file_url, headers=HEADERS, timeout=30)
+        print(f"Phản hồi từ GitHub: Status Code = {r.status_code}")
+        r.raise_for_status()
+        
+        content = r.text
+        print(f"Nội dung file nhận được (200 ký tự đầu): '{content[:200].replace(chr(10), ' ')}...'")
+        
+        product_urls = [line.strip() for line in content.splitlines() if line.strip()]
+        print(f"Số lượng URL sản phẩm đã tải được từ repo: {len(product_urls)}")
+        print(f"Số lượng Stop URLs được truyền vào         : {len(stop_urls_list)}")
+        print("="*60 + "\n")
+
+    except requests.exceptions.RequestException as e:
+        print(f"LỖI NGHIÊM TRỌNG: Không thể tải file từ repo. Lỗi: {e}")
+        return [], []
+    
+    # Logic stop URL gốc của bạn
     urls_to_crawl = []
     if stop_urls_list:
         found_stop_point = False
         for product_url in product_urls:
-            # GỌI HÀM CHẨN ĐOÁN
-            debug_stop_url_comparison(product_url, stop_urls_list, domain)
             if product_url in stop_urls_list:
-                print(f"==> SCRIPT ĐÃ DỪNG TẠI PRODUCT-LIST <==")
+                print(f"==> ĐÃ TÌM THẤY STOP URL VÀ DỪNG LẠI: {product_url} <==")
                 found_stop_point = True
                 break
             urls_to_crawl.append(product_url)
         if not found_stop_point:
+            print("Không tìm thấy stop URL nào trong danh sách sản phẩm, sẽ crawl toàn bộ.")
             urls_to_crawl = product_urls
     else:
         urls_to_crawl = product_urls
     
+    print(f"Số lượng URL sẽ thực sự crawl: {len(urls_to_crawl)}")
     for product_url in urls_to_crawl:
         if len(all_image_urls) >= MAX_PREVNEXT_URLS: break
-        print(f"Crawling: {product_url}")
+        # print(f"Crawling: {product_url}") # Tạm thời tắt để log gọn hơn
         try:
             r = requests.get(product_url, headers=HEADERS, timeout=30); r.raise_for_status()
             soup = BeautifulSoup(r.text, "html.parser")
@@ -272,6 +242,7 @@ def fetch_image_urls_from_product_list(url_data, stop_urls_list):
     return all_image_urls, new_product_urls_found
 
 def save_urls(domain, new_urls):
+    # ... (Giữ nguyên hàm gốc)
     if not os.path.exists(DOMAIN_DIR): os.makedirs(DOMAIN_DIR)
     filename = os.path.join(DOMAIN_DIR, f"{domain}.txt")
     try:
@@ -283,7 +254,7 @@ def save_urls(domain, new_urls):
     return len(unique_new_urls), len(all_urls)
 
 # ----------------------------------------------------------------------------------------------------------------------
-# Main Execution (Sử dụng logic gốc của bạn)
+# Main Execution (Giữ nguyên cấu trúc gốc của bạn)
 # ----------------------------------------------------------------------------------------------------------------------
 if __name__ == "__main__":
     start_time = time.time()
@@ -308,8 +279,7 @@ if __name__ == "__main__":
             image_urls, new_product_urls_found = fetch_image_urls_from_prevnext(url_data, domain_stop_urls_list)
         elif source_type == 'product-list':
             image_urls, new_product_urls_found = fetch_image_urls_from_product_list(url_data, domain_stop_urls_list)
-        else:
-            continue
+        else: continue
             
         new_urls_count, total_urls_count = save_urls(domain, image_urls)
         urls_summary[domain] = {'new_count': new_urls_count, 'total_count': total_urls_count}
