@@ -1,10 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/the-power-of-friendship-milwaukee-brewers-mlb-t-shirt/",
-    "https://geekteesus.com/product/we-do-philadelphia-phillies-got-postseason-shirt/",
-    "https://geekteesus.com/product/paige-bueckers-roty-dallas-wings-2024-wnba-rookie-of-the-year-shirt/",
-    "https://geekteesus.com/product/paige-bueckers-05-dallas-wings-wnba-2025-signature-shirt/",
-    "https://geekteesus.com/product/snoopy-dog-house-formula-1-seventy-five-years-shirt/"
+    "https://geekteesus.com/product/wrestlepalooza-2025-the-goat-john-cena-vs-the-beast-brock-lesnar-shirt/",
+    "https://geekteesus.com/product/wiener-schnitzel-24-shirt/",
+    "https://geekteesus.com/product/whatever-the-hell-it-takes-topper-philadelphia-phillies-mlb-shirt/",
+    "https://geekteesus.com/product/we-stan-this-man-luis-arraez-san-diego-padres-baseball-shirt/",
+    "https://geekteesus.com/product/veronica-burton-golden-state-valkyries-wnba-most-improved-player-2025-shirt/",
+    "https://geekteesus.com/product/toronto-blue-jays-2025-we-own-the-american-league-east-division-champions-shirt/",
+    "https://geekteesus.com/product/uno-dos-trey-trey-yesavage-toronto-blue-jays-mlb-shirt/",
+    "https://geekteesus.com/product/the-perfect-combination-of-carolina-panthers-football-and-the-78th-anniversary-of-the-united-states-air-force-1947-2025-shirt/",
+    "https://geekteesus.com/product/texas-rangers-2025-we-own-the-al-west-division-champions-shirt/",
+    "https://geekteesus.com/product/snoopy-good-morning-buffalo-bills-shirt/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-poster-pittsburgh-steelers-rest-in-peace-dale-lolley-1968-2025-t-shirt/",
@@ -23,8 +28,16 @@
     "https://techteesusa.com/product/let-the-pirate-shenanigans-begin-halloween-skull-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/hakuna-digitata-cartoon-moon-shirt/",
-    "https://teeworksusa.com/product/i-survived-spooky-solvang-skeleton-halloween-shirt/"
+    "https://teeworksusa.com/product/home-of-the-original-danish-mafia-solvang-california-shirt/",
+    "https://teeworksusa.com/product/headless-unicorn-rider-style-halloween-shirt/",
+    "https://teeworksusa.com/product/golden-state-valkyries-2025-mascot-shirt/",
+    "https://teeworksusa.com/product/green-bay-sucks-shirt-2/",
+    "https://teeworksusa.com/product/gr34-test-of-all-time-shirt/",
+    "https://teeworksusa.com/product/good-omens-bildad-the-shuhite-shirt/",
+    "https://teeworksusa.com/product/fever-now-you-know-2025-playoffs-shirt/",
+    "https://teeworksusa.com/product/f-caw-f-rooster-chicken-farm-animal-humor-bird-lovers-shirt/",
+    "https://teeworksusa.com/product/follow-that-trash-can-raccoon-shirt/",
+    "https://teeworksusa.com/product/florida-state-league-champions-2025-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-yes-im-old-but-i-saw-seattle-mariners-greatness-team-shirt/",
@@ -176,8 +189,16 @@
     "https://clickoneshirt.com/product/slogan-protect-the-dolls-2025-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/washington-huskies-1991-national-champions-university-t-shirts/",
-    "https://teleteeshirt.com/product/mike-evans-raise-the-flags-player-tampa-bay-buccaneers-t-shirts/"
+    "https://teleteeshirt.com/product/wyatt-flores-sep-19-2025-acl-live-at-the-moody-center-in-austin-tx-t-shirts/",
+    "https://teleteeshirt.com/product/white-house-fruit-farm-fall-headquarters-t-shirts/",
+    "https://teleteeshirt.com/product/west-virginia-mountaineers-almost-heaven-t-shirts/",
+    "https://teleteeshirt.com/product/the-zoological-society-of-cincinnati-1873-seal-t-shirts/",
+    "https://teleteeshirt.com/product/the-avett-brothers-sep-18-2025-newport-ky-megacorp-pavilion-t-shirts/",
+    "https://teleteeshirt.com/product/taking-back-son-day-ransom-t-shirts/",
+    "https://teleteeshirt.com/product/pauls-books-madison-wisconsin-1954-2025-logo-t-shirts/",
+    "https://teleteeshirt.com/product/official-yes-im-bi-bisexual-bipolar-bitch-biting-biceps-t-shirts/",
+    "https://teleteeshirt.com/product/florence-pugh-wearing-solidarity-palestine-t-shirts/",
+    "https://teleteeshirt.com/product/dungeon-crawler-carl-new-achievement-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/aerosmith-and-yungblud-one-more-time-shirt/",
@@ -245,16 +266,16 @@
     "https://arjomany.com/product/travis-barker-run-travis-run-chicago-sep-20-2025-poster/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/the-paper-kites-black-album-t-shirt/",
-    "https://collectionpostertour.com/product/the-paper-kites-black-album-t-shirt-limited-edition/",
-    "https://collectionpostertour.com/product/hot-mulligan-skull-pile-t-shirt/",
-    "https://collectionpostertour.com/product/hot-mulligan-skull-pile-t-shirt-limited-edition/",
-    "https://collectionpostertour.com/product/hot-mulligan-death-disco-t-shirt/",
-    "https://collectionpostertour.com/product/hot-mulligan-death-disco-t-shirt-limited-edition/",
-    "https://collectionpostertour.com/product/blackcraft-cult-witch-cauldron-t-shirt/",
-    "https://collectionpostertour.com/product/blackcraft-cult-witch-cauldron-t-shirt-limited-edition/",
-    "https://collectionpostertour.com/product/blackcraft-cult-were-haunted-t-shirt/",
-    "https://collectionpostertour.com/product/blackcraft-cult-were-haunted-t-shirt-limited-edition/"
+    "https://collectionpostertour.com/product/scowl-100-angel-t-shirt/",
+    "https://collectionpostertour.com/product/scowl-100-angel-t-shirt-limited-edition/",
+    "https://collectionpostertour.com/product/riot-fest-merch/",
+    "https://collectionpostertour.com/product/riot-fest-2025-merch/",
+    "https://collectionpostertour.com/product/bad-omens-do-you-feel-love-t-shirt/",
+    "https://collectionpostertour.com/product/bad-omens-do-you-feel-love-t-shirt-limited-edition/",
+    "https://collectionpostertour.com/product/whiskey-myers-september-18-2025-jonesboro-ar-official-concert-t-shirt/",
+    "https://collectionpostertour.com/product/whiskey-myers-first-national-bank-arena-jonesboro-ar-concert-t-shirt-2025/",
+    "https://collectionpostertour.com/product/trampled-by-turtles-love-snake-t-shirt/",
+    "https://collectionpostertour.com/product/trampled-by-turtles-love-snake-t-shirt-limited-edition/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/the-witcher-season-4-new-poster-revealed-on-netflix-releasing-october-30-2025-fantasy-series-unisex-t-shirt/",
