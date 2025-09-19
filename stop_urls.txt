@@ -161,16 +161,16 @@
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/original-ajj-band-tour-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-trans-rights-dragon-t-shirts/",
-    "https://uscraftedtees.com/product/original-the-chemical-brothers-life-is-sweet-the-chemical-brothers-t-shirts/",
-    "https://uscraftedtees.com/product/original-smashing-pumpkins-line-in-japan-japan-tour-2025-t-shirts/",
-    "https://uscraftedtees.com/product/original-sept-19-2025-chicago-il-agnostic-front-victim-in-pain-t-shirts/",
-    "https://uscraftedtees.com/product/original-rome-odunze-all-routes-lead-to-rome-t-shirts/",
-    "https://uscraftedtees.com/product/original-samay-raina-wearing-say-no-to-cruise-t-shirts/",
-    "https://uscraftedtees.com/product/original-richy-mitch-the-coal-miners-laser-2025-t-shirts/",
-    "https://uscraftedtees.com/product/original-riot-fest-victim-in-pain-25-years-tour-chicago-il-2025-agnostic-front-t-shirts/",
-    "https://uscraftedtees.com/product/original-philadelphia-flyers-brick-by-brick-2025-t-shirts/"
+    "https://uscraftedtees.com/product/original-watcher-ghoul-boys-white-t-shirts/",
+    "https://uscraftedtees.com/product/original-the-potato-in-the-back-of-my-pantry-t-shirts/",
+    "https://uscraftedtees.com/product/original-snake-dont-tread-on-me-except-for-jimmy-kimmel-t-shirts/",
+    "https://uscraftedtees.com/product/original-slogan-protect-the-dolls-2025-t-shirts/",
+    "https://uscraftedtees.com/product/original-skeleton-the-front-bottoms-new-jersey-usa-tour-2025-t-shirts/",
+    "https://uscraftedtees.com/product/original-ross-caliendo-show-at-night-gallery-in-los-angeles-ca-sep-20-oct-25-2025-t-shirts/",
+    "https://uscraftedtees.com/product/original-palantir-win-lose-dominate-t-shirts/",
+    "https://uscraftedtees.com/product/original-rabbit-riot-fest-stealing-hearts-since-2005-t-shirts/",
+    "https://uscraftedtees.com/product/original-one-in-a-krillion-t-shirts/",
+    "https://uscraftedtees.com/product/original-naomi-petersen-keith-photo-t-shirts/"
   ],
   "capitoneshirt.com": [
     "https://capitoneshirt.com/product/umbrella-god-makes-me-wet-shirt/",
@@ -197,16 +197,16 @@
     "https://clickoneshirt.com/product/the-original-antifa-since-1941-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/will-varley-king-for-a-king-t-shirts/",
-    "https://teleteeshirt.com/product/will-varley-folk-singer-ahead-t-shirts/",
-    "https://teleteeshirt.com/product/the-southern-river-band-easier-said-than-done-t-shirts/",
-    "https://teleteeshirt.com/product/summer-dean-self-rising-country-music-bread-t-shirts/",
-    "https://teleteeshirt.com/product/summer-dean-horse-shoe-t-shirts/",
-    "https://teleteeshirt.com/product/summer-dean-armadillo-t-shirts/",
-    "https://teleteeshirt.com/product/steely-dan-street-viper-t-shirts/",
-    "https://teleteeshirt.com/product/steely-dan-i-crawl-like-a-viper-through-these-suburban-streets-make-love-to-these-women-languid-and-bittersweet-t-shirts/",
-    "https://teleteeshirt.com/product/marie-antoinette-suburban-outlaw-t-shirts/",
-    "https://teleteeshirt.com/product/marie-antoinette-mess-with-texas-t-shirts/"
+    "https://teleteeshirt.com/product/yaya-bey-do-it-afraid-t-shirts/",
+    "https://teleteeshirt.com/product/will-varley-the-hole-around-my-head-adelaide-cafe-sketch-t-shirts/",
+    "https://teleteeshirt.com/product/will-varley-kingsdown-sundown-t-shirts/",
+    "https://teleteeshirt.com/product/the-pretty-wild-scream-cat-t-shirts/",
+    "https://teleteeshirt.com/product/the-pretty-wild-persephone-t-shirts/",
+    "https://teleteeshirt.com/product/the-pretty-wild-button-eyes-t-shirts/",
+    "https://teleteeshirt.com/product/the-pretty-wild-half-alive-t-shirts/",
+    "https://teleteeshirt.com/product/the-black-dahlia-murder-the-thing-t-shirts/",
+    "https://teleteeshirt.com/product/the-birthday-massacre-stained-glass-t-shirts/",
+    "https://teleteeshirt.com/product/official-im-not-jack-black-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/official-robert-redford-hollywood-star-rest-in-peace-1936-2025-shirt/",
