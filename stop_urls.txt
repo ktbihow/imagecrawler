@@ -58,16 +58,14 @@
     "https://dreameshirt.com/product/official-chicago-cubs-mlb-my-my-favorite-sport-is-october-baseball-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-vladimir-guerrero-montreal-skyline-swing-shirt/",
-    "https://teeextra.com/product/official-violent-gentlemen-transylvania-hc-garment-shirt/",
-    "https://teeextra.com/product/official-t-pain-tallahassee-block-party-on-t-pain-lane-on-october-17-2025-shirt/",
-    "https://teeextra.com/product/official-the-princess-posse-official-fan-club-member-shirt/",
-    "https://teeextra.com/product/official-the-paper-kites-black-album-shirt/",
-    "https://teeextra.com/product/official-the-home-depot-x-horror-characters-not-for-the-weak-halloween-2025-shirt/",
-    "https://teeextra.com/product/official-thats-a-awful-lot-of-cough-syrup-awful-lot-of-harlem-shirt/",
-    "https://teeextra.com/product/official-tampa-bay-buccaneers-peanuts-snoopy-forever-not-just-when-we-win-2025-shirt/",
-    "https://teeextra.com/product/official-senses-fail-live-shirt/",
-    "https://teeextra.com/product/official-seattle-seahawks-peanuts-snoopy-forever-not-just-when-we-win-2025-shirt/"
+    "https://teeextra.com/product/robert-redford-1936-2025-thank-you-for-the-memories-whatever-it-takes-2-sided-shirt/",
+    "https://teeextra.com/product/robert-redford-1936-2025-freedom-be-careful-of-success-it-has-a-dark-side-2-sided-shirt/",
+    "https://teeextra.com/product/minnesota-twins-heal-cancer-2-sided-shirt/",
+    "https://teeextra.com/product/ricky-hatton-1978-2025-former-boxing-world-champion-thank-you-for-the-memories-signature-2-sided-shirt/",
+    "https://teeextra.com/product/cyclones-south-atlantic-league-champions-2025-2-sided-shirt/",
+    "https://teeextra.com/product/ricky-hatton-1978-2025-thanks-for-the-memories-2-sided-shirt/",
+    "https://teeextra.com/product/philadelphia-phillies-nl-east-champions-2025-red-october-returns-2-sided-shirt/",
+    "https://teeextra.com/product/philadelphia-phillies-2025-october-ready-postseason-2-sided-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/robert-redford-89-years-1936-2025-thank-you-for-the-memories-signature-shirt/",
@@ -130,16 +128,15 @@
     "https://legendusashirt.com/product/yes-im-old-but-i-saw-boston-red-sox-greatness-boggs-rice-williams-yastrzemski-fisk-ortiz-and-martinez-signatures-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/you-matter-until-you-multiply-yourself-times-the-speed-of-light-squared-shirt/",
-    "https://teehandus.com/product/wildcats-give-blood-northwestern-university-shirt/",
-    "https://teehandus.com/product/white-shark-summer-25-shirt/",
-    "https://teehandus.com/product/white-hair-and-a-hopeful-smile-shirt/",
-    "https://teehandus.com/product/west-virginia-mountaineers-lets-get-phat-shirt/",
-    "https://teehandus.com/product/vulfpeck-at-the-garden-shirt/",
-    "https://teehandus.com/product/vulfansa-ringer-logo-shirt/",
-    "https://teehandus.com/product/viva-la-lucha-shirt/",
-    "https://teehandus.com/product/unemployed-and-beautiful-shirt/",
-    "https://teehandus.com/product/ubasani-proceed-proceed-2027-shirt/"
+    "https://teehandus.com/product/conrad-fisher-vintage-shirt/",
+    "https://teehandus.com/product/jimmy-kimmel-live-back-to-brooklyn-shirt/",
+    "https://teehandus.com/product/jiffy-shirts/",
+    "https://teehandus.com/product/jon-jimmy-seth-jimmy-stephen-shirt/",
+    "https://teehandus.com/product/jimmy-kimmel-live-hollywood-calif-shirt/",
+    "https://teehandus.com/product/nba-youngboy-hip-hop-vintage-shirt/",
+    "https://teehandus.com/product/vintage-conrad-fisher-shirt/",
+    "https://teehandus.com/product/youngboy-never-broke-again-flames-shirt/",
+    "https://teehandus.com/product/nba-youngboy-never-broke-again-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -181,14 +178,8 @@
     "https://clickoneshirt.com/product/slogan-protect-the-dolls-2025-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/the-white-cat-pigboom-t-shirts/",
-    "https://teleteeshirt.com/product/mannys-the-spirit-of-mexico-1980-t-shirts/",
-    "https://teleteeshirt.com/product/le-sserafim-easy-crazy-hot-tour-2025-dates-t-shirts/",
-    "https://teleteeshirt.com/product/fletcher-i-need-a-little-space-and-time-maybe-like-out-on-the-moon-t-shirts-2/",
-    "https://teleteeshirt.com/product/kentucky-hellraiser-ill-tear-your-soul-apart-t-shirts/",
-    "https://teleteeshirt.com/product/buffalo-bills-built-different-ten-toes-down-t-shirts/",
-    "https://teleteeshirt.com/product/copenhagen-vs-leverkusen-parken-stadium-09-18-2025-t-shirts/",
-    "https://teleteeshirt.com/product/beloved-maneki-neko-cat-t-shirts/"
+    "https://teleteeshirt.com/product/washington-huskies-1991-national-champions-university-t-shirts/",
+    "https://teleteeshirt.com/product/mike-evans-raise-the-flags-player-tampa-bay-buccaneers-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/aerosmith-and-yungblud-one-more-time-shirt/",
@@ -208,16 +199,16 @@
     "https://melonashirt.com/product/official-kanonenfieber-der-offizier-shirts/"
   ],
   "dalatshirt.com": [
-    "https://dalatshirt.com/product/auroras-whole-realm-catalogue-est-1357-logo-vintage-t-shirts/",
-    "https://dalatshirt.com/product/bay-harbor-butcher-since-miami-fl-2006-t-shirts/",
-    "https://dalatshirt.com/product/bird-drink-coffee-3-things-i-dont-like-when-talking-to-me-dont-talk-to-me-like-im-your-child-t-shirts/",
-    "https://dalatshirt.com/product/blink-182-september-16-2025-anime-t-shirts/",
-    "https://dalatshirt.com/product/bluey-driving-car-philadelphia-phillies-baseball-t-shirts/",
-    "https://dalatshirt.com/product/daddys-autistic-meatball-t-shirts/",
-    "https://dalatshirt.com/product/crimson-runs-deeper-oklahoma-sooners-t-shirts-2/",
-    "https://dalatshirt.com/product/detones-private-music-2025-t-shirts/",
-    "https://dalatshirt.com/product/dead-island-2-zombie-t-shirts/",
-    "https://dalatshirt.com/product/dont-be-jealous-t-shirts-2/"
+    "https://dalatshirt.com/product/cowboy-h-town-hold-it-down-estd-2022-t-shirts/",
+    "https://dalatshirt.com/product/become-a-sponsor-today-diego-ranch-inc-helping-healing-and-saving-lives-usa-flag-t-shirts/",
+    "https://dalatshirt.com/product/dallas-wings-rooting-for-womens-basketball-t-shirts/",
+    "https://dalatshirt.com/product/down-south-is-where-i-stay-t-shirts/",
+    "https://dalatshirt.com/product/dont-be-so-busy-being-a-republican-or-a-democrat-that-you-forget-to-be-a-decent-human-being-t-shirts/",
+    "https://dalatshirt.com/product/dallas-wings-basketball-estd-2016-t-shirts/",
+    "https://dalatshirt.com/product/fish-certified-fincel-t-shirts/",
+    "https://dalatshirt.com/product/lebron-james-mvp-nba-champs-2020-t-shirts/",
+    "https://dalatshirt.com/product/jay-first-offense-t-shirts/",
+    "https://dalatshirt.com/product/native-american-the-language-they-were-forbidden-to-speak-is-the-same-language-that-saved-this-nation-t-shirts/"
   ],
   "lovingsquad.com": [
     "https://lovingsquad.com/product/you-know-why-im-here-deviled-eggs-thanksgiving-shirt/",
@@ -316,15 +307,7 @@
     "https://milkywayshirt.com/product/official-blink-182-at-the-riverbend-music-center-on-september-16-2025-in-cincinnati-oh-shirt/"
   ],
   "mercuryshirt.com": [
-    "https://mercuryshirt.com/product/when-will-america-have-free-speech-again-team-jimmy-kimmel-shirt/",
-    "https://mercuryshirt.com/product/what-happened-to-freedom-of-speech-in-america-i-stand-with-jimmy-kimmel-shirt/",
-    "https://mercuryshirt.com/product/we-stand-with-kimmel-shirt/",
-    "https://mercuryshirt.com/product/this-isnt-grief-its-performance-jimmy-kimmel-shirt/",
-    "https://mercuryshirt.com/product/team-kimmel-support-anti-trump-shirt/",
-    "https://mercuryshirt.com/product/team-kimmel-lifetime-member-shirt/",
-    "https://mercuryshirt.com/product/team-jimmy-kimmel-shirt/",
-    "https://mercuryshirt.com/product/support-late-night-comedy-jimmy-kimmel-shirt/",
-    "https://mercuryshirt.com/product/stay-strong-be-brave-and-if-the-elevator-tries-to-bring-you-down-go-crazy-and-punch-a-higher-floor-jimmy-kimmel-shirt/",
-    "https://mercuryshirt.com/product/stand-tall-jimmy-storms-cant-silence-the-truth-jimmy-kimmel-shirt/"
+    "https://mercuryshirt.com/product/official-new-york-yankees-october-baseball-2025-shirt/",
+    "https://mercuryshirt.com/product/official-new-york-yankees-navy-october-baseball-2025-mlb-postseason-locker-room-shirt/"
   ]
 }
