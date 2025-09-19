@@ -22,16 +22,16 @@
     "https://orionshirt.com/product/official-boston-red-sox-mlb-roman-anthony-and-alex-bregman-players-duo-caricatures-painting-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/monsters-of-the-mountain-x-mount-rushmore-shirt/",
-    "https://techteesusa.com/product/melissa-waelchli-antifa-employee-of-the-month-shirt/",
-    "https://techteesusa.com/product/marc-andre-fleury-flower-power-pittsburgh-penguins-signature-shirt/",
-    "https://techteesusa.com/product/manny-machado-san-diego-padres-mr-slam-diego-shirt/",
-    "https://techteesusa.com/product/madison-needs-public-school-teachers-shirt/",
-    "https://techteesusa.com/product/life-is-sweet-shirt/",
-    "https://techteesusa.com/product/letterboxd-stars-heart-shirt/",
-    "https://techteesusa.com/product/jimmy-kimmel-live-shirt/",
-    "https://techteesusa.com/product/im-everton-till-i-die-shirt/",
-    "https://techteesusa.com/product/i-love-wisconsin-public-schools-shirt/"
+    "https://techteesusa.com/product/mossack-fonseca-because-taxes-are-for-poor-people-shirt/",
+    "https://techteesusa.com/product/catch-fraud-and-hot-dogs-logo-shirt/",
+    "https://techteesusa.com/product/i-love-to-gamble-away-my-sons-college-tuition-shirt/",
+    "https://techteesusa.com/product/west-virginia-mountaineers-football-almost-heaven-stadium-shirt/",
+    "https://techteesusa.com/product/watcher-ghoul-boys-got-ghosts-we-will-destroy-them-shirt/",
+    "https://techteesusa.com/product/trump-nope-not-my-president-not-my-emperor-shirt/",
+    "https://techteesusa.com/product/taking-back-son-day-ransom-shirt/",
+    "https://techteesusa.com/product/puro-pinche-party-shirt-2/",
+    "https://techteesusa.com/product/philadelphia-eagles-football-no-one-likes-us-we-dont-care-shirt/",
+    "https://techteesusa.com/product/pauls-books-madison-wisconsin-1954-2025-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/home-of-the-original-danish-mafia-solvang-california-shirt/",
@@ -90,16 +90,16 @@
     "https://teeextra.com/product/philadelphia-phillies-2025-october-ready-postseason-2-sided-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/robert-redford-89-years-1936-2025-thank-you-for-the-memories-signature-shirt/",
-    "https://teespix.com/product/duck-hunt-we-are-penn-state-2025-shirt/",
-    "https://teespix.com/product/cowboys-vs-eagles-september-14th-2025-nfl-season-fly-eagles-fly-shirt/",
-    "https://teespix.com/product/robert-redford-octothorpe-743-inside-coverage-shirt/",
-    "https://teespix.com/product/philadelphia-phillies-phanatic-slut-for-october-shirt/",
-    "https://teespix.com/product/philadelphia-phillies-phanatic-red-october-phillies-player-shirt/",
-    "https://teespix.com/product/robert-redford-the-legend-redford-shirt/",
-    "https://teespix.com/product/robert-redford-1936-2025-light-fades-legacy-shines-t-shirt/",
-    "https://teespix.com/product/philadelphia-phillies-phanatic-red-october-phillies-powder-blue-shirt/",
-    "https://teespix.com/product/keenan-allen-los-angeles-chargers-hello-goodnight-shirt/"
+    "https://teespix.com/product/yungblud-one-more-time-shirt/",
+    "https://teespix.com/product/yes-im-old-but-i-saw-phillies-greatness-player-signature-shirt/",
+    "https://teespix.com/product/yes-im-old-but-i-saw-new-york-greatness-player-signature-city-shirt/",
+    "https://teespix.com/product/west-virginia-football-almost-heaven-shirt/",
+    "https://teespix.com/product/were-just-two-lost-souls-swimming-in-fish-bowl-shirt/",
+    "https://teespix.com/product/we-used-to-smile-and-then-we-worked-at-heb-logo-x-horror-film-hallothanksmas-shirt/",
+    "https://teespix.com/product/we-used-to-smile-and-then-we-worked-at-frito-lay-logo-x-horror-film-hallothanksmas-shirt/",
+    "https://teespix.com/product/we-used-to-smile-and-then-we-worked-at-family-dollar-logo-x-horror-film-hallothanksmas-shirt/",
+    "https://teespix.com/product/we-used-to-smile-and-then-we-worked-at-dollar-tree-logo-x-horror-film-hallothanksmas-shirt/",
+    "https://teespix.com/product/we-used-to-smile-and-then-we-worked-at-dollar-general-logo-x-horror-film-hallothanksmas-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/jimmy-kimmels-wife-wearing-isnt-it-past-your-jail-time-shirt/",
@@ -187,16 +187,9 @@
     "https://capitoneshirt.com/product/stomp-out-every-transphobe-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/warning-beware-ice-rats-shirt/",
-    "https://clickoneshirt.com/product/trump-shot-fight-evil-together-pennsylvania-rally-shooting-shirt/",
-    "https://clickoneshirt.com/product/the-summer-i-turned-pretty-team-conrad-team-jeremiah-cousins-beach-shirt/",
-    "https://clickoneshirt.com/product/this-was-only-her-first-rodeo-paige-bueckers-shirt/",
-    "https://clickoneshirt.com/product/the-summer-i-turned-pretty-season-2-movie-characters-shirt/",
-    "https://clickoneshirt.com/product/the-summer-i-turned-pretty-jeremiah-fisher-team-jeremiah-jelly-shirt/",
-    "https://clickoneshirt.com/product/stefon-diggs-new-england-patriots-football-player-collage-shirt/",
-    "https://clickoneshirt.com/product/steelheads-hockey-club-2025-home-opener-shirt/",
-    "https://clickoneshirt.com/product/sorry-i-am-cranky-im-going-through-my-terrible-seventies-shirt/",
-    "https://clickoneshirt.com/product/slogan-protect-the-dolls-2025-shirt/"
+    "https://clickoneshirt.com/product/tiffany-hayes-golden-state-valkyries-15-signature-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/darnell-mooney-atlanta-falcon-mooney-world-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/aja-wilson-22-mvp-las-vegas-aces-signature-two-sided-t-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/wyatt-flores-sep-19-2025-acl-live-at-the-moody-center-in-austin-tx-t-shirts/",
@@ -271,16 +264,16 @@
     "https://designatshop.com/product/this-is-the-turning-point-freedom-charlie-kirk-rip-2025-american-flag-shirt/"
   ],
   "arjomany.com": [
-    "https://arjomany.com/product/sleep-theory-paralyzed-anime-t-shirt/",
-    "https://arjomany.com/product/sleep-theory-floral-t-shirt/",
-    "https://arjomany.com/product/sleep-theory-dual-skulls-shirt/",
-    "https://arjomany.com/product/ross-caliendo-show-at-night-gallery-in-los-angeles-ca-sep-20oct-25-2025-shirt/",
-    "https://arjomany.com/product/national-park-after-dark-haunted-merch/",
-    "https://arjomany.com/product/national-park-after-dark-cryptid-campfire-t-shirt/",
-    "https://arjomany.com/product/mfm-mothman-bye-bitches-t-shirt/",
-    "https://arjomany.com/product/linkin-park-la-sept-13-2025-t-shirt/",
-    "https://arjomany.com/product/differences-show-me-your-teeth-shirt/",
-    "https://arjomany.com/product/cattle-decapitation-oct-2-2025-aftershock-festival-sacramento-ca-shirt/"
+    "https://arjomany.com/product/the-serious-goose-poster/",
+    "https://arjomany.com/product/the-serious-goose-jimmy-kimmel-2025-poster/",
+    "https://arjomany.com/product/rezz-tour-2025-as-the-pendulum-swings-poster/",
+    "https://arjomany.com/product/rezz-live-tour-as-the-pendulum-swings-poster/",
+    "https://arjomany.com/product/ocean-alley-south-america-tour-2025-poster/",
+    "https://arjomany.com/product/ocean-alley-september-27-2025-london-uk-poster/",
+    "https://arjomany.com/product/ocean-alley-september-27-2025-alexandra-palace-london-poster/",
+    "https://arjomany.com/product/ocean-alley-north-american-2025-concert-poster/",
+    "https://arjomany.com/product/ocean-alley-north-america-tour-2025-poster/",
+    "https://arjomany.com/product/ocean-alley-new-zealand-australia-2026-concert-poster/"
   ],
   "collectionpostertour.com": [
     "https://collectionpostertour.com/product/the-raveonettes-us-tour-september-october-2025-poster/",
