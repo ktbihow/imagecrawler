@@ -1,15 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/witch-seattle-mariners-at-queen-anne-beer-hall-shirt/",
-    "https://geekteesus.com/product/welcome-to-copeland-all-out-toronto-shirt/",
-    "https://geekteesus.com/product/we-dont-kick-field-goals-detroit-lions-football-nfl-signature-shirt/",
-    "https://geekteesus.com/product/we-are-so-back-san-francisco-giants-2025-nl-west-division-champions-shirt/",
-    "https://geekteesus.com/product/we-are-so-back-oakland-athletics-2025-al-west-champions-postseason-shirt/",
-    "https://geekteesus.com/product/seattle-storm-basketball-wnba-2025-playoffs-shirt/",
-    "https://geekteesus.com/product/schuylkill-river-mermaid-philadelphia-parody-shirt/",
-    "https://geekteesus.com/product/sabrina-the-teenage-witch-shirt/",
-    "https://geekteesus.com/product/phoenix-mercury-basketball-wnba-2025-playoffs-shirt/",
-    "https://geekteesus.com/product/mr-slam-diego-manny-machado-san-diego-padres-mlb-silhouette-shirt/"
+    "https://geekteesus.com/product/24-jobs-finished-la-logo-ornament/",
+    "https://geekteesus.com/product/i-liked-the-detroit-lions-before-it-was-cool-signature-ornament/",
+    "https://geekteesus.com/product/king-trump-won-2024-american-flag-ornament/",
+    "https://geekteesus.com/product/new-york-jets-holiday-lights-ugly-christmas-2024-logo-ornament/",
+    "https://geekteesus.com/product/hoda-superfan-thank-you-hoda-photo-ornament/",
+    "https://geekteesus.com/product/wizard-i-dont-think-im-pulling-a-bit-anymore-ornament/",
+    "https://geekteesus.com/product/connecticut-sun-basketball-forever-not-just-when-we-win-signature-graphic-ornament/",
+    "https://geekteesus.com/product/the-raiders-legends-las-vegas-raiders-abbey-road-thank-you-for-the-memories-2024-signature-ornament/",
+    "https://geekteesus.com/product/rip-city-portland-trail-blazers-basketball-net-2024-ornament/",
+    "https://geekteesus.com/product/colorado-buffaloes-x-coach-deion-sanders-nike-logo-ornament/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-the-amazing-devon-dampier-player-utah-utes-college-football-painting-t-shirt/",
@@ -78,16 +78,16 @@
     "https://dreameshirt.com/product/official-poster-austin-city-limits-season-51-wyatt-flores-moody-theater-texas-september-19th-2025-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-vinyl-williams-los-angeles-ca-official-concert-october-6-2025-shirt/",
-    "https://teeextra.com/product/official-trump-youre-fired-jimmy-kimmels-wake-up-call-shirt/",
-    "https://teeextra.com/product/official-the-mountain-goats-tour-sept-oct-2025-shirt/",
-    "https://teeextra.com/product/official-the-grinch-due-to-inflation-this-is-my-halloween-costume-thanksgiving-shirt-ugly-christmas-sweater-shirt/",
-    "https://teeextra.com/product/official-take-back-the-notch-connecticut-shirt/",
-    "https://teeextra.com/product/official-team-kimmel-free-speech-political-statement-shirt/",
-    "https://teeextra.com/product/official-stoneline-valley-music-festival-in-phelps-wi-on-sep-25-27-2025-shirt/",
-    "https://teeextra.com/product/official-steely-dan-street-viper-shirt/",
-    "https://teeextra.com/product/official-miami-hurricanes-vs-florida-gators-miami-gardens-fl-the-battle-o-the-florida-man-2025-shirt/",
-    "https://teeextra.com/product/official-miami-hurricanes-305-college-caneday-shirt/"
+    "https://teeextra.com/product/toronto-maple-leafs-2025-2026-new-season-collections-2-sided-shirt/",
+    "https://teeextra.com/product/washington-commanders-breast-cancer-my-god-is-stronger-2-sided-shirt/",
+    "https://teeextra.com/product/the-crawford-era-everlast-2-sided-shirt/",
+    "https://teeextra.com/product/texas-longhorns-volleyball-coach-jerritt-elliott-2-sided-shirt/",
+    "https://teeextra.com/product/tennessee-volunteers-x-snoopy-2025-new-season-2-sided-shirt/",
+    "https://teeextra.com/product/tampa-bay-buccaneers-breast-cancer-my-god-is-stronger-2-sided-shirt/",
+    "https://teeextra.com/product/tennessee-titans-breast-cancer-my-god-is-stronger-2-sided-shirt/",
+    "https://teeextra.com/product/seattle-seahawks-breast-cancer-my-god-is-stronger-2-sided-shirt/",
+    "https://teeextra.com/product/detroit-lions-breast-cancer-my-god-is-stronger-2-sided-shirt/",
+    "https://teeextra.com/product/denver-broncos-breast-cancer-my-god-is-stronger-2-sided-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/team-jimmy-kimmel-defend-free-speech-shirt/",
@@ -237,16 +237,16 @@
     "https://melonashirt.com/product/official-marines-the-few-the-proud-shirts/"
   ],
   "dalatshirt.com": [
-    "https://dalatshirt.com/product/west-virginia-mountaineers-almost-heaven-football-shirt/",
-    "https://dalatshirt.com/product/wisconsin-dilin-jones-noah-gravel-giannis-antetokounmpo-christian-yelich-aaron-rodgers-signatures-shirt/",
-    "https://dalatshirt.com/product/yusuf-cat-stevens-show-manchester-uk-09-16-2025-poster-shirt/",
-    "https://dalatshirt.com/product/x-men-25th-anniversary-2000-2025-thank-you-for-the-memories-signatures-shirt/",
-    "https://dalatshirt.com/product/you-died-listening-to-rfk-jr-shirt/",
-    "https://dalatshirt.com/product/yes-im-bi-bisexual-bipolar-bitch-biting-biceps-shirt/",
-    "https://dalatshirt.com/product/yonder-mountain-string-band-fall-tour-2025-poster-shirt/",
-    "https://dalatshirt.com/product/tom-petty-i-wont-back-down-florida-gators-t-shirts/",
-    "https://dalatshirt.com/product/texas-longhorns-vs-oklahoma-sooners-red-river-rivalry-t-shirts/",
-    "https://dalatshirt.com/product/tampa-bay-buccaneers-football-x-bart-dynamic-cartoon-t-shirts/"
+    "https://dalatshirt.com/product/45th-ryder-cup-bethpage-black-sept-26-28-2025-farmingdale-new-york-t-shirts/",
+    "https://dalatshirt.com/product/alabama-roll-tide-spend-my-dollar-parked-in-holler-neath-the-a-mountain-t-shirts/",
+    "https://dalatshirt.com/product/alabama-crimson-tide-they-see-me-rollin-bama-t-shirts/",
+    "https://dalatshirt.com/product/annie-kelly-erin-go-bragh-charlie-kirk-t-shirts/",
+    "https://dalatshirt.com/product/all-the-fall-things-or-whatever-blink-182-says-halloween-autumn-t-shirts/",
+    "https://dalatshirt.com/product/alabama-shakes-forest-hills-stadium-forest-hills-ny-sept-17-2025-t-shirts/",
+    "https://dalatshirt.com/product/booters-butch-bar-and-diner-halloween-t-shirts/",
+    "https://dalatshirt.com/product/bart-knows-books-bart-knows-beer-t-shirts/",
+    "https://dalatshirt.com/product/buffalo-bills-gooses-josh-allen-keon-coleman-joe-andreessen-signatures-t-shirts/",
+    "https://dalatshirt.com/product/can-i-pet-the-dawg-t-shirts/"
   ],
   "lovingsquad.com": [
     "https://lovingsquad.com/product/yes-i-can-drive-a-stick-funny-halloween-cat-witch-spooky-shirt/",
