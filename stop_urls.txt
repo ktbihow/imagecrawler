@@ -73,16 +73,16 @@
     "https://dreameshirt.com/product/official-poster-sweet-lizzy-standard-deluxe-inc-in-waverly-al-october-4-2025-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/official-woodsist-festival-arrowood-farms-accord-ny-sept-20-21-2025-shirt/",
-    "https://teeextra.com/product/official-when-i-sing-it-wasnt-me-by-shaggy-at-karaoke-i-should-be-allowed-to-do-the-voice-shirt/",
-    "https://teeextra.com/product/official-volbeat-royal-arena-in-copenhagen-denmark-september-19-2025-shirt/",
-    "https://teeextra.com/product/official-the-mandatoryfunday-lower-your-expectations-shirt/",
-    "https://teeextra.com/product/official-the-maine-listen-to-a-band-called-the-maine-shirt/",
-    "https://teeextra.com/product/official-the-maine-retro-shirt/",
-    "https://teeextra.com/product/official-the-maine-floral-phoenix-arizona-shirt/",
-    "https://teeextra.com/product/official-the-maine-8123-star-shirt/",
-    "https://teeextra.com/product/official-a-perfect-circle-tour-louisville-ky-sep-20-2025-shirt/",
-    "https://teeextra.com/product/official-yellow-icons-symbols-breaking-bad-jesse-pinkman-shirt/"
+    "https://teeextra.com/product/official-willis-vacation-tour-date-2025-shirt/",
+    "https://teeextra.com/product/official-turning-point-one-mans-voice-one-nations-turning-point-charlie-kirk-1993-2025-shirt/",
+    "https://teeextra.com/product/official-texas-am-aggies-basketball-practice-net-arch-pregame-shirt/",
+    "https://teeextra.com/product/official-the-who-shoreline-amphitheatre-in-mountain-view-ca-sep-21-2025-shirt/",
+    "https://teeextra.com/product/official-selena-gomez-barney-x-selena-i-love-you-shirt-2/",
+    "https://teeextra.com/product/official-saul-goodman-better-call-saul-shirt/",
+    "https://teeextra.com/product/official-sam-fender-event-new-york-ny-09-19-2025-shirt/",
+    "https://teeextra.com/product/official-reject-political-violence-eagle-charlie-kirk-1993-2025-shirt/",
+    "https://teeextra.com/product/official-san-francisco-ca-magdalena-bay-09-18-2025-shirt/",
+    "https://teeextra.com/product/official-san-francisco-49ers-all-time-greats-legends-signatures-2025-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/tulsa-hurricanes-mascot-beat-oklahoma-state-cowboys-t-shirt/",
@@ -179,16 +179,16 @@
     "https://clickoneshirt.com/product/lower-your-expectations-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/whirr-slide-away-2025-new-york-philadelphia-los-angeles-t-shirts/",
-    "https://teleteeshirt.com/product/the-goddamn-gallows-hell-yeah-lets-join-a-cult-t-shirts/",
-    "https://teleteeshirt.com/product/the-fall-of-troy-doppelganger-everyone-hosa-double-multiples-2025-t-shirts/",
-    "https://teleteeshirt.com/product/the-fall-of-troy-exercise-t-shirts/",
-    "https://teleteeshirt.com/product/shinedown-dance-kid-dance-tour-2025-photo-t-shirts/",
-    "https://teleteeshirt.com/product/spag-heddy-the-big-boil-scribble-t-shirts/",
-    "https://teleteeshirt.com/product/official-the-maine-control-what-you-can-confront-what-you-cant-t-shirts/",
-    "https://teleteeshirt.com/product/senses-fail-new-jersey-vs-the-world-tour-2024-t-shirts/",
-    "https://teleteeshirt.com/product/microwave-no-one-can-give-you-peace-lets-start-degeneracy-no-one-can-take-it-away-peace-frog-t-shirts/",
-    "https://teleteeshirt.com/product/alestorm-we-will-rise-from-the-ashes-of-chaos-the-thunderfist-chronicles-t-shirts/"
+    "https://teleteeshirt.com/product/i-need-a-bad-bitch-who-fw-t-shirts/",
+    "https://teleteeshirt.com/product/the-shit-i-been-on-aint-even-out-the-ass-yet-gorilla-banana-t-shirts/",
+    "https://teleteeshirt.com/product/the-magician-boundless-potential-wizard-t-shirts/",
+    "https://teleteeshirt.com/product/the-lovers-a-tender-moment-t-shirts/",
+    "https://teleteeshirt.com/product/stray-kids-karma-skzoo-changbin-t-shirts/",
+    "https://teleteeshirt.com/product/pinkpantheress-tour-2025-t-shirts/",
+    "https://teleteeshirt.com/product/paleface-swiss-pentagram-t-shirts/",
+    "https://teleteeshirt.com/product/jonas-brothers-rogers-arena-september-18-2025-t-shirts/",
+    "https://teleteeshirt.com/product/hozier-hersheypark-stadium-in-hershey-pa-sep-19-2025-t-shirts/",
+    "https://teleteeshirt.com/product/yes-im-old-but-i-saw-new-york-mets-greatness-signatures-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/spartan-4th-annual-fun-run-2025-disney-ii-2025-shirt/",
@@ -311,15 +311,15 @@
     "https://milkywayshirt.com/product/official-my-favorite-murder-rewind-og-stay-sexy-shirt/"
   ],
   "mercuryshirt.com": [
-    "https://mercuryshirt.com/product/buffalo-bills-vs-miami-dolphins-squish-the-fish-shirt/",
-    "https://mercuryshirt.com/product/arizona-diamondbacks-2025-mlb-postseason-built-for-october-shirt/",
-    "https://mercuryshirt.com/product/boston-red-sox-2025-mlb-postseason-built-for-october-shirt/",
-    "https://mercuryshirt.com/product/arizona-diamondbacks-fun-shirt/",
-    "https://mercuryshirt.com/product/blink-182-missionary-impossible-tour-2025-shirt/",
-    "https://mercuryshirt.com/product/wyatt-sicks-lumis-collection-ramblin-rabbit-shirt/",
-    "https://mercuryshirt.com/product/when-they-kick-down-your-front-door-how-you-gun-come-shirt/",
-    "https://mercuryshirt.com/product/vladdy-shush-vladimir-guerrero-jr-toronto-shirt/",
-    "https://mercuryshirt.com/product/utah-jazz-halloween-jigsaw-saw-horror-basketball-shirt/",
-    "https://mercuryshirt.com/product/the-who-mountain-view-ca-2025-shirt/"
+    "https://mercuryshirt.com/product/wnba-finals-2025-phoenix-mercury-logo-shirt/",
+    "https://mercuryshirt.com/product/wnba-finals-2025-minnesota-lynx-logo-shirt/",
+    "https://mercuryshirt.com/product/wnba-finals-2025-indiana-fever-logo-shirt/",
+    "https://mercuryshirt.com/product/wnba-dallas-wings-star-paige-bueckers-rookie-season-2025-shirt/",
+    "https://mercuryshirt.com/product/w-kamau-bell-34-felonies-are-not-presidential-shirt/",
+    "https://mercuryshirt.com/product/utah-utes-football-the-amazing-devon-dampier-nil-2025-shirt/",
+    "https://mercuryshirt.com/product/toronto-blue-jays-mlb-2025-al-east-division-title-postseason-locker-room-team-shirt/",
+    "https://mercuryshirt.com/product/toronto-blue-jays-2025-mlb-postseason-built-for-october-shirt/",
+    "https://mercuryshirt.com/product/the-maine-phoenix-arizona-shirt/",
+    "https://mercuryshirt.com/product/the-maine-like-the-roses-shirt/"
   ]
 }
