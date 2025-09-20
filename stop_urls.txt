@@ -1,15 +1,6 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/texas-am-aggies-vs-auburn-tigers-college-football-gameday-showdown-2025-shirt-2/",
-    "https://geekteesus.com/product/oakland-athletics-2025-mlb-postseason-logo-shirt/",
-    "https://geekteesus.com/product/we-are-so-back-new-york-yankees-2025-al-east-division-champions-shirt/",
-    "https://geekteesus.com/product/we-are-so-back-baltimore-orioles-2025-al-east-champions-postseason-shirt/",
-    "https://geekteesus.com/product/toronto-blue-jays-2025-al-east-division-champions-we-are-so-back-shirt/",
-    "https://geekteesus.com/product/thanks-kersh-clayton-kershaw-los-angeles-dodgers-mlb-shirt/",
-    "https://geekteesus.com/product/texas-rangers-2025-alcs-american-league-baseball-logo-shirt/",
-    "https://geekteesus.com/product/team-jimmy-kimmel-shirt/",
-    "https://geekteesus.com/product/stephen-colbert-and-jimmy-kimmel-28-shirt/",
-    "https://geekteesus.com/product/statue-of-liberty-jimmy-kimmel-team-shirt/"
+    "https://geekteesus.com/product/texas-am-aggies-vs-auburn-tigers-college-football-gameday-showdown-2025-t-shirt/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-the-amazing-devon-dampier-player-utah-utes-college-football-painting-t-shirt/",
