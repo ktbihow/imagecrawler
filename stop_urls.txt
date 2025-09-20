@@ -248,16 +248,16 @@
     "https://designatshop.com/product/snoopy-attention-i-am-out-of-order-until-further-notice-my-stupid-people-filter-needs-cleaning-shirt/"
   ],
   "arjomany.com": [
-    "https://arjomany.com/product/the-maine-control-what-you-can-tee/",
-    "https://arjomany.com/product/the-maine-8123-means-everything-to-me-tee/",
-    "https://arjomany.com/product/the-maine-2025-world-tour-shirt/",
-    "https://arjomany.com/product/the-favors-the-dream-t-shirt/",
-    "https://arjomany.com/product/sickos-icon-merch/",
-    "https://arjomany.com/product/shaky-knees-festival-skeleton-punk-lineup-2025-shirt/",
-    "https://arjomany.com/product/shaky-knees-festival-bunny-lineup-2025-shirt/",
-    "https://arjomany.com/product/rtr-punk-circle-logo-merch/",
-    "https://arjomany.com/product/renee-rapp-white-date-back-tour-tee/",
-    "https://arjomany.com/product/renee-rapp-tour-photo-tee-2025/"
+    "https://arjomany.com/product/pavement-levitation-sept-28-2025-poster/",
+    "https://arjomany.com/product/pavement-levitation-festival-2025-poster/",
+    "https://arjomany.com/product/modest-mouse-good-news-tour-poster/",
+    "https://arjomany.com/product/modest-mouse-good-news-poster/",
+    "https://arjomany.com/product/healing-appalachia-september-18-20-2025-poster/",
+    "https://arjomany.com/product/healing-appalachia-september-18-20-2025-ashland-kentucky-poster/",
+    "https://arjomany.com/product/healing-appalachia-september-18-19-20-2025-poster/",
+    "https://arjomany.com/product/healing-appalachia-sept-18-20-2025-ashland-kentucky-poster/",
+    "https://arjomany.com/product/charlie-berens-tour-2026-poster/",
+    "https://arjomany.com/product/charlie-berens-the-lost-found-tour-2026-poster/"
   ],
   "collectionpostertour.com": [
     "https://collectionpostertour.com/product/umphreys-mcgee-september-19-20-2025-livingston-mt-concert-poster/",
@@ -284,16 +284,16 @@
     "https://neoteeco.com/product/nicolas-maduro-enemigo-de-los-venezolanos-political-protest-poster-venezuela-opposition-artwork-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/washington-huskies-football-1991-national-champs-vintage-shirt-mascot-graphic-shirt/",
-    "https://newshirtstore.com/product/tyler-robinson-bee-the-change-salt-lake-dsa-shirt/",
-    "https://newshirtstore.com/product/tis-the-season-ghost-halloween-pumpkin-spooky-vibes-cat-shirt/",
-    "https://newshirtstore.com/product/win-lose-dominate-classic-shirt/",
-    "https://newshirtstore.com/product/yes-i-can-drive-a-stick-funny-halloween-cat-witch-spooky-shirt/",
-    "https://newshirtstore.com/product/the-potato-in-the-back-of-my-pantry-shirt/",
-    "https://newshirtstore.com/product/the-zoological-society-of-cincinnati-seal-shirt/",
-    "https://newshirtstore.com/product/tennessee-volunteers-colton-hood-drawing-signature-shirt/",
-    "https://newshirtstore.com/product/vladdy-shush-vladimir-guerrero-toronto-blue-jays-t-shirt/",
-    "https://newshirtstore.com/product/the-zoological-society-of-cincinnati-est-1873-cartoons-shirt/"
+    "https://newshirtstore.com/product/fly-the-w-chicago-cubs-2025-postseason-logo-shirt/",
+    "https://newshirtstore.com/product/droxxy-will-work-for-cheeseburger-shirt/",
+    "https://newshirtstore.com/product/ghost-eating-pumpkin-cool-spooky-halloween-shirt/",
+    "https://newshirtstore.com/product/due-to-inflation-my-halloween-cat-pumpkin-shirt/",
+    "https://newshirtstore.com/product/f-caw-f-funny-viral-chicken-2025-shirt/",
+    "https://newshirtstore.com/product/cincinnati-zoo-and-botanical-graden-celebrating-150-wild-years-shirt/",
+    "https://newshirtstore.com/product/disney-camp-rock-3-logo-shirt/",
+    "https://newshirtstore.com/product/f-caw-f-chicken-what-the-heli-2025-shirt/",
+    "https://newshirtstore.com/product/deers-decorative-patterns-vintage-shirt/",
+    "https://newshirtstore.com/product/chill-ghost-halloween-spooky-casual-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/will-ferrell-talladega-nights-ricky-bobby-if-you-aint-first-youre-last-shirt/",
