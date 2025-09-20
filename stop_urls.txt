@@ -1,15 +1,11 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/paige-bueckers-dallas-wings-basketball-rookie-of-the-year-wnba-shirt/",
-    "https://geekteesus.com/product/kershaw-forever-22-los-angeles-dodgers-baseball-signature-shirt/",
-    "https://geekteesus.com/product/it-only-hurts-when-i-think-shirt/",
-    "https://geekteesus.com/product/grand-theft-gridiron-buffalo-bills-football-shirt/",
-    "https://geekteesus.com/product/free-roger-targeted-since-2000-shirt/",
-    "https://geekteesus.com/product/freddy-krueger-chucky-and-ghostface-moon-washington-nationals-mlb-halloween-2025-shirt/",
-    "https://geekteesus.com/product/freddy-krueger-chucky-and-ghostface-moon-toronto-blue-jays-mlb-halloween-2025-shirt/",
-    "https://geekteesus.com/product/freddy-krueger-chucky-and-ghostface-moon-tampa-bay-rays-mlb-halloween-2025-shirt/",
-    "https://geekteesus.com/product/freddy-krueger-chucky-and-ghostface-moon-texas-rangers-mlb-halloween-2025-shirt/",
-    "https://geekteesus.com/product/freddy-krueger-chucky-and-ghostface-moon-new-york-yankees-mlb-halloween-2025-shirt/"
+    "https://geekteesus.com/product/tyrese-haliburton-no-time-for-what-ifs-tour-indiana-pacers-nba-wrestlepalooza-shirt/",
+    "https://geekteesus.com/product/this-team-makes-me-drink-minnesota-vikings-shirt/",
+    "https://geekteesus.com/product/shota-imanaga-i-learned-that-with-champagne-instead-of-drinking-it-you-should-absorb-it-with-your-skin-shirt/",
+    "https://geekteesus.com/product/transecuted-charlie-kirk-divinity-shirt/",
+    "https://geekteesus.com/product/philadelphia-phillies-back-2-back-nl-east-division-champions-2024-2025-logo-shirt/",
+    "https://geekteesus.com/product/philadelphia-phillies-2025-mlb-postseason-logo-shirt/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-queens-of-the-stone-age-the-evil-has-landed-military-green-painting-t-shirt/",
@@ -30,16 +26,16 @@
     "https://techteesusa.com/product/i-do-whatever-my-bitch-says-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/keep-going-rodney-mullen-legends-series-shirt/",
-    "https://teeworksusa.com/product/minnie-the-booh-halloween-2025-shirt/",
-    "https://teeworksusa.com/product/yaricks-gym-oakland-vintage-shirt/",
-    "https://teeworksusa.com/product/santa-claus-too-much-orip-for-the-chimney-shirt/",
-    "https://teeworksusa.com/product/chicken-if-my-kid-is-dirty-its-because-my-kid-actually-plays-outside-so-mind-ya-business-shirt/",
-    "https://teeworksusa.com/product/play-it-harder-holadsgn-dog-shirt/",
-    "https://teeworksusa.com/product/gorillaz-kpop-demon-hunter-shirt/",
-    "https://teeworksusa.com/product/caitlin-was-here-big-logo-2025-shirt/",
-    "https://teeworksusa.com/product/faith-hope-love-shirt/",
-    "https://teeworksusa.com/product/i-aint-afraid-of-no-goats-shirt/"
+    "https://teeworksusa.com/product/welcome-to-the-rock-curt-cignetti-shirt/",
+    "https://teeworksusa.com/product/rob-thomas-the-all-night-days-tour-2025-portrait-shirt/",
+    "https://teeworksusa.com/product/rob-thomas-admat-sand-shirt/",
+    "https://teeworksusa.com/product/play-x-kidsuper-watercolor-shirt/",
+    "https://teeworksusa.com/product/moto-evil-end-it-shirt/",
+    "https://teeworksusa.com/product/life-is-great-just-gotta-be-dick-sometimes-shirt/",
+    "https://teeworksusa.com/product/kentucky-bluegrass-and-black-cats-shirt/",
+    "https://teeworksusa.com/product/baseball-coffee-with-adam-ottavino-shirt/",
+    "https://teeworksusa.com/product/jezus-and-the-gospelfuckers-shirt/",
+    "https://teeworksusa.com/product/afsp-we-are-all-a-work-in-progress-shirt-2/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-you-have-no-idea-what-you-just-have-unleashed-across-this-entire-country-erika-kirk-t-shirt/",
