@@ -11,10 +11,16 @@
     "https://orionshirt.com/product/official-2025-riot-fest-stealing-hearts-since-2005-painting-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/youre-killin-me-smalls-san-francisco-giants-x-the-sandlot-shirt/",
-    "https://techteesusa.com/product/whats-the-wirtz-that-could-happen-shirt/",
-    "https://techteesusa.com/product/alligator-alcatraz-eat-the-rich-shirt/",
-    "https://techteesusa.com/product/youre-killin-me-smalls-philadelphia-phillies-x-the-sandlot-shirt/"
+    "https://techteesusa.com/product/bart-the-simpsons-x-carolina-panthers-shirt/",
+    "https://techteesusa.com/product/bart-the-simpsons-x-chicago-bears-shirt/",
+    "https://techteesusa.com/product/34-felonies-are-not-presidential-shirt/",
+    "https://techteesusa.com/product/bart-the-simpsons-x-buffalo-bills-shirt/",
+    "https://techteesusa.com/product/bart-the-simpsons-x-atlanta-falcons-shirt/",
+    "https://techteesusa.com/product/bart-the-simpsons-x-baltimore-ravens-shirt/",
+    "https://techteesusa.com/product/yeah-im-goth-goinked-off-the-hoinky-shirt/",
+    "https://techteesusa.com/product/sorry-were-here-shirt/",
+    "https://techteesusa.com/product/raccoon-lower-your-expectations-shirt/",
+    "https://techteesusa.com/product/princess-leia-womens-future-of-the-galaxy-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/yoda-laughing-i-may-have-the-right-to-remain-silent-but-boy-oh-boy-do-i-lack-the-ability-shirt/",
@@ -64,16 +70,16 @@
     "https://dreameshirt.com/product/official-wyatt-sicks-lumis-collection-ramblin-rabbit-wwe-2025-painting-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/toronto-maple-leafs-2025-2026-new-season-collections-2-sided-shirt/",
-    "https://teeextra.com/product/washington-commanders-breast-cancer-my-god-is-stronger-2-sided-shirt/",
-    "https://teeextra.com/product/the-crawford-era-everlast-2-sided-shirt/",
-    "https://teeextra.com/product/texas-longhorns-volleyball-coach-jerritt-elliott-2-sided-shirt/",
-    "https://teeextra.com/product/tennessee-volunteers-x-snoopy-2025-new-season-2-sided-shirt/",
-    "https://teeextra.com/product/tampa-bay-buccaneers-breast-cancer-my-god-is-stronger-2-sided-shirt/",
-    "https://teeextra.com/product/tennessee-titans-breast-cancer-my-god-is-stronger-2-sided-shirt/",
-    "https://teeextra.com/product/seattle-seahawks-breast-cancer-my-god-is-stronger-2-sided-shirt/",
-    "https://teeextra.com/product/detroit-lions-breast-cancer-my-god-is-stronger-2-sided-shirt/",
-    "https://teeextra.com/product/denver-broncos-breast-cancer-my-god-is-stronger-2-sided-shirt/"
+    "https://teeextra.com/product/official-woodsist-festival-arrowood-farms-accord-ny-sept-20-21-2025-shirt/",
+    "https://teeextra.com/product/official-when-i-sing-it-wasnt-me-by-shaggy-at-karaoke-i-should-be-allowed-to-do-the-voice-shirt/",
+    "https://teeextra.com/product/official-volbeat-royal-arena-in-copenhagen-denmark-september-19-2025-shirt/",
+    "https://teeextra.com/product/official-the-mandatoryfunday-lower-your-expectations-shirt/",
+    "https://teeextra.com/product/official-the-maine-listen-to-a-band-called-the-maine-shirt/",
+    "https://teeextra.com/product/official-the-maine-retro-shirt/",
+    "https://teeextra.com/product/official-the-maine-floral-phoenix-arizona-shirt/",
+    "https://teeextra.com/product/official-the-maine-8123-star-shirt/",
+    "https://teeextra.com/product/official-a-perfect-circle-tour-louisville-ky-sep-20-2025-shirt/",
+    "https://teeextra.com/product/official-yellow-icons-symbols-breaking-bad-jesse-pinkman-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/wizard-of-barge-there-are-20-sides-to-every-story-shirt/",
@@ -100,16 +106,16 @@
     "https://nowbestshirt.com/product/twilight-canns-brooks-brock-major-shirt/"
   ],
   "serenashirt.com": [
-    "https://serenashirt.com/product/read-banned-books-create-beautiful-things-plant-a-garden-fight-fascism-shirt/",
-    "https://serenashirt.com/product/mary-x-jazzy-dude-its-a-fucking-rave-stop-asking-me-stupid-questions-shirt/",
-    "https://serenashirt.com/product/it-was-never-about-hunting-trans-pride-shirt/",
-    "https://serenashirt.com/product/mi-voto-cuenta-shirt/",
-    "https://serenashirt.com/product/nailbomb-euro-uk-tour-2025-shirt/",
-    "https://serenashirt.com/product/boo-im-gay-jack-o-lantern-shirt/",
-    "https://serenashirt.com/product/acid-burn-hackers-1995-retro-shirt/",
-    "https://serenashirt.com/product/wizards-1977-animated-retro-shirt/",
-    "https://serenashirt.com/product/spooky-kitty-halloween-shirt/",
-    "https://serenashirt.com/product/over-the-garden-wall-group-wayward-leaves-shirt/"
+    "https://serenashirt.com/product/bride-of-frankenstein-rise-and-feed-us-mortal-halloween-shirt/",
+    "https://serenashirt.com/product/its-always-halloween-in-my-dark-little-soul-shirt/",
+    "https://serenashirt.com/product/wizard-just-because-i-have-the-capability-to-make-good-decisions-doesnt-mean-i-intend-to-shirt/",
+    "https://serenashirt.com/product/34-felonies-are-not-presidential-shirt/",
+    "https://serenashirt.com/product/wouldnt-pass-a-vet-check-shirt/",
+    "https://serenashirt.com/product/hawk-newsome-wearing-black-opportunities-shirt/",
+    "https://serenashirt.com/product/gorillaz-palestine-shirt/",
+    "https://serenashirt.com/product/real-bear-fans-wear-pink-oct-2025-shirt/",
+    "https://serenashirt.com/product/of-course-im-gay-im-from-san-francisco-shirt/",
+    "https://serenashirt.com/product/sorry-were-here-shirt/"
   ],
   "fanaticity.com": [
     "https://fanaticity.com/product/aja-riyadh-wilson-las-vegas-aces-signature-shirt/",
@@ -124,28 +130,28 @@
     "https://fanaticity.com/product/charlie-kick-freedom-red-signature-red-1993-2025-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/cattle-decapitation-aftershock-festival-sacramento-ca-oct-2-2025-t-shirt/",
-    "https://legendusashirt.com/product/bulldogs-nine-in-a-row-dawgs-on-top-t-shirt/",
-    "https://legendusashirt.com/product/blackcraft-cult-ouija-cats-t-shirt/",
-    "https://legendusashirt.com/product/black-sabbath-poster-sabotage-flocked-blacklight-2025-t-shirt/",
-    "https://legendusashirt.com/product/baylor-bears-mascot-in-my-veins-jesus-in-my-heart-2025-t-shirt/",
-    "https://legendusashirt.com/product/5-stars-on-letterboxd-t-shirt/",
-    "https://legendusashirt.com/product/alabama-crimson-tide-god-first-family-second-then-roll-tide-roll-football-2025-t-shirt/",
-    "https://legendusashirt.com/product/antifa-baseball-club-t-shirt/",
-    "https://legendusashirt.com/product/zach-bryan-kings-of-leon-event-golden-gate-park-show-2025-t-shirt/",
-    "https://legendusashirt.com/product/you-died-listening-to-rfk-jr-t-shirt/"
+    "https://legendusashirt.com/product/yellow-icons-symbols-breaking-bad-jesse-pinkman-t-shirt/",
+    "https://legendusashirt.com/product/will-varley-machines-will-never-learn-to-make-mistakes-like-me-2025-world-tour-t-shirt/",
+    "https://legendusashirt.com/product/white-house-fruit-farm-fall-headquarters-t-shirt/",
+    "https://legendusashirt.com/product/we-have-nothing-to-fear-but-jimmy-kimmel-t-shirt/",
+    "https://legendusashirt.com/product/umphreys-mcgee-pine-creek-lodge-in-livingston-mt-sep-19-20-2025-t-shirt/",
+    "https://legendusashirt.com/product/tuns-targets-t-shirt/",
+    "https://legendusashirt.com/product/the-snake-must-hiss-t-shirt/",
+    "https://legendusashirt.com/product/the-favors-restless-little-heart-t-shirt/",
+    "https://legendusashirt.com/product/the-los-angeles-dodgers-2025-mlb-legends-signatures-thank-you-for-the-memories-t-shirt/",
+    "https://legendusashirt.com/product/the-cum-rag-sperm-logo-parody-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/caseoh-goob-lagoon-shirt/",
-    "https://teehandus.com/product/buffalo-bills-football-ha-ha-yes-sickos-shirt/",
-    "https://teehandus.com/product/holla-atya-uce-2-sided-shirt/",
-    "https://teehandus.com/product/jade-avedisian-20-nascar-venturini-motorsports-2-sided-shirt/",
-    "https://teehandus.com/product/team-jeremiah-forever-well-always-have-summer-2-sided-shirt/",
-    "https://teehandus.com/product/texas-longhorns-vs-oklahoma-sooners-red-river-rivalry-stadium-match-up-2-sided-shirt/",
-    "https://teehandus.com/product/texas-longhorns-vs-oklahoma-sooners-red-river-rivalry-big-tex-match-up-2-sided-shirt/",
-    "https://teehandus.com/product/underground-kingz-ridin-dirty-2-sided-shirt/",
-    "https://teehandus.com/product/warning-ice-rats-beware-ice-agents-shirt/",
-    "https://teehandus.com/product/wisconsin-needs-public-schools-shirt/"
+    "https://teehandus.com/product/sorry-were-here-shirt/",
+    "https://teehandus.com/product/sometimes-i-grab-my-boobs-because-well-i-can-shirt/",
+    "https://teehandus.com/product/smashing-pumpkins-live-in-japan-shirt/",
+    "https://teehandus.com/product/since-1984-the-hip-canada-shirt/",
+    "https://teehandus.com/product/selena-gomez-wizard-shirt/",
+    "https://teehandus.com/product/seattle-mariners-vs-houston-astros-the-quest-for-the-west-shirt/",
+    "https://teehandus.com/product/sc-state-bulldogs-ready-all-to-do-and-dare-hail-hail-shirt/",
+    "https://teehandus.com/product/risk-it-all-to-be-great-shirt/",
+    "https://teehandus.com/product/rangers-wearing-no-bs-shirt/",
+    "https://teehandus.com/product/philadelphia-phillies-baseball-red-october-skeleton-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -175,14 +181,8 @@
     "https://capitoneshirt.com/product/official-crosses-titties-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/linder-grolind-kingz-ridin-dirty-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/moneyball-its-hard-not-to-be-romantic-about-baseball-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/indiana-fever-now-you-know-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/ravens-tailgate-sunday-with-a-wild-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/chicago-cubs-2025-postseason-baseball-teams-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/texas-volleyball-coach-jerrittelliott-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/richmond-hill-wildcats-clock-in-lock-in-two-sided-t-shirt/",
-    "https://clickoneshirt.com/product/las-vegas-aviators-pacific-coast-league-2025-playoffs-two-sided-t-shirt/"
+    "https://clickoneshirt.com/product/tyrese-haliburton-wrestlepalooza-indianapolis-no-time-for-what-ifs-tour-2025-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/detroit-tigers-on-tour-2026-schedule-two-sided-t-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/spooky-cat-halloween-t-shirts/",
@@ -197,16 +197,16 @@
     "https://teleteeshirt.com/product/damon-albarn-palestinian-sunrise-by-gorillaz-t-shirts/"
   ],
   "teeslocal.com": [
-    "https://teeslocal.com/product/official-robert-redford-hollywood-star-rest-in-peace-1936-2025-shirt/",
-    "https://teeslocal.com/product/official-legends-never-die-robert-redford-t-shirt/",
-    "https://teeslocal.com/product/official-robert-redford-vintage-typewriter-1936-2025-i-work-because-i-want-to-work-it-keeps-me-going-shirt/",
-    "https://teeslocal.com/product/official-robert-redford-quote-not-taking-a-risk-inspirational-shirt/",
-    "https://teeslocal.com/product/official-legends-never-die-robert-redford-hollywood-star-1936-2025-shirt/",
-    "https://teeslocal.com/product/official-retro-robert-redford-16-9-2025-shirt/",
-    "https://teeslocal.com/product/official-rip-robert-redford-rest-in-peace-legends-live-forever-shirt/",
-    "https://teeslocal.com/product/official-robert-redford-vintage-western-movie-american-flag-shirt/",
-    "https://teeslocal.com/product/official-legends-never-die-robert-redford-rest-in-peace-1936-2025-shirt/",
-    "https://teeslocal.com/product/official-rest-in-pace-robert-redford-1936-2025-light-fades-legacy-shines-shirt/"
+    "https://teeslocal.com/product/spartan-4th-annual-fun-run-2025-disney-ii-2025-shirt/",
+    "https://teeslocal.com/product/skull-lilies-are-toxic-to-cats-do-not-expose-your-pet-cat-to-lilies-its-very-bad-for-them-shirt/",
+    "https://teeslocal.com/product/paige-bueckers-dallas-wings-this-was-only-her-first-rodeo-wnba-roty-2025-shirt/",
+    "https://teeslocal.com/product/got-ghosts-we-will-destroy-them-we-will-use-illegel-technology-to-send-them-to-hell-shirt/",
+    "https://teeslocal.com/product/if-lyrics-were-confidential-band-shirt/",
+    "https://teeslocal.com/product/louis-tomlinson-i-was-on-stan-twitter-when-louis-joined-tiktok-shirt/",
+    "https://teeslocal.com/product/get-out-there-get-drunk-make-a-difference-louisville-cardinals-logo-shirt/",
+    "https://teeslocal.com/product/do-not-talk-to-me-about-ai-i-will-kill-myself-shirt/",
+    "https://teeslocal.com/product/don-delillo-dunkin-donuts-shirt/",
+    "https://teeslocal.com/product/bc-lions-logo-every-child-matters-shirt/"
   ],
   "melonashirt.com": [
     "https://melonashirt.com/product/official-the-potato-in-the-back-of-my-pantry-shirts/",
@@ -233,28 +233,28 @@
     "https://dalatshirt.com/product/can-i-pet-the-dawg-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/yes-i-can-drive-a-stick-funny-halloween-cat-witch-spooky-shirt/",
-    "https://lovingsquad.com/product/woodburning-deer-art-shirt/",
-    "https://lovingsquad.com/product/tis-the-season-ghost-halloween-pumpkin-spooky-vibes-cat-shirt/",
-    "https://lovingsquad.com/product/the-zoological-society-of-cincinnati-seal-shirt/",
-    "https://lovingsquad.com/product/the-zoological-society-of-cincinnati-est-1873-shirt/",
-    "https://lovingsquad.com/product/the-who-fall-tour-2025-los-angeles-ca-shirt/",
-    "https://lovingsquad.com/product/the-potato-in-the-back-of-my-pantry-shirt/",
-    "https://lovingsquad.com/product/the-first-amendment-congress-shall-make-no-law-shirt/",
-    "https://lovingsquad.com/product/the-bouncing-souls-chicago-2025-poster-shirt/",
-    "https://lovingsquad.com/product/thank-you-for-not-loving-me-it-forced-me-to-love-myself-shirt/"
+    "https://lovingsquad.com/product/team-kimmel-shirt/",
+    "https://lovingsquad.com/product/team-kimmel-jimmy-kimmel-vintage-shirt/",
+    "https://lovingsquad.com/product/taylor-the-showgirl-shirt/",
+    "https://lovingsquad.com/product/stand-with-jimmy-kimmel-free-speech-2028-shirt/",
+    "https://lovingsquad.com/product/spooky-cat-halloween-shirt-2/",
+    "https://lovingsquad.com/product/sonik-racing-crossworlds-shadoww-vs-sonik-head-to-head-shirt/",
+    "https://lovingsquad.com/product/rsq-x-peanuts-pumpkin-club-halloween-2025-shirt/",
+    "https://lovingsquad.com/product/risk-it-all-to-be-great-shirt/",
+    "https://lovingsquad.com/product/radiology-pumpkin-coquette-fall-autumn-xray-tech-halloween-shirt/",
+    "https://lovingsquad.com/product/pittsburgh-steelers-the-bus-runneth-over-jerome-bettis-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/washington-huskies-nba-basketball-emerald-city-spectrum-2025-shirt/",
-    "https://designatshop.com/product/violence-has-no-place-in-american-politics-it-belong-in-american-classrooms-and-movie-theaters-shirt/",
-    "https://designatshop.com/product/trump-x-uncle-sam-smart-people-dont-like-me-vintage-shirt/",
-    "https://designatshop.com/product/the-cat-meowfia-buffalo-bills-football-be-good-do-good-god-bless-go-bills-shirt/",
-    "https://designatshop.com/product/team-kimmel-what-happened-to-freedom-of-speech-vintage-shirt/",
-    "https://designatshop.com/product/sorry-i-was-super-weird-and-quiet-at-your-party-i-get-like-that-in-big-crowds-and-also-small-shirt/",
-    "https://designatshop.com/product/seattle-mariners-mlb-baseball-emerald-city-spectrum-2025-shirt/",
-    "https://designatshop.com/product/seattle-seahawks-emerald-city-spectrum-nfl-football-shirt/",
-    "https://designatshop.com/product/randy-johnson-wearing-indiana-fever-basketball-wnba-logo-shirt/",
-    "https://designatshop.com/product/peace-hands-freedom-of-speech-jimmy-kimmel-2025-shirt/"
+    "https://designatshop.com/product/younghoe-koo-atlanta-falcons-football-nfl-thank-you-signature-shirt/",
+    "https://designatshop.com/product/wolf-i-know-i-swear-a-lot-i-am-very-sorry-ill-try-to-be-good-1-and-2-are-lies-shirt/",
+    "https://designatshop.com/product/wolf-i-cant-argue-with-my-husband-hes-older-than-me-and-old-people-dont-listen-shirt/",
+    "https://designatshop.com/product/wolf-im-at-the-age-where-the-next-day-my-body-whispers-to-me-dont-do-that-again-shirt/",
+    "https://designatshop.com/product/turtle-please-dont-be-rude-to-me-because-my-rude-will-outrude-your-rude-and-ill-make-you-cry-shirt/",
+    "https://designatshop.com/product/unicorn-middle-finger-bitch-please-im-so-fucking-fabulous-i-pee-glitter-shit-cupcakes-and-fart-rainbow-shirt/",
+    "https://designatshop.com/product/stitch-i-am-grown-woman-im-not-a-fucking-princess-i-hate-an-attitude-opinions-a-very-loud-voice-shirt/",
+    "https://designatshop.com/product/skeleton-never-pick-a-fight-with-a-grumpy-man-older-than-50-we-are-full-of-rage-and-sick-of-everyones-crap-shirt/",
+    "https://designatshop.com/product/skeleton-life-is-like-toilet-paper-youre-either-on-a-roll-or-taking-crap-from-someone-shirt/",
+    "https://designatshop.com/product/snoopy-attention-i-am-out-of-order-until-further-notice-my-stupid-people-filter-needs-cleaning-shirt/"
   ],
   "arjomany.com": [
     "https://arjomany.com/product/the-maine-control-what-you-can-tee/",
@@ -305,16 +305,16 @@
     "https://newshirtstore.com/product/homecoming-25-hornets-in-the-fast-lane-no-speed-limits-on-victory-helmet-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/wendys-in-a-world-full-of-princesses-be-a-witch-halloween-shirt/",
-    "https://eteeclothing.com/product/walmart-in-a-world-full-of-princesses-be-a-witch-halloween-shirt/",
-    "https://eteeclothing.com/product/walgreens-in-a-world-full-of-princesses-be-a-witch-halloween-shirt/",
-    "https://eteeclothing.com/product/tupac-shakur-x-biggie-till-the-end-my-friend-shirt/",
-    "https://eteeclothing.com/product/tabasco-pepper-bayou-bite-born-bold-shirt/",
-    "https://eteeclothing.com/product/subway-in-a-world-full-of-princesses-be-a-witch-halloween-shirt/",
-    "https://eteeclothing.com/product/speedway-in-a-world-full-of-princesses-be-a-witch-halloween-shirt/",
-    "https://eteeclothing.com/product/skull-i-wake-up-every-day-with-a-good-attitude-and-then-idiots-happen-shirt/",
-    "https://eteeclothing.com/product/siemens-in-a-world-full-of-princesses-be-a-witch-halloween-shirt/",
-    "https://eteeclothing.com/product/sams-club-in-a-world-full-of-princesses-be-a-witch-halloween-shirt/"
+    "https://eteeclothing.com/product/horror-movies-we-used-to-smile-and-then-we-worked-at-walgreens-happy-hallothanksmas-shirt/",
+    "https://eteeclothing.com/product/horror-movies-we-used-to-smile-and-then-we-worked-at-ups-happy-hallothanksmas-shirt/",
+    "https://eteeclothing.com/product/horror-movies-we-used-to-smile-and-then-we-worked-at-tyson-foods-hallothanksmas-shirt/",
+    "https://eteeclothing.com/product/horror-movies-we-used-to-smile-and-then-we-worked-at-tj-maxx-hallothanksmas-shirt/",
+    "https://eteeclothing.com/product/horror-movies-we-used-to-smile-and-then-we-worked-at-target-happy-hallothanksmas-shirt/",
+    "https://eteeclothing.com/product/horror-movies-we-used-to-smile-and-then-we-worked-at-sams-club-happy-hallothanksmas-shirt-2/",
+    "https://eteeclothing.com/product/horror-movies-we-used-to-smile-and-then-we-worked-at-fedex-happy-hallothanksmas-shirt/",
+    "https://eteeclothing.com/product/horror-movies-we-used-to-smile-and-then-we-worked-at-doordash-happy-hallothanksmas-shirt/",
+    "https://eteeclothing.com/product/horror-movies-we-used-to-smile-and-then-we-worked-at-canada-post-happy-hallothanksmas-shirt/",
+    "https://eteeclothing.com/product/horror-movies-get-in-loser-were-going-to-killing-halloween-2025-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/official-sept-19-2025-chicago-il-agnostic-front-riot-fest-event-t-shirt/",
@@ -329,15 +329,15 @@
     "https://milkywayshirt.com/product/official-my-favorite-murder-rewind-og-stay-sexy-shirt/"
   ],
   "mercuryshirt.com": [
-    "https://mercuryshirt.com/product/wyatt-flores-sep-19-2025-in-austin-tx-poster-shirt/",
-    "https://mercuryshirt.com/product/ullmark-claude-shirt/",
-    "https://mercuryshirt.com/product/volbeat-september-18-2025-at-jyske-bank-boxen-show-poster-shirt/",
-    "https://mercuryshirt.com/product/tour-milwaukee-2025-shirt/",
-    "https://mercuryshirt.com/product/the-simpsons-burgundy-washington-commanders-shirt/",
-    "https://mercuryshirt.com/product/teamkimmel-hashtag-free-speech-2025-shirt/",
-    "https://mercuryshirt.com/product/take-back-the-notch-make-connecticut-whole-shirt/",
-    "https://mercuryshirt.com/product/smashing-pumpkins-japan-tour-limit-shirt/",
-    "https://mercuryshirt.com/product/senses-fail-chicago-shirt/",
-    "https://mercuryshirt.com/product/rsq-x-peanuts-pumpkin-club-halloween-2025-shirt/"
+    "https://mercuryshirt.com/product/we-have-nothing-to-fear-but-jimmy-kimmel-shirt/",
+    "https://mercuryshirt.com/product/yeah-i-support-lgbt-labyrinth-green-hill-zone-bingo-highway-twinkle-park-shirt/",
+    "https://mercuryshirt.com/product/when-i-sing-it-wasnt-me-by-shaggy-at-karoake-i-should-be-allowed-to-do-the-voice-shirt/",
+    "https://mercuryshirt.com/product/under-armour-2025-45th-ryder-cup-bethpage-black-shirt/",
+    "https://mercuryshirt.com/product/ufc-320-ultimate-fighting-championship-lifestyle-boxy-shirt/",
+    "https://mercuryshirt.com/product/tower-buzzers-baseball-2025-shirt/",
+    "https://mercuryshirt.com/product/the-simpsons-x-tampa-bay-buccaneers-shirt/",
+    "https://mercuryshirt.com/product/the-simpsons-x-philadelphia-eagles-shirt/",
+    "https://mercuryshirt.com/product/the-simpsons-x-buffalo-bills-shirt/",
+    "https://mercuryshirt.com/product/sorcerer-labrobro-shirt/"
   ]
 }
