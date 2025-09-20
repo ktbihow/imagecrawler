@@ -80,12 +80,16 @@
     "https://teeextra.com/product/official-yellow-icons-symbols-breaking-bad-jesse-pinkman-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/milwaukee-brewers-2025-nl-central-division-champions-t-shirt/",
-    "https://teespix.com/product/milwaukee-brewers-division-champs-2025-nl-central-champions-t-shirt/",
-    "https://teespix.com/product/milwaukee-brewers-nike-2025-nl-central-champions-we-are-brewers-so-back-t-shirt/",
-    "https://teespix.com/product/brewers-national-league-central-division-champions-2025-t-shirt/",
-    "https://teespix.com/product/division-champions-2025-milwaukee-brewers-mlb-postseason-t-shirt/",
-    "https://teespix.com/product/nike-we-are-so-back-milwaukee-brewers-2025-nl-central-division-champions-t-shirt/"
+    "https://teespix.com/product/tulsa-hurricanes-mascot-beat-oklahoma-state-cowboys-t-shirt/",
+    "https://teespix.com/product/mccarthy-and-kruk-2028-best-broadcast-team-in-baseball-t-shirt/",
+    "https://teespix.com/product/dion-dawkins-buffalo-bills-you-already-shnow-rivalries-t-shirt/",
+    "https://teespix.com/product/you-have-no-idea-what-you-just-have-unleashed-across-this-entire-country-erika-kirk-t-shirt/",
+    "https://teespix.com/product/freedom-will-prevail-erika-kirk-strong-wife-patriot-mom-t-shirt/",
+    "https://teespix.com/product/miami-hurricanes-we-runs-this-state-shirt/",
+    "https://teespix.com/product/kentucky-bluegrass-black-cats-halloween-shirt/",
+    "https://teespix.com/product/josh-allen-bills-be-good-do-good-bless-go-bflo-rivalries-shirt/",
+    "https://teespix.com/product/have-a-nice-day-la-freddie-freeman-shirt/",
+    "https://teespix.com/product/university-of-kansas-jayhawks-football-tour-2025-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/yeah-im-goth-goinked-off-the-hoinky-shirt/",
@@ -127,16 +131,16 @@
     "https://legendusashirt.com/product/the-cum-rag-sperm-logo-parody-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/excuse-me-i-lost-my-teddy-bear-will-you-sleep-with-me-shirt/",
-    "https://teehandus.com/product/thaiiii-food-shirt/",
-    "https://teehandus.com/product/yes-i-can-drive-a-stick-witch-flying-broom-halloween-shirt/",
-    "https://teehandus.com/product/jack-dorsey-logo-parody-shirt/",
-    "https://teehandus.com/product/yes-im-bi-bisexual-bipolar-bitch-shirt/",
-    "https://teehandus.com/product/you-wouldnt-spend-336k-on-a-bike-shed-shirt/",
-    "https://teehandus.com/product/stay-back-not-responsible-for-your-stupidity-shirt/",
-    "https://teehandus.com/product/we-stand-with-kimmel-shirt/",
-    "https://teehandus.com/product/los-angeles-dodgers-built-for-fall-2025-postseason-shirt/",
-    "https://teehandus.com/product/fuck-all-i-need-is-u-shirt/"
+    "https://teehandus.com/product/adtr-a-day-to-remember-2-sided-shirt/",
+    "https://teehandus.com/product/adult-content-pedro-pascal-shirt/",
+    "https://teehandus.com/product/dave-portnoys-one-bite-pizza-festival-2025-2-sided-shirt/",
+    "https://teehandus.com/product/dave-portnoys-one-bite-pizza-festival-the-greatest-gathering-of-pizzerias-ever-2025-2-sided-shirt/",
+    "https://teehandus.com/product/georgia-bulldog-nine-in-a-row-dawgs-on-top-2-sided-shirt/",
+    "https://teehandus.com/product/he-s-on-a-work-trip-with-jesus-erika-kirk-2-sided-shirt/",
+    "https://teehandus.com/product/neighborhood-shooter-shirt/",
+    "https://teehandus.com/product/sec-avg-gpa-and-bac-1-5-shirt/",
+    "https://teehandus.com/product/shedeur-sanders-number-12-cleveland-browns-2-sided-shirt/",
+    "https://teehandus.com/product/vermont-fauna-1-oversized-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -154,23 +158,28 @@
     "https://uscraftedtees.com/product/original-naomi-petersen-keith-photo-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/peanuts-scary-good-defense-this-halloween-green-bay-packers-shirt/",
-    "https://capitoneshirt.com/product/peanuts-scary-good-defense-this-halloween-georgia-bulldogs-shirt/",
-    "https://capitoneshirt.com/product/peanuts-scary-good-defense-this-halloween-buffalo-bills-shirt/",
-    "https://capitoneshirt.com/product/peanuts-scary-good-defense-this-halloween-auburn-tigers-shirt/",
-    "https://capitoneshirt.com/product/peanuts-just-a-girl-who-loves-halloween-and-san-francisco-49ers-shirt/",
-    "https://capitoneshirt.com/product/peanuts-just-a-girl-who-loves-halloween-and-nittany-lions-shirt/",
-    "https://capitoneshirt.com/product/peanuts-just-a-girl-who-loves-halloween-and-indianapolis-colts-shirt/",
-    "https://capitoneshirt.com/product/peanuts-just-a-girl-who-loves-halloween-and-buffalo-bills-shirt/",
-    "https://capitoneshirt.com/product/peanuts-just-a-girl-who-loves-halloween-and-buckeyes-shirt/",
-    "https://capitoneshirt.com/product/peanuts-just-a-girl-who-loves-halloween-and-auburn-tigers-shirt/"
+    "https://capitoneshirt.com/product/winston-churchill-uk-never-surrender-shirt/",
+    "https://capitoneshirt.com/product/unicorn-alpha-male-shirt/",
+    "https://capitoneshirt.com/product/so-fresh-and-so-clean-shirt/",
+    "https://capitoneshirt.com/product/sibling-clown-crew-for-life-shirt/",
+    "https://capitoneshirt.com/product/youve-got-an-enemy-in-new-jersey-shirt/",
+    "https://capitoneshirt.com/product/we-are-vain-and-we-are-blind-i-hate-people-when-theyre-not-polite-shirt/",
+    "https://capitoneshirt.com/product/shohei-ohtani-la-dodgers-logo-parody-shirt/",
+    "https://capitoneshirt.com/product/scurvy-when-life-doesnt-give-you-lemons-shirt/",
+    "https://capitoneshirt.com/product/santa-i-came-here-to-drink-and-fuck-and-im-almost-done-drinking-shirt/",
+    "https://capitoneshirt.com/product/rose-probably-thinking-about-the-tudors-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/georgia-bulldogs-nine-in-a-row-dawgs-on-top-shirt/",
-    "https://clickoneshirt.com/product/conference-usa-weekday-shirt/",
-    "https://clickoneshirt.com/product/freedom-well-done-good-and-faithful-servant-shirt/",
-    "https://clickoneshirt.com/product/mcr-shaky-knees-atlanta-braves-shirt/",
-    "https://clickoneshirt.com/product/new-york-giants-retro-legacy-from-xxv-to-the-helmet-catch-shirt/"
+    "https://clickoneshirt.com/product/whatever-it-takes-phila-shirt/",
+    "https://clickoneshirt.com/product/san-jose-giants-california-league-2025-shirt/",
+    "https://clickoneshirt.com/product/rip-brett-james-1968-2025-shirt/",
+    "https://clickoneshirt.com/product/philadelphia-phillies-baseball-onece-there-was-silly-old-ant-with-high-hopes-shirt/",
+    "https://clickoneshirt.com/product/paige-bueckers-dallas-wings-2025-wnba-rookie-of-the-year-shirt/",
+    "https://clickoneshirt.com/product/mimi-colyer-max-collegiate-shirt/",
+    "https://clickoneshirt.com/product/mcr-you-wait-outside-for-your-girlfriend-shirt/",
+    "https://clickoneshirt.com/product/mcr-you-must-fix-your-heart-shirt/",
+    "https://clickoneshirt.com/product/mcr-im-not-okay-i-promise-shirt/",
+    "https://clickoneshirt.com/product/lower-your-expectations-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/wednesday-walk-away-i-am-a-fan-of-the-asheville-nc-band-if-you-say-shit-about-them-retribution-will-come-swiftly-and-without-compromise-rat-saw-god-t-shirts/",
@@ -221,28 +230,21 @@
     "https://dalatshirt.com/product/can-i-pet-the-dawg-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/end-of-an-era-los-angeles-sports-figures-signatures-shirt/",
-    "https://lovingsquad.com/product/end-of-an-era-anze-kopitar-los-angeles-kings-x-clayton-kershaw-los-angeles-dodgers-signatures-shirt/",
-    "https://lovingsquad.com/product/eat-your-heart-out-logo-shirt/",
-    "https://lovingsquad.com/product/dark-woke-beastmode-the-computer-shall-set-you-free-poster-shirt/",
-    "https://lovingsquad.com/product/cleveland-skull-flames-helmet-shirt/",
-    "https://lovingsquad.com/product/clayton-kershaw-los-angeles-dodgers-forever-2008-2025-thank-you-for-the-memories-signature-shirt/",
-    "https://lovingsquad.com/product/clayton-kershaw-los-angeles-dodgers-all-star-selections-signature-shirt/",
-    "https://lovingsquad.com/product/clayton-kershaw-forever-signature-graphic-shirt/",
-    "https://lovingsquad.com/product/cincinnati-bengals-nfl-team-be-delusional-shirt/",
-    "https://lovingsquad.com/product/chisholm-jr-new-york-yankees-30hr-30-sb-poster-shirt/"
+    "https://lovingsquad.com/product/yungblud-aerosmith-logo-shirt/",
+    "https://lovingsquad.com/product/yeah-im-goth-goinked-off-the-hoinky-shirt/",
+    "https://lovingsquad.com/product/vikings-vs-bengals-vamos-minnesota-vikings-latino-hispanic-heritage-shirt/",
+    "https://lovingsquad.com/product/unleashed-brands-norman-leon-madeline-cordray-laura-sikkiller-dla-piper-forced-me-shirt/",
+    "https://lovingsquad.com/product/unapologetically-anti-fascist-shirt/",
+    "https://lovingsquad.com/product/trt-tan-rested-tarded-shirt/",
+    "https://lovingsquad.com/product/tony-d-if-i-spit-three-rounds-i-dont-lose-poster-shirt/",
+    "https://lovingsquad.com/product/texas-tech-university-logo-fearless-champions-national-shirt/",
+    "https://lovingsquad.com/product/texas-tech-university-fearless-champions-logo-shirt/",
+    "https://lovingsquad.com/product/super-bowl-champions-new-york-giants-graphic-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/younghoe-koo-atlanta-falcons-football-nfl-thank-you-signature-shirt/",
-    "https://designatshop.com/product/wolf-i-know-i-swear-a-lot-i-am-very-sorry-ill-try-to-be-good-1-and-2-are-lies-shirt/",
-    "https://designatshop.com/product/wolf-i-cant-argue-with-my-husband-hes-older-than-me-and-old-people-dont-listen-shirt/",
-    "https://designatshop.com/product/wolf-im-at-the-age-where-the-next-day-my-body-whispers-to-me-dont-do-that-again-shirt/",
-    "https://designatshop.com/product/turtle-please-dont-be-rude-to-me-because-my-rude-will-outrude-your-rude-and-ill-make-you-cry-shirt/",
-    "https://designatshop.com/product/unicorn-middle-finger-bitch-please-im-so-fucking-fabulous-i-pee-glitter-shit-cupcakes-and-fart-rainbow-shirt/",
-    "https://designatshop.com/product/stitch-i-am-grown-woman-im-not-a-fucking-princess-i-hate-an-attitude-opinions-a-very-loud-voice-shirt/",
-    "https://designatshop.com/product/skeleton-never-pick-a-fight-with-a-grumpy-man-older-than-50-we-are-full-of-rage-and-sick-of-everyones-crap-shirt/",
-    "https://designatshop.com/product/skeleton-life-is-like-toilet-paper-youre-either-on-a-roll-or-taking-crap-from-someone-shirt/",
-    "https://designatshop.com/product/snoopy-attention-i-am-out-of-order-until-further-notice-my-stupid-people-filter-needs-cleaning-shirt/"
+    "https://designatshop.com/product/los-angeles-dodgers-built-for-fall-nike-2025-mlb-postseason-shirt/",
+    "https://designatshop.com/product/los-angeles-dodgers-october-baseball-2025-mlb-postseason-shirt/",
+    "https://designatshop.com/product/los-angeles-dodgers-new-era-little-miss-shirt/"
   ],
   "arjomany.com": [
     "https://arjomany.com/product/vintage-david-bowie-scary-monsters-80-tour-t-shirt/",
