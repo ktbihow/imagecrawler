@@ -18,7 +18,8 @@
         "selector": "div.product-images img",
         "source_type": "product-list",
         "replacements": ["-Posters-black.jpg", "-Posters-white.jpg", "-White-poster.jpg", "-white-poster.jpg", "-poster.jpg", "-Mug-and-Ornament.jpg", "-mug.jpg", "-White-Ornaments.jpg"],
-        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teeworksusa.com", "prefix_length": 9 }
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teeworksusa.com", "prefix_length": 9 },
+		"check_recency": true
     },
     {
         "url": "https://meredpremium.com/",
@@ -31,7 +32,8 @@
         "source_type": "prevnext",
         "first_product_selector": ".product-small a.woocommerce-LoopProduct-link",
         "next_product_selector": "a:has(i.icon-angle-right)",
-		"fallback_rules": { "type": "cut_filename_prefix", "domain": "images.orionshirt.com", "prefix_length": 9 }
+		"fallback_rules": { "type": "cut_filename_prefix", "domain": "images.orionshirt.com", "prefix_length": 9 },
+		"check_recency": true
     },
     {
         "url": "https://berrylittles.com/",
@@ -50,7 +52,8 @@
         "selector": "div.product-images img",
         "replacements": ["-Ornament.jpg", "-Shirt.jpg"],
         "source_type": "product-list",
-        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teeextra.com", "prefix_length": 9 }
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teeextra.com", "prefix_length": 9 },
+		"check_recency": true
     },
     {
         "url": "https://eteeclothing.com/",
@@ -67,34 +70,39 @@
     {
         "url": "https://teespix.com/",
         "source_type": "product-list",
-        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teespix.com", "prefix_length": 9 }
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teespix.com", "prefix_length": 9 },
+		"check_recency": true
     },
     {
         "url": "https://nowbestshirt.com/",
         "selector": "div.product-images img",
         "replacements": ["-sweater.jpg", "-t-shirt.jpg"],
         "source_type": "product-list",
-        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.nowbestshirt.com", "prefix_length": 9 }
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.nowbestshirt.com", "prefix_length": 9 },
+		"check_recency": true
     },
     {
         "url": "https://serenashirt.com/",
         "selector": "div.product-images img",
         "replacements": ["-ornament-Ornament.jpg", "-sweater.jpg", "-shirt.jpg"],
         "source_type": "product-list",
-        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.serenashirt.com", "prefix_length": 9 }
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.serenashirt.com", "prefix_length": 9 },
+		"check_recency": true
     },
     {
         "url": "https://legendusashirt.com/",
         "selector": "div.product-images img",
         "replacements": ["-Sweater.webp", "-Shirt.webp", "-Sweater.jpg"],
         "source_type": "product-list",
-		"fallback_rules": { "type": "cut_filename_prefix", "domain": "images.legendusashirt.com", "prefix_length": 9 }
+		"fallback_rules": { "type": "cut_filename_prefix", "domain": "images.legendusashirt.com", "prefix_length": 9 },
+		"check_recency": true
     },
     {
         "url": "https://teehandus.com/",
         "replacements": {"-t-shirt.jpg": ["-Sweater.jpg"]},
         "source_type": "api",
-        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teehandus.com", "prefix_length": 9 }
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teehandus.com", "prefix_length": 9 },
+		"check_recency": true
     },
     {
         "url": "https://uscraftedtees.com/",
@@ -105,7 +113,8 @@
         "url": "https://capitoneshirt.com/",
         "replacements": {"-classictshirt.webp": ["-ornament.webp", "-sweater.webp"], "-shirt.webp": ["-sweater.webp", "-ornament.webp"], "-hoodie.webp": ["-sweater.webp", "-ornament.webp"]},
         "source_type": "api",
-        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.capitoneshirt.com", "prefix_length": 9 }
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.capitoneshirt.com", "prefix_length": 9 },
+		"check_recency": true
     },
     {
         "url": "https://clickoneshirt.com/",
@@ -120,7 +129,8 @@
         "url": "https://teeslocal.com/",
         "selector": "div.product-images img",
         "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teeslocal.com", "prefix_length": 9 },
-        "source_type": "product-list"
+        "source_type": "product-list",
+		"check_recency": true
     },
     {
         "url": "https://melonashirt.com/",
@@ -135,6 +145,7 @@
         "url": "https://lovingsquad.com/",
         "replacements": {"-Shirt.jpg": ["-T-shirt.jpg", "-Ladies.jpg"]},
         "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.lovingsquad.com", "prefix_length": 9 },
+		"check_recency": true,
         "source_type": "api"
     },
     {
