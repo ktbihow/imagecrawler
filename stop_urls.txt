@@ -1,15 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/24-jobs-finished-la-logo-ornament/",
-    "https://geekteesus.com/product/i-liked-the-detroit-lions-before-it-was-cool-signature-ornament/",
-    "https://geekteesus.com/product/king-trump-won-2024-american-flag-ornament/",
-    "https://geekteesus.com/product/new-york-jets-holiday-lights-ugly-christmas-2024-logo-ornament/",
-    "https://geekteesus.com/product/hoda-superfan-thank-you-hoda-photo-ornament/",
-    "https://geekteesus.com/product/wizard-i-dont-think-im-pulling-a-bit-anymore-ornament/",
-    "https://geekteesus.com/product/connecticut-sun-basketball-forever-not-just-when-we-win-signature-graphic-ornament/",
-    "https://geekteesus.com/product/the-raiders-legends-las-vegas-raiders-abbey-road-thank-you-for-the-memories-2024-signature-ornament/",
-    "https://geekteesus.com/product/rip-city-portland-trail-blazers-basketball-net-2024-ornament/",
-    "https://geekteesus.com/product/colorado-buffaloes-x-coach-deion-sanders-nike-logo-ornament/"
+    "https://geekteesus.com/product/ida-zetterstrom-top-fuel-dragster-2024-graphic-ornament/",
+    "https://geekteesus.com/product/the-new-york-mets-advance-to-the-nlcs-for-the-first-time-since-2015-ornament/",
+    "https://geekteesus.com/product/we-did-it-team-garbage-trump-2024-patriotic-ornament/",
+    "https://geekteesus.com/product/the-amazing-george-pickens-14-pittsburgh-steelers-football-signature-graphic-ornament/",
+    "https://geekteesus.com/product/pardon-my-take-a-national-podcast-ornament/",
+    "https://geekteesus.com/product/montreal-canadiens-hockey-fights-cancer-2024-logo-ornament/",
+    "https://geekteesus.com/product/aaron-judge-2024-new-york-yankees-mlb-fall-classic-world-series-logo-ornament/",
+    "https://geekteesus.com/product/los-angeles-dodgers-2024-major-league-baseball-world-series-champions-retro-ornament/",
+    "https://geekteesus.com/product/the-grinch-georgia-bulldogs-they-not-like-us-christmas-2024-ornament/",
+    "https://geekteesus.com/product/girls-the-grinch-glitter-xmas-ornament/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-the-amazing-devon-dampier-player-utah-utes-college-football-painting-t-shirt/",
@@ -20,11 +20,14 @@
     "https://orionshirt.com/product/official-2025-riot-fest-stealing-hearts-since-2005-painting-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/airball-31-fastbreak-bomb-d-valentine-shirt/",
-    "https://techteesusa.com/product/mossack-fonseca-because-taxes-are-for-poor-people-shirt/",
-    "https://techteesusa.com/product/catch-fraud-and-hot-dogs-logo-shirt/",
-    "https://techteesusa.com/product/i-love-to-gamble-away-my-sons-college-tuition-shirt/",
-    "https://techteesusa.com/product/west-virginia-mountaineers-football-almost-heaven-stadium-shirt/"
+    "https://techteesusa.com/product/puro-pinche-party-t-shirt/",
+    "https://techteesusa.com/product/katseye-x-toca-boca-t-shirt/",
+    "https://techteesusa.com/product/im-not-gay-but-20-bucks-is-an-insanely-low-amount-of-money-in-this-economy-t-shirt/",
+    "https://techteesusa.com/product/be-kind-to-the-earth-pierce-your-nipples-yell-at-your-landlord-t-shirt/",
+    "https://techteesusa.com/product/shred-eighty-mountain-shirt/",
+    "https://techteesusa.com/product/saratoga-springs-americas-oldest-sports-venue-new-york-shirt/",
+    "https://techteesusa.com/product/cowboy-carter-beyonce-rodeo-chitlin-circuit-tour-2025-signature-shirt/",
+    "https://techteesusa.com/product/over-and-out-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/yoda-laughing-i-may-have-the-right-to-remain-silent-but-boy-oh-boy-do-i-lack-the-ability-shirt/",
@@ -133,16 +136,16 @@
     "https://fanaticity.com/product/charlie-kick-freedom-red-signature-red-1993-2025-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/yes-im-old-but-i-saw-new-york-greatness-new-york-yankees-and-new-york-giants-t-shirt/",
-    "https://legendusashirt.com/product/yes-im-old-but-i-saw-new-york-greatness-legends-babe-ruth-taylor-frazier-and-messier-signatures-t-shirt/",
-    "https://legendusashirt.com/product/yes-im-old-but-i-saw-buffalo-greatness-kelly-and-hasek-signatures-t-shirt/",
-    "https://legendusashirt.com/product/yes-im-old-but-i-saw-philadelphia-phillies-greatness-bowa-carlton-schmidt-boone-luzinski-mcgram-and-maddox-signatures-t-shirt/",
-    "https://legendusashirt.com/product/wyatt-flores-moody-center-austin-tx-09-19-2025-poster-t-shirt/",
-    "https://legendusashirt.com/product/wilmington-north-carolina-live-show-oct-3-2025-t-shirt/",
-    "https://legendusashirt.com/product/west-virginia-football-almost-heaven-t-shirt/",
-    "https://legendusashirt.com/product/watcher-ghoul-boys-new-t-shirt/",
-    "https://legendusashirt.com/product/this-is-the-turning-point-american-flags-t-shirt/",
-    "https://legendusashirt.com/product/the-zoological-society-of-cincinnati-seal-t-shirt/"
+    "https://legendusashirt.com/product/cattle-decapitation-aftershock-festival-sacramento-ca-oct-2-2025-t-shirt/",
+    "https://legendusashirt.com/product/bulldogs-nine-in-a-row-dawgs-on-top-t-shirt/",
+    "https://legendusashirt.com/product/blackcraft-cult-ouija-cats-t-shirt/",
+    "https://legendusashirt.com/product/black-sabbath-poster-sabotage-flocked-blacklight-2025-t-shirt/",
+    "https://legendusashirt.com/product/baylor-bears-mascot-in-my-veins-jesus-in-my-heart-2025-t-shirt/",
+    "https://legendusashirt.com/product/5-stars-on-letterboxd-t-shirt/",
+    "https://legendusashirt.com/product/alabama-crimson-tide-god-first-family-second-then-roll-tide-roll-football-2025-t-shirt/",
+    "https://legendusashirt.com/product/antifa-baseball-club-t-shirt/",
+    "https://legendusashirt.com/product/zach-bryan-kings-of-leon-event-golden-gate-park-show-2025-t-shirt/",
+    "https://legendusashirt.com/product/you-died-listening-to-rfk-jr-t-shirt/"
   ],
   "teehandus.com": [
     "https://teehandus.com/product/caseoh-goob-lagoon-shirt/",
@@ -196,14 +199,9 @@
     "https://clickoneshirt.com/product/the-original-antifa-since-1941-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/zack-baun-bald-eagle-you-cant-be-great-without-the-greatness-of-others-philadelphia-eagles-philly-t-shirts/",
-    "https://teleteeshirt.com/product/w-kamau-bell-wearing-34-felonies-are-not-presidential-t-shirts/",
-    "https://teleteeshirt.com/product/the-promised-land-moses-t-shirts/",
-    "https://teleteeshirt.com/product/the-promised-land-dune-badge-t-shirts/",
-    "https://teleteeshirt.com/product/talking-heads-turn-like-a-wheel-inside-a-wheel-slippery-people-t-shirts/",
-    "https://teleteeshirt.com/product/steely-dan-steely-dan-bodhisattva-tour-2024-t-shirts/",
-    "https://teleteeshirt.com/product/steely-dan-negative-girl-film-t-shirts/",
-    "https://teleteeshirt.com/product/steely-dan-earth-after-hours-tour-2022-t-shirts/"
+    "https://teleteeshirt.com/product/alabama-shakes-september-19-2025-the-anthem-washington-dc-gators-t-shirts/",
+    "https://teleteeshirt.com/product/goose-sep-19-2025-michigan-lottery-amphitheatre-in-sterling-heights-mi-fox-t-shirts/",
+    "https://teleteeshirt.com/product/denim-tears-sorry-were-here-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/official-robert-redford-hollywood-star-rest-in-peace-1936-2025-shirt/",
@@ -314,16 +312,16 @@
     "https://newshirtstore.com/product/house-of-1000-corpses-halloween-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/shohei-ohtani-los-angeles-dodgers-50-strikeouts-50-home-runs-shirt/",
-    "https://eteeclothing.com/product/penny-shaq-orlando-magic-basketball-graphic-shirt/",
-    "https://eteeclothing.com/product/miami-dolphins-beat-down-buffalo-bills-help-shirt/",
-    "https://eteeclothing.com/product/mccarthy-and-kruk-24-best-broadcast-team-in-baseball-shirt/",
-    "https://eteeclothing.com/product/i-just-gambled-away-everything-shirt/",
-    "https://eteeclothing.com/product/i-didnt-mean-to-push-all-your-buttons-i-was-looking-for-mute-shirt/",
-    "https://eteeclothing.com/product/guess-whos-all-caught-up-on-laundry-its-not-me-but-im-sure-someone-has-and-im-proud-of-you-shirt/",
-    "https://eteeclothing.com/product/cow-i-just-dont-have-anymore-passwords-left-in-me-shirt/",
-    "https://eteeclothing.com/product/cow-duct-tape-cant-fix-stupid-but-it-can-muffle-the-sound-shirt/",
-    "https://eteeclothing.com/product/cooper-dejean-philadelphia-eagles-splatter-shirt/"
+    "https://eteeclothing.com/product/wendys-in-a-world-full-of-princesses-be-a-witch-halloween-shirt/",
+    "https://eteeclothing.com/product/walmart-in-a-world-full-of-princesses-be-a-witch-halloween-shirt/",
+    "https://eteeclothing.com/product/walgreens-in-a-world-full-of-princesses-be-a-witch-halloween-shirt/",
+    "https://eteeclothing.com/product/tupac-shakur-x-biggie-till-the-end-my-friend-shirt/",
+    "https://eteeclothing.com/product/tabasco-pepper-bayou-bite-born-bold-shirt/",
+    "https://eteeclothing.com/product/subway-in-a-world-full-of-princesses-be-a-witch-halloween-shirt/",
+    "https://eteeclothing.com/product/speedway-in-a-world-full-of-princesses-be-a-witch-halloween-shirt/",
+    "https://eteeclothing.com/product/skull-i-wake-up-every-day-with-a-good-attitude-and-then-idiots-happen-shirt/",
+    "https://eteeclothing.com/product/siemens-in-a-world-full-of-princesses-be-a-witch-halloween-shirt/",
+    "https://eteeclothing.com/product/sams-club-in-a-world-full-of-princesses-be-a-witch-halloween-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/official-the-paper-kites-if-you-go-there-i-hope-you-find-it-shirt/",
