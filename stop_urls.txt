@@ -1,15 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/ida-zetterstrom-top-fuel-dragster-2024-graphic-ornament/",
-    "https://geekteesus.com/product/the-new-york-mets-advance-to-the-nlcs-for-the-first-time-since-2015-ornament/",
-    "https://geekteesus.com/product/we-did-it-team-garbage-trump-2024-patriotic-ornament/",
-    "https://geekteesus.com/product/the-amazing-george-pickens-14-pittsburgh-steelers-football-signature-graphic-ornament/",
-    "https://geekteesus.com/product/pardon-my-take-a-national-podcast-ornament/",
-    "https://geekteesus.com/product/montreal-canadiens-hockey-fights-cancer-2024-logo-ornament/",
-    "https://geekteesus.com/product/aaron-judge-2024-new-york-yankees-mlb-fall-classic-world-series-logo-ornament/",
-    "https://geekteesus.com/product/los-angeles-dodgers-2024-major-league-baseball-world-series-champions-retro-ornament/",
-    "https://geekteesus.com/product/the-grinch-georgia-bulldogs-they-not-like-us-christmas-2024-ornament/",
-    "https://geekteesus.com/product/girls-the-grinch-glitter-xmas-ornament/"
+    "https://geekteesus.com/product/texas-am-aggies-vs-auburn-tigers-college-football-gameday-showdown-2025-shirt-2/",
+    "https://geekteesus.com/product/oakland-athletics-2025-mlb-postseason-logo-shirt/",
+    "https://geekteesus.com/product/we-are-so-back-new-york-yankees-2025-al-east-division-champions-shirt/",
+    "https://geekteesus.com/product/we-are-so-back-baltimore-orioles-2025-al-east-champions-postseason-shirt/",
+    "https://geekteesus.com/product/toronto-blue-jays-2025-al-east-division-champions-we-are-so-back-shirt/",
+    "https://geekteesus.com/product/thanks-kersh-clayton-kershaw-los-angeles-dodgers-mlb-shirt/",
+    "https://geekteesus.com/product/texas-rangers-2025-alcs-american-league-baseball-logo-shirt/",
+    "https://geekteesus.com/product/team-jimmy-kimmel-shirt/",
+    "https://geekteesus.com/product/stephen-colbert-and-jimmy-kimmel-28-shirt/",
+    "https://geekteesus.com/product/statue-of-liberty-jimmy-kimmel-team-shirt/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-the-amazing-devon-dampier-player-utah-utes-college-football-painting-t-shirt/",
@@ -259,16 +259,7 @@
     "https://lovingsquad.com/product/thank-you-for-not-loving-me-it-forced-me-to-love-myself-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/wu-tang-buffalo-bills-nfl-football-2025-logo-shirt/",
-    "https://designatshop.com/product/unicorn-does-anybody-else-have-a-voice-in-their-head-that-repeats-slap-the-idiot-slap-the-idiot-shirt/",
-    "https://designatshop.com/product/tasmanian-devil-los-angeles-chargers-piss-on-las-vegas-raiders-helmet-bolts-the-raiders-shirt/",
-    "https://designatshop.com/product/taking-back-son-day-ransom-shirt/",
-    "https://designatshop.com/product/saquon-barkley-philadelphia-eagles-football-nfl-city-skyline-go-birds-cartoon-shirt/",
-    "https://designatshop.com/product/saquon-barkley-philadelphia-eagles-football-nfl-rocket-go-birds-cartoon-shirt/",
-    "https://designatshop.com/product/pigeon-mexico-philadelphia-eagles-football-nfl-go-birds-bourbon-cartoon-shirt/",
-    "https://designatshop.com/product/phillie-phanatic-philadelphia-phillies-baseball-mlb-red-october-2025-shirt/",
-    "https://designatshop.com/product/philadelphia-eagles-football-nfl-stadium-lets-fly-go-birds-cartoon-shirt/",
-    "https://designatshop.com/product/pauls-books-madison-wisconsin-1954-2025-logo-shirt/"
+    "https://designatshop.com/product/red-white-blueberries-charlie-kirk-1993-2025-memorial-freedom-2-sided-shirt/"
   ],
   "arjomany.com": [
     "https://arjomany.com/product/zack-baun-x-philly-sports-shirts/",
@@ -283,16 +274,16 @@
     "https://arjomany.com/product/rsq-x-peanuts-pumpkin-club-halloween-2025-shirt/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/my-favorite-murder-mothman-t-shirt/",
-    "https://collectionpostertour.com/product/my-favorite-murder-mothman-t-shirt-limited-edition/",
-    "https://collectionpostertour.com/product/mercyful-fate-time-t-shirt/",
-    "https://collectionpostertour.com/product/mercyful-fate-time-t-shirt-limited-edition/",
-    "https://collectionpostertour.com/product/mercyful-fate-dont-break-the-oath-t-shirt/",
-    "https://collectionpostertour.com/product/mercyful-fate-dont-break-the-oath-t-shirt-limited-edition/",
-    "https://collectionpostertour.com/product/destroy-lonely-pain-passion-audio-cyber-t-shirt/",
-    "https://collectionpostertour.com/product/destroy-lonely-pain-passion-audio-cyber-t-shirt-limited-edition/",
-    "https://collectionpostertour.com/product/destroy-lonely-logo-mania-t-shirt/",
-    "https://collectionpostertour.com/product/destroy-lonely-logo-mania-t-shirt-limited-edition/"
+    "https://collectionpostertour.com/product/renee-rapp-white-tour-photo-limited-edition-t-shirt/",
+    "https://collectionpostertour.com/product/renee-rapp-white-tour-photo-2025-t-shirt/",
+    "https://collectionpostertour.com/product/renee-rapp-white-date-back-tour-2025-t-shirt/",
+    "https://collectionpostertour.com/product/renee-rapp-white-date-back-tour-2025-limited-edition-t-shirt/",
+    "https://collectionpostertour.com/product/renee-rapp-black-date-back-tour-2025-t-shirt/",
+    "https://collectionpostertour.com/product/renee-rapp-black-date-back-tour-2025-limited-edition-t-shirt/",
+    "https://collectionpostertour.com/product/renee-rapp-bite-me-usa-tour-2025-t-shirt/",
+    "https://collectionpostertour.com/product/renee-rapp-bite-me-usa-tour-2025-limited-edition-t-shirt/",
+    "https://collectionpostertour.com/product/knights-of-guinevere-guinevere-t-shirt/",
+    "https://collectionpostertour.com/product/knights-of-guinevere-guinevere-limited-edition-t-shirt/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/the-witcher-season-4-new-poster-revealed-on-netflix-releasing-october-30-2025-fantasy-series-unisex-t-shirt/",
