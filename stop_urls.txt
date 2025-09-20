@@ -127,12 +127,16 @@
     "https://legendusashirt.com/product/the-cum-rag-sperm-logo-parody-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/bud-light-fright-night-halloween-vintage-shirt/",
-    "https://teehandus.com/product/brandon-aubrey-dallas-cowboys-plan-b-aubrey-nfl-kicker-shirt/",
-    "https://teehandus.com/product/bear-jitsu-no-surrender-shirt/",
-    "https://teehandus.com/product/bad-boy-good-lips-shirtbe-nice-until-its-time-to-not-be-nice-shirt/",
-    "https://teehandus.com/product/34th-annual-hartsburg-pumpkin-festival-2025-shirt/",
-    "https://teehandus.com/product/alpha-in-the-streets-kitten-in-the-sheets-shirt/"
+    "https://teehandus.com/product/excuse-me-i-lost-my-teddy-bear-will-you-sleep-with-me-shirt/",
+    "https://teehandus.com/product/thaiiii-food-shirt/",
+    "https://teehandus.com/product/yes-i-can-drive-a-stick-witch-flying-broom-halloween-shirt/",
+    "https://teehandus.com/product/jack-dorsey-logo-parody-shirt/",
+    "https://teehandus.com/product/yes-im-bi-bisexual-bipolar-bitch-shirt/",
+    "https://teehandus.com/product/you-wouldnt-spend-336k-on-a-bike-shed-shirt/",
+    "https://teehandus.com/product/stay-back-not-responsible-for-your-stupidity-shirt/",
+    "https://teehandus.com/product/we-stand-with-kimmel-shirt/",
+    "https://teehandus.com/product/los-angeles-dodgers-built-for-fall-2025-postseason-shirt/",
+    "https://teehandus.com/product/fuck-all-i-need-is-u-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -150,16 +154,16 @@
     "https://uscraftedtees.com/product/original-naomi-petersen-keith-photo-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/j-j-mccarthy-scream-illustrated-vikings-shirt/",
-    "https://capitoneshirt.com/product/j-j-mccarthy-head-signature-minnesota-vikings-shirt/",
-    "https://capitoneshirt.com/product/santa-claus-too-much-drip-for-the-chimney-christmas-shirt/",
-    "https://capitoneshirt.com/product/rome-books-history-of-the-fall-of-the-roman-empire-shirt/",
-    "https://capitoneshirt.com/product/im-just-here-to-watch-kemari-copeland-shirt/",
-    "https://capitoneshirt.com/product/i-ordered-a-t-shirt-online-but-then-i-got-divorced-and-the-t-shirt-got-delivered-shirt/",
-    "https://capitoneshirt.com/product/probably-thinking-about-a-cold-case-shirt/",
-    "https://capitoneshirt.com/product/remember-that-time-when-saquon-barkley-jumped-backwards-that-was-awesome-shirt/",
-    "https://capitoneshirt.com/product/i-just-hope-both-teams-win-shirt/",
-    "https://capitoneshirt.com/product/potato-fries-im-your-father-shirt/"
+    "https://capitoneshirt.com/product/peanuts-scary-good-defense-this-halloween-green-bay-packers-shirt/",
+    "https://capitoneshirt.com/product/peanuts-scary-good-defense-this-halloween-georgia-bulldogs-shirt/",
+    "https://capitoneshirt.com/product/peanuts-scary-good-defense-this-halloween-buffalo-bills-shirt/",
+    "https://capitoneshirt.com/product/peanuts-scary-good-defense-this-halloween-auburn-tigers-shirt/",
+    "https://capitoneshirt.com/product/peanuts-just-a-girl-who-loves-halloween-and-san-francisco-49ers-shirt/",
+    "https://capitoneshirt.com/product/peanuts-just-a-girl-who-loves-halloween-and-nittany-lions-shirt/",
+    "https://capitoneshirt.com/product/peanuts-just-a-girl-who-loves-halloween-and-indianapolis-colts-shirt/",
+    "https://capitoneshirt.com/product/peanuts-just-a-girl-who-loves-halloween-and-buffalo-bills-shirt/",
+    "https://capitoneshirt.com/product/peanuts-just-a-girl-who-loves-halloween-and-buckeyes-shirt/",
+    "https://capitoneshirt.com/product/peanuts-just-a-girl-who-loves-halloween-and-auburn-tigers-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/georgia-bulldogs-nine-in-a-row-dawgs-on-top-shirt/",
@@ -217,16 +221,16 @@
     "https://dalatshirt.com/product/can-i-pet-the-dawg-t-shirts/"
   ],
   "lovingsquad.com": [
-    "https://lovingsquad.com/product/volbeat-september-18-2025-at-jyske-bank-boxen-show-poster-shirt/",
-    "https://lovingsquad.com/product/tyler-joseph-always-shirt/",
-    "https://lovingsquad.com/product/tokyo-game-show-2025-feretta-shirt/",
-    "https://lovingsquad.com/product/the-life-of-a-showgirl-taylor-shirt/",
-    "https://lovingsquad.com/product/the-good-girl-in-me-got-tired-of-the-bullshit-so-the-shirt/",
-    "https://lovingsquad.com/product/sorry-were-here-shirt/",
-    "https://lovingsquad.com/product/snoopy-peanuts-football-shirt/",
-    "https://lovingsquad.com/product/slut-for-halloween-shirt/",
-    "https://lovingsquad.com/product/roses-are-red-people-are-fake-i-stay-to-myself-so-i-wont-be-on-the-shirt/",
-    "https://lovingsquad.com/product/riot-fest-stealing-hearts-since-2005-bunny-shirt/"
+    "https://lovingsquad.com/product/end-of-an-era-los-angeles-sports-figures-signatures-shirt/",
+    "https://lovingsquad.com/product/end-of-an-era-anze-kopitar-los-angeles-kings-x-clayton-kershaw-los-angeles-dodgers-signatures-shirt/",
+    "https://lovingsquad.com/product/eat-your-heart-out-logo-shirt/",
+    "https://lovingsquad.com/product/dark-woke-beastmode-the-computer-shall-set-you-free-poster-shirt/",
+    "https://lovingsquad.com/product/cleveland-skull-flames-helmet-shirt/",
+    "https://lovingsquad.com/product/clayton-kershaw-los-angeles-dodgers-forever-2008-2025-thank-you-for-the-memories-signature-shirt/",
+    "https://lovingsquad.com/product/clayton-kershaw-los-angeles-dodgers-all-star-selections-signature-shirt/",
+    "https://lovingsquad.com/product/clayton-kershaw-forever-signature-graphic-shirt/",
+    "https://lovingsquad.com/product/cincinnati-bengals-nfl-team-be-delusional-shirt/",
+    "https://lovingsquad.com/product/chisholm-jr-new-york-yankees-30hr-30-sb-poster-shirt/"
   ],
   "designatshop.com": [
     "https://designatshop.com/product/younghoe-koo-atlanta-falcons-football-nfl-thank-you-signature-shirt/",
