@@ -143,16 +143,16 @@
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/official-charlie-kirk-just-because-you-are-offended-doesnt-mean-you-are-right-t-shirts/",
-    "https://uscraftedtees.com/product/official-dc-batman-faded-iconic-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-dance-kid-dance-tour-2025-tv-t-shirts/",
-    "https://uscraftedtees.com/product/official-crown-logo-ontario-reign-hockey-2008-t-shirts/",
-    "https://uscraftedtees.com/product/official-blackcraft-cult-its-just-a-game-isnt-it-ouija-cats-t-shirts/",
-    "https://uscraftedtees.com/product/official-will-varley-kingsdown-sundown-t-shirts/",
-    "https://uscraftedtees.com/product/official-we-have-nothing-to-fear-but-jimmy-kimmel-2025-t-shirts/",
-    "https://uscraftedtees.com/product/official-w-kamau-bell-wearing-34-felonies-are-not-presidential-t-shirts/",
-    "https://uscraftedtees.com/product/official-the-pretty-wild-button-eyes-t-shirts/",
-    "https://uscraftedtees.com/product/official-the-maine-adore-you-like-the-roses-2007-t-shirts/"
+    "https://uscraftedtees.com/product/official-the-simpsons-bart-knows-books-bart-knows-beer-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-the-mandatoryfunday-lower-your-expectations-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-the-maine-retro-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-the-maine-american-candy-cowgirl-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-the-maine-8123-star-phoenix-arizona-t-shirts/",
+    "https://uscraftedtees.com/product/official-the-favors-stacked-photo-t-shirts/",
+    "https://uscraftedtees.com/product/official-taz-and-bugs-bunny-of-looney-tunes-philadelphia-eagles-football-t-shirts/",
+    "https://uscraftedtees.com/product/official-swimming-trunks-elephant-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-skull-senses-fail-chicago-shit-tour-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-shaky-knees-my-chemical-romance-sep-20-2025-atlanta-ga-t-shirts/"
   ],
   "capitoneshirt.com": [
     "https://capitoneshirt.com/product/winston-churchill-uk-never-surrender-shirt/",
