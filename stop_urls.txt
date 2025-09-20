@@ -26,16 +26,16 @@
     "https://techteesusa.com/product/i-do-whatever-my-bitch-says-shirt/"
   ],
   "teeworksusa.com": [
-    "https://teeworksusa.com/product/welcome-to-the-rock-curt-cignetti-shirt/",
-    "https://teeworksusa.com/product/rob-thomas-the-all-night-days-tour-2025-portrait-shirt/",
-    "https://teeworksusa.com/product/rob-thomas-admat-sand-shirt/",
-    "https://teeworksusa.com/product/play-x-kidsuper-watercolor-shirt/",
-    "https://teeworksusa.com/product/moto-evil-end-it-shirt/",
-    "https://teeworksusa.com/product/life-is-great-just-gotta-be-dick-sometimes-shirt/",
-    "https://teeworksusa.com/product/kentucky-bluegrass-and-black-cats-shirt/",
-    "https://teeworksusa.com/product/baseball-coffee-with-adam-ottavino-shirt/",
-    "https://teeworksusa.com/product/jezus-and-the-gospelfuckers-shirt/",
-    "https://teeworksusa.com/product/afsp-we-are-all-a-work-in-progress-shirt-2/"
+    "https://teeworksusa.com/product/whirr-no-dream-is-ever-just-a-dream-shirt/",
+    "https://teeworksusa.com/product/whirr-follow-the-leader-shirt/",
+    "https://teeworksusa.com/product/whirr-caution-high-intensity-noise-area-shirt/",
+    "https://teeworksusa.com/product/when-i-sing-it-wasnt-me-by-shaggy-at-karoake-i-should-be-allowed-to-do-the-voice-shirt/",
+    "https://teeworksusa.com/product/wanted-dead-or-alive-kyle-schwarber-shirt/",
+    "https://teeworksusa.com/product/wanted-dead-or-alive-harrison-bader-shirt/",
+    "https://teeworksusa.com/product/wabbits-beware-shirt/",
+    "https://teeworksusa.com/product/the-quest-for-the-west-houston-astros-vs-seattle-mariners-shirt/",
+    "https://teeworksusa.com/product/the-emperor-symboli-rudolf-shirt/",
+    "https://teeworksusa.com/product/tengu-nite-shirt/"
   ],
   "meredpremium.com": [
     "https://meredpremium.com/product/official-you-have-no-idea-what-you-just-have-unleashed-across-this-entire-country-erika-kirk-t-shirt/",
@@ -143,16 +143,16 @@
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/original-watcher-ghoul-boys-white-t-shirts/",
-    "https://uscraftedtees.com/product/original-the-potato-in-the-back-of-my-pantry-t-shirts/",
-    "https://uscraftedtees.com/product/original-snake-dont-tread-on-me-except-for-jimmy-kimmel-t-shirts/",
-    "https://uscraftedtees.com/product/original-slogan-protect-the-dolls-2025-t-shirts/",
-    "https://uscraftedtees.com/product/original-skeleton-the-front-bottoms-new-jersey-usa-tour-2025-t-shirts/",
-    "https://uscraftedtees.com/product/original-ross-caliendo-show-at-night-gallery-in-los-angeles-ca-sep-20-oct-25-2025-t-shirts/",
-    "https://uscraftedtees.com/product/original-palantir-win-lose-dominate-t-shirts/",
-    "https://uscraftedtees.com/product/original-rabbit-riot-fest-stealing-hearts-since-2005-t-shirts/",
-    "https://uscraftedtees.com/product/original-one-in-a-krillion-t-shirts/",
-    "https://uscraftedtees.com/product/original-naomi-petersen-keith-photo-t-shirts/"
+    "https://uscraftedtees.com/product/official-charlie-kirk-just-because-you-are-offended-doesnt-mean-you-are-right-t-shirts/",
+    "https://uscraftedtees.com/product/official-dc-batman-faded-iconic-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-dance-kid-dance-tour-2025-tv-t-shirts/",
+    "https://uscraftedtees.com/product/official-crown-logo-ontario-reign-hockey-2008-t-shirts/",
+    "https://uscraftedtees.com/product/official-blackcraft-cult-its-just-a-game-isnt-it-ouija-cats-t-shirts/",
+    "https://uscraftedtees.com/product/official-will-varley-kingsdown-sundown-t-shirts/",
+    "https://uscraftedtees.com/product/official-we-have-nothing-to-fear-but-jimmy-kimmel-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-w-kamau-bell-wearing-34-felonies-are-not-presidential-t-shirts/",
+    "https://uscraftedtees.com/product/official-the-pretty-wild-button-eyes-t-shirts/",
+    "https://uscraftedtees.com/product/official-the-maine-adore-you-like-the-roses-2007-t-shirts/"
   ],
   "capitoneshirt.com": [
     "https://capitoneshirt.com/product/winston-churchill-uk-never-surrender-shirt/",
