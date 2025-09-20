@@ -11,16 +11,12 @@
     "https://orionshirt.com/product/official-2025-riot-fest-stealing-hearts-since-2005-painting-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/beyonce-cowboy-carter-tour-and-the-rodeo-chitlin-circuit-tour-shirt/",
-    "https://techteesusa.com/product/the-trick-or-treaters-abbey-road-spooky-season-halloween-shirt/",
-    "https://techteesusa.com/product/central-perk-friends-shirt/",
-    "https://techteesusa.com/product/bart-the-simpsons-x-dallas-cowboys-shirt/",
-    "https://techteesusa.com/product/bart-the-simpsons-x-cleveland-browns-shirt/",
-    "https://techteesusa.com/product/trump-they-thought-they-won-but-they-fafo-shirt/",
-    "https://techteesusa.com/product/when-i-sing-it-wasnt-me-by-shaggy-at-karoake-i-should-be-allowed-to-do-the-voice-shirt/",
-    "https://techteesusa.com/product/franklin-d-roosevelt-the-presidential-chronicles-shirt/",
-    "https://techteesusa.com/product/youre-killin-me-smalls-seattle-mariners-x-the-sandlot-shirt/",
-    "https://techteesusa.com/product/pizzagram-a-pizza-pentagram-shirt/"
+    "https://techteesusa.com/product/the-only-monarch-that-i-recognize-butterfly-t-shirt/",
+    "https://techteesusa.com/product/no-revolution-without-womens-liberation-t-shirt/",
+    "https://techteesusa.com/product/insert-cheesy-bread-t-shirt/",
+    "https://techteesusa.com/product/milf-man-i-love-felines-dogs-shirt/",
+    "https://techteesusa.com/product/happy-birthday-america-king-forged-4th-july-logo-shirt/",
+    "https://techteesusa.com/product/i-do-whatever-my-bitch-says-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/yoda-laughing-i-may-have-the-right-to-remain-silent-but-boy-oh-boy-do-i-lack-the-ability-shirt/",
@@ -248,28 +244,28 @@
     "https://designatshop.com/product/snoopy-attention-i-am-out-of-order-until-further-notice-my-stupid-people-filter-needs-cleaning-shirt/"
   ],
   "arjomany.com": [
-    "https://arjomany.com/product/pavement-levitation-sept-28-2025-poster/",
-    "https://arjomany.com/product/pavement-levitation-festival-2025-poster/",
-    "https://arjomany.com/product/modest-mouse-good-news-tour-poster/",
-    "https://arjomany.com/product/modest-mouse-good-news-poster/",
-    "https://arjomany.com/product/healing-appalachia-september-18-20-2025-poster/",
-    "https://arjomany.com/product/healing-appalachia-september-18-20-2025-ashland-kentucky-poster/",
-    "https://arjomany.com/product/healing-appalachia-september-18-19-20-2025-poster/",
-    "https://arjomany.com/product/healing-appalachia-sept-18-20-2025-ashland-kentucky-poster/",
-    "https://arjomany.com/product/charlie-berens-tour-2026-poster/",
-    "https://arjomany.com/product/charlie-berens-the-lost-found-tour-2026-poster/"
+    "https://arjomany.com/product/vintage-david-bowie-scary-monsters-80-tour-t-shirt/",
+    "https://arjomany.com/product/run-travis-run-punk-circle-logo-tee/",
+    "https://arjomany.com/product/rtr-run-for-your-life-tee/",
+    "https://arjomany.com/product/end-it-wrong-side-of-heaven-t-shirt/",
+    "https://arjomany.com/product/ed-sheeran-play-x-kidsuper-watercolor-t-shirt/",
+    "https://arjomany.com/product/ed-sheeran-play-x-kidsuper-shirt/",
+    "https://arjomany.com/product/ed-sheeran-play-x-kidsuper-scribble-t-shirt/",
+    "https://arjomany.com/product/ed-sheeran-play-x-kidsuper-nyc-t-shirt/",
+    "https://arjomany.com/product/ed-sheeran-play-x-kidsuper-doodle-t-shirt/",
+    "https://arjomany.com/product/ed-sheeran-play-x-kidsuper-cassette-t-shirt/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/umphreys-mcgee-september-19-20-2025-livingston-mt-concert-poster/",
-    "https://collectionpostertour.com/product/umphreys-mcgee-september-19-20-2025-limited-edition-poster/",
-    "https://collectionpostertour.com/product/phish-september-19-21-2025-limited-edition-poster/",
-    "https://collectionpostertour.com/product/phish-september-19-21-2025-hampton-va-concert-poster/",
-    "https://collectionpostertour.com/product/woodsist-festival-september-20-21-2025-limited-edition-poster/",
-    "https://collectionpostertour.com/product/woodsist-festival-september-20-21-2025-accord-ny-concert-poster/",
-    "https://collectionpostertour.com/product/volbeat-september-19-2025-limited-edition-poster/",
-    "https://collectionpostertour.com/product/volbeat-september-19-2025-copenhagen-denmark-concert-poster/",
-    "https://collectionpostertour.com/product/volbeat-september-18-2025-limited-edition-poster/",
-    "https://collectionpostertour.com/product/volbeat-september-18-2025-herning-denmark-concert-poster/"
+    "https://collectionpostertour.com/product/the-lumineers-september-19-2025-philadelphia-pa-concert-t-shirt/",
+    "https://collectionpostertour.com/product/the-lumineers-september-19-2025-limited-edition-t-shirt/",
+    "https://collectionpostertour.com/product/phish-september-2025-hampton-coliseum-event-t-shirt/",
+    "https://collectionpostertour.com/product/phish-september-19-20-21-2025-hampton-coliseum-concert-t-shirt/",
+    "https://collectionpostertour.com/product/paleface-swiss-the-cursed-tour-2025-t-shirt/",
+    "https://collectionpostertour.com/product/paleface-swiss-the-cursed-tour-2025-limited-edition-t-shirt/",
+    "https://collectionpostertour.com/product/paleface-swiss-pentagram-t-shirt/",
+    "https://collectionpostertour.com/product/paleface-swiss-pentagram-limited-edition-t-shirt/",
+    "https://collectionpostertour.com/product/paleface-swiss-crows-t-shirt/",
+    "https://collectionpostertour.com/product/paleface-swiss-crows-limited-edition-t-shirt/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/the-witcher-season-4-new-poster-revealed-on-netflix-releasing-october-30-2025-fantasy-series-unisex-t-shirt/",
@@ -284,16 +280,16 @@
     "https://neoteeco.com/product/nicolas-maduro-enemigo-de-los-venezolanos-political-protest-poster-venezuela-opposition-artwork-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/fly-the-w-chicago-cubs-2025-postseason-logo-shirt/",
-    "https://newshirtstore.com/product/droxxy-will-work-for-cheeseburger-shirt/",
-    "https://newshirtstore.com/product/ghost-eating-pumpkin-cool-spooky-halloween-shirt/",
-    "https://newshirtstore.com/product/due-to-inflation-my-halloween-cat-pumpkin-shirt/",
-    "https://newshirtstore.com/product/f-caw-f-funny-viral-chicken-2025-shirt/",
-    "https://newshirtstore.com/product/cincinnati-zoo-and-botanical-graden-celebrating-150-wild-years-shirt/",
-    "https://newshirtstore.com/product/disney-camp-rock-3-logo-shirt/",
-    "https://newshirtstore.com/product/f-caw-f-chicken-what-the-heli-2025-shirt/",
-    "https://newshirtstore.com/product/deers-decorative-patterns-vintage-shirt/",
-    "https://newshirtstore.com/product/chill-ghost-halloween-spooky-casual-shirt/"
+    "https://newshirtstore.com/product/house-of-terror-pumpkin-halloween-shirt-2/",
+    "https://newshirtstore.com/product/i-heard-they-dont-like-me-i-hope-they-heard-i-dont-give-a-fuck-skeleton-halloween-shirt-2/",
+    "https://newshirtstore.com/product/i-love-a-debate-shirt-2/",
+    "https://newshirtstore.com/product/i-came-to-utah-and-all-i-got-was-this-hockey-team-utah-hockey-club-shirt-2/",
+    "https://newshirtstore.com/product/i-dont-beg-for-friends-so-whether-you-speak-to-me-or-not-i-dont-give-a-flying-fuck-bat-halloween-shirt-2/",
+    "https://newshirtstore.com/product/i-got-a-jar-of-dirt-and-guess-whats-inside-it-mom-t-shirt-2/",
+    "https://newshirtstore.com/product/i-am-charlie-kirk-rip-american-flag-memorial-political-shirt-2/",
+    "https://newshirtstore.com/product/i-had-cybersex-with-chatgpt-shirt-2/",
+    "https://newshirtstore.com/product/house-of-1000-corpses-halloween-shirt-2/",
+    "https://newshirtstore.com/product/hocus-pocus-spellbound-t-shirt-2/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/will-ferrell-talladega-nights-ricky-bobby-if-you-aint-first-youre-last-shirt/",
