@@ -11,14 +11,10 @@
     "https://orionshirt.com/product/official-2025-riot-fest-stealing-hearts-since-2005-painting-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/puro-pinche-party-t-shirt/",
-    "https://techteesusa.com/product/katseye-x-toca-boca-t-shirt/",
-    "https://techteesusa.com/product/im-not-gay-but-20-bucks-is-an-insanely-low-amount-of-money-in-this-economy-t-shirt/",
-    "https://techteesusa.com/product/be-kind-to-the-earth-pierce-your-nipples-yell-at-your-landlord-t-shirt/",
-    "https://techteesusa.com/product/shred-eighty-mountain-shirt/",
-    "https://techteesusa.com/product/saratoga-springs-americas-oldest-sports-venue-new-york-shirt/",
-    "https://techteesusa.com/product/cowboy-carter-beyonce-rodeo-chitlin-circuit-tour-2025-signature-shirt/",
-    "https://techteesusa.com/product/over-and-out-shirt/"
+    "https://techteesusa.com/product/youre-killin-me-smalls-san-francisco-giants-x-the-sandlot-shirt/",
+    "https://techteesusa.com/product/whats-the-wirtz-that-could-happen-shirt/",
+    "https://techteesusa.com/product/alligator-alcatraz-eat-the-rich-shirt/",
+    "https://techteesusa.com/product/youre-killin-me-smalls-philadelphia-phillies-x-the-sandlot-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/yoda-laughing-i-may-have-the-right-to-remain-silent-but-boy-oh-boy-do-i-lack-the-ability-shirt/",
@@ -214,16 +210,16 @@
     "https://teeslocal.com/product/official-rest-in-pace-robert-redford-1936-2025-light-fades-legacy-shines-shirt/"
   ],
   "melonashirt.com": [
-    "https://melonashirt.com/product/official-mercy-costs-extra-combat-iron-shirts/",
-    "https://melonashirt.com/product/official-the-price-of-freedom-isnt-free-skull-american-flag-shirts/",
-    "https://melonashirt.com/product/official-we-dont-promise-you-a-rose-garden-the-marines-are-looking-for-a-few-good-men-shirts/",
-    "https://melonashirt.com/product/official-usmc-a-brotherhood-few-will-know-and-even-fewer-will-understand-shirts/",
-    "https://melonashirt.com/product/official-us-marines-corps-first-to-fight-join-now-and-test-your-courage-real-fighting-with-real-fighters-shirts/",
-    "https://melonashirt.com/product/official-these-colors-dont-run-they-reload-since-1776-american-flag-shirts/",
-    "https://melonashirt.com/product/official-the-only-easy-day-was-yesterday-skull-combat-iron-skull-shirts/",
-    "https://melonashirt.com/product/official-support-blue-collar-work-hard-play-harder-combat-iron-skull-shirts/",
-    "https://melonashirt.com/product/official-only-here-for-the-dogs-combat-iron-shirts/",
-    "https://melonashirt.com/product/official-marines-the-few-the-proud-shirts/"
+    "https://melonashirt.com/product/official-the-potato-in-the-back-of-my-pantry-shirts/",
+    "https://melonashirt.com/product/official-support-your-local-tavern-cursed-cocktails-shirts/",
+    "https://melonashirt.com/product/official-le-sserafim-easy-crazy-hot-tour-2025-dates-shirts/",
+    "https://melonashirt.com/product/official-im-thinking-about-the-time-my-mom-went-out-of-town-and-left-me-with-a-babysitter-shirts/",
+    "https://melonashirt.com/product/official-drawing-of-colton-hood-shirts/",
+    "https://melonashirt.com/product/official-die-spitz-spitznas-december-tour-texas-christmas-2025-shirts/",
+    "https://melonashirt.com/product/official-clean-up-crew-when-bases-are-loaded-please-call-1-800-home-run-under-armour-shirts/",
+    "https://melonashirt.com/product/official-annie-kelly-erin-go-bragh-charlie-kirk-shirts/",
+    "https://melonashirt.com/product/official-carhartt-freedom-progress-looks-so-much-like-destruction-shirts/",
+    "https://melonashirt.com/product/official-charles-wesley-godwin-helotes-tour-on-sep-18-2025-shirts/"
   ],
   "dalatshirt.com": [
     "https://dalatshirt.com/product/45th-ryder-cup-bethpage-black-sept-26-28-2025-farmingdale-new-york-t-shirts/",
@@ -253,16 +249,16 @@
     "https://designatshop.com/product/red-white-blueberries-charlie-kirk-1993-2025-memorial-freedom-2-sided-shirt/"
   ],
   "arjomany.com": [
-    "https://arjomany.com/product/zack-baun-x-philly-sports-shirts/",
-    "https://arjomany.com/product/welcome-to-derry-always-the-eyes-t-shirt/",
-    "https://arjomany.com/product/the-pretty-wild-sphynx-tee/",
-    "https://arjomany.com/product/the-pretty-wild-scream-tee/",
-    "https://arjomany.com/product/the-pretty-wild-half-alive-tee/",
-    "https://arjomany.com/product/the-pretty-wild-button-eyes-shirt/",
-    "https://arjomany.com/product/rsq-x-peanuts-together-halloween-2025-shirt/",
-    "https://arjomany.com/product/rsq-x-peanuts-squad-scary-movie-club-2025-shirt/",
-    "https://arjomany.com/product/rsq-x-peanuts-pumpkins-2025-shirt/",
-    "https://arjomany.com/product/rsq-x-peanuts-pumpkin-club-halloween-2025-shirt/"
+    "https://arjomany.com/product/umphreys-mcgee-sept-19-20-2025-livingston-mt-poster/",
+    "https://arjomany.com/product/phish-sept-19-20-21-2025-hampton-poster/",
+    "https://arjomany.com/product/the-maine-retro-t-shirt/",
+    "https://arjomany.com/product/the-maine-listen-to-a-band-merch/",
+    "https://arjomany.com/product/the-maine-floral-shirt/",
+    "https://arjomany.com/product/the-maine-8123-star-tee/",
+    "https://arjomany.com/product/the-favors-stacked-photo-shirt/",
+    "https://arjomany.com/product/the-favors-lake-george-new-t-shirt/",
+    "https://arjomany.com/product/sickos-tropics-t-shirt/",
+    "https://arjomany.com/product/qotsa-domesticated-animals-shirt/"
   ],
   "collectionpostertour.com": [
     "https://collectionpostertour.com/product/renee-rapp-white-tour-photo-limited-edition-t-shirt/",
@@ -313,16 +309,16 @@
     "https://eteeclothing.com/product/sams-club-in-a-world-full-of-princesses-be-a-witch-halloween-shirt/"
   ],
   "milkywayshirt.com": [
-    "https://milkywayshirt.com/product/official-the-paper-kites-if-you-go-there-i-hope-you-find-it-shirt/",
-    "https://milkywayshirt.com/product/official-kill-tony-monday-night-kt-shirt/",
-    "https://milkywayshirt.com/product/official-al-jokes-im-not-gay-but-50-cents-is-50-cents-shirt/",
-    "https://milkywayshirt.com/product/official-09-19-2025-red-rocks-atmosphere-friends-shirt/",
-    "https://milkywayshirt.com/product/official-this-team-makes-me-drinks-t-shirt/",
-    "https://milkywayshirt.com/product/official-ethel-cains-2025-willoughby-tucker-forever-tour-shirt/",
-    "https://milkywayshirt.com/product/official-circle-jerks-hollywood-palladium-sept-19-2025-keiths-70th-birthday-poster-shirt/",
-    "https://milkywayshirt.com/product/official-atlanta-georgia-2025-shaky-knees-festival-poster-shirt/",
-    "https://milkywayshirt.com/product/official-circle-jerks-north-american-tour-shirt/",
-    "https://milkywayshirt.com/product/official-the-who-tour-hollywood-ca-09-17-2025-poster-shirt/"
+    "https://milkywayshirt.com/product/official-sept-19-2025-chicago-il-agnostic-front-riot-fest-event-t-shirt/",
+    "https://milkywayshirt.com/product/official-my-chemical-romance-shaky-knees-festival-09-20-2025-shirt/",
+    "https://milkywayshirt.com/product/official-2025-philadelphia-flyers-brick-by-brick-shirt/",
+    "https://milkywayshirt.com/product/official-victim-in-pain-25-years-tour-chicago-il-2025-agnostic-front-t-shirt/",
+    "https://milkywayshirt.com/product/official-richy-mitch-the-coal-miners-salamander-t-shirt/",
+    "https://milkywayshirt.com/product/official-i-stand-with-jimmy-kimmel-shirt/",
+    "https://milkywayshirt.com/product/official-cattle-decapitation-sacramento-ca-oct-2-2025-shirt/",
+    "https://milkywayshirt.com/product/official-2025-national-park-after-dark-enjoy-the-view-but-watch-your-back-shirt/",
+    "https://milkywayshirt.com/product/official-sorry-x-r-u-dwn-t-shirt/",
+    "https://milkywayshirt.com/product/official-my-favorite-murder-rewind-og-stay-sexy-shirt/"
   ],
   "mercuryshirt.com": [
     "https://mercuryshirt.com/product/wyatt-flores-sep-19-2025-in-austin-tx-poster-shirt/",
