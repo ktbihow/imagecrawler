@@ -116,28 +116,21 @@
     "https://fanaticity.com/product/charlie-kick-freedom-red-signature-red-1993-2025-shirt/"
   ],
   "legendusashirt.com": [
-    "https://legendusashirt.com/product/yellow-icons-symbols-breaking-bad-jesse-pinkman-t-shirt/",
-    "https://legendusashirt.com/product/will-varley-machines-will-never-learn-to-make-mistakes-like-me-2025-world-tour-t-shirt/",
-    "https://legendusashirt.com/product/white-house-fruit-farm-fall-headquarters-t-shirt/",
-    "https://legendusashirt.com/product/we-have-nothing-to-fear-but-jimmy-kimmel-t-shirt/",
-    "https://legendusashirt.com/product/umphreys-mcgee-pine-creek-lodge-in-livingston-mt-sep-19-20-2025-t-shirt/",
-    "https://legendusashirt.com/product/tuns-targets-t-shirt/",
-    "https://legendusashirt.com/product/the-snake-must-hiss-t-shirt/",
-    "https://legendusashirt.com/product/the-favors-restless-little-heart-t-shirt/",
-    "https://legendusashirt.com/product/the-los-angeles-dodgers-2025-mlb-legends-signatures-thank-you-for-the-memories-t-shirt/",
-    "https://legendusashirt.com/product/the-cum-rag-sperm-logo-parody-t-shirt/"
+    "https://legendusashirt.com/product/ontario-tower-buzzer-proud-affiliate-of-the-los-angeles-dodgers-t-shirt/",
+    "https://legendusashirt.com/product/oklahoma-sooners-crimson-beat-auburn-t-shirt/",
+    "https://legendusashirt.com/product/ohio-sports-charlie-brown-ohio-state-buckeyes-on-saturdays-x-snoopy-cleveland-browns-on-sundays-skyline-2025-t-shirt/",
+    "https://legendusashirt.com/product/nine-in-a-are-row-dawg-on-top-good-ole-rocky-flop-t-shirt/",
+    "https://legendusashirt.com/product/nebraska-huskers-in-my-veins-jesus-in-my-heart-mascot-2025-t-shirt/",
+    "https://legendusashirt.com/product/minnesota-city-sports-players-signatures-2025-t-shirt/",
+    "https://legendusashirt.com/product/may-truth-unite-us-charlie-kirk-1993-2025-inspiring-in-our-hearts-t-shirt/",
+    "https://legendusashirt.com/product/miami-hurricanes-cj-daniels-catch-of-the-year-signature-t-shirt/",
+    "https://legendusashirt.com/product/yes-im-old-but-i-saw-kansas-city-chiefs-greatness-legends-super-bowl-iv-signatures-t-shirt/",
+    "https://legendusashirt.com/product/yes-im-old-but-i-saw-new-york-mets-greatness-godden-hernandez-strawberry-seaver-wright-piazza-koosman-signatures-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/adtr-a-day-to-remember-2-sided-shirt/",
-    "https://teehandus.com/product/adult-content-pedro-pascal-shirt/",
-    "https://teehandus.com/product/dave-portnoys-one-bite-pizza-festival-2025-2-sided-shirt/",
-    "https://teehandus.com/product/dave-portnoys-one-bite-pizza-festival-the-greatest-gathering-of-pizzerias-ever-2025-2-sided-shirt/",
-    "https://teehandus.com/product/georgia-bulldog-nine-in-a-row-dawgs-on-top-2-sided-shirt/",
-    "https://teehandus.com/product/he-s-on-a-work-trip-with-jesus-erika-kirk-2-sided-shirt/",
-    "https://teehandus.com/product/neighborhood-shooter-shirt/",
-    "https://teehandus.com/product/sec-avg-gpa-and-bac-1-5-shirt/",
-    "https://teehandus.com/product/shedeur-sanders-number-12-cleveland-browns-2-sided-shirt/",
-    "https://teehandus.com/product/vermont-fauna-1-oversized-shirt/"
+    "https://teehandus.com/product/american-eagle-men-s-shirt/",
+    "https://teehandus.com/product/bank-of-america-chicago-marathon-2025-shirt/",
+    "https://teehandus.com/product/d4vd-bloody-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -215,10 +208,16 @@
     "https://melonashirt.com/product/official-charles-wesley-godwin-helotes-tour-on-sep-18-2025-shirts/"
   ],
   "dalatshirt.com": [
-    "https://dalatshirt.com/product/corteiz-rules-the-world-t-shirts/",
-    "https://dalatshirt.com/product/dark-woke-the-computer-shall-set-you-free-anime-t-shirts/",
-    "https://dalatshirt.com/product/autism-periodic-table-meaning-value-and-rage-incredibly-strong-useful-many-talents-t-shirts/",
-    "https://dalatshirt.com/product/cz-graphic-lightning-t-shirts/"
+    "https://dalatshirt.com/product/yes-im-old-but-i-saw-new-york-mets-greatness-signatures-t-shirts/",
+    "https://dalatshirt.com/product/yes-im-old-but-i-saw-the-perfect-season-1972-super-bowl-vii-miami-dolphins-t-shirts/",
+    "https://dalatshirt.com/product/yes-im-old-but-i-saw-los-angeles-dodgers-greatness-signatures-t-shirts/",
+    "https://dalatshirt.com/product/yes-im-old-but-i-saw-kansas-city-chiefs-greatness-super-bowl-helmet-football-t-shirts/",
+    "https://dalatshirt.com/product/yes-im-old-but-i-saw-chicago-cubs-greatness-signatures-t-shirts/",
+    "https://dalatshirt.com/product/yes-im-old-but-i-saw-boston-red-sox-greatness-signatures-t-shirts/",
+    "https://dalatshirt.com/product/woodstock-and-snoopy-banana-boonana-t-shirts/",
+    "https://dalatshirt.com/product/when-injustice-becomes-law-resistance-becomes-duty-thomas-jefferson-t-shirts/",
+    "https://dalatshirt.com/product/warning-this-autism-mum-uses-her-patience-on-her-child-hand-pride-rainbow-t-shirts/",
+    "https://dalatshirt.com/product/twenty-one-pilots-moonlight-t-shirts-2/"
   ],
   "lovingsquad.com": [
     "https://lovingsquad.com/product/yungblud-aerosmith-logo-shirt/",
