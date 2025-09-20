@@ -1,6 +1,15 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/texas-am-aggies-vs-auburn-tigers-college-football-gameday-showdown-2025-t-shirt/"
+    "https://geekteesus.com/product/paige-bueckers-dallas-wings-basketball-rookie-of-the-year-wnba-shirt/",
+    "https://geekteesus.com/product/kershaw-forever-22-los-angeles-dodgers-baseball-signature-shirt/",
+    "https://geekteesus.com/product/it-only-hurts-when-i-think-shirt/",
+    "https://geekteesus.com/product/grand-theft-gridiron-buffalo-bills-football-shirt/",
+    "https://geekteesus.com/product/free-roger-targeted-since-2000-shirt/",
+    "https://geekteesus.com/product/freddy-krueger-chucky-and-ghostface-moon-washington-nationals-mlb-halloween-2025-shirt/",
+    "https://geekteesus.com/product/freddy-krueger-chucky-and-ghostface-moon-toronto-blue-jays-mlb-halloween-2025-shirt/",
+    "https://geekteesus.com/product/freddy-krueger-chucky-and-ghostface-moon-tampa-bay-rays-mlb-halloween-2025-shirt/",
+    "https://geekteesus.com/product/freddy-krueger-chucky-and-ghostface-moon-texas-rangers-mlb-halloween-2025-shirt/",
+    "https://geekteesus.com/product/freddy-krueger-chucky-and-ghostface-moon-new-york-yankees-mlb-halloween-2025-shirt/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-queens-of-the-stone-age-the-evil-has-landed-military-green-painting-t-shirt/",
@@ -92,16 +101,8 @@
     "https://teespix.com/product/university-of-kansas-jayhawks-football-tour-2025-shirt/"
   ],
   "nowbestshirt.com": [
-    "https://nowbestshirt.com/product/yeah-im-goth-goinked-off-the-hoinky-shirt/",
-    "https://nowbestshirt.com/product/turtle-i-may-be-crazy-but-crazy-is-far-better-than-stupid-shirt/",
-    "https://nowbestshirt.com/product/trump-gold-card-united-states-of-america-signature-shirt/",
-    "https://nowbestshirt.com/product/stitch-you-say-that-dirty-minded-i-am-but-how-did-you-understand-what-i-meant-shirt/",
-    "https://nowbestshirt.com/product/stitch-i-really-dont-mind-getting-old-but-my-body-is-having-a-major-hissy-fit-shirt/",
-    "https://nowbestshirt.com/product/stitch-i-may-not-cry-over-spilled-milk-but-ill-lose-my-freaking-mind-over-spilled-coffee-shirt/",
-    "https://nowbestshirt.com/product/sorry-were-here-shirt/",
-    "https://nowbestshirt.com/product/snoopy-sorry-i-am-cranky-im-going-through-my-terrible-seventies-right-now-shirt/",
-    "https://nowbestshirt.com/product/snoopy-and-woodstock-my-give-a-fuck-is-broken-but-my-go-fuck-yourself-is-fully-functional-shirt/",
-    "https://nowbestshirt.com/product/snoopy-and-woodstock-if-my-kid-is-dirty-its-because-my-kid-actually-plays-outside-so-mind-ya-business-shirt/"
+    "https://nowbestshirt.com/product/never-surrender-love-an-american-mother-charlie-kirk-family-tribute-shirt/",
+    "https://nowbestshirt.com/product/charlie-kirk-who-shot-ya-the-2nd-amendment-shirt/"
   ],
   "serenashirt.com": [
     "https://serenashirt.com/product/stupid-mfs-x-gang-shirt/"
@@ -182,16 +183,16 @@
     "https://clickoneshirt.com/product/lower-your-expectations-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/wednesday-walk-away-i-am-a-fan-of-the-asheville-nc-band-if-you-say-shit-about-them-retribution-will-come-swiftly-and-without-compromise-rat-saw-god-t-shirts/",
-    "https://teleteeshirt.com/product/vineyard-vines-2025-ryder-cup-bethpage-black-americana-whale-flag-t-shirts/",
-    "https://teleteeshirt.com/product/vale-im-a-star-t-shirts/",
-    "https://teleteeshirt.com/product/tyler-the-creator-do-you-still-love-me-disorder-golf-wang-t-shirts/",
-    "https://teleteeshirt.com/product/tyler-the-creator-beauty-is-pain-golf-wang-t-shirts/",
-    "https://teleteeshirt.com/product/the-black-dahlia-murder-wolfman-t-shirts/",
-    "https://teleteeshirt.com/product/the-black-dahlia-murder-utopia-t-shirts/",
-    "https://teleteeshirt.com/product/the-black-dahlia-murder-cursed-creator-t-shirts-2/",
-    "https://teleteeshirt.com/product/tyler-the-creator-stitched-heart-t-shirts/",
-    "https://teleteeshirt.com/product/tyler-the-creator-shut-the-fuck-up-t-shirts/"
+    "https://teleteeshirt.com/product/volbeat-sept-19-2025-in-copenhagen-denmark-t-shirts/",
+    "https://teleteeshirt.com/product/umphreys-mcgee-livingston-montana-weekends-run-on-september-19-20-2025-t-shirts/",
+    "https://teleteeshirt.com/product/the-georgia-bulldogs-135th-anniversary-season-go-dawgs-sic-em-woof-woof-woof-thank-you-for-the-memories-road-abbey-signatures-t-shirts/",
+    "https://teleteeshirt.com/product/the-los-angeles-dodgers-70th-anniversary-world-series-1955-2025-thank-you-for-the-memories-road-abbey-signatures-t-shirts/",
+    "https://teleteeshirt.com/product/the-funeral-party-whirr-no-dream-is-ever-just-a-dream-t-shirts/",
+    "https://teleteeshirt.com/product/the-flavors-restless-little-heart-t-shirts/",
+    "https://teleteeshirt.com/product/the-fall-of-troy-doppelganger-windows-t-shirts/",
+    "https://teleteeshirt.com/product/spike-and-the-gimme-gimmes-flamingo-t-shirts/",
+    "https://teleteeshirt.com/product/a-perfect-circle-tour-louisville-ky-sep-20-2025-tour-rooster-t-shirts/",
+    "https://teleteeshirt.com/product/arizona-diamondbacks-fun-fun-fun-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/spartan-4th-annual-fun-run-2025-disney-ii-2025-shirt/",
