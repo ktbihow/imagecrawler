@@ -179,16 +179,16 @@
     "https://clickoneshirt.com/product/lower-your-expectations-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/volbeat-sept-19-2025-in-copenhagen-denmark-t-shirts/",
-    "https://teleteeshirt.com/product/umphreys-mcgee-livingston-montana-weekends-run-on-september-19-20-2025-t-shirts/",
-    "https://teleteeshirt.com/product/the-georgia-bulldogs-135th-anniversary-season-go-dawgs-sic-em-woof-woof-woof-thank-you-for-the-memories-road-abbey-signatures-t-shirts/",
-    "https://teleteeshirt.com/product/the-los-angeles-dodgers-70th-anniversary-world-series-1955-2025-thank-you-for-the-memories-road-abbey-signatures-t-shirts/",
-    "https://teleteeshirt.com/product/the-funeral-party-whirr-no-dream-is-ever-just-a-dream-t-shirts/",
-    "https://teleteeshirt.com/product/the-flavors-restless-little-heart-t-shirts/",
-    "https://teleteeshirt.com/product/the-fall-of-troy-doppelganger-windows-t-shirts/",
-    "https://teleteeshirt.com/product/spike-and-the-gimme-gimmes-flamingo-t-shirts/",
-    "https://teleteeshirt.com/product/a-perfect-circle-tour-louisville-ky-sep-20-2025-tour-rooster-t-shirts/",
-    "https://teleteeshirt.com/product/arizona-diamondbacks-fun-fun-fun-t-shirts/"
+    "https://teleteeshirt.com/product/whirr-slide-away-2025-new-york-philadelphia-los-angeles-t-shirts/",
+    "https://teleteeshirt.com/product/the-goddamn-gallows-hell-yeah-lets-join-a-cult-t-shirts/",
+    "https://teleteeshirt.com/product/the-fall-of-troy-doppelganger-everyone-hosa-double-multiples-2025-t-shirts/",
+    "https://teleteeshirt.com/product/the-fall-of-troy-exercise-t-shirts/",
+    "https://teleteeshirt.com/product/shinedown-dance-kid-dance-tour-2025-photo-t-shirts/",
+    "https://teleteeshirt.com/product/spag-heddy-the-big-boil-scribble-t-shirts/",
+    "https://teleteeshirt.com/product/official-the-maine-control-what-you-can-confront-what-you-cant-t-shirts/",
+    "https://teleteeshirt.com/product/senses-fail-new-jersey-vs-the-world-tour-2024-t-shirts/",
+    "https://teleteeshirt.com/product/microwave-no-one-can-give-you-peace-lets-start-degeneracy-no-one-can-take-it-away-peace-frog-t-shirts/",
+    "https://teleteeshirt.com/product/alestorm-we-will-rise-from-the-ashes-of-chaos-the-thunderfist-chronicles-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/spartan-4th-annual-fun-run-2025-disney-ii-2025-shirt/",
@@ -311,15 +311,15 @@
     "https://milkywayshirt.com/product/official-my-favorite-murder-rewind-og-stay-sexy-shirt/"
   ],
   "mercuryshirt.com": [
-    "https://mercuryshirt.com/product/we-have-nothing-to-fear-but-jimmy-kimmel-shirt/",
-    "https://mercuryshirt.com/product/yeah-i-support-lgbt-labyrinth-green-hill-zone-bingo-highway-twinkle-park-shirt/",
-    "https://mercuryshirt.com/product/when-i-sing-it-wasnt-me-by-shaggy-at-karoake-i-should-be-allowed-to-do-the-voice-shirt/",
-    "https://mercuryshirt.com/product/under-armour-2025-45th-ryder-cup-bethpage-black-shirt/",
-    "https://mercuryshirt.com/product/ufc-320-ultimate-fighting-championship-lifestyle-boxy-shirt/",
-    "https://mercuryshirt.com/product/tower-buzzers-baseball-2025-shirt/",
-    "https://mercuryshirt.com/product/the-simpsons-x-tampa-bay-buccaneers-shirt/",
-    "https://mercuryshirt.com/product/the-simpsons-x-philadelphia-eagles-shirt/",
-    "https://mercuryshirt.com/product/the-simpsons-x-buffalo-bills-shirt/",
-    "https://mercuryshirt.com/product/sorcerer-labrobro-shirt/"
+    "https://mercuryshirt.com/product/buffalo-bills-vs-miami-dolphins-squish-the-fish-shirt/",
+    "https://mercuryshirt.com/product/arizona-diamondbacks-2025-mlb-postseason-built-for-october-shirt/",
+    "https://mercuryshirt.com/product/boston-red-sox-2025-mlb-postseason-built-for-october-shirt/",
+    "https://mercuryshirt.com/product/arizona-diamondbacks-fun-shirt/",
+    "https://mercuryshirt.com/product/blink-182-missionary-impossible-tour-2025-shirt/",
+    "https://mercuryshirt.com/product/wyatt-sicks-lumis-collection-ramblin-rabbit-shirt/",
+    "https://mercuryshirt.com/product/when-they-kick-down-your-front-door-how-you-gun-come-shirt/",
+    "https://mercuryshirt.com/product/vladdy-shush-vladimir-guerrero-jr-toronto-shirt/",
+    "https://mercuryshirt.com/product/utah-jazz-halloween-jigsaw-saw-horror-basketball-shirt/",
+    "https://mercuryshirt.com/product/the-who-mountain-view-ca-2025-shirt/"
   ]
 }
