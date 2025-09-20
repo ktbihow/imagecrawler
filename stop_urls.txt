@@ -215,16 +215,10 @@
     "https://melonashirt.com/product/official-charles-wesley-godwin-helotes-tour-on-sep-18-2025-shirts/"
   ],
   "dalatshirt.com": [
-    "https://dalatshirt.com/product/45th-ryder-cup-bethpage-black-sept-26-28-2025-farmingdale-new-york-t-shirts/",
-    "https://dalatshirt.com/product/alabama-roll-tide-spend-my-dollar-parked-in-holler-neath-the-a-mountain-t-shirts/",
-    "https://dalatshirt.com/product/alabama-crimson-tide-they-see-me-rollin-bama-t-shirts/",
-    "https://dalatshirt.com/product/annie-kelly-erin-go-bragh-charlie-kirk-t-shirts/",
-    "https://dalatshirt.com/product/all-the-fall-things-or-whatever-blink-182-says-halloween-autumn-t-shirts/",
-    "https://dalatshirt.com/product/alabama-shakes-forest-hills-stadium-forest-hills-ny-sept-17-2025-t-shirts/",
-    "https://dalatshirt.com/product/booters-butch-bar-and-diner-halloween-t-shirts/",
-    "https://dalatshirt.com/product/bart-knows-books-bart-knows-beer-t-shirts/",
-    "https://dalatshirt.com/product/buffalo-bills-gooses-josh-allen-keon-coleman-joe-andreessen-signatures-t-shirts/",
-    "https://dalatshirt.com/product/can-i-pet-the-dawg-t-shirts/"
+    "https://dalatshirt.com/product/corteiz-rules-the-world-t-shirts/",
+    "https://dalatshirt.com/product/dark-woke-the-computer-shall-set-you-free-anime-t-shirts/",
+    "https://dalatshirt.com/product/autism-periodic-table-meaning-value-and-rage-incredibly-strong-useful-many-talents-t-shirts/",
+    "https://dalatshirt.com/product/cz-graphic-lightning-t-shirts/"
   ],
   "lovingsquad.com": [
     "https://lovingsquad.com/product/yungblud-aerosmith-logo-shirt/",
