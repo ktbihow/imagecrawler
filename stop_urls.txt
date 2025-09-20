@@ -199,9 +199,16 @@
     "https://clickoneshirt.com/product/the-original-antifa-since-1941-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/alabama-shakes-september-19-2025-the-anthem-washington-dc-gators-t-shirts/",
-    "https://teleteeshirt.com/product/goose-sep-19-2025-michigan-lottery-amphitheatre-in-sterling-heights-mi-fox-t-shirts/",
-    "https://teleteeshirt.com/product/denim-tears-sorry-were-here-t-shirts/"
+    "https://teleteeshirt.com/product/spooky-cat-halloween-t-shirts/",
+    "https://teleteeshirt.com/product/we-have-nothing-to-fear-but-jimmy-kimmel-t-shirts/",
+    "https://teleteeshirt.com/product/sleepaway-camp-the-great-outdoors-t-shirts/",
+    "https://teleteeshirt.com/product/sleepaway-camp-a-nice-place-for-summer-vacation-a-perfect-place-to-die-getting-scared-t-shirts/",
+    "https://teleteeshirt.com/product/shota-imanaga-i-learned-that-with-champagne-instead-of-drinking-it-you-should-absorb-it-with-your-skin-it-feels-better-yummy-t-shirts/",
+    "https://teleteeshirt.com/product/rubixraptor-beach-episode-waifu-t-shirts/",
+    "https://teleteeshirt.com/product/sec-avg-gpa-and-bac-1-5-t-shirts/",
+    "https://teleteeshirt.com/product/risk-it-all-to-be-great-t-shirts/",
+    "https://teleteeshirt.com/product/diego-lopes-born-for-this-wrong-tree-big-front-ufc-t-shirts/",
+    "https://teleteeshirt.com/product/damon-albarn-palestinian-sunrise-by-gorillaz-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/official-robert-redford-hollywood-star-rest-in-peace-1936-2025-shirt/",
