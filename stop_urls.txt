@@ -41,26 +41,27 @@
     "https://meredpremium.com/product/official-the-peanuts-scary-good-defense-this-halloween-florida-state-seminoles-shirt/"
   ],
   "berrylittles.com": [
-    "https://berrylittles.com/product/official-battle-in-the-wild-midwest-tremaine-edmunds-dallas-cowboys-vs-cole-kmet-chicago-bears-september-21-2025-poster-t-shirt/",
-    "https://berrylittles.com/product/official-the-ring-v-night-of-the-samurai-naoya-inoue-vs-alan-picasso-27-december-2025-mohammed-abdo-arena-riyadh-poster-t-shirt/",
-    "https://berrylittles.com/product/official-baker-mayfield-built-different-10-toes-down-tampa-bay-buccaneers-nfl-t-shirt/",
-    "https://berrylittles.com/product/official-marc-andre-fleury-flower-power-pittsburgh-penguins-hockey-signature-t-shirt/",
-    "https://berrylittles.com/product/official-clayton-kershaw-thanks-kersh-los-angeles-dodgers-mlb-t-shirt/",
-    "https://berrylittles.com/product/official-texas-tech-red-raiders-football-100-years-of-red-raider-player-retro-1925-2025-t-shirt/",
-    "https://berrylittles.com/product/official-poster-goose-huntington-bank-pavilion-at-northerly-island-in-chicago-il-september-20-2025-t-shirt/",
-    "https://berrylittles.com/product/official-haymakers-for-hope-beltway-brawl-at-the-anthem-fighting-for-a-cure-thur-night-painting-t-shirt/"
+    "https://berrylittles.com/product/official-napheesa-collier-50-40-90-minnesota-lynx-basketball-signature-t-shirt/",
+    "https://berrylittles.com/product/official-have-a-nice-day-la-freddie-freeman-los-angeles-dodgers-mlb-t-shirt/",
+    "https://berrylittles.com/product/official-goose-michigan-lottery-amphitheatre-in-sterling-heights-mi-september-19-2025-t-shirt/",
+    "https://berrylittles.com/product/official-mizzou-tigers-football-nil-beau-pribula-do-you-beau-lieve-t-shirt/",
+    "https://berrylittles.com/product/official-poster-phish-september-19-21-2025-hampton-va-hampton-coliseum-event-t-shirt/",
+    "https://berrylittles.com/product/official-poster-alabama-shakes-september-19-2025-the-anthem-washington-dc-t-shirt/",
+    "https://berrylittles.com/product/official-atlanta-falcons-football-thank-you-younghoe-koo-signature-t-shirt/",
+    "https://berrylittles.com/product/official-vamos-vikings-minnesota-vikings-vs-cincinnati-bengals-latino-hispanic-heritage-painting-t-shirt/",
+    "https://berrylittles.com/product/official-the-freaky-football-preview-sports-illustrated-kids-angeles-chargers-justin-herbert-has-his-head-in-the-game-poster-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-sports-illustrated-clayton-kershaw-los-angeles-dodgers-and-anze-kopitar-los-angeles-kings-its-on-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-sports-illustrated-the-power-jayden-daniels-commanders-the-50-most-influential-figures-in-sports-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-tampa-bay-buccaneers-thats-our-streak-baker-tom-brady-bucs-5th-straight-division-title-hunt-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-horizons-daniel-donatos-cosmic-country-fall-tour-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-mexicos-marimba-cumbia-punk-monsters-son-rompe-pera-live-show-september-12-26-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-josh-allen-buffalo-bills-13-2-career-vs-the-dolphins-nfl-meme-t-shirt/",
-    "https://dreameshirt.com/product/official-richy-mitch-and-the-coal-miners-colorados-on-fire-again-laser-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-chicago-bears-real-bears-fans-wear-pink-october-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-smashing-pumpkins-live-in-japan-tour-2025-painting-t-shirt/",
-    "https://dreameshirt.com/product/official-poster-austin-city-limits-season-51-wyatt-flores-moody-theater-texas-september-19th-2025-t-shirt/"
+    "https://dreameshirt.com/product/official-wrestlepalooza-cm-punk-aj-lee-seth-rollins-becky-lynch-saturday-september-20th-2025-artwork-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-houston-astros-vs-seattle-mariners-the-quest-for-the-west-2025-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-sports-illustrated-la-dodgers-clayton-kershaw-at-dodger-stadium-in-the-regular-season-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-my-football-program-is-complete-disarray-youre-broke-af-1945-is-fraudulent-natty-justice-for-johnny-bright-t-shirt/",
+    "https://dreameshirt.com/product/official-clayton-kershaw-forever-los-angeles-dodgers-mlb-signature-painting-t-shirt/",
+    "https://dreameshirt.com/product/official-ahmad-hardy-thats-it-missouri-tigers-football-ncaa-t-shirt/",
+    "https://dreameshirt.com/product/official-wyatt-sicks-lumis-collection-abby-the-witch-wwe-2025-painting-t-shirt/",
+    "https://dreameshirt.com/product/official-wyatt-sicks-lumis-collection-mercy-the-buzzard-wwe-2025-painting-t-shirt/",
+    "https://dreameshirt.com/product/official-wyatt-sicks-lumis-collection-huskus-the-pig-wwe-2025-painting-t-shirt/",
+    "https://dreameshirt.com/product/official-wyatt-sicks-lumis-collection-ramblin-rabbit-wwe-2025-painting-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/toronto-maple-leafs-2025-2026-new-season-collections-2-sided-shirt/",
@@ -75,16 +76,16 @@
     "https://teeextra.com/product/denver-broncos-breast-cancer-my-god-is-stronger-2-sided-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/team-jimmy-kimmel-defend-free-speech-shirt/",
-    "https://teespix.com/product/no-not-jimmy-when-will-america-have-free-speech-again-shirt/",
-    "https://teespix.com/product/jimmy-kimmel-for-president-28-t-shirt/",
-    "https://teespix.com/product/legalize-comedy-free-jimmy-kimmel-shirt/",
-    "https://teespix.com/product/i-stand-with-jimmy-kimmel-save-comedy-shirt/",
-    "https://teespix.com/product/keep-on-treadin-jimmy-kimmel-t-shirt/",
-    "https://teespix.com/product/jimmy-kimmel-mean-tweets-survivor-shirt/",
-    "https://teespix.com/product/jimmy-kimmel-keep-calm-and-kimmel-on-shirt/",
-    "https://teespix.com/product/jimmy-kimmel-isnt-it-past-your-jail-time-shirt/",
-    "https://teespix.com/product/team-kimmel-vintage-t-shirt/"
+    "https://teespix.com/product/wizard-of-barge-there-are-20-sides-to-every-story-shirt/",
+    "https://teespix.com/product/win-lose-dominate-shirt-2/",
+    "https://teespix.com/product/west-virginia-football-backyard-brawl-champs-shirt-2/",
+    "https://teespix.com/product/wendys-in-a-world-full-of-princesses-be-a-witch-halloween-shirt/",
+    "https://teespix.com/product/watcher-ghoul-boys-white-shirt-2/",
+    "https://teespix.com/product/walmart-in-a-world-full-of-princesses-be-a-witch-halloween-shirt/",
+    "https://teespix.com/product/walgreens-in-a-world-full-of-princesses-be-a-witch-halloween-shirt/",
+    "https://teespix.com/product/university-of-south-florida-football-2024-hawaii-bowl-champions-shirt-2/",
+    "https://teespix.com/product/uncle-rj-bust-down-keanu-shirt-2/",
+    "https://teespix.com/product/the-tyrant-king-dont-tread-on-me-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/tyler-robinson-justice-for-charlie-kirk-assassinated-2025-2-sided-shirt/",
@@ -174,16 +175,14 @@
     "https://capitoneshirt.com/product/official-crosses-titties-shirt/"
   ],
   "clickoneshirt.com": [
-    "https://clickoneshirt.com/product/youngboy-nba-big-face-gang-twinkle-signature-graphic-shirt/",
-    "https://clickoneshirt.com/product/win-lose-dominate-shirt/",
-    "https://clickoneshirt.com/product/west-virginia-mountaineers-beat-pittsburgh-panthers-31-24-backyard-brawl-shirt/",
-    "https://clickoneshirt.com/product/washington-huskies-football-1991-national-champs-vintage-shirt-mascot-graphic-shirt/",
-    "https://clickoneshirt.com/product/tyrese-haliburton-and-cam-bynum-indianapolis-colts-map-shirt/",
-    "https://clickoneshirt.com/product/top-5-rushing-yards-throught-nfl-week-2-shirt/",
-    "https://clickoneshirt.com/product/they-dont-know-the-guy-wearing-this-t-shirt-loves-memes-shirt/",
-    "https://clickoneshirt.com/product/the-zoological-society-of-cincinnati-est-1873-cartoons-shirt/",
-    "https://clickoneshirt.com/product/the-summer-of-connie-baby-shirt/",
-    "https://clickoneshirt.com/product/the-original-antifa-since-1941-shirt/"
+    "https://clickoneshirt.com/product/linder-grolind-kingz-ridin-dirty-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/moneyball-its-hard-not-to-be-romantic-about-baseball-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/indiana-fever-now-you-know-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/ravens-tailgate-sunday-with-a-wild-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/chicago-cubs-2025-postseason-baseball-teams-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/texas-volleyball-coach-jerrittelliott-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/richmond-hill-wildcats-clock-in-lock-in-two-sided-t-shirt/",
+    "https://clickoneshirt.com/product/las-vegas-aviators-pacific-coast-league-2025-playoffs-two-sided-t-shirt/"
   ],
   "teleteeshirt.com": [
     "https://teleteeshirt.com/product/spooky-cat-halloween-t-shirts/",
@@ -246,31 +245,40 @@
     "https://lovingsquad.com/product/thank-you-for-not-loving-me-it-forced-me-to-love-myself-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/red-white-blueberries-charlie-kirk-1993-2025-memorial-freedom-2-sided-shirt/"
+    "https://designatshop.com/product/washington-huskies-nba-basketball-emerald-city-spectrum-2025-shirt/",
+    "https://designatshop.com/product/violence-has-no-place-in-american-politics-it-belong-in-american-classrooms-and-movie-theaters-shirt/",
+    "https://designatshop.com/product/trump-x-uncle-sam-smart-people-dont-like-me-vintage-shirt/",
+    "https://designatshop.com/product/the-cat-meowfia-buffalo-bills-football-be-good-do-good-god-bless-go-bills-shirt/",
+    "https://designatshop.com/product/team-kimmel-what-happened-to-freedom-of-speech-vintage-shirt/",
+    "https://designatshop.com/product/sorry-i-was-super-weird-and-quiet-at-your-party-i-get-like-that-in-big-crowds-and-also-small-shirt/",
+    "https://designatshop.com/product/seattle-mariners-mlb-baseball-emerald-city-spectrum-2025-shirt/",
+    "https://designatshop.com/product/seattle-seahawks-emerald-city-spectrum-nfl-football-shirt/",
+    "https://designatshop.com/product/randy-johnson-wearing-indiana-fever-basketball-wnba-logo-shirt/",
+    "https://designatshop.com/product/peace-hands-freedom-of-speech-jimmy-kimmel-2025-shirt/"
   ],
   "arjomany.com": [
-    "https://arjomany.com/product/umphreys-mcgee-sept-19-20-2025-livingston-mt-poster/",
-    "https://arjomany.com/product/phish-sept-19-20-21-2025-hampton-poster/",
-    "https://arjomany.com/product/the-maine-retro-t-shirt/",
-    "https://arjomany.com/product/the-maine-listen-to-a-band-merch/",
-    "https://arjomany.com/product/the-maine-floral-shirt/",
-    "https://arjomany.com/product/the-maine-8123-star-tee/",
-    "https://arjomany.com/product/the-favors-stacked-photo-shirt/",
-    "https://arjomany.com/product/the-favors-lake-george-new-t-shirt/",
-    "https://arjomany.com/product/sickos-tropics-t-shirt/",
-    "https://arjomany.com/product/qotsa-domesticated-animals-shirt/"
+    "https://arjomany.com/product/the-maine-control-what-you-can-tee/",
+    "https://arjomany.com/product/the-maine-8123-means-everything-to-me-tee/",
+    "https://arjomany.com/product/the-maine-2025-world-tour-shirt/",
+    "https://arjomany.com/product/the-favors-the-dream-t-shirt/",
+    "https://arjomany.com/product/sickos-icon-merch/",
+    "https://arjomany.com/product/shaky-knees-festival-skeleton-punk-lineup-2025-shirt/",
+    "https://arjomany.com/product/shaky-knees-festival-bunny-lineup-2025-shirt/",
+    "https://arjomany.com/product/rtr-punk-circle-logo-merch/",
+    "https://arjomany.com/product/renee-rapp-white-date-back-tour-tee/",
+    "https://arjomany.com/product/renee-rapp-tour-photo-tee-2025/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/renee-rapp-white-tour-photo-limited-edition-t-shirt/",
-    "https://collectionpostertour.com/product/renee-rapp-white-tour-photo-2025-t-shirt/",
-    "https://collectionpostertour.com/product/renee-rapp-white-date-back-tour-2025-t-shirt/",
-    "https://collectionpostertour.com/product/renee-rapp-white-date-back-tour-2025-limited-edition-t-shirt/",
-    "https://collectionpostertour.com/product/renee-rapp-black-date-back-tour-2025-t-shirt/",
-    "https://collectionpostertour.com/product/renee-rapp-black-date-back-tour-2025-limited-edition-t-shirt/",
-    "https://collectionpostertour.com/product/renee-rapp-bite-me-usa-tour-2025-t-shirt/",
-    "https://collectionpostertour.com/product/renee-rapp-bite-me-usa-tour-2025-limited-edition-t-shirt/",
-    "https://collectionpostertour.com/product/knights-of-guinevere-guinevere-t-shirt/",
-    "https://collectionpostertour.com/product/knights-of-guinevere-guinevere-limited-edition-t-shirt/"
+    "https://collectionpostertour.com/product/umphreys-mcgee-september-19-20-2025-livingston-mt-concert-poster/",
+    "https://collectionpostertour.com/product/umphreys-mcgee-september-19-20-2025-limited-edition-poster/",
+    "https://collectionpostertour.com/product/phish-september-19-21-2025-limited-edition-poster/",
+    "https://collectionpostertour.com/product/phish-september-19-21-2025-hampton-va-concert-poster/",
+    "https://collectionpostertour.com/product/woodsist-festival-september-20-21-2025-limited-edition-poster/",
+    "https://collectionpostertour.com/product/woodsist-festival-september-20-21-2025-accord-ny-concert-poster/",
+    "https://collectionpostertour.com/product/volbeat-september-19-2025-limited-edition-poster/",
+    "https://collectionpostertour.com/product/volbeat-september-19-2025-copenhagen-denmark-concert-poster/",
+    "https://collectionpostertour.com/product/volbeat-september-18-2025-limited-edition-poster/",
+    "https://collectionpostertour.com/product/volbeat-september-18-2025-herning-denmark-concert-poster/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/the-witcher-season-4-new-poster-revealed-on-netflix-releasing-october-30-2025-fantasy-series-unisex-t-shirt/",
@@ -285,16 +293,16 @@
     "https://neoteeco.com/product/nicolas-maduro-enemigo-de-los-venezolanos-political-protest-poster-venezuela-opposition-artwork-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/i-heard-they-dont-like-me-i-hope-they-heard-i-dont-give-a-fuck-skeleton-halloween-shirt/",
-    "https://newshirtstore.com/product/house-of-terror-pumpkin-halloween-shirt/",
-    "https://newshirtstore.com/product/i-got-a-jar-of-dirt-and-guess-whats-inside-it-mom-t-shirt/",
-    "https://newshirtstore.com/product/i-had-cybersex-with-chatgpt-shirt/",
-    "https://newshirtstore.com/product/i-am-charlie-kirk-rip-american-flag-memorial-political-shirt/",
-    "https://newshirtstore.com/product/i-dont-beg-for-friends-so-whether-you-speak-to-me-or-not-i-dont-give-a-flying-fuck-bat-halloween-shirt/",
-    "https://newshirtstore.com/product/i-love-a-debate-shirt/",
-    "https://newshirtstore.com/product/hot-mulligan-1-haunted-new-band-skull-pile-t-shirt/",
-    "https://newshirtstore.com/product/i-came-to-utah-and-all-i-got-was-this-hockey-team-utah-hockey-club-shirt/",
-    "https://newshirtstore.com/product/house-of-1000-corpses-halloween-shirt/"
+    "https://newshirtstore.com/product/im-a-weird-dough-t-shirt/",
+    "https://newshirtstore.com/product/macacorato-strawberry-and-chocolate-flavor-t-shirt/",
+    "https://newshirtstore.com/product/los-angeles-dodgers-official-logo-with-latino-heritage-la-shirt/",
+    "https://newshirtstore.com/product/josh-allen-buffalo-bills-football-ice-cold-signature-graphic-shirt/",
+    "https://newshirtstore.com/product/josh-buffalo-bills-americas-quarterback-shirt/",
+    "https://newshirtstore.com/product/hub-city-spartanburgers-milb-vintage-graphic-shirt/",
+    "https://newshirtstore.com/product/impatiently-waiting-witch-halloween-shirt/",
+    "https://newshirtstore.com/product/i-have-a-dream-satirical-graphic-shirt/",
+    "https://newshirtstore.com/product/i-love-pizza-tulen-cute-shirt/",
+    "https://newshirtstore.com/product/homecoming-25-hornets-in-the-fast-lane-no-speed-limits-on-victory-helmet-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/wendys-in-a-world-full-of-princesses-be-a-witch-halloween-shirt/",
