@@ -1,0 +1,177 @@
+[
+    {
+        "url": "https://geekteesus.com/",
+        "selector": "div.product-images img",
+        "replacements": ["-Orament-X-mas-den.jpg", "-Orament-Christmas.jpg", "-Ornament-poster-black.jpg", "-v-neck-t-shirt.jpg"],
+        "source_type": "product-list",
+		"check_recency": true
+    },
+    {
+        "url": "https://techteesusa.com/",
+        "selector": "div.product-images img",
+        "source_type": "product-list",
+		"check_recency": true,
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.techteesusa.com", "prefix_length": 9 }
+    },
+    {
+        "url": "https://teeworksusa.com/",
+        "selector": "div.product-images img",
+        "source_type": "product-list",
+        "replacements": ["-Posters-black.jpg", "-Posters-white.jpg", "-White-poster.jpg", "-white-poster.jpg", "-poster.jpg", "-Mug-and-Ornament.jpg", "-mug.jpg", "-White-Ornaments.jpg", "-white-shirt.jpg", "-long-sleeve.jpg"],
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teeworksusa.com", "prefix_length": 9 },
+		"check_recency": true
+    },
+    {
+        "url": "https://meredpremium.com/",
+        "source_type": "prevnext",
+        "first_product_selector": ".product-small a.woocommerce-LoopProduct-link",
+        "next_product_selector": "a:has(i.icon-angle-right)"
+    },
+    {
+        "url": "https://orionshirt.com/",
+        "source_type": "prevnext",
+        "first_product_selector": ".product-small a.woocommerce-LoopProduct-link",
+        "next_product_selector": "a:has(i.icon-angle-right)",
+		"fallback_rules": { "type": "cut_filename_prefix", "domain": "images.orionshirt.com", "prefix_length": 9 },
+		"check_recency": true
+    },
+    {
+        "url": "https://berrylittles.com/",
+        "source_type": "prevnext",
+        "first_product_selector": ".product-small a.woocommerce-LoopProduct-link",
+        "next_product_selector": "a:has(i.icon-angle-right)"
+    },
+    {
+        "url": "https://dreameshirt.com/",
+        "source_type": "prevnext",
+        "first_product_selector": ".product-small a.woocommerce-LoopProduct-link",
+        "next_product_selector": "a:has(i.icon-angle-right)"
+    },
+    {
+        "url": "https://teeextra.com/",
+        "selector": "div.product-images img",
+        "replacements": ["-Ornament.jpg", "-Shirt.jpg"],
+        "source_type": "product-list",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teeextra.com", "prefix_length": 9 },
+		"check_recency": true
+    },
+    {
+        "url": "https://eteeclothing.com/",
+        "selector": "div.product-images img",
+        "replacements": ["-sweater.webp", "-shirt.webp"],
+        "source_type": "product-list"
+    },
+    {
+        "url": "https://milkywayshirt.com/",
+        "selector": "div.product-images img",
+        "replacements": ["-Shirt.webp", "-Long-Sleeve.webp"],
+        "source_type": "product-list"
+    },
+    {
+        "url": "https://teespix.com/",
+        "source_type": "product-list",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teespix.com", "prefix_length": 9 },
+		"check_recency": true
+    },
+    {
+        "url": "https://nowbestshirt.com/",
+        "selector": "div.product-images img",
+        "replacements": ["-sweater.jpg"],
+        "source_type": "product-list",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.nowbestshirt.com", "prefix_length": 9 },
+		"check_recency": true
+    },
+    {
+        "url": "https://serenashirt.com/",
+        "selector": "div.product-images img",
+        "replacements": ["-sweater.jpg", "-Ornament.jpg"],
+        "source_type": "product-list",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.serenashirt.com", "prefix_length": 9 },
+		"check_recency": true
+    },
+    {
+        "url": "https://legendusashirt.com/",
+        "selector": "div.product-images img",
+        "replacements": ["-Sweater.webp", "-Sweater.jpg"],
+        "source_type": "product-list",
+		"fallback_rules": { "type": "cut_filename_prefix", "domain": "images.legendusashirt.com", "prefix_length": 9 },
+		"check_recency": true
+    },
+    {
+        "url": "https://teehandus.com/",
+        "replacements": {"-t-shirt.jpg": ["-Sweater.jpg"]},
+        "source_type": "api",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teehandus.com", "prefix_length": 9 },
+		"check_recency": true
+    },
+    {
+        "url": "https://uscraftedtees.com/",
+        "source_type": "api"
+    },
+    {
+        "url": "https://capitoneshirt.com/",
+        "replacements": {"-classictshirt.webp": ["-ornament.webp", "-sweater.webp"], "-shirt.webp": ["-sweater.webp", "-ornament.webp"], "-hoodie.webp": ["-sweater.webp", "-ornament.webp"]},
+        "source_type": "api",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.capitoneshirt.com", "prefix_length": 9 },
+		"check_recency": true
+    },
+    {
+        "url": "https://clickoneshirt.com/",
+		"replacements": {"-T-shirt.jpg": ["-Ornament.jpg"]},
+        "source_type": "api"
+    },
+    {
+        "url": "https://teleteeshirt.com/",
+        "selector": "div.product-images img",
+        "source_type": "product-list"
+    },
+    {
+        "url": "https://teeslocal.com/",
+        "selector": "div.product-images img",
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teeslocal.com", "prefix_length": 9 },
+        "source_type": "product-list",
+		"check_recency": true
+    },
+    {
+        "url": "https://melonashirt.com/",
+        "replacements": {"-shirt.jpg": ["-men-shirt.jpg"], "-shirt.webp": ["-men-shirt.webp"]},
+        "source_type": "api"
+    },
+    {
+        "url": "https://dalatshirt.com/",
+        "source_type": "api"
+    },
+    {
+        "url": "https://lovingsquad.com/",
+        "replacements": {"-T-shirt.jpg": ["-Sweater.jpg", "-Ladies.jpg", "-Ladies-tee.jpg"], "-Shirt.jpg": ["-Sweater.jpg", "-Ladies.jpg", "-Ladies-tee.jpg"]},
+        "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.lovingsquad.com", "prefix_length": 9 },
+		"check_recency": true,
+        "source_type": "api"
+    },
+    {
+        "url": "https://arjomany.com/",
+        "source_type": "api"
+    },
+    {
+        "url": "https://designatshop.com/",
+		"replacements": {"-sweater.jpg": ["-shirt.jpg"], "-hoodie.jpg": ["-shirt.jpg"]},
+        "source_type": "api"
+    },
+    {
+        "url": "https://collectionpostertour.com/",
+        "replacements": {"-shirt.jpg": ["-poster-portrait.jpg"]},
+        "source_type": "api"
+    },
+    {
+        "url": "https://neoteeco.com/",
+        "source_type": "api"
+    },
+    {
+        "url": "https://newshirtstore.com/",
+        "source_type": "api"
+    },
+    {
+        "url": "https://mercuryshirt.com/",
+        "source_type": "api"
+    }
+]
