@@ -18,10 +18,16 @@
     "https://orionshirt.com/product/official-i-survived-los-angeles-dodgers-bullpen-appearance-lets-go-dodgers-cat-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/cheese-quesadillas-yall-mind-if-a-white-boy-speaks-a-lil-espanol-shirt/",
-    "https://techteesusa.com/product/hugging-meme-shirt/",
-    "https://techteesusa.com/product/fearless-toronto-zoos-version-lion-shirt/",
-    "https://techteesusa.com/product/adopt-a-snake-shirt/"
+    "https://techteesusa.com/product/who-has-the-keys-to-the-church-shirt/",
+    "https://techteesusa.com/product/trt-tan-rested-tarded-shirt/",
+    "https://techteesusa.com/product/the-scientific-method-2025-updates-shirt/",
+    "https://techteesusa.com/product/team-mcfly-est-2003-shirt/",
+    "https://techteesusa.com/product/tbf-though-shirt-2/",
+    "https://techteesusa.com/product/seattle-mariners-pho-kit-shirt/",
+    "https://techteesusa.com/product/seattle-mariners-pho-kit-shirt-back/",
+    "https://techteesusa.com/product/same-day-cleaning-shirt/",
+    "https://techteesusa.com/product/risk-it-all-to-be-great-shirt-2/",
+    "https://techteesusa.com/product/please-be-patient-my-mom-took-tylenol-pepe-meme-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/georgia-football-gunner-stockton-is-a-dawg-signature-shirt/",
@@ -284,16 +290,16 @@
     "https://neoteeco.com/product/nicolas-maduro-enemigo-de-los-venezolanos-political-protest-poster-venezuela-opposition-artwork-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/satire-is-my-superpower-team-kimmel-shirt/",
-    "https://newshirtstore.com/product/purdue-boilermakers-prime-play-t-shirt/",
-    "https://newshirtstore.com/product/pittsburgh-panthers-vintage-prime-play-t-shirt/",
-    "https://newshirtstore.com/product/radicalized-by-basic-decency-political-protest-shirt/",
-    "https://newshirtstore.com/product/peace-love-eagles-shirt/",
-    "https://newshirtstore.com/product/packers-matthew-golden-caricature-shirt/",
-    "https://newshirtstore.com/product/raccoon-i-dont-have-an-attitude-problem-you-have-a-problem-shirt/",
-    "https://newshirtstore.com/product/raven-crow-coffee-hello-darkness-my-old-friend-halloween-shirt/",
-    "https://newshirtstore.com/product/notre-dame-fighting-irish-prime-play-t-shirt/",
-    "https://newshirtstore.com/product/oklahoma-state-football-mike-gundys-signature-thank-you-for-the-memories-shirt/"
+    "https://newshirtstore.com/product/wisconsin-badgers-prime-play-t-shirt/",
+    "https://newshirtstore.com/product/tylenol-take-2-and-release-the-epstein-files-funny-shirt/",
+    "https://newshirtstore.com/product/tylenol-release-the-epstein-files-political-shirt/",
+    "https://newshirtstore.com/product/west-virginia-mountaineers-prime-play-t-shirt/",
+    "https://newshirtstore.com/product/university-of-oregon-flight-or-fight-shirt/",
+    "https://newshirtstore.com/product/tylenol-medicine-extra-strength-now-with-time-release-autism-shirt/",
+    "https://newshirtstore.com/product/tylenol-neurodiversity-for-dummies-funny-anti-trump-anti-rfk-shirt/",
+    "https://newshirtstore.com/product/tylenol-nice-try-release-the-epstein-files-shirt/",
+    "https://newshirtstore.com/product/tylenol-medicine-extra-strength-anti-trump-anti-rfk-shirt/",
+    "https://newshirtstore.com/product/tylenol-medicine-neurodiversity-for-dummies-anti-trump-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/vancouver-canucks-x-2025-truth-and-reconciliation-day-2-sided-t-shirt/",

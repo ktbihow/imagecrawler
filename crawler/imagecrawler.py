@@ -373,15 +373,19 @@ if __name__ == "__main__":
     
     end_time = time.time()
     duration, now_vietnam = end_time - start_time, datetime.now(pytz.timezone('Asia/Ho_Chi_Minh'))
-    log_lines = [f"--- Summary of Last Image Crawl ---", f"Generated at: {now_vietnam.strftime('%Y-%m-%d %H:%M:%S %z')}"]
+    
+    # 1. Tạo khuôn mẫu ban đầu với tiêu đề và timestamp
+    log_lines = [f"--- Summary of Last Image Crawl ---", f"Timestamp: {now_vietnam.strftime('%Y-%m-%d %H:%M:%S %z')}"]
     found_new_images = any(c['new_count'] > 0 for c in urls_summary.values())
 
-    reportable_lines, full_log_lines = [], log_lines[:1]
+    # 2. SỬA LỖI #1: Bắt đầu full_log_lines bằng TOÀN BỘ khuôn mẫu
+    reportable_lines, full_log_lines = [], list(log_lines)
+    
     for domain, counts in urls_summary.items():
         log_line = f"{domain}: {counts['new_count']} New Images. Total: {counts['total_count']}"
-        full_log_lines.append(log_line)
+        full_log_lines.append(log_line) # Thêm tất cả kết quả vào log đầy đủ
         if counts['new_count'] > 0:
-            reportable_lines.append(log_line)
+            reportable_lines.append(log_line) # Chỉ thêm kết quả > 0 vào báo cáo telegram
     
     duration_line = f"Crawl duration: {int(duration // 60)} min {int(duration % 60)} seconds."
     full_log_lines.append(duration_line)
@@ -391,8 +395,11 @@ if __name__ == "__main__":
     
     if found_new_images:
         print("Tìm thấy ảnh mới, đang chuẩn bị gửi báo cáo và kích hoạt workflow...")
-        final_report = log_lines[:1] + reportable_lines
+        
+        # 3. SỬA LỖI #2: Báo cáo Telegram = Khuôn mẫu (chỉ 2 dòng) + Các dòng đã lọc
+        final_report = log_lines + reportable_lines
         final_report.append(duration_line)
+        
         send_telegram_message("\n".join(final_report))
         #trigger_workflow_dispatch()
     else:
