@@ -82,13 +82,6 @@ def send_telegram_message(message):
     except requests.exceptions.RequestException as e:
         print(f"❌ Lỗi kết nối tới Telegram API: {e}")
 
-import os
-import subprocess
-from datetime import datetime
-
-# Giả sử BASE_DIR đã được định nghĩa ở đâu đó trong code của bạn
-# BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-
 def git_push_changes():
     if os.getenv('GITHUB_ACTIONS') == 'true':
         print("Đang chạy trên GitHub Actions, bỏ qua git push.")
@@ -97,31 +90,19 @@ def git_push_changes():
     print("Đang chạy trên máy tính cục bộ, tiến hành push thay đổi lên GitHub...")
     try:
         os.chdir(BASE_DIR)
-
-        # 1. Add các file cần thiết
         subprocess.run(['git', 'add', 'domain/', 'stop_urls.txt', 'imagecrawler.log'], check=True)
-        
-        # 2. Kiểm tra xem có thay đổi thực sự không
         status_result = subprocess.run(['git', 'status', '--porcelain'], capture_output=True, text=True)
         if not status_result.stdout.strip():
             print("Không có thay đổi nào để commit.")
             return
-
-        # 3. Lấy tên nhánh hiện tại để push một cách tường minh
         branch_result = subprocess.run(['git', 'rev-parse', '--abbrev-ref', 'HEAD'], capture_output=True, text=True, check=True)
         current_branch = branch_result.stdout.strip()
-
-        # 4. Sửa đổi commit cuối cùng thay vì tạo mới
         commit_message = f"Auto-update crawled data at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
         subprocess.run(['git', 'commit', '--amend', '-m', commit_message], check=True)
         print(f"✅ Đã amend commit cuối cùng với message: '{commit_message}'")
-
-        # 5. Bắt buộc push lên nhánh hiện tại
         subprocess.run(['git', 'push', '--force', 'origin', current_branch], check=True)
         print("✅ Đã force push thành công các thay đổi lên GitHub.")
-
     except subprocess.CalledProcessError as e:
-        # Xử lý lỗi tốt hơn để xem output từ Git
         print(f"❌ Đã xảy ra lỗi khi thực thi lệnh Git:")
         print(f"   Lệnh: {' '.join(e.cmd)}")
         print(f"   Exit code: {e.returncode}")
@@ -189,6 +170,23 @@ def apply_fallback_logic(image_url, url_data):
     print(f"    => ❌ Fallback failed.")
     return image_url
 
+def process_and_finalize_url(image_url, url_data):
+    """
+    Applies fallback and replacement logic in the correct order.
+    1. Fallback is applied first to get a clean base URL.
+    2. Replacements are applied to the clean URL to find variants.
+    """
+    if not image_url:
+        return None
+
+    # Step 1: Apply fallback logic first to remove any random prefixes.
+    clean_url = apply_fallback_logic(image_url, url_data)
+
+    # Step 2: Apply replacements on the (potentially cleaned) URL.
+    final_url = apply_replacements(clean_url, url_data.get('replacements', {}), url_data.get('always_replace', False))
+    
+    return final_url
+
 def find_best_image_url(soup, url_data):
     base_url = url_data['url']
     replacements, selector = url_data.get('replacements', {}), url_data.get('selector')
@@ -246,9 +244,11 @@ def fetch_image_urls_from_api(url_data, stop_urls_list):
                          (img_tag.get('src') if (img_tag := BeautifulSoup(item.get('content', {}).get('rendered', ''), 'html.parser').find('img')) else None))
                 if img_url:
                     if img_url.startswith('http://'): img_url = img_url.replace('http://', 'https://')
-                    final_img_url = apply_replacements(img_url, url_data.get('replacements', {}), url_data.get('always_replace', False))
-                    final_img_url = apply_fallback_logic(final_img_url, url_data)
-                    if final_img_url not in all_image_urls:
+                    
+                    # Sử dụng hàm xử lý mới với thứ tự logic đã được sửa
+                    final_img_url = process_and_finalize_url(img_url, url_data)
+                    
+                    if final_img_url and final_img_url not in all_image_urls:
                         all_image_urls.append(final_img_url)
                         if product_url: new_product_urls_found.append(product_url)
             page += 1
@@ -276,8 +276,10 @@ def fetch_image_urls_from_prevnext(url_data, stop_urls_list):
             soup = BeautifulSoup(r.text, "html.parser")
             best_url = find_best_image_url(soup, url_data)
             if best_url:
-                final_img_url = apply_fallback_logic(best_url, url_data)
-                if final_img_url not in all_image_urls:
+                # Sử dụng hàm xử lý mới với thứ tự logic đã được sửa
+                final_img_url = process_and_finalize_url(best_url, url_data)
+
+                if final_img_url and final_img_url not in all_image_urls:
                     all_image_urls.append(final_img_url)
                     new_product_urls_found.append(current_product_url)
             next_product_tag = soup.select_one(url_data['next_product_selector'])
@@ -317,8 +319,10 @@ def fetch_image_urls_from_product_list(url_data, stop_urls_list):
                 soup = BeautifulSoup(content, "html.parser")
             best_url = find_best_image_url(soup, url_data)
             if best_url:
-                final_img_url = apply_fallback_logic(best_url, url_data)
-                if final_img_url not in all_image_urls:
+                # Sử dụng hàm xử lý mới với thứ tự logic đã được sửa
+                final_img_url = process_and_finalize_url(best_url, url_data)
+
+                if final_img_url and final_img_url not in all_image_urls:
                     all_image_urls.append(final_img_url)
                     new_product_urls_found.append(product_url)
         except requests.exceptions.RequestException: continue
