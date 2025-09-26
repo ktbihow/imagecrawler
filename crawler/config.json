@@ -155,6 +155,7 @@
     {
         "url": "https://designatshop.com/",
 		"replacements": {"-sweater.jpg": ["-shirt.jpg"], "-hoodie.jpg": ["-shirt.jpg"]},
+		"fallback_rules": { "type": "cut_filename_prefix", "domain": "images.lovingsquad.com", "prefix_length": 9 },
         "source_type": "api"
     },
     {
