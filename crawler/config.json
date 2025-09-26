@@ -143,7 +143,7 @@
     },
     {
         "url": "https://lovingsquad.com/",
-        "replacements": {"-T-shirt.jpg": ["-Sweater.jpg", "-Ladies.jpg", "-Ladies-tee.jpg"], "-Shirt.jpg": ["-Sweater.jpg", "-Ladies.jpg", "-Ladies-tee.jpg"]},
+        "replacements": {"-T-shirt.jpg": ["-Ladies.jpg", "-Ladies-tee.jpg", "-Sweater.jpg"], "-Shirt.jpg": ["-Ladies.jpg", "-Ladies-tee.jpg", "-Sweater.jpg"]},
         "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.lovingsquad.com", "prefix_length": 9 },
 		"check_recency": true,
         "source_type": "api"
