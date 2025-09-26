@@ -92,7 +92,7 @@
     {
         "url": "https://legendusashirt.com/",
         "selector": "div.product-images img",
-        "replacements": ["-Sweater.webp", "-Sweater.jpg"],
+        "replacements": ["-Long-Sleve.jpg", "-Ladies.jpg"],
         "source_type": "product-list",
 		"fallback_rules": { "type": "cut_filename_prefix", "domain": "images.legendusashirt.com", "prefix_length": 9 },
 		"check_recency": true
