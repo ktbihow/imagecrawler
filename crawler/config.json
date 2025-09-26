@@ -99,7 +99,7 @@
     },
     {
         "url": "https://teehandus.com/",
-        "replacements": {"-t-shirt.jpg": ["-Sweater.jpg"]},
+        "replacements": {"-t-shirt.jpg": ["-sweater.jpg", "-Sweater.jpg"]},
         "source_type": "api",
         "fallback_rules": { "type": "cut_filename_prefix", "domain": "images.teehandus.com", "prefix_length": 9 },
 		"check_recency": true
