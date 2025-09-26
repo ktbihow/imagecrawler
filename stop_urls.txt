@@ -8,26 +8,24 @@
     "https://geekteesus.com/product/aaron-judge-mvp-new-york-yankees-baseball-caricature-2025-shirt/"
   ],
   "orionshirt.com": [
-    "https://orionshirt.com/product/official-the-wicked-witch-of-the-west-seattle-mariners-seize-the-moment-fanart-t-shirt/",
-    "https://orionshirt.com/product/official-seattle-mariners-american-league-west-champions-mlb-postseason-2025-seize-the-moment-t-shirt/",
-    "https://orionshirt.com/product/official-seattle-mariners-champions-american-league-west-division-2025-seize-the-moment-vintage-fanart-t-shirt/",
-    "https://orionshirt.com/product/official-red-october-philadelphia-phillies-the-most-terrifying-in-the-mlb-is-coming-home-coming-soon-in-the-fall-t-shirt/",
-    "https://orionshirt.com/product/official-for-the-first-time-since-2001-the-seattle-mariners-have-won-the-al-west-champs-poster-t-shirt/",
-    "https://orionshirt.com/product/official-cal-did-it-60-big-dumpers-historic-season-seattle-mariners-seize-the-moment-fanart-t-shirt/",
-    "https://orionshirt.com/product/official-2025-mlb-postseason-seattle-al-west-champions-seize-the-moment-fanart-t-shirt/",
-    "https://orionshirt.com/product/official-i-survived-los-angeles-dodgers-bullpen-appearance-lets-go-dodgers-cat-t-shirt/"
+    "https://orionshirt.com/product/official-poster-no-one-leaves-the-fucking-swamp-the-acacia-strain-swamp-mentality-2025-t-shirt/",
+    "https://orionshirt.com/product/official-poster-claro-recordando-christopher-reeve-actor-hollywood-superman-1952-2004-t-shirt/",
+    "https://orionshirt.com/product/official-new-sendero-x-whataburger-whatarodeo-2025-painting-t-shirt/",
+    "https://orionshirt.com/product/official-avatar-fire-and-ash-only-in-theatres-december-19-2025-new-poster-flim-t-shirt/",
+    "https://orionshirt.com/product/official-poster-red-rum-club-glasgow-september-25th-2025-swg3-galvanizers-t-shirt/",
+    "https://orionshirt.com/product/official-springfield-cardinals-baseball-2025-texas-league-championship-logo-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/who-has-the-keys-to-the-church-shirt/",
-    "https://techteesusa.com/product/trt-tan-rested-tarded-shirt/",
-    "https://techteesusa.com/product/the-scientific-method-2025-updates-shirt/",
-    "https://techteesusa.com/product/team-mcfly-est-2003-shirt/",
-    "https://techteesusa.com/product/tbf-though-shirt-2/",
-    "https://techteesusa.com/product/seattle-mariners-pho-kit-shirt/",
-    "https://techteesusa.com/product/seattle-mariners-pho-kit-shirt-back/",
-    "https://techteesusa.com/product/same-day-cleaning-shirt/",
-    "https://techteesusa.com/product/risk-it-all-to-be-great-shirt-2/",
-    "https://techteesusa.com/product/please-be-patient-my-mom-took-tylenol-pepe-meme-shirt/"
+    "https://techteesusa.com/product/not-local-shirt/",
+    "https://techteesusa.com/product/raccoon-certified-treasure-hunter-shirt/",
+    "https://techteesusa.com/product/snakes-and-sparklers-and-black-cats-and-roman-candles-shirt/",
+    "https://techteesusa.com/product/lisa-gilroy-graphic-shirt/",
+    "https://techteesusa.com/product/ptsd-taylor-sandisk-shirt/",
+    "https://techteesusa.com/product/seattle-mariners-pho-kit-t-shirt/",
+    "https://techteesusa.com/product/raccoon-for-rocket-men-elon-musk-2028-new-america-party-shirt/",
+    "https://techteesusa.com/product/banana-love-pride-car-shirt/",
+    "https://techteesusa.com/product/2025-allan-nelson-delmarva-swim-association-championships-shirt/",
+    "https://techteesusa.com/product/t-rex-tennessee-volunteers-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/georgia-football-gunner-stockton-is-a-dawg-signature-shirt/",
@@ -64,16 +62,12 @@
     "https://berrylittles.com/product/official-poster-the-hives-september-25-2025-hollywood-palladium-los-angeles-ca-shows-t-shirt/"
   ],
   "dreameshirt.com": [
-    "https://dreameshirt.com/product/official-los-angeles-dodgers-mlb-2025-nl-west-champs-fourth-consecutive-national-league-west-division-title-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-los-angeles-dodgers-mlb-postseason-2025-national-league-west-champions-clinched-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-los-angeles-dodgers-mlb-2025-national-league-west-champions-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-the-return-of-the-living-grateful-dead-boston-garden-september-20-26-1991-poster-t-shirt/",
-    "https://dreameshirt.com/product/official-dak-prescott-v2-dallas-cowboys-nfl-football-planet-euphoria-artwork-t-shirt/",
-    "https://dreameshirt.com/product/official-delaware-fightin-blue-hens-ncaa-football-first-conference-win-302-vs-305-38-16-t-shirt/",
-    "https://dreameshirt.com/product/official-daniel-jones-indianapolis-colts-nfl-football-planet-euphoria-artwork-t-shirt/",
-    "https://dreameshirt.com/product/official-maryland-terrapins-football-ncaa-malik-washington-magic-t-shirt/",
-    "https://dreameshirt.com/product/official-paul-skenes-cy-skenes-pittsburgh-pirates-mlb-2025-t-shirt/",
-    "https://dreameshirt.com/product/official-rush-el-toro-blanco-aew-2025-graphic-t-shirt/"
+    "https://dreameshirt.com/product/official-rome-odunze-and-jaquan-brisker-chicago-bears-at-las-vegas-raiders-september-28-2025-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-fred-warner-superman-54-san-francisco-49ers-nfl-football-art-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-los-angeles-dodgers-back-to-back-to-back-to-back-nl-west-champions-poster-t-shirt/",
+    "https://dreameshirt.com/product/official-poster-joe-rogan-and-friends-september-30-october-1-2025-comedy-mothership-austin-texas-t-shirt/",
+    "https://dreameshirt.com/product/official-the-los-angeles-dodgers-are-your-2025-national-league-west-division-champions-frozen-effect-logo-t-shirt/",
+    "https://dreameshirt.com/product/official-ruben-brown-larry-fitzgerald-and-lesean-mccoy-pro-football-hall-of-fame-canton-ohio-t-shirt/"
   ],
   "teeextra.com": [
     "https://teeextra.com/product/cal-raleigh-historic-home-run-season-shirt-2/",
@@ -88,32 +82,32 @@
     "https://teeextra.com/product/oregon-ducks-or-kick-trojan-usc-mascot-shirt/"
   ],
   "teespix.com": [
-    "https://teespix.com/product/walmart-logo-straight-outta-horror-film-halloween-shirt/",
-    "https://teespix.com/product/usps-logo-straight-outta-horror-film-halloween-shirt/",
-    "https://teespix.com/product/tylenol-release-the-epstein-files-shirt/",
-    "https://teespix.com/product/tylenol-nice-try-release-the-epstein-files-shirt/",
-    "https://teespix.com/product/tylenol-extra-strength-pain-reliever-fever-reducer-does-not-cause-autism-shirt/",
-    "https://teespix.com/product/tylenol-epsteinaminophen-shirt/",
-    "https://teespix.com/product/tylenol-doesnt-cause-autism-shirt/",
-    "https://teespix.com/product/tucker-kraft-tucker-round-and-find-out-shirt-2/",
-    "https://teespix.com/product/think-of-your-energy-as-if-its-expensive-not-everyone-can-afford-it-shirt-2/",
-    "https://teespix.com/product/the-life-of-an-eldest-daughter-shirt-2/"
+    "https://teespix.com/product/tylenol-dictatorol-t-shirt/",
+    "https://teespix.com/product/moms-against-tylenol-t-shirt/",
+    "https://teespix.com/product/maga-fdt-tylenol-autism-awareness-statement-t-shirt/",
+    "https://teespix.com/product/arkansas-vs-notre-dame-2025-irish-goodbye-september-27-t-shirt/",
+    "https://teespix.com/product/the-rebs-ole-miss-vs-the-tigers-lsu-september-27-2025-t-shirt/",
+    "https://teespix.com/product/tylenol-extra-strength-pain-reliever-fever-reducer-does-not-cause-autism-t-shirt/",
+    "https://teespix.com/product/carmel-greyhound-football-25-t-shirt/",
+    "https://teespix.com/product/fetal-tylenol-syndrome-t-shirt/",
+    "https://teespix.com/product/best-in-the-west-division-champs-seattle-baseball-2025-shirt/",
+    "https://teespix.com/product/tampa-bay-bucaaners-fire-the-cannons-t-shirt/"
   ],
   "nowbestshirt.com": [
     "https://nowbestshirt.com/product/ted-nugent-i-am-charlie-kirk-shirt/",
     "https://nowbestshirt.com/product/red-white-and-blueberries-erika-kirk-and-charlie-kirk-shirt/"
   ],
   "serenashirt.com": [
-    "https://serenashirt.com/product/paul-skenes-mlb-pittsburgh-pirates-cy-skenes-shirt/",
-    "https://serenashirt.com/product/malik-washington-nfl-maryland-terrapins-malik-magic-shirt/",
-    "https://serenashirt.com/product/birmingham-barons-2025-southern-league-champions-logo-shirt/",
-    "https://serenashirt.com/product/jaxson-dart-and-cam-skattebo-2025-nfl-new-york-giants-the-future-is-now-shirt/",
-    "https://serenashirt.com/product/deep-thoughts-by-john-kruk-philadelphia-phillies-shirt/",
-    "https://serenashirt.com/product/cal-raleigh-mlb-seattle-mariners-historic-hr-season-shirt/",
-    "https://serenashirt.com/product/2026-fifa-world-cup-mascot-crew-shirt/",
-    "https://serenashirt.com/product/damn-right-i-am-a-seattle-fan-win-or-lose-mascots-shirt/",
-    "https://serenashirt.com/product/usa-mascot-2026-fifa-world-cup-shirt/",
-    "https://serenashirt.com/product/canada-mascot-2026-fifa-world-cup-shirt/"
+    "https://serenashirt.com/product/seattle-mariners-2025-al-west-division-champions-we-are-so-back-ornament/",
+    "https://serenashirt.com/product/seattle-mariners-2025-mlb-al-west-postseason-october-ready-ornament/",
+    "https://serenashirt.com/product/seattle-mariners-2025-al-west-division-champions-ornament/",
+    "https://serenashirt.com/product/seattle-mariners-2025-al-west-division-champions-locker-room-ornament/",
+    "https://serenashirt.com/product/seattle-mariners-mlb-2025-american-league-west-division-champions-celebration-ornament/",
+    "https://serenashirt.com/product/seattle-mariners-mlb-2025-al-west-division-champions-retro-ornament/",
+    "https://serenashirt.com/product/seattle-mariners-mascot-2025-mlb-al-west-division-champions-ornament/",
+    "https://serenashirt.com/product/seattle-mariners-cal-raleigh-big-dumper-mvp-baseball-ornament/",
+    "https://serenashirt.com/product/seattle-mariners-2025-mlb-october-baseball-ornament/",
+    "https://serenashirt.com/product/seattle-mariners-mlb-big-dumper-cal-raleigh-might-as-well-win-the-whole-truckin-thing-ornament/"
   ],
   "fanaticity.com": [
     "https://fanaticity.com/product/aja-riyadh-wilson-las-vegas-aces-signature-shirt/",
@@ -140,16 +134,16 @@
     "https://legendusashirt.com/product/the-hives-the-hollywood-palladium-in-hollywood-california-usa-september-25-2025-event-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/path-of-exile-ascendancy-logo-shirt/",
-    "https://teehandus.com/product/miami-dolphins-sad-dolphin-paper-bag-head-funny-parody-shirt/",
-    "https://teehandus.com/product/talkin-baseball-mlb-podcast-shirt/",
-    "https://teehandus.com/product/always-grinding-shirt/",
-    "https://teehandus.com/product/beetlejuice-the-ghost-with-the-most-shirt/",
-    "https://teehandus.com/product/ive-done-terrible-things-for-money-like-getting-up-early-to-go-to-work-shirt/",
-    "https://teehandus.com/product/im-supposed-to-believe-this-guy-killed-jfk-shirt/",
-    "https://teehandus.com/product/rage-against-the-machine-vintage-shirt/",
-    "https://teehandus.com/product/black-cat-if-the-book-is-open-im-busy-shirt/",
-    "https://teehandus.com/product/fetal-medicine-syndrome-shirt/"
+    "https://teehandus.com/product/seattle-mariners-47-2025-american-league-west-division-champions-shirt/",
+    "https://teehandus.com/product/seattle-mariners-54-percent-shirt/",
+    "https://teehandus.com/product/seattle-mariners-baseball-2025-division-champions-best-in-the-west-shirt/",
+    "https://teehandus.com/product/seattle-mariners-baseball-division-champs-2025-shirt/",
+    "https://teehandus.com/product/seattle-mariners-best-in-the-west-2025-shirt/",
+    "https://teehandus.com/product/seattle-mariners-dia-de-los-muertos-shirt/",
+    "https://teehandus.com/product/seattle-mariners-patiently-waiting-since-2001-shirt/",
+    "https://teehandus.com/product/seattle-mariners-reign-of-the-west-2025-shirt/",
+    "https://teehandus.com/product/seattle-mariners-tridents-up-division-champions-shirt/",
+    "https://teehandus.com/product/seattle-mariners-w-trident-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -167,16 +161,16 @@
     "https://uscraftedtees.com/product/original-neil-young-chrome-hearts-beck-oct-25-2025-lake-hughes-ca-poster-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/tylenol-nice-try-release-the-epstein-files-shirt/",
-    "https://capitoneshirt.com/product/tylenol-dont-get-distracted-release-the-epstein-files-shirt/",
-    "https://capitoneshirt.com/product/trumpkin-make-halloween-great-again-spooky-pumpkin-shirt/",
-    "https://capitoneshirt.com/product/trump-for-my-next-trick-i-will-make-democrats-overdose-on-tylenol-shirt/",
-    "https://capitoneshirt.com/product/oh-look-nobody-gives-a-shit-shirt-2/",
-    "https://capitoneshirt.com/product/jack-o-lantern-i-need-head-halloween-shirt/",
-    "https://capitoneshirt.com/product/jack-o-lantern-eat-drink-and-be-scary-halloween-shirt/",
-    "https://capitoneshirt.com/product/i-went-to-the-un-and-all-i-got-was-a-broken-escalator-and-teleprompter-shirt-2/",
-    "https://capitoneshirt.com/product/halloween-witches-by-nature-bitches-by-choice-shirt/",
-    "https://capitoneshirt.com/product/halloween-witches-be-crazy-spider-web-spooky-pumpkin-shirt/"
+    "https://capitoneshirt.com/product/i-sniff-crack-kiss-ass-shirt/",
+    "https://capitoneshirt.com/product/husky-i-am-who-i-am-your-approval-isnt-needed-shirt/",
+    "https://capitoneshirt.com/product/husky-head-is-fucked-up-heart-is-fucked-up-life-is-fucked-up-shirt/",
+    "https://capitoneshirt.com/product/i-love-gays-guy-fieri-albert-wesker-yugioh-sans-from-undertale-shirt/",
+    "https://capitoneshirt.com/product/husky-does-anybody-else-have-a-voice-in-their-head-that-repeats-shirt/",
+    "https://capitoneshirt.com/product/i-dont-live-in-scotland-but-scotland-will-always-live-in-me-shirt/",
+    "https://capitoneshirt.com/product/german-shepherd-some-people-are-like-slinkies-shirt/",
+    "https://capitoneshirt.com/product/how-much-tylenol-do-i-need-to-take-to-make-sure-my-child-likes-transformers-shirt/",
+    "https://capitoneshirt.com/product/how-much-tylenol-do-i-need-to-take-to-make-sure-my-child-likes-pokemon-shirt/",
+    "https://capitoneshirt.com/product/german-shepherd-i-am-who-i-am-your-approval-isnt-needed-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/papa-team-6-we-ride-at-dawn-shirt/",
@@ -209,28 +203,24 @@
     "https://teeslocal.com/product/the-shit-i-been-on-aint-even-out-the-ass-yet-shirt/"
   ],
   "melonashirt.com": [
-    "https://melonashirt.com/product/official-your-favorite-boy-band-is-back-comeback-loading-shirts/",
-    "https://melonashirt.com/product/official-victor-leksell-cherry-poker-shirts/",
-    "https://melonashirt.com/product/official-tylenol-gave-me-autism-and-all-i-got-was-this-lousy-shirts/",
-    "https://melonashirt.com/product/official-tylenol-extra-strength-pain-reliever-fever-reducer-does-not-cause-autism-shirts/",
-    "https://melonashirt.com/product/official-therapuss-chad-powers-go-fish-shirts/",
-    "https://melonashirt.com/product/official-the-wombats-bike-boy-australia-tour-2025-shirts/",
-    "https://melonashirt.com/product/official-team-mcfly-est-2003-shirts/",
-    "https://melonashirt.com/product/official-taking-back-sunday-music-for-everyone-shirts/",
-    "https://melonashirt.com/product/official-simple-plan-stroe-3-icon-character-est-1999-shirts/",
-    "https://melonashirt.com/product/official-northwest-royalty-2025-division-champs-best-in-the-west-seattle-baseball-shirts/"
+    "https://melonashirt.com/product/official-the-hives-tour-hollywood-california-usa-2025-shirts-2/",
+    "https://melonashirt.com/product/official-rage-against-the-machine-angela-davis-shirts-2/",
+    "https://melonashirt.com/product/official-seattle-mariners-2025-al-west-division-champions-shirts-2/",
+    "https://melonashirt.com/product/official-skull-a-face-scarf-cleveland-browns-football-shirts-2/",
+    "https://melonashirt.com/product/official-tylenol-extra-strength-born-to-autism-usa-is-a-fuck-kill-em-all-2025-i-am-tylenol-man-410757864-autistic-babies-shirts/",
+    "https://melonashirt.com/product/official-official-ring-the-bell-philadelphia-2025-shirts/",
+    "https://melonashirt.com/product/official-no-i-was-calling-her-a-bitch-shirts/",
+    "https://melonashirt.com/product/official-nothing-bad-can-happen-it-can-only-good-happen-tylenol-acetaminophen-shirts/",
+    "https://melonashirt.com/product/official-nick-sirianni-eagles-birds-come-to-where-the-smoke-is-shirts/",
+    "https://melonashirt.com/product/official-new-york-yankees-clinched-postseason-2025-shirts/"
   ],
   "dalatshirt.com": [
-    "https://dalatshirt.com/product/skeleton-i-feel-like-work-got-custody-of-me-and-home-just-got-visitation-rights-t-shirts/",
-    "https://dalatshirt.com/product/punk-you-lost-you-lost-youre-next-t-shirts/",
-    "https://dalatshirt.com/product/rapture-i-hardly-know-er-t-shirts/",
-    "https://dalatshirt.com/product/oxycontin-oxycodone-hydrochloride-extended-release-tablets-t-shirts/",
-    "https://dalatshirt.com/product/nine-inch-nails-tour-peel-it-back-2025-t-shirts/",
-    "https://dalatshirt.com/product/mantis-girls-will-be-girls-t-shirts/",
-    "https://dalatshirt.com/product/kerplunk-of-green-day-band-t-shirts/",
-    "https://dalatshirt.com/product/im-not-dead-i-only-dress-that-way-t-shirts/",
-    "https://dalatshirt.com/product/hell-yes-t-shirts/",
-    "https://dalatshirt.com/product/frog-we-must-stop-eating-cried-toad-as-he-ate-another-t-shirts/"
+    "https://dalatshirt.com/product/buffalo-bills-football-mascot-eating-feast-mode-t-shirts/",
+    "https://dalatshirt.com/product/cal-raleigh-3-run-homer-division-champs-seattle-mariners-baseball-2025-t-shirts/",
+    "https://dalatshirt.com/product/balln-in-singapore-token-basketball-t-shirts/",
+    "https://dalatshirt.com/product/advice-from-a-bear-live-large-sniff-out-opportunities-take-a-good-long-nap-t-shirts/",
+    "https://dalatshirt.com/product/bruno-is-uno-style-pittsburgh-penguins-hockey-logo-t-shirts/",
+    "https://dalatshirt.com/product/battle-of-tours-732-ad-t-shirts/"
   ],
   "lovingsquad.com": [
     "https://lovingsquad.com/product/therapuss-chad-powers-go-fish-shirt/",
@@ -245,37 +235,40 @@
     "https://lovingsquad.com/product/miami-hurricanes-cj-daniels-catch-of-the-year-shirt/"
   ],
   "designatshop.com": [
-    "https://designatshop.com/product/tylenol-acetaminophen-screw-rfk-jr-shirt/",
-    "https://designatshop.com/product/tylenol-acetaminophen-pain-reliever-fever-reducer-extra-strength-50-caplets-500mg-each-shirt/",
-    "https://designatshop.com/product/tridents-up-seattle-mariners-mlb-baseball-game-day-might-as-well-go-win-the-whole-fucking-thing-shirt/",
-    "https://designatshop.com/product/tridents-up-seattle-mariners-mlb-baseball-2025-for-baseball-fans-and-players-shirt/",
-    "https://designatshop.com/product/tridents-up-seattle-mariners-beat-oakland-athletics-la-angels-mlb-baseball-al-west-division-champions-2025-shirt/",
-    "https://designatshop.com/product/tridents-up-all-hail-the-etsy-witch-seattle-mariners-mlb-baseball-spooky-halloween-shirt/",
-    "https://designatshop.com/product/transformers-how-much-tylenol-do-i-need-to-take-to-make-sure-my-child-likes-as-much-as-i-do-shirt/",
-    "https://designatshop.com/product/the-mariners-seattle-mariners-mlb-baseball-9-players-faces-2025-sandlot-vintage-shirt/",
-    "https://designatshop.com/product/seattle-mariners-mlb-baseball-witches-rally-2025-funny-meme-shirt/",
-    "https://designatshop.com/product/seattle-mariners-mlb-baseball-legend-al-west-division-champions-postseason-2025-poster-shirt/"
+    "https://designatshop.com/product/winnie-the-pooh-and-piglet-zero-bothers-given-vintage-shirt/",
+    "https://designatshop.com/product/who-has-the-keys-to-the-church-shirt/",
+    "https://designatshop.com/product/theo-von-merch-bobby-peach-shirt/",
+    "https://designatshop.com/product/vintage-daniel-jones-indiana-colts-football-shirt/",
+    "https://designatshop.com/product/steel-shamrock-showdown-pittsburgh-x-ireland-game-shirt/",
+    "https://designatshop.com/product/the-history-of-witches-and-wizards-when-i-grow-up-i-want-to-be-a-heretic-shirt/",
+    "https://designatshop.com/product/shamrocks-steel-pittsburgh-x-dublin-2025-football-shirt/",
+    "https://designatshop.com/product/shamrock-showdown-pittsburgh-x-dublin-2025-shirt/",
+    "https://designatshop.com/product/shamrocked-pittsburgh-x-dublin-2025-football-shirt/",
+    "https://designatshop.com/product/retro-daniel-jones-indiana-jones-colts-parody-shirt/"
   ],
   "arjomany.com": [
-    "https://arjomany.com/product/sana-red-wings-shirt/",
-    "https://arjomany.com/product/sammy-virji-same-day-cleaning-t-shirt/",
-    "https://arjomany.com/product/sammy-virji-its-virji-isnt-it-t-shirt/",
-    "https://arjomany.com/product/pro-cat-anti-fascist-shirt/",
-    "https://arjomany.com/product/northwest-royalty-2025-division-champs-seattle-baseball-t-shirt/",
-    "https://arjomany.com/product/julio-rodrguez-summer-cartoon-t-shirt/",
-    "https://arjomany.com/product/glimmers-color-me-in-glimmers-album-tee/"
+    "https://arjomany.com/product/takaat-tour-dates-fall-2025-poster/",
+    "https://arjomany.com/product/takaat-north-america-fall-2025-poster/",
+    "https://arjomany.com/product/plini-uk-europe-shows-poster-2026/",
+    "https://arjomany.com/product/plini-uk-and-european-tour-2026-poster/",
+    "https://arjomany.com/product/philadelphia-host-city-2026-world-cup-print/",
+    "https://arjomany.com/product/monterrey-host-city-2026-world-cup-print/",
+    "https://arjomany.com/product/los-angeles-host-city-2026-world-cup-print/",
+    "https://arjomany.com/product/kansas-city-host-city-2026-world-cup-print/",
+    "https://arjomany.com/product/ghosts-of-hill-county-texas-show-2025-poster/",
+    "https://arjomany.com/product/ghosts-of-hill-county-october-2-2025-gruene-texas-poster/"
   ],
   "collectionpostertour.com": [
-    "https://collectionpostertour.com/product/suicide-silence-endless-dark-t-shirt/",
-    "https://collectionpostertour.com/product/sendero-x-whataburger-whataropin-t-shirt/",
-    "https://collectionpostertour.com/product/sendero-x-whataburger-whatarodeo-t-shirt/",
-    "https://collectionpostertour.com/product/not-enough-space-x-monster-house-t-shirt/",
-    "https://collectionpostertour.com/product/not-enough-space-x-monster-house-limited-edition-t-shirt/",
-    "https://collectionpostertour.com/product/linkin-park-seattle-wa-september-24-2025-concert-t-shirt/",
-    "https://collectionpostertour.com/product/david-byrne-who-is-the-sky-2025-2026-t-shirt/",
-    "https://collectionpostertour.com/product/cartel-chroma-20-year-anniversary-tour-2025-t-shirt/",
-    "https://collectionpostertour.com/product/taking-back-sunday-music-for-everyone-vol-2-t-shirt/",
-    "https://collectionpostertour.com/product/suicide-silence-bludgeoned-t-shirt/"
+    "https://collectionpostertour.com/product/think-of-your-energy-as-if-its-expensive-not-everyone-can-afford-it-t-shirt/",
+    "https://collectionpostertour.com/product/team-mcfly-est-2003-t-shirt/",
+    "https://collectionpostertour.com/product/seattle-kraken-power-play-mascot-t-shirt/",
+    "https://collectionpostertour.com/product/im-not-like-other-girls-im-a-worm-actually-t-shirt/",
+    "https://collectionpostertour.com/product/i-was-bonnie-blues-239th-guy-and-all-i-got-was-this-stupid-t-shirt/",
+    "https://collectionpostertour.com/product/i-get-by-with-a-little-help-from-my-friend-crying-jokes-hands-t-shirt/",
+    "https://collectionpostertour.com/product/gbrs-group-lion-skull-t-shirt/",
+    "https://collectionpostertour.com/product/for-the-dad-haul-it-home-weve-got-to-keep-this-under-an-hour-never-happens-t-shirt/",
+    "https://collectionpostertour.com/product/tylenol-dont-cause-autism-i-do-t-shirt/",
+    "https://collectionpostertour.com/product/to-be-fair-i-cant-pronounce-acetaminophen-either-t-shirt/"
   ],
   "neoteeco.com": [
     "https://neoteeco.com/product/the-witcher-season-4-new-poster-revealed-on-netflix-releasing-october-30-2025-fantasy-series-unisex-t-shirt/",
@@ -290,16 +283,16 @@
     "https://neoteeco.com/product/nicolas-maduro-enemigo-de-los-venezolanos-political-protest-poster-venezuela-opposition-artwork-unisex-t-shirt/"
   ],
   "newshirtstore.com": [
-    "https://newshirtstore.com/product/wisconsin-badgers-prime-play-t-shirt/",
-    "https://newshirtstore.com/product/tylenol-take-2-and-release-the-epstein-files-funny-shirt/",
-    "https://newshirtstore.com/product/tylenol-release-the-epstein-files-political-shirt/",
-    "https://newshirtstore.com/product/west-virginia-mountaineers-prime-play-t-shirt/",
-    "https://newshirtstore.com/product/university-of-oregon-flight-or-fight-shirt/",
-    "https://newshirtstore.com/product/tylenol-medicine-extra-strength-now-with-time-release-autism-shirt/",
-    "https://newshirtstore.com/product/tylenol-neurodiversity-for-dummies-funny-anti-trump-anti-rfk-shirt/",
-    "https://newshirtstore.com/product/tylenol-nice-try-release-the-epstein-files-shirt/",
-    "https://newshirtstore.com/product/tylenol-medicine-extra-strength-anti-trump-anti-rfk-shirt/",
-    "https://newshirtstore.com/product/tylenol-medicine-neurodiversity-for-dummies-anti-trump-shirt/"
+    "https://newshirtstore.com/product/the-apothecary-diaries-jinshi-halloween-nine-tailed-fox-shirt/",
+    "https://newshirtstore.com/product/thats-a-awful-lot-of-harlem-world-eagle-t-shirt/",
+    "https://newshirtstore.com/product/the-avett-brothers-sep-16-2025-southern-kentucky-performing-arts-center-in-bowling-green-ky-t-shirt/",
+    "https://newshirtstore.com/product/the-acacia-train-vintage-classic-shirt/",
+    "https://newshirtstore.com/product/the-american-dream-is-not-a-guarantee-its-an-opportunity-eagle-flag-t-shirt/",
+    "https://newshirtstore.com/product/texas-tech-red-raiders-vs-utah-utes-let-em-fly-shirt/",
+    "https://newshirtstore.com/product/the-amazing-world-of-gumball-poster-shirt/",
+    "https://newshirtstore.com/product/testament-an-evening-practice-what-you-preach-tour-2025-t-shirt/",
+    "https://newshirtstore.com/product/texas-am-aggies-vs-notre-dame-fighting-irish-2025-score-shirt/",
+    "https://newshirtstore.com/product/that-powerful-hour-of-prayer-shirt/"
   ],
   "eteeclothing.com": [
     "https://eteeclothing.com/product/vancouver-canucks-x-2025-truth-and-reconciliation-day-2-sided-t-shirt/",
