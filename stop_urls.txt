@@ -199,16 +199,16 @@
     "https://teeslocal.com/product/the-shit-i-been-on-aint-even-out-the-ass-yet-shirt/"
   ],
   "melonashirt.com": [
-    "https://melonashirt.com/product/official-trump-nothing-bad-can-happen-it-can-only-good-happen-shirts/",
-    "https://melonashirt.com/product/official-the-who-climate-pledge-arena-on-sept-25-2025-shirts/",
-    "https://melonashirt.com/product/official-the-suicide-machines-skanking-regan-halloween-2025-shirts/",
-    "https://melonashirt.com/product/official-the-suicide-machines-afi-rip-2025-shirts/",
-    "https://melonashirt.com/product/official-the-acacia-strain-lord-of-nothing-king-of-emptiness-swamp-mentality-shirts/",
-    "https://melonashirt.com/product/official-that-mexican-ot-x-houston-texans-texans-grill-shirts/",
-    "https://melonashirt.com/product/official-that-mexican-ot-x-houston-texans-outta-texas-shirts/",
-    "https://melonashirt.com/product/official-sit-on-my-carrot-and-ill-make-it-snow-christmas-shirts/",
-    "https://melonashirt.com/product/official-small-town-murder-you-sir-may-fuck-off-shirts/",
-    "https://melonashirt.com/product/official-that-mexican-ot-x-houston-texans-bull-shirts/"
+    "https://melonashirt.com/product/official-we-got-to-get-down-rock-it-out-from-this-shaky-ground-shirts/",
+    "https://melonashirt.com/product/official-tyler-dont-tap-the-glass-studio-album-by-tyler-the-creator-shirts/",
+    "https://melonashirt.com/product/official-the-state-killed-my-mate-r-i-p-dezzie-shirts/",
+    "https://melonashirt.com/product/official-suicide-silence-bludgeoned-to-death-shirts/",
+    "https://melonashirt.com/product/official-sendero-x-whataburger-whatarodeo-shirts/",
+    "https://melonashirt.com/product/official-pro-cat-anti-fascist-shirts/",
+    "https://melonashirt.com/product/official-might-as-well-go-win-the-whole-fucking-thing-cal-raleigh-the-mvp-shirts/",
+    "https://melonashirt.com/product/official-michael-myers-just-plain-scared-the-night-he-came-home-halloween-shirts/",
+    "https://melonashirt.com/product/official-luke-donald-theres-a-new-donald-in-town-shirts/",
+    "https://melonashirt.com/product/official-kendrick-lamar-grand-national-tour-2025-en-vivo-mexico-city-mx-bogota-co-buenos-aires-ar-sao-paulo-br-santiago-cl-shirts/"
   ],
   "dalatshirt.com": [
     "https://dalatshirt.com/product/world-gorilla-day-est-1967-t-shirts/",
@@ -307,16 +307,16 @@
     "https://eteeclothing.com/product/baylor-football-sawyer-robertson-13-stripe-shirt/"
   ],
   "milkywayshirt.com": [
-    "https://milkywayshirt.com/product/official-the-reverb-syndicate-oct-25-2025-ottawa-house-of-targ-poster-shirt/",
-    "https://milkywayshirt.com/product/official-dirty-heads-oct-10-2025-nugget-event-center-sparks-nv-poster-shirt-2/",
-    "https://milkywayshirt.com/product/official-2026-ethel-cain-willoughby-tucker-forever-uk-eu-tour-poster-shirt/",
-    "https://milkywayshirt.com/product/official-the-format-september-27-2025-arizona-state-fair-phoenix-arizona-poster-shirt/",
-    "https://milkywayshirt.com/product/official-the-beths-2025-tour-uk-europe-north-america-poster-shirt/",
-    "https://milkywayshirt.com/product/official-from-ashes-to-new-sep-26-2025-the-van-buren-phoenix-az-poster-shirt/",
-    "https://milkywayshirt.com/product/official-f1-academy-hello-kitty-shirt/",
-    "https://milkywayshirt.com/product/official-2025-wolf-trap-vienna-va-tour-caitlin-kieran-poster-shirt/",
-    "https://milkywayshirt.com/product/official-poster-the-acacia-strain-swamp-mentality-shirt/",
-    "https://milkywayshirt.com/product/official-poster-the-reverb-syndicate-ottawa-2025-tour-shirt/"
+    "https://milkywayshirt.com/product/official-the-acacia-strain-2025-swamp-mentality-shirt/",
+    "https://milkywayshirt.com/product/official-august-burns-red-headless-horsemen-halloween-2025-shirt/",
+    "https://milkywayshirt.com/product/official-simple-plan-sep-26-2025-madrid-spain-palacio-vistalegre-shirt/",
+    "https://milkywayshirt.com/product/official-2025-speed-all-my-angels-shirt/",
+    "https://milkywayshirt.com/product/official-glimmers-shattered-tv-new-shirt/",
+    "https://milkywayshirt.com/product/official-kendrick-lamar-hey-now-pay-now-latam-shirt/",
+    "https://milkywayshirt.com/product/official-sammy-virji-same-day-cleaning-2025-shirt/",
+    "https://milkywayshirt.com/product/official-poppy-v-a-n-butterfly-shirt/",
+    "https://milkywayshirt.com/product/official-parkway-drive-ire-faded-black-shirt/",
+    "https://milkywayshirt.com/product/official-kansas-state-university-athletics-shirt/"
   ],
   "mercuryshirt.com": [
     "https://mercuryshirt.com/product/official-red-boston-red-sox-october-baseball-2025-shirt/",
