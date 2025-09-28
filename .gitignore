@@ -11,15 +11,8 @@ __pycache__/
 # File biến môi trường
 .env
 
-# File log có thể thay đổi liên tục
-# Bỏ dòng này nếu bạn MUỐN commit file log lên repo
-# imagecrawler.log
-
-# Bỏ qua các file log cụ thể của dự án
-console_run_*.log
-stop.txt
+imagecrawler.log
 
 # Các file tạm thời khác
 *.tmp
 *.bat
-CMD.txt
