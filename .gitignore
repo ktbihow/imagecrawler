@@ -11,7 +11,7 @@ __pycache__/
 # File biến môi trường
 .env
 
-imagecrawler.log
+#imagecrawler.log
 
 # Các file tạm thời khác
 *.tmp
