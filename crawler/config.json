@@ -184,5 +184,13 @@
         "url": "https://picturestees.com/",
         "replacements": {"_1.webp": ["_6.webp"]},
         "source_type": "api"
+    },
+    {
+        "url": "https://limotees.com/",
+        "source_type": "api"
+    },
+    {
+        "url": "https://digitalhandmades.com/",
+        "source_type": "api"
     }
 ]

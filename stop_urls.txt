@@ -1,22 +1,26 @@
 {
   "geekteesus.com": [
-    "https://geekteesus.com/product/sami-zayn-nxt-inzayn-shirt/",
-    "https://geekteesus.com/product/skull-angry-runs-2025-tour-shirt/",
-    "https://geekteesus.com/product/charlotte-flair-nxt-if-youre-gonna-do-it-shirt/",
-    "https://geekteesus.com/product/discover-the-future-of-film-56th-nashville-film-festival-2025-shirt/",
-    "https://geekteesus.com/product/2025-phillie-phanatic-red-october-b2b-nl-east-division-champions-2025-shirt/",
-    "https://geekteesus.com/product/philly-no-one-likes-us-we-dont-care-philadelphia-phillies-shirt/",
-    "https://geekteesus.com/product/red-october-philadelphia-phillies-nfl-stadium-shirt/",
-    "https://geekteesus.com/product/johnny-gargano-nxt-the-whole-shebang-shirt/",
-    "https://geekteesus.com/product/boo-ghost-phillies-red-october-philadelphia-phillies-baseball-2025-halloween-shirt/",
-    "https://geekteesus.com/product/51-nurse-49-witch-funny-nursing-spooky-halloween-party-shirt/"
+    "https://geekteesus.com/product/clayton-kershaw-raises-his-cap-to-say-goodbye-to-fans-in-his-final-game-2025-shirt/",
+    "https://geekteesus.com/product/indiana-fever-2025-wnba-playoffs-in-the-zone-shirt/",
+    "https://geekteesus.com/product/isaac-teslaa-detroit-lions-football-one-pride-shirt/",
+    "https://geekteesus.com/product/las-vegas-aces-2025-wnba-wnba-playoffs-in-the-zone-logo-shirt/",
+    "https://geekteesus.com/product/los-angeles-dodgers-2025-nl-west-division-champions-logo-shirt/"
   ],
   "orionshirt.com": [
     "https://orionshirt.com/product/official-no-barks-given-alabama-crimson-tide-mascot-ncaa-2025-fanart-t-shirt/",
     "https://orionshirt.com/product/official-poster-disclosure-tour-greek-theatre-berkeley-ca-27-september-2025-fanart-t-shirt/"
   ],
   "techteesusa.com": [
-    "https://techteesusa.com/product/just-waiting-for-halloween-skeleton-shirt/"
+    "https://techteesusa.com/product/seattle-mariners-2025-postseason-al-west-chamions-seize-the-moment-shirt/",
+    "https://techteesusa.com/product/seattle-mariners-built-for-fall-2025-mlb-postseason-shirt/",
+    "https://techteesusa.com/product/saint-etienne-stars-logo-shirt/",
+    "https://techteesusa.com/product/saint-etienne-kiss-and-make-up-shirt/",
+    "https://techteesusa.com/product/resistance-kitty-says-i-tread-where-i-want-shirt/",
+    "https://techteesusa.com/product/resistance-kitty-is-judging-your-love-of-fascism-cat-shirt/",
+    "https://techteesusa.com/product/more-spaghetti-less-upsetti-t-shirt/",
+    "https://techteesusa.com/product/grillz-on-zora-shirt/",
+    "https://techteesusa.com/product/catch-fraud-and-hot-dogs-logo-shirt/",
+    "https://techteesusa.com/product/reproduction-causes-autism-shirt/"
   ],
   "teeworksusa.com": [
     "https://teeworksusa.com/product/dart-skattebo-25-the-future-is-now-shirt/",
@@ -132,15 +136,16 @@
     "https://legendusashirt.com/product/los-angeles-dodgers-fanatics-royal-2025-nl-west-division-champions-locker-room-two-sided-t-shirt/"
   ],
   "teehandus.com": [
-    "https://teehandus.com/product/sp5der-x-uy-scuti-1-shirt/",
-    "https://teehandus.com/product/spawn-hell-on-wheels-tour-shirt/",
-    "https://teehandus.com/product/unstoppable-tush-push-brotherly-shove-if-everyone-could-do-it-everyone-would-do-it-shirt/",
-    "https://teehandus.com/product/venom-define-naughty-christmas-shirt/",
-    "https://teehandus.com/product/wanghaf-meme-shirt/",
-    "https://teehandus.com/product/wicca-phase-soul-weapon-shirt/",
-    "https://teehandus.com/product/you-cant-stop-blaze-nation-shirt/",
-    "https://teehandus.com/product/zach-bryan-the-big-house-ann-arbor-michigan-sep-27-2025-2-sided-shirt/",
-    "https://teehandus.com/product/zach-bryan-live-from-the-big-house-ann-arbor-michigan-shirt/"
+    "https://teehandus.com/product/shocked-behzinga-meme-shirt/",
+    "https://teehandus.com/product/play-nobody-beat-nobody-we-are-penn-state-shirt/",
+    "https://teehandus.com/product/rip-assata-shakur-art-shirt/",
+    "https://teehandus.com/product/porty-ninarse-undrcrwn-dbrand-por-champion-shirt/",
+    "https://teehandus.com/product/support-independent-media-shirt/",
+    "https://teehandus.com/product/sorry-fellas-i-like-cowgirls-shirt/",
+    "https://teehandus.com/product/ronald-reagan-sold-crack-guerrilla-republik-1794-shirt/",
+    "https://teehandus.com/product/pca-and-seiya-suzuki-step-brothers-shirt/",
+    "https://teehandus.com/product/panic-at-the-disco-xx-shirt/",
+    "https://teehandus.com/product/oregon-ducks-unhappy-valley-shirt/"
   ],
   "thefunnyt.com": [
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
@@ -158,16 +163,16 @@
     "https://uscraftedtees.com/product/original-takaat-2025-fall-tour-poster-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/will-clark-and-kevin-mitchell-89-teammates-san-francisco-giants-shirt/",
-    "https://capitoneshirt.com/product/we-the-people-of-the-united-states-will-protect-shirt/",
-    "https://capitoneshirt.com/product/waiohai-hotel-and-bungalows-on-the-beach-at-poipu-shirt/",
-    "https://capitoneshirt.com/product/usrowing-all-in-shirt/",
-    "https://capitoneshirt.com/product/valhalla-awaits-you-raid-with-the-vikings-shirt/",
-    "https://capitoneshirt.com/product/trump-tweet-murder-apparel-is-a-horrible-company-truly-the-worst-shirt/",
-    "https://capitoneshirt.com/product/trump-a-felon-married-to-an-immigrant-is-telling-us-shirt/",
-    "https://capitoneshirt.com/product/trick-or-treat-candy-pumpkin-halloween-shirt/",
-    "https://capitoneshirt.com/product/the-waiohai-kauai-hawaii-shirt/",
-    "https://capitoneshirt.com/product/the-philosoraptor-dinosaur-shirt/"
+    "https://capitoneshirt.com/product/horror-halloween-straight-outta-family-dollar-shirt/",
+    "https://capitoneshirt.com/product/just-a-deadhead-who-loves-las-vegas-raiders-shirt/",
+    "https://capitoneshirt.com/product/just-a-deadhead-who-loves-cincinnati-bengals-shirt/",
+    "https://capitoneshirt.com/product/horror-halloween-straight-outta-advance-auto-parts-shirt/",
+    "https://capitoneshirt.com/product/hannah-einbinder-go-birds-fuck-ice-free-palestine-shirt/",
+    "https://capitoneshirt.com/product/detroit-tigers-hat-october-baseball-2025-playoffs-shirt/",
+    "https://capitoneshirt.com/product/first-rule-of-chinese-autumn-shirt/",
+    "https://capitoneshirt.com/product/detroit-tigers-2025-mlb-postseason-motor-city-shirt/",
+    "https://capitoneshirt.com/product/detroit-tigers-2025-mlb-postseason-built-for-fall-shirt/",
+    "https://capitoneshirt.com/product/crazy-part-is-i-aint-even-in-my-mf-prime-yet-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/zach-bryan-x-michigan-wolverines-football-the-big-house-shirt/",
@@ -182,16 +187,16 @@
     "https://clickoneshirt.com/product/prone-to-violence-nazi-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/notingregz-twentynine-palms-camp-wilson-t-shirts/",
-    "https://teleteeshirt.com/product/notingregz-yelling-coordinates-dropping-ordinance-skeleton-t-shirts/",
-    "https://teleteeshirt.com/product/notingregz-hurry-up-and-wait-hourglass-t-shirts/",
-    "https://teleteeshirt.com/product/notingregz-kicking-doors-fucking-whores-t-shirts/",
-    "https://teleteeshirt.com/product/notingregz-fixing-comms-banging-moms-t-shirts/",
-    "https://teleteeshirt.com/product/notingregz-casting-spells-sending-shells-t-shirts/",
-    "https://teleteeshirt.com/product/movement-whitefish-montana-usa-glory-t-shirts/",
-    "https://teleteeshirt.com/product/michigan-wolverines-the-ohio-state-our-bichigan-t-shirts-2/",
-    "https://teleteeshirt.com/product/lamb-of-god-new-american-gospel-25-years-t-shirts/",
-    "https://teleteeshirt.com/product/knee-the-pain-goes-away-thats-when-the-real-battle-starts-wretched-scrt-t-shirts/"
+    "https://teleteeshirt.com/product/we-own-the-sky-in-your-absence-fall-2025-tour-t-shirts/",
+    "https://teleteeshirt.com/product/tyler-childers-bristow-va-september-27-2025-t-shirts/",
+    "https://teleteeshirt.com/product/prone-to-violence-nazis-t-shirts/",
+    "https://teleteeshirt.com/product/taking-back-sunday-fontainebleau-las-vegas-nv-october-17-2025-t-shirts/",
+    "https://teleteeshirt.com/product/jon-and-roy-europe-tour-2026-t-shirts/",
+    "https://teleteeshirt.com/product/charles-wesley-godwin-at-grinders-kc-in-kansas-city-mo-on-sep-27-2025-cowboy-t-shirts/",
+    "https://teleteeshirt.com/product/pilgrimage-music-festival-2025-franklin-tenn-eagle-t-shirts/",
+    "https://teleteeshirt.com/product/iowa-state-cyclones-cardinal-football-beat-kansas-state-score-2025-aer-lingus-t-shirts/",
+    "https://teleteeshirt.com/product/flashgitz-b-positive-best-in-power-t-shirts/",
+    "https://teleteeshirt.com/product/flashgitz-b-positive-space-ring-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/your-energy-is-a-luxury-item-not-everyone-can-afford-it-showgirl-a-new-era-shirt/",
@@ -293,16 +298,16 @@
     "https://newshirtstore.com/product/that-powerful-hour-of-prayer-shirt/"
   ],
   "eteeclothing.com": [
-    "https://eteeclothing.com/product/new-york-yankees-pride-of-the-empire-state-shirt/",
-    "https://eteeclothing.com/product/new-york-yankees-defenders-of-the-bronx-shirt/",
-    "https://eteeclothing.com/product/new-york-yankees-bronx-bombers-comic-edition-shirt/",
-    "https://eteeclothing.com/product/mountain-man-matt-deadwood-halloween-shirt/",
-    "https://eteeclothing.com/product/montreal-canadiens-legende-players-signatures-shirt/",
-    "https://eteeclothing.com/product/new-york-yankees-big-apple-pride-shirt/",
-    "https://eteeclothing.com/product/i-cant-argue-with-my-husband-hes-older-than-me-raccoon-pumpkin-halloween-shirt/",
-    "https://eteeclothing.com/product/grinch-dear-old-man-winter-bite-me-im-too-old-for-this-crap-shirt/",
-    "https://eteeclothing.com/product/firecliff-lodge-hotel-vintage-greater-palm-springs-ca-shirt/",
-    "https://eteeclothing.com/product/ebony-marinoff-100-aflw-games-signature-shirt/"
+    "https://eteeclothing.com/product/i-may-live-in-indiana-but-on-game-day-my-heart-and-soul-belongs-to-philadelphia-eagles-football-shirt/",
+    "https://eteeclothing.com/product/i-may-live-in-iowa-but-on-game-day-my-heart-and-soul-belongs-to-philadelphia-eagles-football-shirt/",
+    "https://eteeclothing.com/product/i-may-live-in-illinois-but-on-game-day-my-heart-and-soul-belongs-to-philadelphia-eagles-football-shirt/",
+    "https://eteeclothing.com/product/i-may-live-in-hawaii-but-on-game-day-my-heart-and-soul-belongs-to-philadelphia-eagles-football-shirt/",
+    "https://eteeclothing.com/product/i-may-live-in-georgia-but-on-game-day-my-heart-and-soul-belongs-to-philadelphia-eagles-football-shirt/",
+    "https://eteeclothing.com/product/i-may-live-in-delaware-but-on-game-day-my-heart-and-soul-belongs-to-philadelphia-eagles-football-shirt/",
+    "https://eteeclothing.com/product/i-may-live-in-columbia-but-on-game-day-my-heart-and-soul-belongs-to-philadelphia-eagles-football-shirt/",
+    "https://eteeclothing.com/product/i-may-live-in-connecticut-but-on-game-day-my-heart-and-soul-belongs-to-philadelphia-eagles-football-shirt/",
+    "https://eteeclothing.com/product/i-may-live-in-florida-but-on-game-day-my-heart-and-soul-belongs-to-philadelphia-eagles-football-shirt/",
+    "https://eteeclothing.com/product/i-may-live-in-wisconsin-but-on-game-day-my-heart-and-soul-belongs-to-philadelphia-eagles-football-shirt/"
   ],
   "milkywayshirt.com": [
     "https://milkywayshirt.com/product/official-louisville-ky-2025-goose-shirt/",
@@ -349,5 +354,17 @@
     "https://picturestees.com/product/wicca-phase-sagittarius-eternal-graphic-t-shirt/",
     "https://picturestees.com/product/wicca-phase-spring-eternal-im-heading-out-i-embark-on-my-own-skeleton-t-shirt/",
     "https://picturestees.com/product/wicca-phase-spring-eternal-mossy-oak-shadow-as-long-as-magics-there-meet-me-anywhere-t-shirt/"
+  ],
+  "limotees.com": [
+    "https://limotees.com/products/cal-raleigh-seattle-mariners-all-star-catcher-the-big-dumper-29-mlb-baseball-2025-shirt/",
+    "https://limotees.com/products/boston-red-sox-built-for-fall-2025-mlb-postseason-clinched-2-sided-shirt/",
+    "https://limotees.com/products/cal-raleigh-seattle-mariners-mlb-baseball-historic-60-home-run-season-2025-shirt/",
+    "https://limotees.com/products/i-may-live-in-vermont-but-on-game-day-my-heart-and-soul-belongs-to-detroit-lions-football-shirt/",
+    "https://limotees.com/products/derrick-henry-lamar-jackson-zay-flowers-john-harbaugh-baltimore-football-signature-shirt/",
+    "https://limotees.com/products/cal-raleigh-wearing-seattle-kraken-hockey-trident-serpent-emblem-seattle-mariners-mlb-baseball-shirt/",
+    "https://limotees.com/products/dak-prescott-dallas-cowboys-nfl-football-dak-to-the-future-shirt/",
+    "https://limotees.com/products/george-washington-cartoon-6-7-7-6-america-shirt/",
+    "https://limotees.com/products/daniel-jones-believe-in-blue-indianapolis-colts-signature-shirt/",
+    "https://limotees.com/products/bud-crawford-omaha-very-own-3x-undisputed-world-champion-boxing-max-collegiate-shirt/"
   ]
 }
