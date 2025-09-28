@@ -69,16 +69,16 @@
     "https://dreameshirt.com/product/official-hannah-einbinder-go-birds-fuck-ice-free-palestine-2025-t-shirt/"
   ],
   "teeextra.com": [
-    "https://teeextra.com/product/ole-miss-rebels-cat-walk-geaux-to-hell-lsu-oxford-ms-2025-shirt/",
-    "https://teeextra.com/product/retro-anime-barkserk-shirt/",
-    "https://teeextra.com/product/mantis-girls-will-be-girls-shirt/",
-    "https://teeextra.com/product/wide-receiver-u-logo-shirt/",
-    "https://teeextra.com/product/whiskey-myers-cynthia-woods-mitchell-pavilion-the-woodlands-tx-sept-27-2025-shirt/",
-    "https://teeextra.com/product/uva-football-hoos-did-it-again-shirt/",
-    "https://teeextra.com/product/todd-slater-show-shirt/",
-    "https://teeextra.com/product/ole-miss-rebels-beat-lsu-tiger-mascot-ls-who-shirt/",
-    "https://teeextra.com/product/michael-jack-schmidt-phillies-shirt/",
-    "https://teeextra.com/product/nose-face-killah-wu-tang-logo-shirt/"
+    "https://teeextra.com/product/chicken-how-do-you-sleep-at-night-knowing-people-dont-like-you-me-with-no-underwear-in-case-they-want-to-kiss-my-ass-shirt/",
+    "https://teeextra.com/product/franklin-tn-pilgrimage-music-festival-26-27-sep-2025-shirt/",
+    "https://teeextra.com/product/baltimore-sucks-2025-funny-cleveland-football-shirt/",
+    "https://teeextra.com/product/brisbane-lions-2025-premiers-shirt/",
+    "https://teeextra.com/product/2025-the-boys-trash-syndicate-shirt/",
+    "https://teeextra.com/product/born-to-bloom-shirt/",
+    "https://teeextra.com/product/virginia-cavaliers-win-46-38-florida-seminoles-hoos-did-it-again-mascot-2025-shirt/",
+    "https://teeextra.com/product/the-hold-steady-massive-nights-2025-brooklyn-bowl-new-york-dec-3-6-2025-shirt/",
+    "https://teeextra.com/product/unstoppable-tush-push-brotherly-shove-if-everyone-could-do-it-everyone-would-do-it-shirt/",
+    "https://teeextra.com/product/unstoppable-tush-push-brotherly-shove-2025-shirt/"
   ],
   "teespix.com": [
     "https://teespix.com/product/play-nobody-beat-nobody-we-are-penn-state-t-shirt/",
@@ -151,28 +151,28 @@
     "https://thefunnyt.com/product/ew-chicago-meme-shirt/"
   ],
   "uscraftedtees.com": [
-    "https://uscraftedtees.com/product/original-from-ashes-to-new-sep-26-2025-the-van-buren-phoenix-az-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-wolf-caitlin-kieran-oct-11-2025-the-barns-at-wolf-trap-vienna-va-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-the-beths-uk-eu-tour-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-parkway-drive-sep-26-2025-barclays-arena-hamburg-germany-concert-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-alabama-shakes-concert-houston-tx-26-sep-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-laufey-sep-26-2025-crypto-com-arena-los-angeles-ca-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-magdalena-bay-los-angeles-ca-09-27-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-from-ashes-to-new-magnolia-park-until-i-wake-not-enough-space-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-plini-progressive-rock-guitarist-2025-poster-t-shirts/",
-    "https://uscraftedtees.com/product/original-takaat-2025-fall-tour-poster-t-shirts/"
+    "https://uscraftedtees.com/product/official-charles-wesley-godwin-sept-27-2025-in-kansas-city-mo-tour-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-disclosure-the-greek-theatre-at-uc-berkeley-sep-27-2025-poster-t-shirts/",
+    "https://uscraftedtees.com/product/official-my-mother-took-tylenol-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-retro-anime-barkserk-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-hannah-einbinder-go-birds-fuck-ice-free-palestine-t-shirts/",
+    "https://uscraftedtees.com/product/official-fantasy-initiative-chaos-reigns-2025-t-shirts/",
+    "https://uscraftedtees.com/product/official-play-nobody-beat-nobody-we-are-penn-state-t-shirts/",
+    "https://uscraftedtees.com/product/official-jonas-brothers-sept-27-2025-honda-center-anaheim-ca-t-shirts/",
+    "https://uscraftedtees.com/product/official-cbgb-festival-new-york-city-1973-t-shirts/",
+    "https://uscraftedtees.com/product/official-the-boys-trash-syndicate-2025-t-shirts/"
   ],
   "capitoneshirt.com": [
-    "https://capitoneshirt.com/product/horror-halloween-straight-outta-family-dollar-shirt/",
-    "https://capitoneshirt.com/product/just-a-deadhead-who-loves-las-vegas-raiders-shirt/",
-    "https://capitoneshirt.com/product/just-a-deadhead-who-loves-cincinnati-bengals-shirt/",
-    "https://capitoneshirt.com/product/horror-halloween-straight-outta-advance-auto-parts-shirt/",
-    "https://capitoneshirt.com/product/hannah-einbinder-go-birds-fuck-ice-free-palestine-shirt/",
-    "https://capitoneshirt.com/product/detroit-tigers-hat-october-baseball-2025-playoffs-shirt/",
-    "https://capitoneshirt.com/product/first-rule-of-chinese-autumn-shirt/",
-    "https://capitoneshirt.com/product/detroit-tigers-2025-mlb-postseason-motor-city-shirt/",
-    "https://capitoneshirt.com/product/detroit-tigers-2025-mlb-postseason-built-for-fall-shirt/",
-    "https://capitoneshirt.com/product/crazy-part-is-i-aint-even-in-my-mf-prime-yet-shirt/"
+    "https://capitoneshirt.com/product/seattle-mariners-al-west-division-champions-sea-us-rise-2-sided-shirt/",
+    "https://capitoneshirt.com/product/seattle-mariners-october-baseball-sea-us-rise-2-sided-shirt/",
+    "https://capitoneshirt.com/product/seattle-mariners-2025-al-west-division-champions-seize-the-moment-2-sided-shirt/",
+    "https://capitoneshirt.com/product/seattle-mariners-2025-al-west-division-champions-2-sided-shirt/",
+    "https://capitoneshirt.com/product/san-diego-padres-2025-postseason-october-fight-for-the-faithful-2-sided-shirt/",
+    "https://capitoneshirt.com/product/san-diego-padres-october-baseball-nadie-sabe-na-2-sided-shirt/",
+    "https://capitoneshirt.com/product/los-angeles-dodgers-2025-nl-west-division-champions-back-to-back-2-sided-shirt/",
+    "https://capitoneshirt.com/product/clayton-kershaw-3000-career-strikeout-signature-2-sided-shirt/",
+    "https://capitoneshirt.com/product/damn-right-i-am-a-buffalo-bills-fan-its-in-my-dna-2-sided-shirt/",
+    "https://capitoneshirt.com/product/los-angeles-dodgers-2025-nl-west-division-champions-2-sided-shirt/"
   ],
   "clickoneshirt.com": [
     "https://clickoneshirt.com/product/zach-bryan-x-michigan-wolverines-football-the-big-house-shirt/",
@@ -187,16 +187,16 @@
     "https://clickoneshirt.com/product/prone-to-violence-nazi-shirt/"
   ],
   "teleteeshirt.com": [
-    "https://teleteeshirt.com/product/we-own-the-sky-in-your-absence-fall-2025-tour-t-shirts/",
-    "https://teleteeshirt.com/product/tyler-childers-bristow-va-september-27-2025-t-shirts/",
-    "https://teleteeshirt.com/product/prone-to-violence-nazis-t-shirts/",
-    "https://teleteeshirt.com/product/taking-back-sunday-fontainebleau-las-vegas-nv-october-17-2025-t-shirts/",
-    "https://teleteeshirt.com/product/jon-and-roy-europe-tour-2026-t-shirts/",
-    "https://teleteeshirt.com/product/charles-wesley-godwin-at-grinders-kc-in-kansas-city-mo-on-sep-27-2025-cowboy-t-shirts/",
-    "https://teleteeshirt.com/product/pilgrimage-music-festival-2025-franklin-tenn-eagle-t-shirts/",
-    "https://teleteeshirt.com/product/iowa-state-cyclones-cardinal-football-beat-kansas-state-score-2025-aer-lingus-t-shirts/",
-    "https://teleteeshirt.com/product/flashgitz-b-positive-best-in-power-t-shirts/",
-    "https://teleteeshirt.com/product/flashgitz-b-positive-space-ring-t-shirts/"
+    "https://teleteeshirt.com/product/wilt-fall-tour-2025-dates-supporting-taylor-acorn-headline-show-t-shirts/",
+    "https://teleteeshirt.com/product/texas-am-aggies-down-go-the-auburn-tigers-2025-mascot-t-shirts/",
+    "https://teleteeshirt.com/product/oregon-ducks-unhappy-valley-mascot-motor-t-shirts/",
+    "https://teleteeshirt.com/product/ole-miss-rebels-beat-lsu-tigers-geaux-to-hell-lsu-oxford-ms-2025-mascot-t-shirts/",
+    "https://teleteeshirt.com/product/official-doja-cat-its-a-crime-to-be-gorgeous-t-shirts/",
+    "https://teleteeshirt.com/product/jew-jitsu-the-hebrew-hands-of-fury-star-of-david-israel-t-shirts/",
+    "https://teleteeshirt.com/product/fleetwood-mac-kiln-house-t-shirts/",
+    "https://teleteeshirt.com/product/marc-rebillet-north-america-tour-2025-head-t-shirts/",
+    "https://teleteeshirt.com/product/alabama-crimson-tide-beat-georgia-bulldogs-no-barks-given-mascot-t-shirts/",
+    "https://teleteeshirt.com/product/american-eagle-x-tru-kolors-kai-trump-t-shirts/"
   ],
   "teeslocal.com": [
     "https://teeslocal.com/product/your-energy-is-a-luxury-item-not-everyone-can-afford-it-showgirl-a-new-era-shirt/",
@@ -320,28 +320,28 @@
     "https://milkywayshirt.com/product/official-magdalena-bay-los-angeles-ca-sep-26-27-2025-shirt/"
   ],
   "mercuryshirt.com": [
-    "https://mercuryshirt.com/product/official-wicca-phase-soul-weapon-shirt/",
-    "https://mercuryshirt.com/product/official-whiskey-myers-sept-27-2025-cynthia-woods-mitchell-pavilion-the-woodlands-tx-poster-shirt/",
-    "https://mercuryshirt.com/product/official-we-cured-autism-before-we-got-the-epstein-files-shirt/",
-    "https://mercuryshirt.com/product/official-virginia-cavaliers-party-like-its-2025-shirt/",
-    "https://mercuryshirt.com/product/official-unstoppable-tush-push-brotherly-shove-shirt/",
-    "https://mercuryshirt.com/product/official-tyler-childers-at-jiffy-lube-live-in-bristow-va-on-sep-27-2025-poster-shirt/",
-    "https://mercuryshirt.com/product/official-taking-back-sunday-at-fontainebleau-in-las-vegas-nv-on-oct-17-2025-poster-shirt/",
-    "https://mercuryshirt.com/product/official-parkway-drive-at-westfalenhalle-in-dortmund-germany-on-sep-27-2025-shirt/",
-    "https://mercuryshirt.com/product/official-take-my-toe-joe-shirt/",
-    "https://mercuryshirt.com/product/official-support-independent-media-shirt/"
+    "https://mercuryshirt.com/product/official-wisconsin-badgers-2025-cheers-with-green-bay-packers-celebrating-shirt/",
+    "https://mercuryshirt.com/product/official-virginia-cavaliers-beat-florida-state-seminoles-2025-hoos-did-it-again-shirt/",
+    "https://mercuryshirt.com/product/official-pilgrimage-music-cultural-festival-2025-franklin-tn-poster-shirt/",
+    "https://mercuryshirt.com/product/official-philadelphia-phillies-2025-bryce-harper-philadelphia-eagles-saquon-barkley-shirt/",
+    "https://mercuryshirt.com/product/official-paid-no-i-hate-him-for-free-shirt-2/",
+    "https://mercuryshirt.com/product/official-midnight-organic-ya-feel-me-shirt/",
+    "https://mercuryshirt.com/product/official-chicago-cubs-ems-2025-emergency-medical-services-honoring-shirt/",
+    "https://mercuryshirt.com/product/official-charles-haley-usa-barack-obama-for-president-shirt/",
+    "https://mercuryshirt.com/product/official-believe-in-blue-shirt/",
+    "https://mercuryshirt.com/product/official-virginia-cavaliers-winner-beats-seminoles-2025-hoos-did-it-again-shirt/"
   ],
   "wildfoxtee.com": [
-    "https://wildfoxtee.com/product/yebubu-kanye-west-x-labubu-shirt/",
-    "https://wildfoxtee.com/product/this-wisconsin-we-eat-people-shirt/",
-    "https://wildfoxtee.com/product/you-cant-spell-autism-without-ui-shirt/",
-    "https://wildfoxtee.com/product/virginia-cavaliers-party-like-its-2025-helmet-shirt/",
-    "https://wildfoxtee.com/product/virginia-cavaliers-46-38-florida-state-hoos-did-it-again-shirt/",
-    "https://wildfoxtee.com/product/the-quebec-capitales-2025-ligue-frontiere-champions-mascot-shirt/",
-    "https://wildfoxtee.com/product/springfield-cardinals-texas-league-champions-2025-mascot-shirt/",
-    "https://wildfoxtee.com/product/saruei-ground-zero-anime-shirt/",
-    "https://wildfoxtee.com/product/rumble-ponies-2025-eastern-league-champions-mascot-shirt/",
-    "https://wildfoxtee.com/product/pittsburgh-steelers-x-horror-characters-trick-or-treat-halloween-shirt/"
+    "https://wildfoxtee.com/product/warhammer-age-of-sigmar-idoneth-deepkin-shirt/",
+    "https://wildfoxtee.com/product/virginia-cavaliers-football-hoos-did-it-again-2025-shirt/",
+    "https://wildfoxtee.com/product/teenage-mutant-ninja-turtles-shirt/",
+    "https://wildfoxtee.com/product/snoopy-can-we-go-get-tacos-in-your-lil-truck-shirt/",
+    "https://wildfoxtee.com/product/racoon-and-possum-youre-only-as-cool-as-you-treat-people-shirt/",
+    "https://wildfoxtee.com/product/raccoon-with-pumpkin-feeling-feral-might-spook-you-later-shirt/",
+    "https://wildfoxtee.com/product/raccoon-my-tummy-hurts-but-im-being-really-brave-about-it-shirt/",
+    "https://wildfoxtee.com/product/raccoon-dabbing-winging-it-like-an-unqualified-expert-shirt/",
+    "https://wildfoxtee.com/product/raccoon-and-rainbow-your-little-ray-of-sarcastic-sunshine-has-arrived-shirt/",
+    "https://wildfoxtee.com/product/philadelphia-2025-logo-shirt/"
   ],
   "picturestees.com": [
     "https://picturestees.com/product/philadelphia-hoagies-philly-eagles-for-football-and-sandwich-fans-parody-t-shirt/",
@@ -366,5 +366,17 @@
     "https://limotees.com/products/george-washington-cartoon-6-7-7-6-america-shirt/",
     "https://limotees.com/products/daniel-jones-believe-in-blue-indianapolis-colts-signature-shirt/",
     "https://limotees.com/products/bud-crawford-omaha-very-own-3x-undisputed-world-champion-boxing-max-collegiate-shirt/"
+  ],
+  "digitalhandmades.com": [
+    "https://digitalhandmades.com/item/seven-meme-6-7-halloween-costume-shirt",
+    "https://digitalhandmades.com/item/six-meme-6-7-halloween-costume-shirt",
+    "https://digitalhandmades.com/item/six-seven-6-7-7-6-george-washington-teacher-american-shirt",
+    "https://digitalhandmades.com/item/six-seven-6-7-meme-funny-skeleton-hands-sign-lets-get-sendy-shirt",
+    "https://digitalhandmades.com/item/stay-positive-skeleton-shark-halloween-shirt",
+    "https://digitalhandmades.com/item/the-life-of-a-silly-goose-trendy-meme-show-shirt",
+    "https://digitalhandmades.com/item/wanghaf-meme-shirt-2",
+    "https://digitalhandmades.com/item/saja-boys-demon-group-poster-halloween-shirt",
+    "https://digitalhandmades.com/item/nothing-bad-can-happen-it-can-only-good-happen-quote-shirt",
+    "https://digitalhandmades.com/item/oktoberfest-couples-shes-a-brat-hes-the-wurst-shirt"
   ]
 }

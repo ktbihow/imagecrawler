@@ -191,6 +191,7 @@
     },
     {
         "url": "https://digitalhandmades.com/",
-        "source_type": "api"
+        "selector": ".woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image img",
+        "source_type": "product-list"
     }
 ]
