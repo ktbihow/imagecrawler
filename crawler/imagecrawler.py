@@ -90,7 +90,7 @@ def git_push_changes():
     print("Đang chạy trên máy tính cục bộ, tiến hành push thay đổi lên GitHub...")
     try:
         os.chdir(BASE_DIR)
-        subprocess.run(['git', 'add', 'domain/', 'stop_urls.txt', 'imagecrawler.log'], check=True)
+        subprocess.run(['git', 'add', '.'], check=True)
         status_result = subprocess.run(['git', 'status', '--porcelain'], capture_output=True, text=True)
         if not status_result.stdout.strip():
             print("Không có thay đổi nào để commit.")
