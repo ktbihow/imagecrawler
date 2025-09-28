@@ -174,5 +174,15 @@
     {
         "url": "https://mercuryshirt.com/",
         "source_type": "api"
+    },
+    {
+        "url": "https://wildfoxtee.com/",
+        "replacements": {"-tee.jpg": ["-hoodie.jpg"]},
+        "source_type": "api"
+    },
+    {
+        "url": "https://picturestees.com/",
+        "replacements": {"_1.webp": ["_6.webp"]},
+        "source_type": "api"
     }
 ]
