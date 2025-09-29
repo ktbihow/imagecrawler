@@ -58,6 +58,7 @@
     {
         "url": "https://eteeclothing.com/",
         "selector": "div.product-images img",
+		"fallback_rules": { "type": "cut_filename_prefix", "domain": "images.eteeclothing.com", "prefix_length": 9 },
         "replacements": ["-sweater.webp", "-shirt.webp"],
         "source_type": "product-list"
     },
@@ -139,6 +140,7 @@
     },
     {
         "url": "https://dalatshirt.com/",
+		"replacements": {"-shirt.jpg": ["-mug.jpg"], "-Shirt.jpg": ["-Longsleeve-Shirt.jpg"]},
         "source_type": "api"
     },
     {
@@ -177,7 +179,7 @@
     },
     {
         "url": "https://wildfoxtee.com/",
-        "replacements": {"-tee.jpg": ["-hoodie.jpg"]},
+        "replacements": {"-tee.jpg": ["-hoodie.jpg"], "-tee.webp": ["-hoodie.webp"]},
         "source_type": "api"
     },
     {
@@ -192,6 +194,12 @@
     {
         "url": "https://digitalhandmades.com/",
         "selector": ".woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image img",
+        "source_type": "product-list"
+    },
+    {
+        "url": "https://newsfashionshirt.com/",
+        "selector": ".woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image img",
+		"replacements": ["-Sweatshirt.jpg"],
         "source_type": "product-list"
     }
 ]
