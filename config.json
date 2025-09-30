@@ -180,6 +180,7 @@
     {
         "url": "https://wildfoxtee.com/",
         "replacements": {"-tee.jpg": ["-hoodie.jpg"], "-tee.webp": ["-hoodie.webp"]},
+		"fallback_rules": { "type": "cut_filename_prefix", "domain": "images.wildfoxtee.com", "prefix_length": 9 },
         "source_type": "api"
     },
     {
@@ -192,14 +193,29 @@
         "source_type": "api"
     },
     {
-        "url": "https://digitalhandmades.com/",
-        "selector": ".woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image img",
-        "source_type": "product-list"
-    },
-    {
         "url": "https://newsfashionshirt.com/",
         "selector": ".woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image img",
 		"replacements": ["-Sweatshirt.jpg"],
         "source_type": "product-list"
-    }
+    },
+    {
+        "url": "https://digitalhandmades.com/",
+		"source_type": "api-attachment",
+		"attachment_prefix_filter": "Sweatshirt-"
+    },
+    {
+        "url": "https://greazytees.com/sitemap.xml",
+		"source_type": "sitemap",
+		"crawl_sitemap_backwards": true,
+		"product_url_keywords": ["-tee"],
+		"product_url_exclusions": ["-long-sleeved-"]
+	},
+    {
+        "url": "https://www.500level.com/sitemap.xml",
+		"source_type": "sitemap",
+		"crawl_sitemap_backwards": true,
+		"product_url_keywords": ["-womens-shirt"],
+		"product_url_exclusions": ["heavyweight", "toddler", "long-sleeve", "kids", "youth", "-mens"],
+		"sitemap_crawl_limit": 1
+	}
 ]
