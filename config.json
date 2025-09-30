@@ -208,14 +208,27 @@
 		"source_type": "sitemap",
 		"crawl_sitemap_backwards": true,
 		"product_url_keywords": ["-tee"],
-		"product_url_exclusions": ["-long-sleeved-"]
+		"product_url_exclusions": ["-long-sleeved-"],
+		"download_filename_regex_cut": "-tee.*",
+		"download_filename_from_title": false, 
+		"product_title_selector": "h1.product-title"
+	},
+	{
+        "url": "https://buggirl200.com/sitemap.xml",
+		"source_type": "sitemap",
+		"crawl_sitemap_backwards": true,
+		"sitemap_crawl_limit": 1,
+		"download_images": true
 	},
     {
         "url": "https://www.500level.com/sitemap.xml",
 		"source_type": "sitemap",
 		"crawl_sitemap_backwards": true,
-		"product_url_keywords": ["-womens-shirt"],
+		"product_url_keywords": ["-t-shirt-"],
 		"product_url_exclusions": ["heavyweight", "toddler", "long-sleeve", "kids", "youth", "-mens"],
-		"sitemap_crawl_limit": 1
+		"enable_design_deduplication": false,
+		"sitemap_crawl_limit": 1,
+		"download_images": true,
+		"download_filename_regex_replace": {"pattern": "abcxyz", "replacement": "-"}
 	}
 ]

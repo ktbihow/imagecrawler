@@ -5,15 +5,17 @@ from datetime import datetime
 from urllib.parse import urlparse
 
 # Import các hàm tiện ích từ thư mục utils
-from utils.file_handler import load_config, load_stop_urls, save_stop_urls, save_urls
+from utils.file_handler import (load_config, load_stop_urls, save_stop_urls, 
+                                save_urls, download_images_for_domain)
 from utils.notifier import send_telegram_message
 from utils.git_handler import git_push_changes, trigger_workflow_dispatch
 from utils.url_processor import is_image_recent
 from utils.constants import STOP_URLS_COUNT, LOG_FILE
 
-# Import các module crawler
-from crawlers import api_crawler, prevnext_crawler, product_list_crawler
-from crawlers import sitemap_crawler, api_attachment_crawler
+# Import tất cả các module crawler đã xây dựng
+from crawlers import (api_crawler, prevnext_crawler, product_list_crawler, 
+                      api_attachment_crawler, sitemap_crawler)
+
 # --- Crawler Registry ---
 # Ánh xạ 'source_type' trong config.json tới hàm crawl tương ứng
 CRAWLER_MAPPING = {
@@ -45,21 +47,36 @@ def main():
             continue
 
         # Gọi hàm crawl và nhận kết quả
-        unfiltered_image_urls, new_product_urls_found = crawler_function(url_data, domain_stop_urls_list)
+        # Giả định các crawlers trả về list of dicts: [{'image_url': ..., 'product_title': ..., 'product_url': ...}]
+        # Hoặc list of strings (để tương thích ngược)
+        unfiltered_results_raw, new_product_urls_found = crawler_function(url_data, domain_stop_urls_list)
+
+        # Chuẩn hóa dữ liệu trả về thành list of dicts
+        unfiltered_results = []
+        if unfiltered_results_raw and isinstance(unfiltered_results_raw[0], str):
+             # Chuyển đổi từ list of strings sang list of dicts nếu crawler cũ
+            unfiltered_results = [{'image_url': url, 'product_url': '', 'product_title': ''} for url in unfiltered_results_raw]
+        else:
+            unfiltered_results = unfiltered_results_raw
 
         # Lọc các ảnh không đủ mới (nếu được cấu hình)
-        final_image_urls, discarded_count = [], 0
+        final_results, discarded_count = [], 0
         if url_data.get("check_recency", False):
-            print(f"[{domain}] Filtering {len(unfiltered_image_urls)} found URLs for recency...")
-            for img_url in unfiltered_image_urls:
-                if is_image_recent(img_url):
-                    final_image_urls.append(img_url)
+            print(f"[{domain}] Filtering {len(unfiltered_results)} found items for recency...")
+            for item in unfiltered_results:
+                if is_image_recent(item['image_url']):
+                    final_results.append(item)
                 else:
                     discarded_count += 1
         else:
-            final_image_urls = unfiltered_image_urls
+            final_results = unfiltered_results
         
-        # Lưu kết quả và cập nhật summary
+        # Tích hợp chức năng download mới
+        if url_data.get("download_images", False):
+            download_images_for_domain(final_results, domain, url_data)
+        
+        # Lưu URL vào file .txt (chức năng này vẫn hoạt động song song)
+        final_image_urls = [item['image_url'] for item in final_results]
         new_urls_count, total_urls_count = save_urls(domain, final_image_urls, discarded_count)
         urls_summary[domain] = {'new_count': new_urls_count, 'total_count': total_urls_count}
         
