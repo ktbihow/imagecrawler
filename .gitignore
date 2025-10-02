@@ -16,3 +16,4 @@ __pycache__/
 # Các file tạm thời khác
 *.tmp
 *.bat
+downloaded/
